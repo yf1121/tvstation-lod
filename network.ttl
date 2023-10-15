@@ -1,0 +1,104 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix schema: <https://schema.org/>.
+@prefix tvst: <https://w3id.org/tvstationjp/tvst/>.
+@prefix wdt: <http://www.wikidata.org/prop/direct/>.
+<https://w3id.org/tvstationjp/network/NNN> rdfs:label "NNN"@ja;
+    rdfs:label "Nippon News Network"@en;
+    rdfs:label "エヌエヌエヌ"@ja-Kana;
+    schema:name "日本ニュースネットワーク"@ja;
+    tvst:keystation <https://w3id.org/tvstationjp/station/NTV>;
+    schema:url <https://www.ntv.co.jp/info/outline/domestic.html>;
+    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NNN_logo_red.svg/330px-NNN_logo_red.svg.png>;
+    schema:foundingDate "1966-04-01".
+<https://w3id.org/tvstationjp/network/ANN> rdfs:label "ANN"@ja;
+    rdfs:label "All-Nippon News Network"@en;
+    rdfs:label "エーエヌエヌ"@ja-Kana;
+    schema:name "オールニッポン・ニュースネットワーク"@ja;
+    tvst:keystation <https://w3id.org/tvstationjp/station/EX>;
+    schema:url <https://corp.asahi.co.jp/ja/tv/company/network.html>;
+    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ANN_logo.svg/330px-ANN_logo.svg.png>;
+    schema:foundingDate "1970-01-01".
+<https://w3id.org/tvstationjp/network/JNN> rdfs:label "JNN"@ja;
+    rdfs:label "Japan News Network"@en;
+    rdfs:label "ジェイエヌエヌ"@ja-Kana;
+    schema:name "ジャパン・ニュース・ネットワーク"@ja;
+    tvst:keystation <https://w3id.org/tvstationjp/station/TBS>;
+    schema:url <https://www.tbsholdings.co.jp/tbstv/corporate/jnn.html>;
+    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/JNN_logo.svg/330px-JNN_logo.svg.png>;
+    schema:foundingDate "1959-08-01".
+<https://w3id.org/tvstationjp/network/FNN> rdfs:label "FNN"@ja;
+    rdfs:label "Fuji News Network"@en;
+    rdfs:label "エフエヌエヌ"@ja-Kana;
+    schema:name "フジニュースネットワーク"@ja;
+    tvst:keystation <https://w3id.org/tvstationjp/station/CX>;
+    schema:url <https://www.fnn.jp/>;
+    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/FNN_logo_2018-.svg/345px-FNN_logo_2018-.svg.png>;
+    schema:foundingDate "1966-10-03".
+<https://w3id.org/tvstationjp/network/NNS> rdfs:label "NNS"@ja;
+    rdfs:label "Nippon Television Network System"@en;
+    rdfs:label "エヌエヌエス"@ja-Kana;
+    schema:name "日本テレビネットワーク協議会"@ja;
+    schema:name "日本テレビ系列"@ja;
+    tvst:keystation <https://w3id.org/tvstationjp/station/NTV>;
+    schema:url <https://www.ntv.co.jp/info/outline/domestic.html>;
+    schema:foundingDate "1972-06-14".
+<https://w3id.org/tvstationjp/network/テレビ朝日ネットワーク> rdfs:label "テレビ朝日ネットワーク"@ja;
+    rdfs:label "TV Asahi Network"@en;
+    rdfs:label "テレビあさひネットワーク"@ja-Kana;
+    schema:name "テレビ朝日系列"@ja;
+    tvst:keystation <https://w3id.org/tvstationjp/station/EX>;
+    schema:url <https://corp.asahi.co.jp/ja/tv/company/network.html>;
+    schema:foundingDate "1970-01-01".
+<https://w3id.org/tvstationjp/network/TBSネットワーク> rdfs:label "TBSネットワーク"@ja;
+    rdfs:label "TBS Networks"@en;
+    rdfs:label "ティービーエスネットワーク"@ja-Kana;
+    schema:name "TBS系列"@ja;
+    tvst:keystation <https://w3id.org/tvstationjp/station/TBS>;
+    schema:url <https://www.tbsholdings.co.jp/tbstv/corporate/jnn.html>;
+    schema:foundingDate "1959-08-01".
+<https://w3id.org/tvstationjp/network/TXN> rdfs:label "TXNネットワーク"@ja;
+    rdfs:label "TXN Network"@en;
+    rdfs:label "ティーエックスエヌネットワーク"@ja-Kana;
+    schema:name "テレビ東京ネットワーク"@ja;
+    schema:name "テレビ東京系列"@ja;
+    tvst:keystation <https://w3id.org/tvstationjp/station/TX>;
+    schema:url <https://www.tv-tokyo.co.jp/kaisha/company/network.html>;
+    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Txn_logo.svg/330px-Txn_logo.svg.png>;
+    schema:foundingDate "1982-03-01".
+<https://w3id.org/tvstationjp/network/FNS> rdfs:label "FNS"@ja;
+    rdfs:label "Fuji Network System"@en;
+    rdfs:label "エフエヌエス"@ja-Kana;
+    schema:name "フジネットワーク"@ja;
+    schema:name "フジテレビ系列"@ja;
+    tvst:keystation <https://w3id.org/tvstationjp/station/CX>;
+    schema:url <https://www.fujitv.co.jp/company/info/network.html>;
+    schema:foundingDate "1969-10-01".
+<https://w3id.org/tvstationjp/network/JAITS> rdfs:label "全国独立放送協議会"@ja;
+    rdfs:label "Japanese Association of Independent Television Stations"@en;
+    rdfs:label "ぜんこくどくりつほうそうきょくきょうぎかい"@ja-Kana;
+    schema:name "JAITS"@ja;
+    schema:name "独立協"@ja;
+    schema:url <https://s.mxtv.jp/policy/link.html>;
+    schema:foundingDate "1977-11-04".
+<https://w3id.org/tvstationjp/network/NHKG> rdfs:label "NHK総合"@ja;
+    rdfs:label "NHK General TV"@en;
+    rdfs:label "エヌエイチケイそうごう"@ja-Kana;
+    schema:name "NHK総合テレビ"@ja;
+    schema:name "総合テレビ"@ja;
+    schema:url <https://www6.nhk.or.jp/nhkpr/tag/index.html?i=06642>;
+    schema:foundingDate "1953-02-01".
+<https://w3id.org/tvstationjp/network/NHKE> rdfs:label "NHKEテレ"@ja;
+    rdfs:label "NHK Educational TV"@en;
+    rdfs:label "エヌエイチケイイーテレ"@ja-Kana;
+    schema:name "NHK教育テレビ"@ja;
+    schema:name "教育テレビ"@ja;
+    schema:url <https://www6.nhk.or.jp/nhkpr/tag/index.html?i=06643>;
+    schema:foundingDate "1959-01-10".
+<https://w3id.org/tvstationjp/network/民教協> rdfs:label "公益財団法人民間放送教育協会"@ja;
+    rdfs:label "THE MINKYOKYO"@en;
+    rdfs:label "みんかんほうそうきょういくきょうかい"@ja-Kana;
+    schema:name "民教協"@ja;
+    tvst:keystation <https://w3id.org/tvstationjp/station/EX>;
+    schema:url <https://www.minkyo.or.jp/>;
+    wdt:P3225 "8010405010379";
+    schema:foundingDate "1967-06-10".
