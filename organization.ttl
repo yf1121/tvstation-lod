@@ -6,15 +6,15 @@
     rdfs:label "さっぽろてれびほうそう"@ja-Kana;
     rdfs:label "The Sapporo Television Broadcasting Co.,Ltd."@en;
     schema:name "STV";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Stv_logo.svg?width=300>;
     schema:foundingDate "1958-04-08";
     wdt:P3225 "5430001020206";
-    schema:url "https://www.stv.jp/index.html";
+    schema:url <https://www.stv.jp/index.html>;
     schema:address "060-8705";
     wdt:P159 "北海道札幌市中央区北1条西8丁目1番1号";
     schema:latitude "北緯43.06165度";
     schema:longitude "東経141.34476度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOKX-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/札幌テレビ放送>;
     schema:sameAs <https://www.wikidata.org/entity/Q843629>;
     schema:sameAs <http://ja.dbpedia.org/resource/札幌テレビ放送>.
@@ -22,15 +22,15 @@
     rdfs:label "ほっかいどうてれびほうそう"@ja-Kana;
     rdfs:label "Hokkaido Television Broadcasting Co.,Ltd."@en;
     schema:name "HTB";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Htb_logo.svg?width=300>;
     schema:foundingDate "1967-12-01";
     wdt:P3225 "9430001022322";
-    schema:url "https://www.htb.co.jp/";
+    schema:url <https://www.htb.co.jp/>;
     schema:address "060-8406";
     wdt:P159 "北海道札幌市中央区北1条西1丁目6番地";
     schema:latitude "北緯43.06306度";
     schema:longitude "東経141.35556度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOHH-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/北海道テレビ放送>;
     schema:sameAs <https://www.wikidata.org/entity/Q843294>;
     schema:sameAs <http://ja.dbpedia.org/resource/北海道テレビ放送>.
@@ -38,15 +38,15 @@
     rdfs:label "ほっかいどうほうそう"@ja-Kana;
     rdfs:label "Hokkaido Broadcasting Co.,Ltd."@en;
     schema:name "HBC";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Hbc_logo.svg?width=300>;
     schema:foundingDate "1951-11-30";
     wdt:P3225 "6430001022390";
-    schema:url "https://www.hbc.co.jp/";
+    schema:url <https://www.hbc.co.jp/>;
     schema:address "060-8501";
     wdt:P159 "北海道札幌市中央区北1条西5丁目2番地";
     schema:latitude "北緯43.062556度";
     schema:longitude "東経141.348806度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOHR-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/北海道放送>;
     schema:sameAs <https://www.wikidata.org/entity/Q843702>;
     schema:sameAs <http://ja.dbpedia.org/resource/北海道放送>.
@@ -54,15 +54,15 @@
     rdfs:label "てれびほっかいどう"@ja-Kana;
     rdfs:label "Television Hokkaido Broadcasting Co.LTD."@en;
     schema:name "TVh";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/25px-Flag_of_Japan.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Tvh_logo.svg?width=300>;
     schema:foundingDate "1988-08-24";
     wdt:P3225 "7430001011062";
-    schema:url "https://www.tv-hokkaido.co.jp/";
+    schema:url <https://www.tv-hokkaido.co.jp/>;
     schema:address "060-8517";
     wdt:P159 "北海道札幌市中央区大通東6丁目12番地4";
     schema:latitude "北緯43.06348度";
     schema:longitude "東経141.3651度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOHI-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/テレビ北海道>;
     schema:sameAs <https://www.wikidata.org/entity/Q328258>;
     schema:sameAs <http://ja.dbpedia.org/resource/テレビ北海道>.
@@ -70,15 +70,15 @@
     rdfs:label "ほっかいどうぶんかほうそう"@ja-Kana;
     rdfs:label "Hokkaido Cultural Broadcasting Co., Ltd."@en;
     schema:name "UHB";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Uhb_logo.svg?width=300>;
     schema:foundingDate "1971-06-19";
     wdt:P3225 "5430001022433";
-    schema:url "https://www.uhb.jp/";
+    schema:url <https://www.uhb.jp/>;
     schema:address "060-8527";
     wdt:P159 "北海道札幌市中央区北1条西14丁目1-5";
     schema:latitude "北緯43.06039度";
     schema:longitude "東経141.33516度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOBM-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/北海道文化放送>;
     schema:sameAs <https://www.wikidata.org/entity/Q843461>;
     schema:sameAs <http://ja.dbpedia.org/resource/北海道文化放送>.
@@ -86,15 +86,15 @@
     rdfs:label "あおもりほうそう"@ja-Kana;
     rdfs:label "Aomori Broadcasting Corporation"@en;
     schema:name "RAB";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Rab_logo.svg?width=300>;
     schema:foundingDate "1953-09-30";
     wdt:P3225 "1420001000261";
-    schema:url "https://www.rab.co.jp/";
+    schema:url <https://www.rab.co.jp/>;
     schema:address "030-0965";
     wdt:P159 "青森県青森市松森1丁目8番1号";
     schema:latitude "北緯40.81894度";
     schema:longitude "東経140.77043度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOGR-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/青森放送>;
     schema:sameAs <https://www.wikidata.org/entity/Q843656>;
     schema:sameAs <http://ja.dbpedia.org/resource/青森放送>.
@@ -102,15 +102,15 @@
     rdfs:label "あおもりあさひほうそう"@ja-Kana;
     rdfs:label "Asahi Broadcasting Aomori Co., Ltd."@en;
     schema:name "ABA";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Aba_logo.svg?width=300>;
     schema:foundingDate "1990-05-15";
     wdt:P3225 "3420001004681";
-    schema:url "https://www.aba-net.com/";
+    schema:url <https://www.aba-net.com/>;
     schema:address "030-0181";
     wdt:P159 "青森県青森市荒川字柴田125番1号";
     schema:latitude "北緯40.78628度";
     schema:longitude "東経140.73947度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOAH-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/青森朝日放送>;
     schema:sameAs <https://www.wikidata.org/entity/Q843435>;
     schema:sameAs <http://ja.dbpedia.org/resource/青森朝日放送>.
@@ -118,15 +118,15 @@
     rdfs:label "あおもりてれび"@ja-Kana;
     rdfs:label "Aomori Television Broadcasting Co., Ltd."@en;
     schema:name "ATV";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Atv_logo.svg?width=300>;
     schema:foundingDate "1968-12-23";
     wdt:P3225 "8420001000206";
-    schema:url "https://www.atv.jp/";
+    schema:url <https://www.atv.jp/>;
     schema:address "030-8686";
     wdt:P159 "青森県青森市松森1丁目4番8号";
     schema:latitude "北緯40.81973度";
     schema:longitude "東経140.76765度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOAI-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/青森テレビ>;
     schema:sameAs <https://www.wikidata.org/entity/Q843427>;
     schema:sameAs <http://ja.dbpedia.org/resource/青森テレビ>.
@@ -134,15 +134,15 @@
     rdfs:label "てれびいわて"@ja-Kana;
     rdfs:label "Television Iwate Corporation."@en;
     schema:name "TVI";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Headquarters_of_TV_Iwate_and_FM_Iwate.jpg?width=300>;
     schema:foundingDate "1969-01-23";
     wdt:P3225 "3400001001037";
-    schema:url "https://www.tvi.jp/";
+    schema:url <https://www.tvi.jp/>;
     schema:address "020-8650";
     wdt:P159 "岩手県盛岡市内丸2-10";
     schema:latitude "北緯39.70149度";
     schema:longitude "東経141.15381度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOII-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/テレビ岩手>;
     schema:sameAs <https://www.wikidata.org/entity/Q843430>;
     schema:sameAs <http://ja.dbpedia.org/resource/テレビ岩手>.
@@ -150,15 +150,15 @@
     rdfs:label "いわてあさひてれび"@ja-Kana;
     rdfs:label "Iwate Asahi TV Co., Ltd."@en;
     schema:name "IAT";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Iat_logo.svg?width=300>;
     schema:foundingDate "1995-07-21";
     wdt:P3225 "1400001000107";
-    schema:url "https://www.iat.co.jp/";
+    schema:url <https://www.iat.co.jp/>;
     schema:address "020-0045";
     wdt:P159 "岩手県盛岡市盛岡駅西通二丁目6-5";
     schema:latitude "北緯39.70044度";
     schema:longitude "東経141.13443度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOIY-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/岩手朝日テレビ>;
     schema:sameAs <https://www.wikidata.org/entity/Q843341>;
     schema:sameAs <http://ja.dbpedia.org/resource/岩手朝日テレビ>.
@@ -167,15 +167,15 @@
     rdfs:label "Iwate Broadcasting Co.,Ltd."@en;
     schema:name "IBC";
     schema:formerName "岩手放送株式会社"@ja;
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Iwate_Ibc_logo.svg?width=300>;
     schema:foundingDate "1953-12-07";
     wdt:P3225 "9400001000033";
-    schema:url "https://www.ibc.co.jp/";
+    schema:url <https://www.ibc.co.jp/>;
     schema:address "020-8566";
     wdt:P159 "岩手県盛岡市志家町6番1号";
     schema:latitude "北緯39.698583度";
     schema:longitude "東経141.161611度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JODF-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/IBC岩手放送>;
     schema:sameAs <https://www.wikidata.org/entity/Q843452>;
     schema:sameAs <http://ja.dbpedia.org/resource/IBC岩手放送>.
@@ -183,15 +183,15 @@
     rdfs:label "いわてめんこいてれび"@ja-Kana;
     rdfs:label "Iwate Menkoi Television Co., Ltd."@en;
     schema:name "mit";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Mit_logo.svg?width=300>;
     schema:foundingDate "1990-04-10";
     wdt:P3225 "9400001000231";
-    schema:url "https://www.menkoi-tv.co.jp/top.html";
+    schema:url <https://www.menkoi-tv.co.jp/top.html>;
     schema:address "020-0866";
     wdt:P159 "岩手県盛岡市本宮5丁目2-25";
     schema:latitude "北緯39.69225度";
     schema:longitude "東経141.12126度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOYH-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/岩手めんこいテレビ>;
     schema:sameAs <https://www.wikidata.org/entity/Q843297>;
     schema:sameAs <http://ja.dbpedia.org/resource/岩手めんこいテレビ>.
@@ -199,15 +199,15 @@
     rdfs:label "あきたほうそう"@ja-Kana;
     rdfs:label "AKITA BROADCASTING SYSTEM, INCORPORATED."@en;
     schema:name "ABS";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Abs_logo.svg?width=300>;
     schema:foundingDate "1953-10-20";
     wdt:P3225 "5410001000498";
-    schema:url "https://www.akita-abs.co.jp/";
+    schema:url <https://www.akita-abs.co.jp/>;
     schema:address "010-8611";
     wdt:P159 "秋田県秋田市中通七丁目1番1-2号";
     schema:latitude "北緯39.71703度";
     schema:longitude "東経140.12939度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOTR-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/秋田放送>;
     schema:sameAs <https://www.wikidata.org/entity/Q843617>;
     schema:sameAs <http://ja.dbpedia.org/resource/秋田放送>.
@@ -215,15 +215,15 @@
     rdfs:label "あきたあさひほうそう"@ja-Kana;
     rdfs:label "Akita Asahi Broadcasting CO.,LTD."@en;
     schema:name "AAB";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Aab_logo.svg?width=300>;
     schema:foundingDate "1991-07-29";
     wdt:P3225 "8410001000181";
-    schema:url "https://www.aab-tv.co.jp/";
+    schema:url <https://www.aab-tv.co.jp/>;
     schema:address "010-0941";
     wdt:P159 "秋田県秋田市川尻町字大川反233-209";
     schema:latitude "北緯39.716889度";
     schema:longitude "東経140.086278度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOXX-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/秋田朝日放送>;
     schema:sameAs <https://www.wikidata.org/entity/Q908057>;
     schema:sameAs <http://ja.dbpedia.org/resource/秋田朝日放送>.
@@ -231,15 +231,15 @@
     rdfs:label "あきたてれび"@ja-Kana;
     rdfs:label "Akita Television Co., Ltd."@en;
     schema:name "AKT";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Akt_logo.svg?width=300>;
     schema:foundingDate "1968-12-27";
     wdt:P3225 "8410001000470";
-    schema:url "https://www.akt.co.jp/";
+    schema:url <https://www.akt.co.jp/>;
     schema:address "010-8668";
     wdt:P159 "秋田県秋田市八橋本町三丁目2番14号";
     schema:latitude "北緯39.72383度";
     schema:longitude "東経140.1017度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOBI-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/秋田テレビ>;
     schema:sameAs <https://www.wikidata.org/entity/Q8014837>;
     schema:sameAs <http://ja.dbpedia.org/resource/秋田テレビ>.
@@ -247,15 +247,15 @@
     rdfs:label "やまがたほうそう"@ja-Kana;
     rdfs:label "Yamagata Broadcasting Co., Ltd."@en;
     schema:name "YBC";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Ybc_logo.svg?width=300>;
     schema:foundingDate "1953-10-01";
     wdt:P3225 "2390001002095";
-    schema:url "https://www.ybc.co.jp/";
+    schema:url <https://www.ybc.co.jp/>;
     schema:address "990-8555";
     wdt:P159 "山形県山形市旅篭町2丁目5番12号";
     schema:latitude "北緯38.25677度";
     schema:longitude "東経140.33897度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOEF-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/山形放送>;
     schema:sameAs <https://www.wikidata.org/entity/Q843521>;
     schema:sameAs <http://ja.dbpedia.org/resource/山形放送>.
@@ -263,15 +263,15 @@
     rdfs:label "やまがたてれび"@ja-Kana;
     rdfs:label "Yamagata Television System Inc."@en;
     schema:name "YTS";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Yts_logo.svg?width=300>;
     schema:foundingDate "1968-12-27";
     wdt:P3225 "6390001002067";
-    schema:url "https://www.yts.co.jp/";
+    schema:url <https://www.yts.co.jp/>;
     schema:address "990-8511";
     wdt:P159 "山形県山形市城西町5丁目4番1号";
     schema:latitude "北緯38.25908度";
     schema:longitude "東経140.31149度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOYI-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/山形テレビ>;
     schema:sameAs <https://www.wikidata.org/entity/Q285092>;
     schema:sameAs <http://ja.dbpedia.org/resource/山形テレビ>.
@@ -279,15 +279,15 @@
     rdfs:label "てれびゆーやまがた"@ja-Kana;
     rdfs:label "TV-U YAMAGATA INC."@en;
     schema:name "TUY";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Tuy_logo.svg?width=300>;
     schema:foundingDate "1988-07-08";
     wdt:P3225 "4390001006425";
-    schema:url "https://www.tuy.co.jp/";
+    schema:url <https://www.tuy.co.jp/>;
     schema:address "998-0836";
     wdt:P159 "山形県酒田市入船町2番35号";
     schema:latitude "北緯38.90795度";
     schema:longitude "東経139.83311度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOWI-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/テレビユー山形>;
     schema:sameAs <https://www.wikidata.org/entity/Q8014697>;
     schema:sameAs <http://ja.dbpedia.org/resource/テレビユー山形>.
@@ -295,15 +295,15 @@
     rdfs:label "さくらんぼてれびじょん"@ja-Kana;
     rdfs:label "Sakuranbo Television Broadcasting Corporation"@en;
     schema:name "SAY";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Say_logo_201804.png?width=300>;
     schema:foundingDate "1996-03-29";
     wdt:P3225 "8390001000795";
-    schema:url "https://www.sakuranbo.co.jp/";
+    schema:url <https://www.sakuranbo.co.jp/>;
     schema:address "990-8539";
     wdt:P159 "山形県山形市落合町85番地";
     schema:latitude "北緯38.27901度";
     schema:longitude "東経140.3502度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOCY-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/さくらんぼテレビジョン>;
     schema:sameAs <https://www.wikidata.org/entity/Q8015166>;
     schema:sameAs <http://ja.dbpedia.org/resource/さくらんぼテレビジョン>.
@@ -311,15 +311,15 @@
     rdfs:label "みやぎてれびほうそう"@ja-Kana;
     rdfs:label "Miyagi Television Broadcasting Co., Ltd."@en;
     schema:name "MMT";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Mmt_logo.svg?width=300>;
     schema:foundingDate "1970-01-17";
     wdt:P3225 "9370001006546";
-    schema:url "https://www.mmt-tv.co.jp/";
+    schema:url <https://www.mmt-tv.co.jp/>;
     schema:address "983-8611";
     wdt:P159 "宮城県仙台市宮城野区日の出町1-5-33";
     schema:latitude "北緯38.26925度";
     schema:longitude "東経140.93544度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOMM-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/宮城テレビ放送>;
     schema:sameAs <https://www.wikidata.org/entity/Q3082642>;
     schema:sameAs <http://ja.dbpedia.org/resource/宮城テレビ放送>.
@@ -327,15 +327,15 @@
     rdfs:label "ひがしにっぽんほうそう"@ja-Kana;
     rdfs:label "HIGASHI NIPPON BROADCASTING Co.,Ltd."@en;
     schema:name "khb";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Khb_logo_2021.svg?width=300>;
     schema:foundingDate "1974-10-30";
     wdt:P3225 "6370001009980";
-    schema:url "https://www.khb-tv.co.jp/";
+    schema:url <https://www.khb-tv.co.jp/>;
     schema:address "982-8505";
     wdt:P159 "宮城県仙台市太白区あすと長町1丁目3-15";
     schema:latitude "北緯38.23005度";
     schema:longitude "東経140.88947度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOEM-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/東日本放送>;
     schema:sameAs <https://www.wikidata.org/entity/Q843355>;
     schema:sameAs <http://ja.dbpedia.org/resource/東日本放送>.
@@ -344,15 +344,15 @@
     rdfs:label "TOHOKU BROADCASTING CO., LTD."@en;
     schema:name "tbc";
     schema:formerName "仙台放送株式会社"@ja;
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/TBC_logo_(2020).svg?width=300>;
     schema:foundingDate "1951-12-10";
     wdt:P3225 "2370001002452";
-    schema:url "https://www.tbc-sendai.co.jp/";
+    schema:url <https://www.tbc-sendai.co.jp/>;
     schema:address "980-8668";
     wdt:P159 "宮城県仙台市太白区八木山香澄町26-1";
     schema:latitude "北緯38.247111度";
     schema:longitude "東経140.856056度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOIR-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/東北放送>;
     schema:sameAs <https://www.wikidata.org/entity/Q843723>;
     schema:sameAs <http://ja.dbpedia.org/resource/東北放送>.
@@ -360,15 +360,16 @@
     rdfs:label "せんだいほうそう"@ja-Kana;
     rdfs:label "Sendai Television Incorporated"@en;
     schema:name "OX";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/仙台放送.png?width=300>;
     schema:foundingDate "1961-10-01";
     wdt:P3225 "7370001002398";
-    schema:url "https://www.ox-tv.co.jp/";
+    schema:url <https://www.ox-tv.co.jp/>;
     schema:address "980-8433";
     wdt:P159 "仙台市青葉区上杉5丁目8-33";
     schema:latitude "北緯38.274500度";
     schema:longitude "東経140.874139度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOOX-DTV>;
+    schema:ownershipFundingInfo <https://w3id.org/tvstationjp/org/FMH>;
     schema:sameAs <https://ja.wikipedia.org/wiki/仙台放送>;
     schema:sameAs <https://www.wikidata.org/entity/Q843347>;
     schema:sameAs <http://ja.dbpedia.org/resource/仙台放送>.
@@ -376,15 +377,15 @@
     rdfs:label "ふくしまほうそう"@ja-Kana;
     rdfs:label "Fukushima Broadcasting Co., Ltd."@en;
     schema:name "KFB";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Fukushima_Kfb_logo.svg?width=300>;
     schema:foundingDate "1981-02-04";
     wdt:P3225 "9380001006520";
-    schema:url "https://www.kfb.co.jp/";
+    schema:url <https://www.kfb.co.jp/>;
     schema:address "963-8535";
     wdt:P159 "福島県郡山市桑野4丁目3番6号";
     schema:latitude "北緯37.40763度";
     schema:longitude "東経140.35547度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOJI-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/福島放送>;
     schema:sameAs <https://www.wikidata.org/entity/Q843344>;
     schema:sameAs <http://ja.dbpedia.org/resource/福島放送>.
@@ -392,15 +393,15 @@
     rdfs:label "てれびゆーふくしま"@ja-Kana;
     rdfs:label "TV-U Fukushima, Inc."@en;
     schema:name "TUF";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Tuf_logo.svg?width=300>;
     schema:foundingDate "1983-06-20";
     wdt:P3225 "2380001000918";
-    schema:url "https://www.tuf.co.jp/";
+    schema:url <https://www.tuf.co.jp/>;
     schema:address "960-8531";
     wdt:P159 "福島県福島市西中央1丁目1番";
     schema:latitude "北緯37.758889度";
     schema:longitude "東経140.434583度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOKI-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/テレビユー福島>;
     schema:sameAs <https://www.wikidata.org/entity/Q8014805>;
     schema:sameAs <http://ja.dbpedia.org/resource/テレビユー福島>.
@@ -408,15 +409,15 @@
     rdfs:label "ふくしまてれび"@ja-Kana;
     rdfs:label "Fukushima Television Broadcasting Co., Ltd."@en;
     schema:name "FTV";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Fukutele_2019.png?width=300>;
     schema:foundingDate "1962-06-01";
     wdt:P3225 "1380001001504";
-    schema:url "https://www.fukushima-tv.co.jp/";
+    schema:url <https://www.fukushima-tv.co.jp/>;
     schema:address "960-8508";
     wdt:P159 "福島県福島市御山町2-5";
     schema:latitude "北緯37.76445度";
     schema:longitude "東経140.46539度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOPX-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/福島テレビ>;
     schema:sameAs <https://www.wikidata.org/entity/Q8014010>;
     schema:sameAs <http://ja.dbpedia.org/resource/福島テレビ>.
@@ -425,15 +426,15 @@
     rdfs:label "Fukushima Central Television Co., Ltd."@en;
     schema:name "FCT";
     schema:alternateName "中テレ"@ja;
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/%E7%A6%8F%E5%B3%B6%E4%B8%AD%E5%A4%AE%E3%83%86%E3%83%AC%E3%83%93.png/405px-%E7%A6%8F%E5%B3%B6%E4%B8%AD%E5%A4%AE%E3%83%86%E3%83%AC%E3%83%93.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/福島中央テレビ.png?width=300>;
     schema:foundingDate "1969-05-20";
     wdt:P3225 "2380001006502";
-    schema:url "https://www.fct.co.jp/";
+    schema:url <https://www.fct.co.jp/>;
     schema:address "963-8533";
     wdt:P159 "福島県郡山市池ノ台13番23号";
     schema:latitude "北緯37.39305度";
     schema:longitude "東経140.37326度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOVI-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/福島中央テレビ>;
     schema:sameAs <https://www.wikidata.org/entity/Q843311>;
     schema:sameAs <http://ja.dbpedia.org/resource/福島中央テレビ>.
@@ -444,15 +445,16 @@
     schema:alternateName "AX"@ja;
     schema:alternateName "日本テレビ"@ja;
     schema:formerName "日本テレビ分割準備株式会社"@ja;
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Nippon_TV_logo_2014.svg?width=300>;
     schema:foundingDate "2012-04-26";
     wdt:P3225 "3010401099553";
-    schema:url "https://www.ntv.co.jp/";
+    schema:url <https://www.ntv.co.jp/>;
     schema:address "105-7444";
     wdt:P159 "東京都港区東新橋一丁目6番1号";
     schema:latitude "北緯35.6644194度";
     schema:longitude "東経139.7599111度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOAX-DTV>;
+    schema:ownershipFundingInfo <https://w3id.org/tvstationjp/org/NTVHD>;
     schema:sameAs <https://ja.wikipedia.org/wiki/日本テレビ放送網>;
     schema:sameAs <https://www.wikidata.org/entity/Q864910>;
     schema:sameAs <http://ja.dbpedia.org/resource/日本テレビ放送網>.
@@ -462,15 +464,16 @@
     schema:name "EX";
     schema:alternateName "テレ朝"@ja;
     schema:formerName "テレビ朝日分割準備株式会社"@ja;
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/TV_Asahi_Logo.svg?width=300>;
     schema:foundingDate "2013-10-15";
     wdt:P3225 "6010401108393";
-    schema:url "https://www.tv-asahi.co.jp/";
+    schema:url <https://www.tv-asahi.co.jp/>;
     schema:address "106-8001";
     wdt:P159 "東京都港区六本木6丁目9番1号";
     schema:latitude "北緯35.6597000度";
     schema:longitude "東経139.7309222度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOEX-DTV>;
+    schema:ownershipFundingInfo <https://w3id.org/tvstationjp/org/EXHD>;
     schema:sameAs <https://ja.wikipedia.org/wiki/テレビ朝日>;
     schema:sameAs <https://www.wikidata.org/entity/Q908436>;
     schema:sameAs <http://ja.dbpedia.org/resource/テレビ朝日>.
@@ -479,15 +482,16 @@
     rdfs:label "TOKYO BROADCASTING SYSTEM TELEVISION, INC.　"@en;
     schema:name "TBS";
     schema:formerName "株式会社TBSエンタテインメント"@ja;
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Tokyo_Broadcasting_System_logo_2020.svg?width=300>;
     schema:foundingDate "2000-03-21";
     wdt:P3225 "3010401040467";
-    schema:url "https://www.tbs.co.jp/";
+    schema:url <https://www.tbs.co.jp/>;
     schema:address "107-8006";
     wdt:P159 "東京都港区赤坂五丁目3番6号";
     schema:latitude "北緯35.67238度";
     schema:longitude "東経139.73523度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JORX-DTV>;
+    schema:ownershipFundingInfo <https://w3id.org/tvstationjp/org/TBSHD>;
     schema:sameAs <https://ja.wikipedia.org/wiki/TBSテレビ>;
     schema:sameAs <https://www.wikidata.org/entity/Q6766400>;
     schema:sameAs <http://ja.dbpedia.org/resource/TBSテレビ>.
@@ -497,15 +501,16 @@
     schema:name "TX";
     schema:alternateName "テレ東"@ja;
     schema:formerName "株式会社東京十二チャンネルプロダクション"@ja;
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/25px-Flag_of_Japan.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/TV_Tokyo_logo_20110629.svg?width=300>;
     schema:foundingDate "1968-07-01";
     wdt:P3225 "5010401018940";
-    schema:url "https://www.tv-tokyo.co.jp/";
+    schema:url <https://www.tv-tokyo.co.jp/>;
     schema:address "106-8007";
     wdt:P159 "東京都港区六本木三丁目2番1号";
     schema:latitude "北緯35.66441度";
     schema:longitude "東経139.73761度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOTX-DTV>;
+    schema:ownershipFundingInfo <https://w3id.org/tvstationjp/org/TXHD>;
     schema:sameAs <https://ja.wikipedia.org/wiki/テレビ東京>;
     schema:sameAs <https://www.wikidata.org/entity/Q734663>;
     schema:sameAs <http://ja.dbpedia.org/resource/テレビ東京>.
@@ -514,15 +519,16 @@
     rdfs:label "Fuji Television Network, Inc."@en;
     schema:name "CX";
     schema:alternateName "フジ"@ja;
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Fuji_Television_Logo.svg?width=300>;
     schema:foundingDate "2008-10-01";
     wdt:P3225 "5010401078381";
-    schema:url "https://www.fujitv.co.jp/index.html";
+    schema:url <https://www.fujitv.co.jp/index.html>;
     schema:address "137-8088";
     wdt:P159 "東京都港区台場二丁目4番8号";
     schema:latitude "北緯35.62693度";
     schema:longitude "東経139.77417度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOCX-DTV>;
+    schema:ownershipFundingInfo <https://w3id.org/tvstationjp/org/FMH>;
     schema:sameAs <https://ja.wikipedia.org/wiki/フジテレビジョン>;
     schema:sameAs <https://www.wikidata.org/entity/Q744800>;
     schema:sameAs <http://ja.dbpedia.org/resource/フジテレビジョン>.
@@ -532,15 +538,15 @@
     schema:name "MX";
     schema:alternateName "MXTV"@ja;
     schema:alternateName "TOKYO MX"@ja;
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Tokyo_metropolitan_television_logo_(rainbow).svg?width=300>;
     schema:foundingDate "1993-04-30";
     wdt:P3225 "4010001101676";
-    schema:url "https://s.mxtv.jp";
+    schema:url <https://s.mxtv.jp>;
     schema:address "102-0083";
     wdt:P159 "東京都千代田区麹町一丁目12番地";
     schema:latitude "北緯35.68501度";
     schema:longitude "東経139.74359度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOMX-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/東京メトロポリタンテレビジョン>;
     schema:sameAs <https://www.wikidata.org/entity/Q115146>;
     schema:sameAs <http://ja.dbpedia.org/resource/東京メトロポリタンテレビジョン>.
@@ -548,15 +554,15 @@
     rdfs:label "てれびかながわ"@ja-Kana;
     rdfs:label "Television KANAGAWA, Inc."@en;
     schema:name "tvk";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Tvk_logo.svg?width=300>;
     schema:foundingDate "1971-04-20";
     wdt:P3225 "8020001030879";
-    schema:url "https://www.tvk-yokohama.com/";
+    schema:url <https://www.tvk-yokohama.com/>;
     schema:address "231-8001";
     wdt:P159 "神奈川県横浜市中区太田町2丁目23番地";
     schema:latitude "北緯35.44709度";
     schema:longitude "東経139.63905度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOKM-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/テレビ神奈川>;
     schema:sameAs <https://www.wikidata.org/entity/Q1143787>;
     schema:sameAs <http://ja.dbpedia.org/resource/テレビ神奈川>.
@@ -564,15 +570,15 @@
     rdfs:label "てれびさいたま"@ja-Kana;
     rdfs:label "Television Saitama Co., Ltd."@en;
     schema:name "TVS";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/25px-Flag_of_Japan.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Tvs_logo.svg?width=300>;
     schema:foundingDate "1978-04-28";
     wdt:P3225 "5030001005569";
-    schema:url "http://www.teletama.jp/";
+    schema:url <http://www.teletama.jp/>;
     schema:address "330-8538";
     wdt:P159 "埼玉県さいたま市浦和区常盤六丁目36番4号";
     schema:latitude "北緯35.86224度";
     schema:longitude "東経139.64403度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOUS-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/テレビ埼玉>;
     schema:sameAs <https://www.wikidata.org/entity/Q1325164>;
     schema:sameAs <http://ja.dbpedia.org/resource/テレビ埼玉>.
@@ -581,15 +587,15 @@
     rdfs:label "Chiba Television Broadcasting Corporation"@en;
     schema:name "CTC";
     schema:alternateName "チバテレ"@ja;
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/25px-Flag_of_Japan.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Chiba_TV_logo.jpg?width=300>;
     schema:foundingDate "1970-01-28";
     wdt:P3225 "1040001004838";
-    schema:url "https://www.chiba-tv.com/";
+    schema:url <https://www.chiba-tv.com/>;
     schema:address "260-0001";
     wdt:P159 "千葉県千葉市中央区都町一丁目1番25号";
     schema:latitude "北緯35.61406度";
     schema:longitude "東経140.13541度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOCL-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/千葉テレビ放送>;
     schema:sameAs <https://www.wikidata.org/entity/Q1071746>;
     schema:sameAs <http://ja.dbpedia.org/resource/千葉テレビ放送>.
@@ -597,15 +603,15 @@
     rdfs:label "ぐんまてれび"@ja-Kana;
     rdfs:label "Gunma Television Co., Ltd."@en;
     schema:name "GTV";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Gtv_logo_ja_01.svg?width=300>;
     schema:foundingDate "1970-02-16";
     wdt:P3225 "6070001000978";
-    schema:url "https://www.gtv.co.jp/";
+    schema:url <https://www.gtv.co.jp/>;
     schema:address "371-8548";
     wdt:P159 "群馬県前橋市上小出町3丁目38-2";
     schema:latitude "北緯36.419972度";
     schema:longitude "東経139.059278度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOML-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/群馬テレビ>;
     schema:sameAs <https://www.wikidata.org/entity/Q8013874>;
     schema:sameAs <http://ja.dbpedia.org/resource/群馬テレビ>.
@@ -613,15 +619,15 @@
     rdfs:label "とちぎてれび"@ja-Kana;
     rdfs:label "Tochigi Television Co., Ltd."@en;
     schema:name "GYT";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Tochigi_Television_2013-02-09.jpg?width=300>;
     schema:foundingDate "1997-05-14";
     wdt:P3225 "4060001003001";
-    schema:url "https://www.tochigi-tv.jp/";
+    schema:url <https://www.tochigi-tv.jp/>;
     schema:address "320-8531";
     wdt:P159 "栃木県宇都宮市昭和2丁目2番2号";
     schema:latitude "北緯36.56737度";
     schema:longitude "東経139.88199度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOGY-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/とちぎテレビ>;
     schema:sameAs <https://www.wikidata.org/entity/Q8013689>;
     schema:sameAs <http://ja.dbpedia.org/resource/とちぎテレビ>.
@@ -629,15 +635,15 @@
     rdfs:label "やまなしほうそう"@ja-Kana;
     rdfs:label "Yamanashi Broadcasting System Inc."@en;
     schema:name "YBS";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/山梨放送.png?width=300>;
     schema:foundingDate "1954-03-25";
     wdt:P3225 "1090001002325";
-    schema:url "https://www.ybs.jp/";
+    schema:url <https://www.ybs.jp/>;
     schema:address "400-8525";
     wdt:P159 "山梨県甲府市北口二丁目6番10号";
     schema:latitude "北緯35.66806度";
     schema:longitude "東経138.57092度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOJF-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/山梨放送>;
     schema:sameAs <https://www.wikidata.org/entity/Q843689>;
     schema:sameAs <http://ja.dbpedia.org/resource/山梨放送>.
@@ -645,15 +651,15 @@
     rdfs:label "てれびやまなし"@ja-Kana;
     rdfs:label "Television Yamanashi Co., Ltd."@en;
     schema:name "UTY";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/UTY_Logos.svg?width=300>;
     schema:foundingDate "1969-02-08";
     wdt:P3225 "8090001001477";
-    schema:url "https://www.uty.co.jp/";
+    schema:url <https://www.uty.co.jp/>;
     schema:address "400-8570";
     wdt:P159 "山梨県甲府市湯田二丁目13番1号";
     schema:latitude "北緯35.64571度";
     schema:longitude "東経138.57631度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOGI-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/テレビ山梨>;
     schema:sameAs <https://www.wikidata.org/entity/Q843334>;
     schema:sameAs <http://ja.dbpedia.org/resource/テレビ山梨>.
@@ -661,15 +667,15 @@
     rdfs:label "しずおかだいいちてれび"@ja-Kana;
     rdfs:label "SHIZUOKA DAIICHI TELEVISION CORPORATION"@en;
     schema:name "SDT";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Daiichi_tv_logo.svg?width=300>;
     schema:foundingDate "1979-02-15";
     wdt:P3225 "4080001002827";
-    schema:url "https://www.tv-sdt.co.jp/";
+    schema:url <https://www.tv-sdt.co.jp/>;
     schema:address "422-8560";
     wdt:P159 "静岡県静岡市駿河区中原563";
     schema:latitude "北緯34.95522度";
     schema:longitude "東経138.39096度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOSX-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/静岡第一テレビ>;
     schema:sameAs <https://www.wikidata.org/entity/Q843320>;
     schema:sameAs <http://ja.dbpedia.org/resource/静岡第一テレビ>.
@@ -678,15 +684,15 @@
     rdfs:label "Shizuoka Asahi Television.Co.,Ltd."@en;
     schema:name "SATV";
     schema:formerName "静岡県民放送株式会社"@ja;
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Satv_logo_2021.jpg?width=300>;
     schema:foundingDate "1976-11-19";
     wdt:P3225 "4080001002629";
-    schema:url "https://www.satv.co.jp/";
+    schema:url <https://www.satv.co.jp/>;
     schema:address "420-8567";
     wdt:P159 "静岡県静岡市葵区東町15番地";
     schema:latitude "北緯34.97684度";
     schema:longitude "東経138.39705度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOSI-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/静岡朝日テレビ>;
     schema:sameAs <https://www.wikidata.org/entity/Q8015078>;
     schema:sameAs <http://ja.dbpedia.org/resource/静岡朝日テレビ>.
@@ -694,15 +700,15 @@
     rdfs:label "しずおかほうそう"@ja-Kana;
     rdfs:label "Shizuoka Broadcasting System Co., Ltd."@en;
     schema:name "SBS";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/ShizuokaBroadcastingSystem.png?width=300>;
     schema:foundingDate "1952-10-01";
     wdt:P3225 "8080001002914";
-    schema:url "https://www.at-s.com/sbstv/";
+    schema:url <https://www.at-s.com/sbstv/>;
     schema:address "422-8680";
     wdt:P159 "静岡県静岡市駿河区登呂三丁目1番1号";
     schema:latitude "北緯34.96048度";
     schema:longitude "東経138.40656度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOVR-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/静岡放送>;
     schema:sameAs <https://www.wikidata.org/entity/Q843648>;
     schema:sameAs <http://ja.dbpedia.org/resource/静岡放送>.
@@ -711,15 +717,15 @@
     rdfs:label "Shizuoka Telecasting Co., Ltd."@en;
     schema:name "SUT";
     schema:formerName "静岡ユー・エッチ・エフ・テレビ株式会社"@ja;
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/25px-Flag_of_Japan.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Sut_logo.svg?width=300>;
     schema:foundingDate "1968-02-13";
     wdt:P3225 "9080001003639";
-    schema:url "https://www.sut-tv.com/";
+    schema:url <https://www.sut-tv.com/>;
     schema:address "422-8525";
     wdt:P159 "静岡県静岡市駿河区栗原18-65";
     schema:latitude "北緯34.99037度";
     schema:longitude "東経138.42575度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOQH-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/テレビ静岡>;
     schema:sameAs <https://www.wikidata.org/entity/Q843445>;
     schema:sameAs <http://ja.dbpedia.org/resource/テレビ静岡>.
@@ -727,15 +733,15 @@
     rdfs:label "てれびしんしゅう"@ja-Kana;
     rdfs:label "TV Shinshu Broadcasting Co., Ltd."@en;
     schema:name "TSB";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Tsb_logo_ja.svg?width=300>;
     schema:foundingDate "1979-12-03";
     wdt:P3225 "1100001006002";
-    schema:url "https://www.tsb.jp/";
+    schema:url <https://www.tsb.jp/>;
     schema:address "380-8555";
     wdt:P159 "長野県長野市若里一丁目1-1";
     schema:latitude "北緯36.6373度";
     schema:longitude "東経138.18636度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JONI-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/テレビ信州>;
     schema:sameAs <https://www.wikidata.org/entity/Q843197>;
     schema:sameAs <http://ja.dbpedia.org/resource/テレビ信州>.
@@ -743,15 +749,15 @@
     rdfs:label "ながのあさひほうそう"@ja-Kana;
     rdfs:label "Asahi Broadcasting Nagano Co., Ltd."@en;
     schema:name "abn";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Abn_logo.svg?width=300>;
     schema:foundingDate "1989-11-06";
     wdt:P3225 "6100001002236";
-    schema:url "https://www.abn-tv.co.jp/";
+    schema:url <https://www.abn-tv.co.jp/>;
     schema:address "380-8550";
     wdt:P159 "長野県長野市七瀬4-5";
     schema:latitude "北緯36.642083度";
     schema:longitude "東経138.191778度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOGH-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/長野朝日放送>;
     schema:sameAs <https://www.wikidata.org/entity/Q843362>;
     schema:sameAs <http://ja.dbpedia.org/resource/長野朝日放送>.
@@ -760,15 +766,15 @@
     rdfs:label "Shin-etsu Broadcasting Co.,Ltd."@en;
     schema:name "SBC";
     schema:formerName "信濃放送株式会社"@ja;
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Sbc_logo.svg?width=300>;
     schema:foundingDate "1951-10-18";
     wdt:P3225 "2100001001266";
-    schema:url "https://sbc21.co.jp/";
+    schema:url <https://sbc21.co.jp/>;
     schema:address "380-8521";
     wdt:P159 "長野県長野市鶴賀問御所町1200-3";
     schema:latitude "北緯36.65044度";
     schema:longitude "東経138.18816度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOSR-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/信越放送>;
     schema:sameAs <https://www.wikidata.org/entity/Q843663>;
     schema:sameAs <http://ja.dbpedia.org/resource/信越放送>.
@@ -776,15 +782,15 @@
     rdfs:label "ながのほうそう"@ja-Kana;
     rdfs:label "Nagano Broadcasting Systems Inc."@en;
     schema:name "NBS";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Nbs_logo.svg?width=300>;
     schema:foundingDate "1968-03-22";
     wdt:P3225 "1100001002488";
-    schema:url "https://www.nbs-tv.co.jp/";
+    schema:url <https://www.nbs-tv.co.jp/>;
     schema:address "380-8633";
     wdt:P159 "長野県長野市中御所岡田町131-7";
     schema:latitude "北緯36.64332度";
     schema:longitude "東経138.18149度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOLH-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/長野放送>;
     schema:sameAs <https://www.wikidata.org/entity/Q843307>;
     schema:sameAs <http://ja.dbpedia.org/resource/長野放送>.
@@ -792,15 +798,15 @@
     rdfs:label "てれびにいがたほうそうもう"@ja-Kana;
     rdfs:label "Television Niigata Network Co., Ltd."@en;
     schema:name "TeNY";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Teny_logo.svg?width=300>;
     schema:foundingDate "1980-10-23";
     wdt:P3225 "4110001003425";
-    schema:url "https://www.teny.co.jp/";
+    schema:url <https://www.teny.co.jp/>;
     schema:address "950-8555";
     wdt:P159 "新潟県新潟市中央区新光町1番11号";
     schema:latitude "北緯37.90367度";
     schema:longitude "東経139.02626度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOPI-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/テレビ新潟放送網>;
     schema:sameAs <https://www.wikidata.org/entity/Q843339>;
     schema:sameAs <http://ja.dbpedia.org/resource/テレビ新潟放送網>.
@@ -809,15 +815,15 @@
     rdfs:label "The Niigata Television Network 21, Inc."@en;
     schema:name "UX";
     schema:alternateName "UXTV"@ja;
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Niigata_UX_logo.svg?width=300>;
     schema:foundingDate "1983-03-07";
     wdt:P3225 "2110001004276";
-    schema:url "https://www.uxtv.jp/";
+    schema:url <https://www.uxtv.jp/>;
     schema:address "951-8521";
     wdt:P159 "新潟県新潟市中央区下大川前通六ノ町2230番19号";
     schema:latitude "北緯37.92465度";
     schema:longitude "東経139.05489度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOUX-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/新潟テレビ21>;
     schema:sameAs <https://www.wikidata.org/entity/Q843457>;
     schema:sameAs <http://ja.dbpedia.org/resource/新潟テレビ21>.
@@ -826,15 +832,16 @@
     rdfs:label "BROADCASTING SYSTEM OF NIIGATA INCORPORATED"@en;
     schema:name "BSN";
     schema:formerName "株式会社新潟放送分割準備会社"@ja;
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Bsn_logo.svg?width=300>;
     schema:foundingDate "2022-09-05";
     wdt:P3225 "6110001036951";
-    schema:url "https://www.ohbsn.com/";
+    schema:url <https://www.ohbsn.com/>;
     schema:address "951-8655";
     wdt:P159 "新潟県新潟市中央区川岸町三丁目18番地";
     schema:latitude "北緯37.90915度";
     schema:longitude "東経139.02795度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JODR-DTV>;
+    schema:ownershipFundingInfo <https://w3id.org/tvstationjp/org/BSNHD>;
     schema:sameAs <https://ja.wikipedia.org/wiki/新潟放送>;
     schema:sameAs <https://www.wikidata.org/entity/Q843635>;
     schema:sameAs <http://ja.dbpedia.org/resource/新潟放送>.
@@ -843,15 +850,15 @@
     rdfs:label "NST Niigata Sogo Television, Co., Ltd."@en;
     schema:name "NST";
     schema:formerName "株式会社新潟総合テレビ"@ja;
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Niigata_Nst_logo.svg?width=300>;
     schema:foundingDate "1968-03-02";
     wdt:P3225 "1110001003832";
-    schema:url "https://www.nsttv.com/";
+    schema:url <https://www.nsttv.com/>;
     schema:address "950-8572";
     wdt:P159 "新潟県新潟市中央区八千代二丁目3番1号";
     schema:latitude "北緯37.91518度";
     schema:longitude "東経139.05147度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JONH-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/NST新潟総合テレビ>;
     schema:sameAs <https://www.wikidata.org/entity/Q843451>;
     schema:sameAs <http://ja.dbpedia.org/resource/NST新潟総合テレビ>.
@@ -859,15 +866,15 @@
     rdfs:label "きたにほんほうそう"@ja-Kana;
     rdfs:label "Kitanihon Broadcasting Co., Ltd."@en;
     schema:name "KNB";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Kitanihon_Broadcasting_logo_20150821.svg?width=300>;
     schema:foundingDate "1952-03-14";
     wdt:P3225 "3230001000758";
-    schema:url "https://www.knb.ne.jp/";
+    schema:url <https://www.knb.ne.jp/>;
     schema:address "930-8585";
     wdt:P159 "富山県富山市牛島町10番18号";
     schema:latitude "北緯36.704806度";
     schema:longitude "東経137.214250度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOLR-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/北日本放送>;
     schema:sameAs <https://www.wikidata.org/entity/Q843692>;
     schema:sameAs <http://ja.dbpedia.org/resource/北日本放送>.
@@ -875,15 +882,15 @@
     rdfs:label "チューリップテレビ"@ja-Kana;
     rdfs:label "Tulip-TV Inc."@en;
     schema:name "TUT";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/チューリップテレビ.png?width=300>;
     schema:foundingDate "1989-11-21";
     wdt:P3225 "7230001010480";
-    schema:url "https://www.tulip-tv.co.jp/";
+    schema:url <https://www.tulip-tv.co.jp/>;
     schema:address "930-8539";
     wdt:P159 "富山県富山市奥田本町8番24号";
     schema:latitude "北緯36.712667度";
     schema:longitude "東経137.221139度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOJH-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/チューリップテレビ>;
     schema:sameAs <https://www.wikidata.org/entity/Q843328>;
     schema:sameAs <http://ja.dbpedia.org/resource/チューリップテレビ>.
@@ -891,15 +898,15 @@
     rdfs:label "とやまてれびほうそう"@ja-Kana;
     rdfs:label "Toyama Television Broadcasting Co., Ltd."@en;
     schema:name "BBT";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Bbt_logo.svg?width=300>;
     schema:foundingDate "1968-03-12";
     wdt:P3225 "4230001002150";
-    schema:url "https://www.bbt.co.jp/";
+    schema:url <https://www.bbt.co.jp/>;
     schema:address "939-8550";
     wdt:P159 "富山県富山市新根塚町一丁目8番14号";
     schema:latitude "北緯36.680500度";
     schema:longitude "東経137.200889度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOTH-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/富山テレビ放送>;
     schema:sameAs <https://www.wikidata.org/entity/Q841947>;
     schema:sameAs <http://ja.dbpedia.org/resource/富山テレビ放送>.
@@ -907,15 +914,15 @@
     rdfs:label "てれびかなざわ"@ja-Kana;
     rdfs:label "Television Kanazawa Corporation"@en;
     schema:name "KTK";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/KTKテレビ金沢本社.jpg?width=300>;
     schema:foundingDate "1989-08-01";
     wdt:P3225 "1220001004472";
-    schema:url "https://www.tvkanazawa.co.jp/";
+    schema:url <https://www.tvkanazawa.co.jp/>;
     schema:address "920-0386";
     wdt:P159 "石川県金沢市古府二丁目136番地";
     schema:latitude "北緯36.5690333度";
     schema:longitude "東経136.6034611度";
-    schema:brand <https://w3id.org/tvstationjp/ch/テレきん>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOWX-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/テレビ金沢>;
     schema:sameAs <https://www.wikidata.org/entity/Q843432>;
     schema:sameAs <http://ja.dbpedia.org/resource/テレビ金沢>.
@@ -923,15 +930,15 @@
     rdfs:label "ほくりくあさひほうそう"@ja-Kana;
     rdfs:label "Hokuriku Asahi Broadcasting Co., Ltd."@en;
     schema:name "HAB";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Hab_logo_2021.svg?width=300>;
     schema:foundingDate "1990-11-14";
     wdt:P3225 "4220001006251";
-    schema:url "https://www.hab.co.jp/";
+    schema:url <https://www.hab.co.jp/>;
     schema:address "920-0393";
     wdt:P159 "石川県金沢市松島一丁目32番地2";
     schema:latitude "北緯36.56178度";
     schema:longitude "東経136.60364度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOWY-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/北陸朝日放送>;
     schema:sameAs <https://www.wikidata.org/entity/Q843466>;
     schema:sameAs <http://ja.dbpedia.org/resource/北陸朝日放送>.
@@ -939,15 +946,15 @@
     rdfs:label "ほくりくほうそう"@ja-Kana;
     rdfs:label "Hokuriku Broadcasting Co.,Ltd."@en;
     schema:name "MRO";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Hokuriku_Broadcasting_Company_Kanazawa_HQ_20201115-001.jpg?width=300>;
     schema:foundingDate "1951-12-24";
     wdt:P3225 "5220001006440";
-    schema:url "https://www.mro.co.jp/";
+    schema:url <https://www.mro.co.jp/>;
     schema:address "920-8560";
     wdt:P159 "石川県金沢市本多町3丁目2番1号";
     schema:latitude "北緯36.558194度";
     schema:longitude "東経136.659694度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOMR-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/北陸放送>;
     schema:sameAs <https://www.wikidata.org/entity/Q843469>;
     schema:sameAs <http://ja.dbpedia.org/resource/北陸放送>.
@@ -955,15 +962,15 @@
     rdfs:label "いしかわてれびほうそう"@ja-Kana;
     rdfs:label "Ishikawa Television Broadcasting Co., Ltd."@en;
     schema:name "ITC";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Itc_logo.svg?width=300>;
     schema:foundingDate "1968-03-07";
     wdt:P3225 "7220001000994";
-    schema:url "https://www.ishikawa-tv.com/";
+    schema:url <https://www.ishikawa-tv.com/>;
     schema:address "920-0388";
     wdt:P159 "石川県金沢市観音堂町チ18番地";
     schema:latitude "北緯36.5887417度";
     schema:longitude "東経136.6056528度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOIH-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/石川テレビ放送>;
     schema:sameAs <https://www.wikidata.org/entity/Q843419>;
     schema:sameAs <http://ja.dbpedia.org/resource/石川テレビ放送>.
@@ -971,15 +978,15 @@
     rdfs:label "ふくいほうそう"@ja-Kana;
     rdfs:label "Fukui Broadcasting Corporation"@en;
     schema:name "FBC";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/25px-Flag_of_Japan.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Fbc_logo.svg?width=300>;
     schema:foundingDate "1952-03-06";
     wdt:P3225 "4210001003282";
-    schema:url "https://www.fbc.jp/";
+    schema:url <https://www.fbc.jp/>;
     schema:address "910-8588";
     wdt:P159 "福井県福井市大和田2丁目510番地";
     schema:latitude "北緯36.09508度";
     schema:longitude "東経136.25569度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOPR-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/福井放送>;
     schema:sameAs <https://www.wikidata.org/entity/Q843644>;
     schema:sameAs <http://ja.dbpedia.org/resource/福井放送>.
@@ -987,15 +994,15 @@
     rdfs:label "ふくいてれびじょんほうそう"@ja-Kana;
     rdfs:label "Fukui Television Broadcasting Co., Ltd."@en;
     schema:name "FTB";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Ftb_logo.svg?width=300>;
     schema:foundingDate "1969-01-29";
     wdt:P3225 "2210001003689";
-    schema:url "https://www.fukui-tv.co.jp/";
+    schema:url <https://www.fukui-tv.co.jp/>;
     schema:address "918-8688";
     wdt:P159 "福井県福井市問屋町三丁目410番地";
     schema:latitude "北緯36.053度";
     schema:longitude "東経136.25352度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOFI-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/福井テレビジョン放送>;
     schema:sameAs <https://www.wikidata.org/entity/Q843351>;
     schema:sameAs <http://ja.dbpedia.org/resource/福井テレビジョン放送>.
@@ -1004,15 +1011,15 @@
     rdfs:label "CHUKYO TV.BROADCASTING CO., LTD."@en;
     schema:name "CTV";
     schema:alternateName "CH"@ja;
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/25px-Flag_of_Japan.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/CHUKYO_TV_logo.svg?width=300>;
     schema:foundingDate "1968-03-01";
     wdt:P3225 "1180001008775";
-    schema:url "https://www.ctv.co.jp/indexmenu.html";
+    schema:url <https://www.ctv.co.jp/indexmenu.html>;
     schema:address "453-8704";
     wdt:P159 "愛知県名古屋市中村区平池町";
     schema:latitude "北緯35.16314度";
     schema:longitude "東経136.8848度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOCH-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/中京テレビ放送>;
     schema:sameAs <https://www.wikidata.org/entity/Q843620>;
     schema:sameAs <http://ja.dbpedia.org/resource/中京テレビ放送>.
@@ -1022,32 +1029,34 @@
     schema:name "NBN";
     schema:alternateName "名古屋テレビ"@ja;
     schema:formerName "中京テレビ放送"@ja;
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/25px-Flag_of_Japan.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Nagoya_Nbn_logo.svg?width=300>;
     schema:foundingDate "1961-09-06";
     wdt:P3225 "6180001039048";
-    schema:url "https://www.nagoyatv.com/";
+    schema:url <https://www.nagoyatv.com/>;
     schema:address "460-8311";
     wdt:P159 "愛知県名古屋市中区橘2丁目10番1号";
     schema:latitude "北緯35.15108度";
     schema:longitude "東経136.90305度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOLX-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/名古屋テレビ放送>;
     schema:sameAs <https://www.wikidata.org/entity/Q909044>;
     schema:sameAs <http://ja.dbpedia.org/resource/名古屋テレビ放送>.
-<https://w3id.org/tvstationjp/org/CBC> rdfs:label "株式会社CBCテレビ"@ja;
+<https://w3id.org/tvstationjp/org/CBCTV> rdfs:label "株式会社CBCテレビ"@ja;
     rdfs:label "シービーシーテレビ"@ja-Kana;
     rdfs:label "CBC TELEVISION CO.,LTD."@en;
-    schema:name "CBC";
+    schema:name "CBCTV";
+    schema:alternateName "CBC"@ja;
     schema:formerName "CBCテレビ分割準備株式会社"@ja;
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Chubu-Nippon_Broadcasting_logo_20150825.svg?width=300>;
     schema:foundingDate "2013-05-10";
     wdt:P3225 "3180001109729";
-    schema:url "https://hicbc.com/tv/";
+    schema:url <https://hicbc.com/tv/>;
     schema:address "460-8405";
     wdt:P159 "愛知県名古屋市中区新栄1丁目2番8号";
     schema:latitude "北緯35.16939度";
     schema:longitude "東経136.91644度";
-    schema:brand <https://w3id.org/tvstationjp/ch/中部日本放送>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOGX-DTV>;
+    schema:ownershipFundingInfo <https://w3id.org/tvstationjp/org/CBC>;
     schema:sameAs <https://ja.wikipedia.org/wiki/CBCテレビ>;
     schema:sameAs <https://www.wikidata.org/entity/Q27621346>;
     schema:sameAs <http://ja.dbpedia.org/resource/CBCテレビ>.
@@ -1055,15 +1064,15 @@
     rdfs:label "てれびあいち"@ja-Kana;
     rdfs:label "Aichi Television Broadcasting Co., Ltd."@en;
     schema:name "TVA";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/25px-Flag_of_Japan.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/TV_Aichi_text_logo_20150824.svg?width=300>;
     schema:foundingDate "1982-12-01";
     wdt:P3225 "9180001038468";
-    schema:url "https://tv-aichi.co.jp/";
+    schema:url <https://tv-aichi.co.jp/>;
     schema:address "460-8325";
     wdt:P159 "愛知県名古屋市中区大須2丁目4番8号";
     schema:latitude "北緯35.1617389度";
     schema:longitude "東経136.9012278度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOCI-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/テレビ愛知>;
     schema:sameAs <https://www.wikidata.org/entity/Q1324062>;
     schema:sameAs <http://ja.dbpedia.org/resource/テレビ愛知>.
@@ -1072,15 +1081,15 @@
     rdfs:label "Tokai Television Broadcasting Co., Ltd."@en;
     schema:name "THK";
     schema:alternateName "FX"@ja;
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/25px-Flag_of_Japan.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Tokai_Television_Broadcasting_logo.png?width=300>;
     schema:foundingDate "1958-02-01";
     wdt:P3225 "9180001017538";
-    schema:url "https://www.tokai-tv.com/index.html";
+    schema:url <https://www.tokai-tv.com/index.html>;
     schema:address "461-8501";
     wdt:P159 "愛知県名古屋市東区東桜1丁目14番27号";
     schema:latitude "北緯35.17051度";
     schema:longitude "東経136.91379度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOFX-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/東海テレビ放送>;
     schema:sameAs <https://www.wikidata.org/entity/Q843776>;
     schema:sameAs <http://ja.dbpedia.org/resource/東海テレビ放送>.
@@ -1088,15 +1097,15 @@
     rdfs:label "ぎふほうそう"@ja-Kana;
     rdfs:label "Gifu Broadcasting System, Inc."@en;
     schema:name "GBS";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/25px-Flag_of_Japan.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Gbs_logo.svg?width=300>;
     schema:foundingDate "1962-09-07";
     wdt:P3225 "5200001001443";
-    schema:url "https://www.zf-web.com/";
+    schema:url <https://www.zf-web.com/>;
     schema:address "500-8588";
     wdt:P159 "岐阜県岐阜市橋本町2丁目52番地 岐阜シティ・タワー43 4階";
     schema:latitude "北緯35.4108度";
     schema:longitude "東経136.75414度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOZF-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/岐阜放送>;
     schema:sameAs <https://www.wikidata.org/entity/Q8013824>;
     schema:sameAs <http://ja.dbpedia.org/resource/岐阜放送>.
@@ -1104,15 +1113,15 @@
     rdfs:label "みえてれびほうそう"@ja-Kana;
     rdfs:label "Mie Television Broadcasting Co., Ltd."@en;
     schema:name "MTV";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/25px-Flag_of_Japan.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Mie_Television.jpg?width=300>;
     schema:foundingDate "1968-03-08";
     wdt:P3225 "6190001001106";
-    schema:url "https://www.mietv.com/";
+    schema:url <https://www.mietv.com/>;
     schema:address "514-8633";
     wdt:P159 "三重県津市渋見町693番1号";
     schema:latitude "北緯34.73486度";
     schema:longitude "東経136.49818度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOMH-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/三重テレビ放送>;
     schema:sameAs <https://www.wikidata.org/entity/Q6133711>;
     schema:sameAs <http://ja.dbpedia.org/resource/三重テレビ放送>.
@@ -1121,15 +1130,15 @@
     rdfs:label "YOMIURI TELECASTING CORPORATION"@en;
     schema:name "ytv";
     schema:formerName "新大阪テレビ放送株式会社"@ja;
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/25px-Flag_of_Japan.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Yomiuri_Telecasting_Corporation_Logo.svg?width=300>;
     schema:foundingDate "1958-02-13";
     wdt:P3225 "2120001091917";
-    schema:url "https://www.ytv.co.jp/index.html";
+    schema:url <https://www.ytv.co.jp/index.html>;
     schema:address "540-8510";
     wdt:P159 "大阪府大阪市中央区城見1丁目3番50号";
     schema:latitude "北緯34.69073度";
     schema:longitude "東経135.53171度";
-    schema:brand <https://w3id.org/tvstationjp/ch/読テレ>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOIX-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/讀賣テレビ放送>;
     schema:sameAs <https://www.wikidata.org/entity/Q1142348>;
     schema:sameAs <http://ja.dbpedia.org/resource/讀賣テレビ放送>.
@@ -1138,15 +1147,16 @@
     rdfs:label "Asahi Television Broadcasting Corporation"@en;
     schema:name "ABC";
     schema:formerName "朝日放送テレビ分割準備会社株式会社"@ja;
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Asahi_Broadcasting_Corporation_Logo.svg?width=300>;
     schema:foundingDate "2017-04-05";
     wdt:P3225 "8120001204927";
-    schema:url "https://www.asahi.co.jp/";
+    schema:url <https://www.asahi.co.jp/>;
     schema:address "553-8503";
     wdt:P159 "大阪府大阪市福島区福島1丁目1番30号";
     schema:latitude "北緯34.6936度";
     schema:longitude "東経135.48816度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOAY-DTV>;
+    schema:ownershipFundingInfo <https://w3id.org/tvstationjp/org/ABCGHD>;
     schema:sameAs <https://ja.wikipedia.org/wiki/朝日放送テレビ>;
     schema:sameAs <https://www.wikidata.org/entity/Q11188768>;
     schema:sameAs <http://ja.dbpedia.org/resource/朝日放送テレビ>.
@@ -1155,15 +1165,16 @@
     rdfs:label "MAINICHI BROADCASTING SYSTEM, INC."@en;
     schema:name "MBS";
     schema:formerName "毎日放送分割準備株式会社"@ja;
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/25px-Flag_of_Japan.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Mainichi_Broadcasting_System_logo.svg?width=300>;
     schema:foundingDate "2016-07-28";
     wdt:P3225 "3120001199924";
-    schema:url "https://www.mbs.jp/";
+    schema:url <https://www.mbs.jp/>;
     schema:address "530-8304";
     wdt:P159 "大阪府大阪市北区茶屋町17番1号";
     schema:latitude "北緯34.7083度";
     schema:longitude "東経135.50031度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOOY-DTV>;
+    schema:ownershipFundingInfo <https://w3id.org/tvstationjp/org/MBSHD>;
     schema:sameAs <https://ja.wikipedia.org/wiki/毎日放送>;
     schema:sameAs <https://www.wikidata.org/entity/Q1331921>;
     schema:sameAs <http://ja.dbpedia.org/resource/毎日放送>.
@@ -1171,15 +1182,15 @@
     rdfs:label "てれびおおさか"@ja-Kana;
     rdfs:label "Television Osaka, Inc."@en;
     schema:name "TVO";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/25px-Flag_of_Japan.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Tv_osaka_logo.svg?width=300>;
     schema:foundingDate "1981-01-23";
     wdt:P3225 "2120001085068";
-    schema:url "https://www.tv-osaka.co.jp/";
+    schema:url <https://www.tv-osaka.co.jp/>;
     schema:address "540-8519";
     wdt:P159 "大阪府大阪市中央区大手前1丁目2番18号";
     schema:latitude "北緯34.6908度";
     schema:longitude "東経135.52095度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOBH-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/テレビ大阪>;
     schema:sameAs <https://www.wikidata.org/entity/Q1324709>;
     schema:sameAs <http://ja.dbpedia.org/resource/テレビ大阪>.
@@ -1188,15 +1199,15 @@
     rdfs:label "Kansai Television Co. Ltd."@en;
     schema:name "KTV";
     schema:formerName "大関西テレビ放送株式会社"@ja;
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/25px-Flag_of_Japan.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Ktv_logo.svg?width=300>;
     schema:foundingDate "1957-02-01";
     wdt:P3225 "9120001059627";
-    schema:url "https://www.ktv.jp/";
+    schema:url <https://www.ktv.jp/>;
     schema:address "530-8408";
     wdt:P159 "大阪府大阪市北区扇町2丁目1番7号";
     schema:latitude "北緯34.70427度";
     schema:longitude "東経135.50993度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JODX-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/関西テレビ放送>;
     schema:sameAs <https://www.wikidata.org/entity/Q1143147>;
     schema:sameAs <http://ja.dbpedia.org/resource/関西テレビ放送>.
@@ -1205,15 +1216,15 @@
     rdfs:label "Sun Television Co., Ltd."@en;
     schema:name "SUN";
     schema:formerName "兵庫テレビ放送株式会社"@ja;
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/SUN-TV_wordmark_2019.png?width=300>;
     schema:foundingDate "1968-03-08";
     wdt:P3225 "4140001007976";
-    schema:url "https://sun-tv.co.jp/";
+    schema:url <https://sun-tv.co.jp/>;
     schema:address "650-8536";
     wdt:P159 "兵庫県神戸市中央区東川崎町1丁目1番1号";
     schema:latitude "北緯34.68079度";
     schema:longitude "東経135.1803度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOUH-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/サンテレビジョン>;
     schema:sameAs <https://www.wikidata.org/entity/Q328268>;
     schema:sameAs <http://ja.dbpedia.org/resource/サンテレビジョン>.
@@ -1222,15 +1233,15 @@
     rdfs:label "Kyoto Broadcasting System Company Limited"@en;
     schema:name "KBS";
     schema:formerName "京都放送株式会社"@ja;
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Kbs_logo.svg?width=300>;
     schema:foundingDate "1951-06-26";
     wdt:P3225 "4130001004198";
-    schema:url "https://www.kbs-kyoto.co.jp/";
+    schema:url <https://www.kbs-kyoto.co.jp/>;
     schema:address "602-8588";
     wdt:P159 "京都府京都市上京区烏丸通一条下ル龍前町600番地の1";
     schema:latitude "北緯35.02877度";
     schema:longitude "東経135.74498度";
-    schema:brand <https://w3id.org/tvstationjp/ch/KBSテレビ>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOBR-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/京都放送>;
     schema:sameAs <https://www.wikidata.org/entity/Q1065614>;
     schema:sameAs <http://ja.dbpedia.org/resource/京都放送>.
@@ -1238,15 +1249,15 @@
     rdfs:label "びわこほうそう"@ja-Kana;
     rdfs:label "Biwako Broadcasting Co., Ltd."@en;
     schema:name "BBC";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/25px-Flag_of_Japan.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Bbc_logo.svg?width=300>;
     schema:foundingDate "1971-05-22";
     wdt:P3225 "6160001001678";
-    schema:url "https://www.bbc-tv.co.jp/";
+    schema:url <https://www.bbc-tv.co.jp/>;
     schema:address "520-8585";
     wdt:P159 "滋賀県大津市鶴の里16番1号";
     schema:latitude "北緯34.99125度";
     schema:longitude "東経135.87053度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOBL-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/びわ湖放送>;
     schema:sameAs <https://www.wikidata.org/entity/Q908776>;
     schema:sameAs <http://ja.dbpedia.org/resource/びわ湖放送>.
@@ -1254,15 +1265,15 @@
     rdfs:label "ならてれびほうそう"@ja-Kana;
     rdfs:label "NARA TELEVISION CO.,LTD"@en;
     schema:name "TVN";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/25px-Flag_of_Japan.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Tvn_logo.svg?width=300>;
     schema:foundingDate "1972-02-07";
     wdt:P3225 "3150001001748";
-    schema:url "https://www.naratv.co.jp/";
+    schema:url <https://www.naratv.co.jp/>;
     schema:address "630-8575";
     wdt:P159 "奈良県奈良市法蓮佐保山3丁目1番11号";
     schema:latitude "北緯34.69933度";
     schema:longitude "東経135.82814度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JONM-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/奈良テレビ放送>;
     schema:sameAs <https://www.wikidata.org/entity/Q6134207>;
     schema:sameAs <http://ja.dbpedia.org/resource/奈良テレビ放送>.
@@ -1270,15 +1281,15 @@
     rdfs:label "てれびわかやま"@ja-Kana;
     rdfs:label "Wakayama Telecasting Corp."@en;
     schema:name "WTV";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/25px-Flag_of_Japan.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Wtv_logo_ja.svg?width=300>;
     schema:foundingDate "1973-06-07";
     wdt:P3225 "2170001002191";
-    schema:url "https://www.tv-wakayama.co.jp/";
+    schema:url <https://www.tv-wakayama.co.jp/>;
     schema:address "640-8533";
     wdt:P159 "和歌山県和歌山市栄谷151番地";
     schema:latitude "北緯34.25676度";
     schema:longitude "東経135.15517度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOOM-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/テレビ和歌山>;
     schema:sameAs <https://www.wikidata.org/entity/Q8013759>;
     schema:sameAs <http://ja.dbpedia.org/resource/テレビ和歌山>.
@@ -1286,15 +1297,15 @@
     rdfs:label "しこくほうそう"@ja-Kana;
     rdfs:label "Shikoku Broadcasting Co., Ltd."@en;
     schema:name "JRT";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/25px-Flag_of_Japan.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Jrt_logo.svg?width=300>;
     schema:foundingDate "1952-04-07";
     wdt:P3225 "9480001000851";
-    schema:url "https://www.jrt.co.jp/";
+    schema:url <https://www.jrt.co.jp/>;
     schema:address "770-8573";
     wdt:P159 "徳島県徳島市中徳島町2丁目5番2号徳島新聞放送会館内";
     schema:latitude "北緯34.07383度";
     schema:longitude "東経134.55873度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOJR-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/四国放送>;
     schema:sameAs <https://www.wikidata.org/entity/Q3082660>;
     schema:sameAs <http://ja.dbpedia.org/resource/四国放送>.
@@ -1303,15 +1314,15 @@
     rdfs:label "Kochi Broadcasting Co., Ltd."@en;
     schema:name "RKC";
     schema:formerName "株式会社ラジオ高知"@ja;
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Rkc_logo.svg?width=300>;
     schema:foundingDate "1953-02-18";
     wdt:P3225 "2490001001178";
-    schema:url "https://www.rkc-kochi.co.jp/";
+    schema:url <https://www.rkc-kochi.co.jp/>;
     schema:address "780-8550";
     wdt:P159 "高知県高知市本町三丁目2番8号";
     schema:latitude "北緯33.558944度";
     schema:longitude "東経133.534694度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOZR-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/高知放送>;
     schema:sameAs <https://www.wikidata.org/entity/Q3082667>;
     schema:sameAs <http://ja.dbpedia.org/resource/高知放送>.
@@ -1319,15 +1330,15 @@
     rdfs:label "てれびこうち"@ja-Kana;
     rdfs:label "TV KOCHI BROADCASTING CO., LTD."@en;
     schema:name "KUTV";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Kutv_logo.svg?width=300>;
     schema:foundingDate "1969-04-08";
     wdt:P3225 "1490001001518";
-    schema:url "https://www.kutv.co.jp/";
+    schema:url <https://www.kutv.co.jp/>;
     schema:address "780-8577";
     wdt:P159 "高知県高知市北本町三丁目4番27号";
     schema:latitude "北緯33.565528度";
     schema:longitude "東経133.550250度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JORI-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/テレビ高知>;
     schema:sameAs <https://www.wikidata.org/entity/Q8015048>;
     schema:sameAs <http://ja.dbpedia.org/resource/テレビ高知>.
@@ -1335,15 +1346,15 @@
     rdfs:label "こうちさんさんてれび"@ja-Kana;
     rdfs:label "Kochi Sun Sun Broadcasting, Inc."@en;
     schema:name "KSS";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Kochi_Sun_Sun_Broadcasting.png?width=300>;
     schema:foundingDate "1996-06-03";
     wdt:P3225 "3490001001004";
-    schema:url "https://www.sunsuntv.co.jp/";
+    schema:url <https://www.sunsuntv.co.jp/>;
     schema:address "781-9533";
     wdt:P159 "高知県高知市若松町10番11号";
     schema:latitude "北緯33.553250度";
     schema:longitude "東経133.562333度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOQX-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/高知さんさんテレビ>;
     schema:sameAs <https://www.wikidata.org/entity/Q8014668>;
     schema:sameAs <http://ja.dbpedia.org/resource/高知さんさんテレビ>.
@@ -1351,15 +1362,15 @@
     rdfs:label "なんかいほうそう"@ja-Kana;
     rdfs:label "Nankai Broadcasting Company, Ltd."@en;
     schema:name "RNB";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/25px-Flag_of_Japan.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Rnb_logo.svg?width=300>;
     schema:foundingDate "1953-09-29";
     wdt:P3225 "6500001002963";
-    schema:url "https://www.rnb.co.jp/";
+    schema:url <https://www.rnb.co.jp/>;
     schema:address "790-8510";
     wdt:P159 "愛媛県松山市本町1丁目1番1号";
     schema:latitude "北緯33.84088度";
     schema:longitude "東経132.75842度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOAF-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/南海放送>;
     schema:sameAs <https://www.wikidata.org/entity/Q843695>;
     schema:sameAs <http://ja.dbpedia.org/resource/南海放送>.
@@ -1367,15 +1378,15 @@
     rdfs:label "えひめあさひほうそう"@ja-Kana;
     rdfs:label "Ehime Asahi Television, Inc."@en;
     schema:name "eat";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Eat_logo.svg?width=300>;
     schema:foundingDate "1994-04-08";
     wdt:P3225 "4500001000671";
-    schema:url "https://eat.jp/";
+    schema:url <https://eat.jp/>;
     schema:address "790-8525";
     wdt:P159 "愛媛県松山市和泉北1丁目14-11";
     schema:latitude "北緯33.824333度";
     schema:longitude "東経132.758667度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOEY-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/愛媛朝日テレビ>;
     schema:sameAs <https://www.wikidata.org/entity/Q843337>;
     schema:sameAs <http://ja.dbpedia.org/resource/愛媛朝日テレビ>.
@@ -1385,15 +1396,15 @@
     schema:name "itv";
     schema:alternateName "ITV"@ja;
     schema:formerName "株式会社伊予テレビ"@ja;
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Itv_logo.svg?width=300>;
     schema:foundingDate "1991-07-03";
     wdt:P3225 "4500001000481";
-    schema:url "https://www.itv6.jp/";
+    schema:url <https://www.itv6.jp/>;
     schema:address "790-8529";
     wdt:P159 "愛媛県松山市竹原町1丁目5-25";
     schema:latitude "北緯33.833778度";
     schema:longitude "東経132.755639度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOEH-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/あいテレビ>;
     schema:sameAs <https://www.wikidata.org/entity/Q843358>;
     schema:sameAs <http://ja.dbpedia.org/resource/あいテレビ>.
@@ -1402,15 +1413,15 @@
     rdfs:label "Ehime Broadcasting Co., Ltd."@en;
     schema:name "EBC";
     schema:formerName "愛媛放送株式会社"@ja;
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Ebc_logo.svg?width=300>;
     schema:foundingDate "1969-01-20";
     wdt:P3225 "8500001000817";
-    schema:url "https://www.ebc.co.jp/";
+    schema:url <https://www.ebc.co.jp/>;
     schema:address "790-8537";
     wdt:P159 "愛媛県松山市真砂町119番地";
     schema:latitude "北緯33.832361度";
     schema:longitude "東経132.759583度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOEI-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/テレビ愛媛>;
     schema:sameAs <https://www.wikidata.org/entity/Q843135>;
     schema:sameAs <http://ja.dbpedia.org/resource/テレビ愛媛>.
@@ -1418,15 +1429,15 @@
     rdfs:label "にしにっぽんほうそう"@ja-Kana;
     rdfs:label "Nishinippon Broadcasting Company, Limited"@en;
     schema:name "RNC";
-    schema:logo <https://www.wikidata.org/wiki/Q843732#/media/File:Rnc_logo.svg>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Nishinippon_Broadcasting_Company_Headquarters.jpg?width=300>;
     schema:foundingDate "1953-07-29";
     wdt:P3225 "2470001003201";
-    schema:url "https://www.rnc.co.jp/tv/";
+    schema:url <https://www.rnc.co.jp/tv/>;
     schema:address "760-8575";
     wdt:P159 "香川県高松市丸の内8番15号";
     schema:latitude "北緯34.34759度";
     schema:longitude "東経134.05084度";
-    schema:brand <https://w3id.org/tvstationjp/ch/RNC西日本放送>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOKF-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/西日本放送>;
     schema:sameAs <https://www.wikidata.org/entity/Q843732>;
     schema:sameAs <http://ja.dbpedia.org/resource/西日本放送>.
@@ -1435,15 +1446,15 @@
     rdfs:label "Setonaikai Broadcasting Corporation"@en;
     schema:name "KSB";
     schema:formerName "株式会社新日本放送"@ja;
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/KSB_logo_2020.svg?width=300>;
     schema:foundingDate "1967-11-22";
     wdt:P3225 "7470001002330";
-    schema:url "https://www.ksb.co.jp/";
+    schema:url <https://www.ksb.co.jp/>;
     schema:address "761-8581";
     wdt:P159 "香川県高松市上之町二丁目1番43号";
     schema:latitude "北緯34.321611度";
     schema:longitude "東経134.046889度";
-    schema:brand <https://w3id.org/tvstationjp/ch/瀬戸内海テレビ>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOVH-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/瀬戸内海放送>;
     schema:sameAs <https://www.wikidata.org/entity/Q843734>;
     schema:sameAs <http://ja.dbpedia.org/resource/瀬戸内海放送>.
@@ -1452,15 +1463,16 @@
     rdfs:label "RSK Sanyo Broadcasting Co, Ltd."@en;
     schema:name "RSK";
     schema:formerName "山陽放送分割準備株式会社"@ja;
-    schema:logo <https://www.wikidata.org/wiki/Q843784#/media/File:Rsk_logo.svg>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Rsk_logo.svg?width=300>;
     schema:foundingDate "2018-05-25";
     wdt:P3225 "2260001032072";
-    schema:url "https://www.rsk.co.jp/tv/";
+    schema:url <https://www.rsk.co.jp/tv/>;
     schema:address "700-8580";
     wdt:P159 "岡山県岡山市北区天神町9番24号";
     schema:latitude "北緯34.66711度";
     schema:longitude "東経133.9304度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOYR-DTV>;
+    schema:ownershipFundingInfo <https://w3id.org/tvstationjp/org/RSKHD>;
     schema:sameAs <https://ja.wikipedia.org/wiki/RSK山陽放送>;
     schema:sameAs <https://www.wikidata.org/entity/Q843784>;
     schema:sameAs <http://ja.dbpedia.org/resource/RSK山陽放送>.
@@ -1468,15 +1480,15 @@
     rdfs:label "てれびせとうち"@ja-Kana;
     rdfs:label "TV SETOUCHI BROADCASTING CO.,LTD."@en;
     schema:name "TSC";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Tsc_logo.svg?width=300>;
     schema:foundingDate "1984-10-09";
     wdt:P3225 "4260001004581";
-    schema:url "https://www.webtsc.com/";
+    schema:url <https://www.webtsc.com/>;
     schema:address "700-8677";
     wdt:P159 "岡山県岡山市北区柳町二丁目1番1号 山陽新聞社本社ビル";
     schema:latitude "北緯34.658083度";
     schema:longitude "東経133.920194度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOPH-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/テレビせとうち>;
     schema:sameAs <https://www.wikidata.org/entity/Q328264>;
     schema:sameAs <http://ja.dbpedia.org/resource/テレビせとうち>.
@@ -1484,15 +1496,15 @@
     rdfs:label "おかやまほうそう"@ja-Kana;
     rdfs:label "Okayama Broadcasting Co., Ltd."@en;
     schema:name "OHK";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Ohk_logo.svg?width=300>;
     schema:foundingDate "1968-03-26";
     wdt:P3225 "5260001001256";
-    schema:url "https://www.ohk.co.jp/";
+    schema:url <https://www.ohk.co.jp/>;
     schema:address "700-8635";
     wdt:P159 "岡山県岡山市北区下石井2丁目10-107";
     schema:latitude "北緯34.6582度";
     schema:longitude "東経133.91795度";
-    schema:brand <https://w3id.org/tvstationjp/ch/OHK岡山放送>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOOH-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/岡山放送>;
     schema:sameAs <https://www.wikidata.org/entity/Q843730>;
     schema:sameAs <http://ja.dbpedia.org/resource/岡山放送>.
@@ -1500,15 +1512,15 @@
     rdfs:label "にほんかいテレビジョンほうそう"@ja-Kana;
     rdfs:label "NIHONKAI TELECASTING CO., LTD."@en;
     schema:name "NKT";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/NKT_logo_2018.png?width=300>;
     schema:foundingDate "1958-03-03";
     wdt:P3225 "9270001000567";
-    schema:url "https://www.nkt-tv.co.jp/";
+    schema:url <https://www.nkt-tv.co.jp/>;
     schema:address "680-8572";
     wdt:P159 "鳥取県鳥取市田園町4丁目360番地";
     schema:latitude "北緯35.51446度";
     schema:longitude "東経134.22336度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOJX-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/日本海テレビジョン放送>;
     schema:sameAs <https://www.wikidata.org/entity/Q843738>;
     schema:sameAs <http://ja.dbpedia.org/resource/日本海テレビジョン放送>.
@@ -1517,15 +1529,15 @@
     rdfs:label "Broadcasting System of San-in"@en;
     schema:name "BSS";
     schema:formerName "株式会社ラジオ山陰"@ja;
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/25px-Flag_of_Japan.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/BSS-Sanin.png?width=300>;
     schema:foundingDate "1953-12-24";
     wdt:P3225 "7270001003679";
-    schema:url "https://www.bss.jp/";
+    schema:url <https://www.bss.jp/>;
     schema:address "683-8670";
     wdt:P159 "鳥取県米子市西福原1丁目1番71号";
     schema:latitude "北緯35.43832度";
     schema:longitude "東経133.34029度";
-    schema:brand <https://w3id.org/tvstationjp/ch/BSS山陰放送>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOHF-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/山陰放送>;
     schema:sameAs <https://www.wikidata.org/entity/Q843770>;
     schema:sameAs <http://ja.dbpedia.org/resource/山陰放送>.
@@ -1534,15 +1546,15 @@
     rdfs:label "San-in Chuo Television Broadcasting Co., Ltd."@en;
     schema:name "TSK";
     schema:formerName "島根放送株式会社"@ja;
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/TSK_4th.svg?width=300>;
     schema:foundingDate "1969-01-17";
     wdt:P3225 "8280001000253";
-    schema:url "https://tsk-tv.com/";
+    schema:url <https://tsk-tv.com/>;
     schema:address "690-8666";
     wdt:P159 "島根県松江市向島町140-1";
     schema:latitude "北緯35.46872度";
     schema:longitude "東経133.0641度";
-    schema:brand <https://w3id.org/tvstationjp/ch/山陰中央>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOMI-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/山陰中央テレビジョン放送>;
     schema:sameAs <https://www.wikidata.org/entity/Q843760>;
     schema:sameAs <http://ja.dbpedia.org/resource/山陰中央テレビジョン放送>.
@@ -1550,15 +1562,15 @@
     rdfs:label "ひろしまてれびほうそう"@ja-Kana;
     rdfs:label "Hiroshima Television Corporation"@en;
     schema:name "HTV";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Htv_formal_logo.svg?width=300>;
     schema:foundingDate "1962-09-01";
     wdt:P3225 "5240001009508";
-    schema:url "https://www.htv.jp/";
+    schema:url <https://www.htv.jp/>;
     schema:address "732-8575";
     wdt:P159 "広島県広島市東区二葉の里3丁目5番4号 広テレビル";
     schema:latitude "北緯34.40179度";
     schema:longitude "東経132.47302度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JONX-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/広島テレビ放送>;
     schema:sameAs <https://www.wikidata.org/entity/Q593799>;
     schema:sameAs <http://ja.dbpedia.org/resource/広島テレビ放送>.
@@ -1566,15 +1578,15 @@
     rdfs:label "ひろしまほーむてれび"@ja-Kana;
     rdfs:label "Hiroshima Home Television Co.,Ltd."@en;
     schema:name "HOME";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Hometv_logo.svg?width=300>;
     schema:foundingDate "1969-12-25";
     wdt:P3225 "4240001009566";
-    schema:url "https://www.home-tv.co.jp/";
+    schema:url <https://www.home-tv.co.jp/>;
     schema:address "730-8552";
     wdt:P159 "広島県広島市中区白島北町19番2号";
     schema:latitude "北緯34.41357度";
     schema:longitude "東経132.46237度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOGM-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/広島ホームテレビ>;
     schema:sameAs <https://www.wikidata.org/entity/Q843332>;
     schema:sameAs <http://ja.dbpedia.org/resource/広島ホームテレビ>.
@@ -1583,15 +1595,15 @@
     rdfs:label "RCC Broadcasting Co.,Ltd."@en;
     schema:name "RCC";
     schema:formerName "広島放送"@ja;
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/25px-Flag_of_Japan.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Rcc_logo_2022.svg?width=300>;
     schema:foundingDate "1952-05-07";
     wdt:P3225 "3240001006770";
-    schema:url "https://rcc.jp/";
+    schema:url <https://rcc.jp/>;
     schema:address "730-8504";
     wdt:P159 "広島県広島市中区基町21番3号";
     schema:latitude "北緯34.40149度";
     schema:longitude "東経132.45949度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOER-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/中国放送>;
     schema:sameAs <https://www.wikidata.org/entity/Q843624>;
     schema:sameAs <http://ja.dbpedia.org/resource/中国放送>.
@@ -1599,15 +1611,15 @@
     rdfs:label "てれびしんひろしま"@ja-Kana;
     rdfs:label "TSS-TV Co., Ltd."@en;
     schema:name "TSS";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Tss_logo.svg?width=300>;
     schema:foundingDate "1974-08-08";
     wdt:P3225 "6240001007304";
-    schema:url "https://www.tss-tv.co.jp/";
+    schema:url <https://www.tss-tv.co.jp/>;
     schema:address "734-8585";
     wdt:P159 "広島県広島市南区出汐二丁目3番19号";
     schema:latitude "北緯34.37801度";
     schema:longitude "東経132.47537度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JORM-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/テレビ新広島>;
     schema:sameAs <https://www.wikidata.org/entity/Q843314>;
     schema:sameAs <http://ja.dbpedia.org/resource/テレビ新広島>.
@@ -1616,15 +1628,15 @@
     rdfs:label "Yamaguchi Broadcasting Co., Ltd."@en;
     schema:name "KRY";
     schema:formerName "株式会社ラジオ山口"@ja;
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/25px-Flag_of_Japan.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Kry_logo.svg?width=300>;
     schema:foundingDate "1956-03-06";
     wdt:P3225 "6250001009332";
-    schema:url "https://kry.co.jp/";
+    schema:url <https://kry.co.jp/>;
     schema:address "745-8686";
     wdt:P159 "山口県周南市徳山5853番地の2";
     schema:latitude "北緯34.0619度";
     schema:longitude "東経131.8136度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOPF-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/山口放送>;
     schema:sameAs <https://www.wikidata.org/entity/Q843652>;
     schema:sameAs <http://ja.dbpedia.org/resource/山口放送>.
@@ -1632,15 +1644,15 @@
     rdfs:label "やまぐちあさひほうそう"@ja-Kana;
     rdfs:label "Yamaguchi Asahi Broadcasting Co., Ltd."@en;
     schema:name "yab";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Yab_logo.svg?width=300>;
     schema:foundingDate "1992-11-20";
     wdt:P3225 "2250001000609";
-    schema:url "https://www.yab.co.jp/";
+    schema:url <https://www.yab.co.jp/>;
     schema:address "753-8570";
     wdt:P159 "山口県山口市中央三丁目5番25号";
     schema:latitude "北緯34.17476度";
     schema:longitude "東経131.4726度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOYX-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/山口朝日放送>;
     schema:sameAs <https://www.wikidata.org/entity/Q8191612>;
     schema:sameAs <http://ja.dbpedia.org/resource/山口朝日放送>.
@@ -1648,15 +1660,15 @@
     rdfs:label "てれびやまぐち"@ja-Kana;
     rdfs:label "Television Yamaguchi Broadcasting Systems Co., Ltd."@en;
     schema:name "tys";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Tys_logo.svg?width=300>;
     schema:foundingDate "1969-04-01";
     wdt:P3225 "2250001000435";
-    schema:url "https://tys.co.jp/";
+    schema:url <https://tys.co.jp/>;
     schema:address "753-0292";
     wdt:P159 "山口県山口市大内千坊六丁目7番1号";
     schema:latitude "北緯34.14926度";
     schema:longitude "東経131.49329度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOLI-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/テレビ山口>;
     schema:sameAs <https://www.wikidata.org/entity/Q8013707>;
     schema:sameAs <http://ja.dbpedia.org/resource/テレビ山口>.
@@ -1664,15 +1676,15 @@
     rdfs:label "ふくおかほうそう"@ja-Kana;
     rdfs:label "Fukuoka Broadcasting System Corporation"@en;
     schema:name "FBS";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Fbs_logo.svg?width=300>;
     schema:foundingDate "1968-05-27";
     wdt:P3225 "3290001010017";
-    schema:url "https://www.fbs.co.jp/";
+    schema:url <https://www.fbs.co.jp/>;
     schema:address "810-8655";
     wdt:P159 "福岡県福岡市中央区清川二丁目22番8号";
     schema:latitude "北緯33.58035度";
     schema:longitude "東経130.40854度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOFH-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/福岡放送>;
     schema:sameAs <https://www.wikidata.org/entity/Q843667>;
     schema:sameAs <http://ja.dbpedia.org/resource/福岡放送>.
@@ -1681,50 +1693,52 @@
     rdfs:label "KYUSHU ASAHI BROADCASTING CO., LTD."@en;
     schema:name "KBC";
     schema:formerName "九州朝日放送分割準備会社株式会社"@ja;
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/KBC_1988.svg?width=300>;
     schema:foundingDate "2022-04-01";
     wdt:P3225 "9290001097189";
-    schema:url "https://kbc.co.jp/tv";
+    schema:url <https://kbc.co.jp/tv>;
     schema:address "810-8571";
     wdt:P159 "福岡県福岡市中央区長浜1丁目1番1号";
     schema:latitude "北緯33.59571度";
     schema:longitude "東経130.39636度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOIF-DTV>;
+    schema:ownershipFundingInfo <https://w3id.org/tvstationjp/org/KBCGHD>;
     schema:sameAs <https://ja.wikipedia.org/wiki/九州朝日放送>;
     schema:sameAs <https://www.wikidata.org/entity/Q843686>;
     schema:sameAs <http://ja.dbpedia.org/resource/九州朝日放送>.
 <https://w3id.org/tvstationjp/org/RKB> rdfs:label "RKB毎日放送株式会社"@ja;
-    rdfs:label "アール・ケー・ビーまいにちほうそう"@ja-Kana;
+    rdfs:label "アールケービーまいにちほうそう"@ja-Kana;
     rdfs:label "RKB MAINICHI BROADCASTING CORPORATION"@en;
     schema:name "RKB";
     schema:formerName "RKB毎日分割準備株式会社"@ja;
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/RKB_Mainichi_Broadcasting_logo_2005.svg?width=300>;
     schema:foundingDate "2015-09-29";
     wdt:P3225 "3290001071513";
-    schema:url "https://rkb.jp/";
+    schema:url <https://rkb.jp/>;
     schema:address "814-8585";
     wdt:P159 "福岡県福岡市早良区百道浜2丁目3番8号";
     schema:latitude "北緯33.5930139度";
     schema:longitude "東経130.3508778度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOFR-DTV>;
+    schema:ownershipFundingInfo <https://w3id.org/tvstationjp/org/RKBHD>;
     schema:sameAs <https://ja.wikipedia.org/wiki/RKB毎日放送>;
     schema:sameAs <https://www.wikidata.org/entity/Q908883>;
     schema:sameAs <http://ja.dbpedia.org/resource/RKB毎日放送>.
 <https://w3id.org/tvstationjp/org/TVQ> rdfs:label "株式会社TVQ九州放送"@ja;
-    rdfs:label "ティー・ヴィー・キューきゅうしゅうほうそう"@ja-Kana;
+    rdfs:label "ティーヴィーキューきゅうしゅうほうそう"@ja-Kana;
     rdfs:label "TVQ KYUSHU BROADCASTING CO., LTD."@en;
     schema:name "TVQ";
     schema:alternateName "テレQ"@ja;
     schema:formerName "株式会社ティー・エックス・エヌ九州"@ja;
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/25px-Flag_of_Japan.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/2019_tvq_logo.svg?width=300>;
     schema:foundingDate "1990-09-01";
     wdt:P3225 "4290001014719";
-    schema:url "https://www.tvq.co.jp/";
+    schema:url <https://www.tvq.co.jp/>;
     schema:address "812-8570";
     wdt:P159 "福岡県福岡市博多区住吉2丁目3-1日経西部電波会館内";
     schema:latitude "北緯33.58853度";
     schema:longitude "東経130.41318度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOTY-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/TVQ九州放送>;
     schema:sameAs <https://www.wikidata.org/entity/Q908089>;
     schema:sameAs <http://ja.dbpedia.org/resource/TVQ九州放送>.
@@ -1732,15 +1746,15 @@
     rdfs:label "テレビにしにっぽん"@ja-Kana;
     rdfs:label "Television Nishinippon Corporation"@en;
     schema:name "TNC";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Tnc_logo.svg?width=300>;
     schema:foundingDate "1958-04-01";
     wdt:P3225 "8290001005441";
-    schema:url "http://www.tnc.co.jp";
+    schema:url <http://www.tnc.co.jp>;
     schema:address "814-8555";
     wdt:P159 "福岡県福岡市早良区百道浜2丁目3番2号";
     schema:latitude "北緯33.59208度";
     schema:longitude "東経130.35304度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOJY-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/テレビ西日本>;
     schema:sameAs <https://www.wikidata.org/entity/Q843613>;
     schema:sameAs <http://ja.dbpedia.org/resource/テレビ西日本>.
@@ -1749,15 +1763,15 @@
     rdfs:label "Saga Television Station Co., Ltd."@en;
     schema:name "STS";
     schema:formerName "佐賀放送株式会社"@ja;
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Sagatv_logo.svg?width=300>;
     schema:foundingDate "1967-11-01";
     wdt:P3225 "6300001000509";
-    schema:url "https://www.sagatv.co.jp/";
+    schema:url <https://www.sagatv.co.jp/>;
     schema:address "840-8558";
     wdt:P159 "佐賀県佐賀市城内1丁目6番10号";
     schema:latitude "北緯33.24698度";
     schema:longitude "東経130.30074度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOSH-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/サガテレビ>;
     schema:sameAs <https://www.wikidata.org/entity/Q8192634>;
     schema:sameAs <http://ja.dbpedia.org/resource/サガテレビ>.
@@ -1765,15 +1779,15 @@
     rdfs:label "ながさきこくさいてれび"@ja-Kana;
     rdfs:label "NAGASAKI INTERNATIONAL TELEVISION BROADCASTING, INC."@en;
     schema:name "NIB";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Nib_logo.svg?width=300>;
     schema:foundingDate "1990-12-06";
     wdt:P3225 "7310001001307";
-    schema:url "https://www.nib.jp/";
+    schema:url <https://www.nib.jp/>;
     schema:address "850-8504";
     wdt:P159 "長崎県長崎市出島町11-1";
     schema:latitude "北緯32.74301度";
     schema:longitude "東経129.87283度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOXH-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/長崎国際テレビ>;
     schema:sameAs <https://www.wikidata.org/entity/Q15731734>;
     schema:sameAs <http://ja.dbpedia.org/resource/長崎国際テレビ>.
@@ -1781,15 +1795,15 @@
     rdfs:label "ながさきぶんかほうそう"@ja-Kana;
     rdfs:label "Nagasaki Culture Telecasting Corporation"@en;
     schema:name "NCC";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Nagasaki_Culture_Telecasting_Corporation_Logo.svg?width=300>;
     schema:foundingDate "1988-12-27";
     wdt:P3225 "2310001001468";
-    schema:url "https://www.ncctv.co.jp/";
+    schema:url <https://www.ncctv.co.jp/>;
     schema:address "852-8527";
     wdt:P159 "長崎県長崎市茂里町3番2号";
     schema:latitude "北緯32.76392度";
     schema:longitude "東経129.8632度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOXI-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/長崎文化放送>;
     schema:sameAs <https://www.wikidata.org/entity/Q3082332>;
     schema:sameAs <http://ja.dbpedia.org/resource/長崎文化放送>.
@@ -1797,15 +1811,15 @@
     rdfs:label "ながさきほうそう"@ja-Kana;
     rdfs:label "Nagasaki Broadcasting Co.,Ltd."@en;
     schema:name "NBC";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Logo-nbc_nagasaki_new.png?width=300>;
     schema:foundingDate "1952-09-12";
     wdt:P3225 "9310001001453";
-    schema:url "https://www.nbc-nagasaki.co.jp/";
+    schema:url <https://www.nbc-nagasaki.co.jp/>;
     schema:address "850-8650";
     wdt:P159 "長崎県長崎市尾上町5番6号";
     schema:latitude "北緯32.754000度";
     schema:longitude "東経129.867361度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOUR-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/長崎放送>;
     schema:sameAs <https://www.wikidata.org/entity/Q8014791>;
     schema:sameAs <http://ja.dbpedia.org/resource/長崎放送>.
@@ -1813,15 +1827,15 @@
     rdfs:label "てれびながさき"@ja-Kana;
     rdfs:label "Television Nagasaki Co., Ltd."@en;
     schema:name "KTN";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Ktn_logo.svg?width=300>;
     schema:foundingDate "1968-03-01";
     wdt:P3225 "5310001001192";
-    schema:url "https://www.ktn.co.jp/";
+    schema:url <https://www.ktn.co.jp/>;
     schema:address "850-8688";
     wdt:P159 "長崎県長崎市金屋町1番7号";
     schema:latitude "北緯32.74918度";
     schema:longitude "東経129.87413度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOWH-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/テレビ長崎>;
     schema:sameAs <https://www.wikidata.org/entity/Q8014635>;
     schema:sameAs <http://ja.dbpedia.org/resource/テレビ長崎>.
@@ -1829,15 +1843,15 @@
     rdfs:label "くまもとけんみんてれび"@ja-Kana;
     rdfs:label "Kumamoto Kenmin Televisions Co., Ltd."@en;
     schema:name "KKT";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Kkt_logo_2017.svg?width=300>;
     schema:foundingDate "1981-11-26";
     wdt:P3225 "9330001001427";
-    schema:url "https://www.kkt.jp/";
+    schema:url <https://www.kkt.jp/>;
     schema:address "862-8504";
     wdt:P159 "熊本県熊本市中央区大江2丁目1番10号";
     schema:latitude "北緯32.80637度";
     schema:longitude "東経130.72659度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOQI-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/熊本県民テレビ>;
     schema:sameAs <https://www.wikidata.org/entity/Q3082651>;
     schema:sameAs <http://ja.dbpedia.org/resource/熊本県民テレビ>.
@@ -1845,15 +1859,15 @@
     rdfs:label "くまもとあさひほうそう"@ja-Kana;
     rdfs:label "Kumamoto Asahi Broadcasting Co., Ltd."@en;
     schema:name "KAB";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Kumamoto_Asahi_Broadcasting_2020.jpg?width=300>;
     schema:foundingDate "1988-12-16";
     wdt:P3225 "5330001001331";
-    schema:url "https://www.kab.co.jp/";
+    schema:url <https://www.kab.co.jp/>;
     schema:address "860-8516";
     wdt:P159 "熊本県熊本市西区二本木一丁目5番12号";
     schema:latitude "北緯32.78653度";
     schema:longitude "東経130.69064度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOZI-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/熊本朝日放送>;
     schema:sameAs <https://www.wikidata.org/entity/Q843330>;
     schema:sameAs <http://ja.dbpedia.org/resource/熊本朝日放送>.
@@ -1861,15 +1875,15 @@
     rdfs:label "くまもとほうそう"@ja-Kana;
     rdfs:label "RKK Kumamoto Broadcasting Co., Ltd."@en;
     schema:name "RKK";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Rkk_vector_logo.svg?width=300>;
     schema:foundingDate "1953-07-11";
     wdt:P3225 "3330001005037";
-    schema:url "https://rkk.jp/";
+    schema:url <https://rkk.jp/>;
     schema:address "860-8611";
     wdt:P159 "熊本県熊本市中央区山崎町30番地";
     schema:latitude "北緯32.7969度";
     schema:longitude "東経130.70309度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOBF-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/熊本放送>;
     schema:sameAs <https://www.wikidata.org/entity/Q8014207>;
     schema:sameAs <http://ja.dbpedia.org/resource/熊本放送>.
@@ -1877,15 +1891,15 @@
     rdfs:label "てれびくまもと"@ja-Kana;
     rdfs:label "TV-Kumamoto Co., Ltd."@en;
     schema:name "TKU";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/TKU_TV-Kumamoto_2020_logo.jpg?width=300>;
     schema:foundingDate "1968-03-01";
     wdt:P3225 "5330001003121";
-    schema:url "https://www.tku.co.jp/";
+    schema:url <https://www.tku.co.jp/>;
     schema:address "861-5592";
     wdt:P159 "熊本県熊本市北区徳王1丁目8番1号";
     schema:latitude "北緯32.8395333度";
     schema:longitude "東経130.7078778度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOZH-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/テレビ熊本>;
     schema:sameAs <https://www.wikidata.org/entity/Q8013942>;
     schema:sameAs <http://ja.dbpedia.org/resource/テレビ熊本>.
@@ -1893,15 +1907,15 @@
     rdfs:label "てれびおおいた"@ja-Kana;
     rdfs:label "TELEVISION OITA SYSTEM CO., LTD."@en;
     schema:name "TOS";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Oita_Tos_logo.svg?width=300>;
     schema:foundingDate "1969-02-25";
     wdt:P3225 "8320001001866";
-    schema:url "https://www.tostv.jp";
+    schema:url <https://www.tostv.jp>;
     schema:address "870-8636";
     wdt:P159 "大分県大分市大字勢家字春日浦843番地25";
     schema:latitude "北緯33.2484度";
     schema:longitude "東経131.5984度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOOI-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/テレビ大分>;
     schema:sameAs <https://www.wikidata.org/entity/Q8014708>;
     schema:sameAs <http://ja.dbpedia.org/resource/テレビ大分>.
@@ -1909,15 +1923,15 @@
     rdfs:label "おおいたあさひほうそう"@ja-Kana;
     rdfs:label "Oita Asahi Broadcasting Co., Ltd."@en;
     schema:name "OAB";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Oab_logo.svg?width=300>;
     schema:foundingDate "1992-05-25";
     wdt:P3225 "8320001000034";
-    schema:url "https://www.oab.co.jp/";
+    schema:url <https://www.oab.co.jp/>;
     schema:address "870-8524";
     wdt:P159 "大分県大分市新川西2丁目7番1号";
     schema:latitude "北緯33.249250度";
     schema:longitude "東経131.605472度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOBX-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/大分朝日放送>;
     schema:sameAs <https://www.wikidata.org/entity/Q843317>;
     schema:sameAs <http://ja.dbpedia.org/resource/大分朝日放送>.
@@ -1925,15 +1939,15 @@
     rdfs:label "おおいたほうそう"@ja-Kana;
     rdfs:label "Oita Broadcasting System, Inc."@en;
     schema:name "OBS";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Oita_Obs_logo.svg?width=300>;
     schema:foundingDate "1953-10-01";
     wdt:P3225 "5320001000268";
-    schema:url "https://obs-oita.co.jp/";
+    schema:url <https://obs-oita.co.jp/>;
     schema:address "870-8620";
     wdt:P159 "大分県大分市今津留三丁目1番1号";
     schema:latitude "北緯33.24157度";
     schema:longitude "東経131.62692度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOGF-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/大分放送>;
     schema:sameAs <https://www.wikidata.org/entity/Q843659>;
     schema:sameAs <http://ja.dbpedia.org/resource/大分放送>.
@@ -1941,15 +1955,15 @@
     rdfs:label "みやざきほうそう"@ja-Kana;
     rdfs:label "Miyazaki Broadcasting Co.,Ltd."@en;
     schema:name "MRT";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Mrt_logo.svg?width=300>;
     schema:foundingDate "1954-03-01";
     wdt:P3225 "1350001001886";
-    schema:url "https://mrt.jp/";
+    schema:url <https://mrt.jp/>;
     schema:address "880-8639";
     wdt:P159 "宮崎県宮崎市橘通西4丁目6番7号";
     schema:latitude "北緯31.91719度";
     schema:longitude "東経131.42218度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JONF-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/宮崎放送>;
     schema:sameAs <https://www.wikidata.org/entity/Q8013807>;
     schema:sameAs <http://ja.dbpedia.org/resource/宮崎放送>.
@@ -1957,15 +1971,15 @@
     rdfs:label "てれびみやざき"@ja-Kana;
     rdfs:label "Miyazaki Telecasting  Co., Ltd."@en;
     schema:name "UMK";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/25px-Flag_of_Japan.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/UMK_Logo_2020.svg?width=300>;
     schema:foundingDate "1969-05-20";
     wdt:P3225 "7350001001113";
-    schema:url "http://www.umk.co.jp/";
+    schema:url <http://www.umk.co.jp/>;
     schema:address "880-8535";
     wdt:P159 "宮崎県宮崎市祇園2丁目78番地";
     schema:latitude "北緯31.93071度";
     schema:longitude "東経131.41151度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JODI-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/テレビ宮崎>;
     schema:sameAs <https://www.wikidata.org/entity/Q843582>;
     schema:sameAs <http://ja.dbpedia.org/resource/テレビ宮崎>.
@@ -1973,15 +1987,15 @@
     rdfs:label "かごしまよみうりてれび"@ja-Kana;
     rdfs:label "Kagoshima Yomiuri Television"@en;
     schema:name "KYT";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Kyt_logo.svg?width=300>;
     schema:foundingDate "1993-02-09";
     wdt:P3225 "7340001001072";
-    schema:url "https://www.kyt-tv.com/";
+    schema:url <https://www.kyt-tv.com/>;
     schema:address "890-8574";
     wdt:P159 "鹿児島市与次郎1-9-34";
     schema:latitude "北緯31.56696度";
     schema:longitude "東経130.5649度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOUI-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/鹿児島讀賣テレビ>;
     schema:sameAs <https://www.wikidata.org/entity/Q843366>;
     schema:sameAs <http://ja.dbpedia.org/resource/鹿児島讀賣テレビ>.
@@ -1989,15 +2003,15 @@
     rdfs:label "かごしまほうそう"@ja-Kana;
     rdfs:label "Kagoshima Broadcasting Corporation"@en;
     schema:name "KKB";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Kkb_logo.svg?width=300>;
     schema:foundingDate "1982-04-28";
     wdt:P3225 "9340001001013";
-    schema:url "http://www.kkb.co.jp/";
+    schema:url <http://www.kkb.co.jp/>;
     schema:address "890-8571";
     wdt:P159 "鹿児島県鹿児島市与次郎2丁目5-12";
     schema:latitude "北緯31.56319度";
     schema:longitude "東経130.56061度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOTI-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/鹿児島放送>;
     schema:sameAs <https://www.wikidata.org/entity/Q8014761>;
     schema:sameAs <http://ja.dbpedia.org/resource/鹿児島放送>.
@@ -2005,15 +2019,15 @@
     rdfs:label "みなみにほんほうそう"@ja-Kana;
     rdfs:label "Minaminihon Broadcasting Co., Ltd."@en;
     schema:name "MBC";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Minaminihon_Broadcasting_Co_Ltd.jpg?width=300>;
     schema:foundingDate "1953-05-23";
     wdt:P3225 "3340001004277";
-    schema:url "https://www.mbc.co.jp";
+    schema:url <https://www.mbc.co.jp>;
     schema:address "890-8570";
     wdt:P159 "鹿児島県鹿児島市高麗町5－25";
     schema:latitude "北緯31.58251度";
     schema:longitude "東経130.55185度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOCF-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/南日本放送>;
     schema:sameAs <https://www.wikidata.org/entity/Q8013907>;
     schema:sameAs <http://ja.dbpedia.org/resource/南日本放送>.
@@ -2021,15 +2035,15 @@
     rdfs:label "かごしまてれびほうそう"@ja-Kana;
     rdfs:label "Kagoshima Television Station Co.,Ltd."@en;
     schema:name "KTS";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/KTS_Kagoshima_Television_Station_Logo.jpg?width=300>;
     schema:foundingDate "1968-03-01";
     wdt:P3225 "9340001000997";
-    schema:url "https://www.kts-tv.co.jp/";
+    schema:url <https://www.kts-tv.co.jp/>;
     schema:address "890-8666";
     wdt:P159 "鹿児島県鹿児島市紫原六丁目15-8";
     schema:latitude "北緯31.56115度";
     schema:longitude "東経130.5313度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOKH-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/鹿児島テレビ放送>;
     schema:sameAs <https://www.wikidata.org/entity/Q8014155>;
     schema:sameAs <http://ja.dbpedia.org/resource/鹿児島テレビ放送>.
@@ -2037,15 +2051,15 @@
     rdfs:label "りゅうきゅうあさひほうそう"@ja-Kana;
     rdfs:label "Ryukyu Asahi Broadcasting Corporation."@en;
     schema:name "QAB";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Qab_logo.svg?width=300>;
     schema:foundingDate "1994-06-10";
     wdt:P3225 "5360001002236";
-    schema:url "https://www.qab.co.jp/";
+    schema:url <https://www.qab.co.jp/>;
     schema:address "900-8510";
     wdt:P159 "沖縄県那覇市久茂地二丁目3番1号";
     schema:latitude "北緯26.21593度";
     schema:longitude "東経127.67926度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JORY-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/琉球朝日放送>;
     schema:sameAs <https://www.wikidata.org/entity/Q843353>;
     schema:sameAs <http://ja.dbpedia.org/resource/琉球朝日放送>.
@@ -2053,15 +2067,15 @@
     rdfs:label "りゅうきゅうほうそう"@ja-Kana;
     rdfs:label "Ryukyu Broadcasting Corporation"@en;
     schema:name "RBC";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Okinawa_Rbc_logo.svg?width=300>;
     schema:foundingDate "1954-09-20";
     wdt:P3225 "9360001002257";
-    schema:url "https://www.rbc.co.jp/";
+    schema:url <https://www.rbc.co.jp/>;
     schema:address "900-8711";
     wdt:P159 "沖縄県那覇市久茂地二丁目3番1号";
     schema:latitude "北緯26.21593度";
     schema:longitude "東経127.67926度";
-    schema:brand <https://w3id.org/tvstationjp/ch/0>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JORR-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/琉球放送>;
     schema:sameAs <https://www.wikidata.org/entity/Q4617243>;
     schema:sameAs <http://ja.dbpedia.org/resource/琉球放送>.
@@ -2069,18 +2083,217 @@
     rdfs:label "おきなわてれびほうそう"@ja-Kana;
     rdfs:label "Okinawa Television Broadcasting Co., Ltd."@en;
     schema:name "OTV";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/25px-Flag_of_Japan.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Otv_logo.svg?width=300>;
     schema:foundingDate "1958-05-12";
     wdt:P3225 "1360001000441";
-    schema:url "https://www.otv.co.jp/";
+    schema:url <https://www.otv.co.jp/>;
     schema:address "900-8588";
     wdt:P159 "沖縄県那覇市久茂地1丁目2番地20号";
     schema:latitude "北緯26.21388度";
     schema:longitude "東経127.67803度";
-    schema:brand <https://w3id.org/tvstationjp/ch/沖縄テレビ>;
+    schema:brand <https://w3id.org/tvstationjp/ch/JOOF-DTV>;
     schema:sameAs <https://ja.wikipedia.org/wiki/沖縄テレビ放送>;
     schema:sameAs <https://www.wikidata.org/entity/Q843578>;
     schema:sameAs <http://ja.dbpedia.org/resource/沖縄テレビ放送>.
+<https://w3id.org/tvstationjp/org/FMH> rdfs:label "株式会社フジ・メディア・ホールディングス"@ja;
+    rdfs:label "フジメディアホールディングス"@ja-Kana;
+    rdfs:label "FUJI MEDIA HOLDINGS, INC."@en;
+    schema:name "FMH";
+    schema:alternateName "フジ・メディアHD"@ja;
+    schema:alternateName "フジHD"@ja;
+    schema:formerName "株式会社富士テレビジョン"@ja;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/FujiMediaHoldingLogo.png?width=300>;
+    schema:foundingDate "1957-11-18";
+    wdt:P3225 "1010401032433";
+    schema:url <https://www.fujimediahd.co.jp>;
+    schema:address "137-8088";
+    wdt:P159 "東京都港区台場二丁目4番8号";
+    schema:latitude "北緯35.62693度";
+    schema:longitude "東経139.77417度";
+    schema:sameAs <https://ja.wikipedia.org/wiki/フジ・メディア・ホールディングス>;
+    schema:sameAs <https://www.wikidata.org/entity/Q10954015>;
+    schema:sameAs <http://ja.dbpedia.org/resource/フジ・メディア・ホールディングス>.
+<https://w3id.org/tvstationjp/org/TBSHD> rdfs:label "株式会社TBSホールディングス"@ja;
+    rdfs:label "ティビーエスホールディングス"@ja-Kana;
+    rdfs:label "TBS HOLDINGS, INC."@en;
+    schema:name "TBSHD";
+    schema:formerName "株式会社ラジオ東京"@ja;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Tokyo_Broadcasting_System_logo_2020.svg?width=300>;
+    schema:foundingDate "1951-05-10";
+    wdt:P3225 "5010401020855";
+    schema:url <https://www.tbsholdings.co.jp/>;
+    schema:address "107-8006";
+    wdt:P159 "東京都港区赤坂五丁目3番6号";
+    schema:latitude "北緯35.67238度";
+    schema:longitude "東経139.73523度";
+    schema:sameAs <https://ja.wikipedia.org/wiki/TBSホールディングス>;
+    schema:sameAs <https://www.wikidata.org/entity/Q605233>;
+    schema:sameAs <http://ja.dbpedia.org/resource/TBSホールディングス>.
+<https://w3id.org/tvstationjp/org/TXHD> rdfs:label "株式会社テレビ東京ホールディングス"@ja;
+    rdfs:label "てれびとうきょうホールディングス"@ja-Kana;
+    rdfs:label "TV TOKYO Holdings Corporation"@en;
+    schema:name "TXHD";
+    schema:alternateName "テレ東HD"@ja;
+    schema:alternateName "TV TOKYO HD"@ja;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/TV_Tokyo_logo_20110629.svg?width=300>;
+    schema:foundingDate "2010-10-01";
+    wdt:P3225 "1010401090159";
+    schema:url <https://www.txhd.co.jp/>;
+    schema:address "106-8007";
+    wdt:P159 "東京都港区六本木三丁目2番1号";
+    schema:latitude "北緯35.66441度";
+    schema:longitude "東経139.73761度";
+    schema:sameAs <https://ja.wikipedia.org/wiki/テレビ東京ホールディングス>;
+    schema:sameAs <https://www.wikidata.org/entity/Q11319692>;
+    schema:sameAs <http://ja.dbpedia.org/resource/テレビ東京ホールディングス>.
+<https://w3id.org/tvstationjp/org/NTVHD> rdfs:label "日本テレビホールディングス株式会社"@ja;
+    rdfs:label "にほんてれびほーるでぃんぐす"@ja-Kana;
+    rdfs:label "Nippon Television Holdings, Inc."@en;
+    schema:name "NTVHD";
+    schema:alternateName "日本テレビHD"@ja;
+    schema:alternateName "日テレHD"@ja;
+    schema:formerName "日本テレビ放送網株式会社"@ja;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Nippon_Television_Holdings_logo.svg?width=300>;
+    schema:foundingDate "1952-10-28";
+    wdt:P3225 "1010401051458";
+    schema:url <https://www.ntvhd.co.jp/>;
+    schema:address "105-7444";
+    wdt:P159 "東京都港区東新橋一丁目6番1号";
+    schema:latitude "北緯35.6644194度";
+    schema:longitude "東経139.7599111度";
+    schema:sameAs <https://ja.wikipedia.org/wiki/日本テレビホールディングス>;
+    schema:sameAs <https://www.wikidata.org/entity/Q11086747>;
+    schema:sameAs <http://ja.dbpedia.org/resource/日本テレビホールディングス>.
+<https://w3id.org/tvstationjp/org/CBC> rdfs:label "中部日本放送株式会社"@ja;
+    rdfs:label "チュウブニッポンホウソウ"@ja-Kana;
+    rdfs:label "CHUBU-NIPPON BROADCASTING CO., LTD."@en;
+    schema:name "CBC";
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Chubu-Nippon_Broadcasting_logo_20150825.svg?width=300>;
+    schema:foundingDate "1950-12-15";
+    wdt:P3225 "7180001038107";
+    schema:url <https://hicbc.com/corporation/>;
+    schema:address "460-8405";
+    wdt:P159 "愛知県名古屋市中区新栄1丁目2番8号";
+    schema:latitude "北緯35.16939度";
+    schema:longitude "東経136.91644度";
+    schema:sameAs <https://ja.wikipedia.org/wiki/中部日本放送>;
+    schema:sameAs <https://www.wikidata.org/entity/Q528448>;
+    schema:sameAs <http://ja.dbpedia.org/resource/中部日本放送>.
+<https://w3id.org/tvstationjp/org/EXHD> rdfs:label "株式会社テレビ朝日ホールディングス"@ja;
+    rdfs:label "てれびあさひホールディングス"@ja-Kana;
+    rdfs:label "TV Asahi Holdings Corporation"@en;
+    schema:name "EXHD";
+    schema:alternateName "テレビ朝日HD"@ja;
+    schema:alternateName "テレ朝HD"@ja;
+    schema:formerName "株式会社日本教育テレビ"@ja;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/TV_Asahi_Logo.svg?width=300>;
+    schema:foundingDate "1957-11-01";
+    wdt:P3225 "1010401015636";
+    schema:url <https://www.tv-asahihd.co.jp/>;
+    schema:address "106-8001";
+    wdt:P159 "東京都港区六本木6丁目9番1号";
+    schema:latitude "北緯35.6597000度";
+    schema:longitude "東経139.7309222度";
+    schema:sameAs <https://ja.wikipedia.org/wiki/テレビ朝日ホールディングス>;
+    schema:sameAs <https://www.wikidata.org/entity/Q17199570>;
+    schema:sameAs <http://ja.dbpedia.org/resource/テレビ朝日ホールディングス>.
+<https://w3id.org/tvstationjp/org/RKBHD> rdfs:label "株式会社RKB毎日ホールディングス"@ja;
+    rdfs:label "アールケービーマイニチホールディングス"@ja-Kana;
+    rdfs:label "RKB MAINICHI HOLDINGS CORPORATION"@en;
+    schema:name "RKBHD";
+    schema:formerName "株式会社ラジオ九州"@ja;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/RKB_Mainichi_Broadcasting_logo_2005.svg?width=300>;
+    schema:foundingDate "1951-06-29";
+    wdt:P3225 "5290001004941";
+    schema:url <https://rkb.jp/holdings/>;
+    schema:address "814-8585";
+    wdt:P159 "福岡県福岡市早良区百道浜2丁目3番8号";
+    schema:latitude "北緯33.5930139度";
+    schema:longitude "東経130.3508778度";
+    schema:sameAs <https://ja.wikipedia.org/wiki/RKB毎日ホールディングス>;
+    schema:sameAs <https://www.wikidata.org/entity/Q22122879>;
+    schema:sameAs <http://ja.dbpedia.org/resource/RKB毎日ホールディングス>.
+<https://w3id.org/tvstationjp/org/MBSHD> rdfs:label "株式会社MBSメディアホールディングス"@ja;
+    rdfs:label "エムビーエスメディアホールディングス"@ja-Kana;
+    rdfs:label "MBS MEDIA HOLDINGS, INC."@en;
+    schema:name "MBSHD";
+    schema:formerName "新日本放送株式会社"@ja;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Mainichi_Broadcasting_System_logo.svg?width=300>;
+    schema:foundingDate "1950-12-27";
+    wdt:P3225 "9120001059692";
+    schema:url <https://www.mbs-mhd.jp/>;
+    schema:address "530-8304";
+    wdt:P159 "大阪府大阪市北区茶屋町17番1号";
+    schema:latitude "北緯34.7083度";
+    schema:longitude "東経135.50031度";
+    schema:sameAs <https://ja.wikipedia.org/wiki/MBSメディアホールディングス>;
+    schema:sameAs <https://www.wikidata.org/entity/Q27017012>;
+    schema:sameAs <http://ja.dbpedia.org/resource/MBSメディアホールディングス>.
+<https://w3id.org/tvstationjp/org/ABCGHD> rdfs:label "朝日放送グループホールディングス株式会社"@ja;
+    rdfs:label "あさひほうそうぐるーぷホールディングス"@ja-Kana;
+    rdfs:label "ASAHI BROADCASTING GROUP HOLDINGS CORPORATION"@en;
+    schema:name "ABCGHD";
+    schema:alternateName "朝日放送GHD"@ja;
+    schema:formerName "朝日放送株式会社"@ja;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Asahi_Broadcasting_Corporation_Logo.svg?width=300>;
+    schema:foundingDate "1951-03-15";
+    wdt:P3225 "7120001060033";
+    schema:url <https://corp.asahi.co.jp/>;
+    schema:address "553-8503";
+    wdt:P159 "大阪府大阪市福島区福島1丁目1-30";
+    schema:latitude "北緯34.693861度";
+    schema:longitude "東経135.488389度";
+    schema:sameAs <https://ja.wikipedia.org/wiki/朝日放送グループホールディングス>;
+    schema:sameAs <https://www.wikidata.org/entity/Q1064900>;
+    schema:sameAs <http://ja.dbpedia.org/resource/朝日放送グループホールディングス>.
+<https://w3id.org/tvstationjp/org/RSKHD> rdfs:label "RSKホールディングス株式会社"@ja;
+    rdfs:label "アールエスケーホールディングス"@ja-Kana;
+    rdfs:label "RSK Holdings Co., Ltd."@en;
+    schema:name "RSKHD";
+    schema:formerName "山陽放送株式会社"@ja;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Rsk_logo.svg?width=300>;
+    schema:foundingDate "1953-04-01";
+    wdt:P3225 "5260001002700";
+    schema:url <https://www.rsk.co.jp/>;
+    schema:address "700-8580";
+    wdt:P159 "岡山県岡山市北区丸の内二丁目1番3号";
+    schema:latitude "北緯34.66711度";
+    schema:longitude "東経133.9304度";
+    schema:sameAs <https://ja.wikipedia.org/wiki/RSKホールディングス>;
+    schema:sameAs <https://www.wikidata.org/entity/Q59186386>;
+    schema:sameAs <http://ja.dbpedia.org/resource/RSKホールディングス>.
+<https://w3id.org/tvstationjp/org/KBCGHD> rdfs:label "KBCグループホールディングス株式会社"@ja;
+    rdfs:label "ケイビーシーグループホールディングス"@ja-Kana;
+    rdfs:label "KBC GROUP HOLDINGS CO., LTD."@en;
+    schema:name "KBCGHD";
+    schema:formerName "九州朝日放送株式会社"@ja;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/KBC_1988.svg?width=300>;
+    schema:foundingDate "1953-08-21";
+    wdt:P3225 "6290001006862";
+    schema:url <https://kbc.co.jp/kbc-ghd/>;
+    schema:address "810-8571";
+    wdt:P159 "福岡県福岡市中央区長浜1丁目1-1";
+    schema:latitude "北緯33.595694度";
+    schema:longitude "東経130.395778度";
+    schema:sameAs <https://ja.wikipedia.org/wiki/KBCグループホールディングス>;
+    schema:sameAs <https://www.wikidata.org/entity/Q117354121>;
+    schema:sameAs <http://ja.dbpedia.org/resource/KBCグループホールディングス>.
+<https://w3id.org/tvstationjp/org/BSNHD> rdfs:label "株式会社BSNメディアホールディングス"@ja;
+    rdfs:label "ビーエスエヌメディアホールディングス"@ja-Kana;
+    rdfs:label "BSN MEDIA HOLDINGS INC."@en;
+    schema:name "BSNHD";
+    schema:formerName "株式会社ラジオ新潟"@ja;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Bsn_logo.svg?width=300>;
+    schema:foundingDate "1952-10-14";
+    wdt:P3225 "5110001004521";
+    schema:url <https://www.ohbsn.com/holdings/>;
+    schema:address "951-8655";
+    wdt:P159 "新潟県新潟市中央区川岸町3丁目18";
+    schema:latitude "北緯37.90915度";
+    schema:longitude "東経139.02795度";
+    schema:sameAs <https://ja.wikipedia.org/wiki/BSNメディアホールディングス>;
+    schema:sameAs <https://www.wikidata.org/entity/Q118730958>;
+    schema:sameAs <http://ja.dbpedia.org/resource/BSNメディアホールディングス>.
 <https://w3id.org/tvstationjp/org/NHK札幌> rdfs:label "NHK札幌放送局"@ja;
     rdfs:label "エヌエイチケイさっぽろほうそうきょく"@ja-Kana;
     schema:name "NHK札幌";

@@ -9,7 +9,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/NHKG>;
     wdt:P2317 "JOIK-DTV";
     tvst:callName "NHKさっぽろデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg/300px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/NHK総合ロゴ2020-.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "3";
     tvst:parentStation "札幌";
@@ -26,7 +26,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/NHKE>;
     wdt:P2317 "JOIB-DTV";
     tvst:callName "NHKさっぽろきょういくデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg/300px-NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/NHKEテレロゴ2020-.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "2";
     tvst:parentStation "札幌";
@@ -82,7 +82,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/NHKG>;
     wdt:P2317 "JOIQ-DTV";
     tvst:callName "NHKむろらんデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg/300px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/NHK総合ロゴ2020-.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "3";
     tvst:parentStation "室蘭";
@@ -99,7 +99,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/NHKE>;
     wdt:P2317 "JOIZ-DTV";
     tvst:callName "NHKむろらんきょういくデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg/300px-NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/NHKEテレロゴ2020-.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "2";
     tvst:parentStation "室蘭";
@@ -155,7 +155,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/NHKG>;
     wdt:P2317 "JOVK-DTV";
     tvst:callName "NHKはこだてデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg/300px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/NHK総合ロゴ2020-.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "3";
     tvst:parentStation "函館";
@@ -172,7 +172,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/NHKE>;
     wdt:P2317 "JOVB-DTV";
     tvst:callName "NHKはこだてきょういくデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg/300px-NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/NHKEテレロゴ2020-.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "2";
     tvst:parentStation "函館";
@@ -228,7 +228,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/NHKG>;
     wdt:P2317 "JOCG-DTV";
     tvst:callName "NHKあさひかわデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg/300px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/NHK総合ロゴ2020-.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "3";
     tvst:parentStation "旭川";
@@ -245,7 +245,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/NHKE>;
     wdt:P2317 "JOCC-DTV";
     tvst:callName "NHKあさひかわきょういくデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg/300px-NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/NHKEテレロゴ2020-.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "2";
     tvst:parentStation "旭川";
@@ -301,7 +301,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/NHKG>;
     wdt:P2317 "JOPG-DTV";
     tvst:callName "NHKくしろデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg/300px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/NHK総合ロゴ2020-.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "3";
     tvst:parentStation "釧路";
@@ -318,7 +318,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/NHKE>;
     wdt:P2317 "JOPC-DTV";
     tvst:callName "NHKくしろきょういくデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg/300px-NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/NHKEテレロゴ2020-.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "2";
     tvst:parentStation "釧路";
@@ -374,7 +374,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/NHKG>;
     wdt:P2317 "JOOG-DTV";
     tvst:callName "NHKおびひろデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg/300px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/NHK総合ロゴ2020-.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "3";
     tvst:parentStation "帯広";
@@ -391,7 +391,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/NHKE>;
     wdt:P2317 "JOOC-DTV";
     tvst:callName "NHKおびひろきょういくデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg/300px-NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/NHKEテレロゴ2020-.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "2";
     tvst:parentStation "帯広";
@@ -447,7 +447,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/NHKG>;
     wdt:P2317 "JOKP-DTV";
     tvst:callName "NHKきたみデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg/300px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/NHK総合ロゴ2020-.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "3";
     tvst:parentStation "網走";
@@ -464,7 +464,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/NHKE>;
     wdt:P2317 "JOKD-DTV";
     tvst:callName "NHKきたみきょういくデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg/300px-NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/NHKEテレロゴ2020-.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "2";
     tvst:parentStation "網走";
@@ -520,7 +520,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/NHKG>;
     wdt:P2317 "JOTG-DTV";
     tvst:callName "NHKあおもりデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg/300px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/NHK総合ロゴ2020-.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "3";
     tvst:parentStation "青森";
@@ -537,7 +537,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/NHKE>;
     wdt:P2317 "JOTC-DTV";
     tvst:callName "NHKあおもりきょういくデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg/300px-NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/NHKEテレロゴ2020-.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "2";
     tvst:parentStation "青森";
@@ -593,7 +593,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/NHKG>;
     wdt:P2317 "JOQG-DTV";
     tvst:callName "NHKもりおかデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg/300px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/NHK総合ロゴ2020-.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "1";
     tvst:parentStation "盛岡";
@@ -610,7 +610,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/NHKE>;
     wdt:P2317 "JOQC-DTV";
     tvst:callName "NHKもりおかきょういくデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg/300px-NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/NHKEテレロゴ2020-.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "2";
     tvst:parentStation "盛岡";
@@ -666,7 +666,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/NHKG>;
     wdt:P2317 "JOUK-DTV";
     tvst:callName "NHKあきたデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg/300px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/NHK総合ロゴ2020-.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "1";
     tvst:parentStation "秋田";
@@ -683,7 +683,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/NHKE>;
     wdt:P2317 "JOUB-DTV";
     tvst:callName "NHKあきたきょういくデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg/300px-NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/NHKEテレロゴ2020-.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "2";
     tvst:parentStation "秋田";
@@ -738,7 +738,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/NHKG>;
     wdt:P2317 "JOJG-DTV";
     tvst:callName "NHKやまがたデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg/300px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/NHK総合ロゴ2020-.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "1";
     tvst:parentStation "山形";
@@ -755,7 +755,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/NHKE>;
     wdt:P2317 "JOJC-DTV";
     tvst:callName "NHKやまがたきょういくデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg/300px-NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/NHKEテレロゴ2020-.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "2";
     tvst:parentStation "山形";
@@ -810,7 +810,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/NHKG>;
     wdt:P2317 "JOHK-DTV";
     tvst:callName "NHKせんだいデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg/300px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/NHK総合ロゴ2020-.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "3";
     tvst:parentStation "仙台";
@@ -827,7 +827,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/NHKE>;
     wdt:P2317 "JOHB-DTV";
     tvst:callName "NHKせんだいきょういくデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg/300px-NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/NHKEテレロゴ2020-.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "2";
     tvst:parentStation "仙台";
@@ -882,7 +882,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/NHKG>;
     wdt:P2317 "JOFP-DTV";
     tvst:callName "NHKふくしまデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg/300px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/NHK総合ロゴ2020-.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "1";
     tvst:parentStation "福島";
@@ -899,7 +899,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/NHKE>;
     wdt:P2317 "JOFD-DTV";
     tvst:callName "NHKふくしまきょういくデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg/300px-NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/NHKEテレロゴ2020-.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "2";
     tvst:parentStation "福島";
@@ -954,7 +954,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/NHKG>;
     wdt:P2317 "JOAK-DTV";
     tvst:callName "NHKとうきょうデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg/300px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/NHK総合ロゴ2020-.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "1";
     tvst:parentStation "東京";
@@ -971,7 +971,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/NHKE>;
     wdt:P2317 "JOAB-DTV";
     tvst:callName "NHKとうきょうきょういくデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg/300px-NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/NHKEテレロゴ2020-.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "2";
     tvst:parentStation "東京";
@@ -1026,7 +1026,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/NHKG>;
     wdt:P2317 "JOTP-DTV";
     tvst:callName "NHKまえばしデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg/300px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/NHK総合ロゴ2020-.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "1";
     tvst:parentStation "前橋";
@@ -1055,7 +1055,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/NHKG>;
     wdt:P2317 "JOEP-DTV";
     tvst:callName "NHKみとデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg/300px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/NHK総合ロゴ2020-.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "1";
     tvst:parentStation "水戸";
@@ -1084,7 +1084,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/NHKG>;
     wdt:P2317 "JOKG-DTV";
     tvst:callName "NHKこうふデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg/300px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/NHK総合ロゴ2020-.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "1";
     tvst:parentStation "甲府";
@@ -1101,7 +1101,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/NHKE>;
     wdt:P2317 "JOKC-DTV";
     tvst:callName "NHKこうふきょういくデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg/300px-NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/NHKEテレロゴ2020-.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "2";
     tvst:parentStation "甲府";
@@ -1156,7 +1156,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/NHKG>;
     wdt:P2317 "JOPK-DTV";
     tvst:callName "NHKしずおかデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg/300px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/NHK総合ロゴ2020-.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "1";
     tvst:parentStation "静岡";
@@ -1173,7 +1173,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/NHKE>;
     wdt:P2317 "JOPB-DTV";
     tvst:callName "NHKしずおかきょういくデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg/300px-NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/NHKEテレロゴ2020-.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "2";
     tvst:parentStation "静岡";
@@ -1229,7 +1229,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/NHKG>;
     wdt:P2317 "JONK-DTV";
     tvst:callName "NHKながのデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg/300px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/NHK総合ロゴ2020-.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "1";
     tvst:parentStation "長野（美ヶ原";
@@ -1246,7 +1246,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/NHKE>;
     wdt:P2317 "JONB-DTV";
     tvst:callName "NHKながのきょういくデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg/300px-NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/NHKEテレロゴ2020-.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "2";
     tvst:parentStation "長野（美ヶ原）";
@@ -1301,7 +1301,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/NHKG>;
     wdt:P2317 "JOQK-DTV";
     tvst:callName "NHKにいがたデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg/300px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/NHK総合ロゴ2020-.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "1";
     tvst:parentStation "新潟";
@@ -1318,7 +1318,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/NHKE>;
     wdt:P2317 "JOQB-DTV";
     tvst:callName "NHKにいがたきょういくデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg/300px-NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/NHKEテレロゴ2020-.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "2";
     tvst:parentStation "新潟";
@@ -1373,7 +1373,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/NHKG>;
     wdt:P2317 "JOIG-DTV";
     tvst:callName "NHKとやまデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg/300px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/NHK総合ロゴ2020-.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "3";
     tvst:parentStation "富山";
@@ -1390,7 +1390,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/NHKE>;
     wdt:P2317 "JOIC-DTV";
     tvst:callName "NHKとやまきょういくデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg/300px-NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/NHKEテレロゴ2020-.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "2";
     tvst:parentStation "富山";
@@ -1445,7 +1445,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/NHKG>;
     wdt:P2317 "JOJK-DTV";
     tvst:callName "NHKかなざわデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg/300px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/NHK総合ロゴ2020-.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "1";
     tvst:parentStation "金沢";
@@ -1462,7 +1462,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/NHKE>;
     wdt:P2317 "JOJB-DTV";
     tvst:callName "NHKかなざわきょういくデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg/300px-NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/NHKEテレロゴ2020-.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "2";
     tvst:parentStation "金沢";
@@ -1517,7 +1517,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/NHKG>;
     wdt:P2317 "JOFG-DTV";
     tvst:callName "NHKふくいデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg/300px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/NHK総合ロゴ2020-.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "1";
     tvst:parentStation "福井";
@@ -1534,7 +1534,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/NHKE>;
     wdt:P2317 "JOFC-DTV";
     tvst:callName "NHKふくいきょういくデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg/300px-NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/NHKEテレロゴ2020-.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "2";
     tvst:parentStation "福井";
@@ -1589,7 +1589,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/NHKG>;
     wdt:P2317 "JOCK-DTV";
     tvst:callName "NHKなごやデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg/300px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/NHK総合ロゴ2020-.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "3";
     tvst:parentStation "名古屋";
@@ -1606,7 +1606,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/NHKE>;
     wdt:P2317 "JOCB-DTV";
     tvst:callName "NHKなごやきょういくデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg/300px-NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/NHKEテレロゴ2020-.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "2";
     tvst:parentStation "名古屋";
@@ -1661,7 +1661,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/NHKG>;
     wdt:P2317 "JOOP-DTV";
     tvst:callName "NHKぎふデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg/300px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/NHK総合ロゴ2020-.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "3";
     tvst:parentStation "岐阜";
@@ -1690,7 +1690,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/NHKG>;
     wdt:P2317 "JONP-DTV";
     tvst:callName "NHKつデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg/300px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/NHK総合ロゴ2020-.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "3";
     tvst:parentStation "津";
@@ -1719,7 +1719,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/NHKG>;
     wdt:P2317 "JOBK-DTV";
     tvst:callName "NHKおおさかデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg/300px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/NHK総合ロゴ2020-.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "1";
     tvst:parentStation "大阪";
@@ -1736,7 +1736,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/NHKE>;
     wdt:P2317 "JOBB-DTV";
     tvst:callName "NHKおおさかきょういくデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg/300px-NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/NHKEテレロゴ2020-.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "2";
     tvst:parentStation "大阪";
@@ -1791,7 +1791,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/NHKG>;
     wdt:P2317 "JOPP-DTV";
     tvst:callName "NHKこうべデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg/300px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/NHK総合ロゴ2020-.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "1";
     tvst:parentStation "神戸";
@@ -1819,7 +1819,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/NHKG>;
     wdt:P2317 "JOOK-DTV";
     tvst:callName "NHKきょうとデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg/300px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/NHK総合ロゴ2020-.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "1";
     tvst:parentStation "京都";
@@ -1849,7 +1849,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/NHKG>;
     wdt:P2317 "JOQP-DTV";
     tvst:callName "NHKおおつデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg/300px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/NHK総合ロゴ2020-.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "1";
     tvst:parentStation "大津";
@@ -1891,7 +1891,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/NHKG>;
     wdt:P2317 "JOUP-DTV";
     tvst:callName "NHKならデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg/300px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/NHK総合ロゴ2020-.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "1";
     tvst:parentStation "斑鳩";
@@ -1921,7 +1921,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/NHKG>;
     wdt:P2317 "JORP-DTV";
     tvst:callName "NHKわかやまデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg/300px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/NHK総合ロゴ2020-.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "1";
     tvst:parentStation "和歌山";
@@ -1950,7 +1950,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/NHKG>;
     wdt:P2317 "JOXK-DTV";
     tvst:callName "NHKとくしまデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg/300px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/NHK総合ロゴ2020-.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "3";
     tvst:parentStation "徳島";
@@ -1967,7 +1967,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/NHKE>;
     wdt:P2317 "JOXB-DTV";
     tvst:callName "NHKとくしまきょういくデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg/300px-NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/NHKEテレロゴ2020-.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "2";
     tvst:parentStation "徳島";
@@ -2010,7 +2010,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/NHKG>;
     wdt:P2317 "JORK-DTV";
     tvst:callName "NHKこうちデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg/300px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/NHK総合ロゴ2020-.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "1";
     tvst:parentStation "高知";
@@ -2027,7 +2027,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/NHKE>;
     wdt:P2317 "JORB-DTV";
     tvst:callName "NHKこうちきょういくデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg/300px-NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/NHKEテレロゴ2020-.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "2";
     tvst:parentStation "高知";
@@ -2082,7 +2082,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/NHKG>;
     wdt:P2317 "JOZK-DTV";
     tvst:callName "NHKまつやまデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg/300px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/NHK総合ロゴ2020-.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "1";
     tvst:parentStation "松山";
@@ -2099,7 +2099,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/NHKE>;
     wdt:P2317 "JOZB-DTV";
     tvst:callName "NHKまつやまきょういくデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg/300px-NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/NHKEテレロゴ2020-.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "2";
     tvst:parentStation "松山";
@@ -2154,7 +2154,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/NHKG>;
     wdt:P2317 "JOHP-DTV";
     tvst:callName "NHKたかまつデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg/300px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/NHK総合ロゴ2020-.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "1";
     tvst:parentStation "高松";
@@ -2171,7 +2171,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/NHKE>;
     wdt:P2317 "JOHD-DTV";
     tvst:callName "NHKたかまつきょういくデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg/300px-NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/NHKEテレロゴ2020-.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "2";
     tvst:parentStation "高松";
@@ -2226,7 +2226,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/NHKG>;
     wdt:P2317 "JOKK-DTV";
     tvst:callName "NHKおかやまデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg/300px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/NHK総合ロゴ2020-.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "1";
     tvst:parentStation "岡山";
@@ -2243,7 +2243,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/NHKE>;
     wdt:P2317 "JOKB-DTV";
     tvst:callName "NHKおかやまきょういくデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg/300px-NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/NHKEテレロゴ2020-.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "2";
     tvst:parentStation "岡山";
@@ -2298,7 +2298,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/NHKG>;
     wdt:P2317 "JOLG-DTV";
     tvst:callName "NHKとっとりデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg/300px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/NHK総合ロゴ2020-.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "3";
     tvst:parentStation "鳥取";
@@ -2315,7 +2315,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/NHKE>;
     wdt:P2317 "JOLC-DTV";
     tvst:callName "NHKとっとりきょういくデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg/300px-NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/NHKEテレロゴ2020-.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "2";
     tvst:parentStation "鳥取";
@@ -2370,7 +2370,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/NHKG>;
     wdt:P2317 "JOTK-DTV";
     tvst:callName "NHKまつえデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg/300px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/NHK総合ロゴ2020-.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "3";
     tvst:parentStation "松江";
@@ -2387,7 +2387,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/NHKE>;
     wdt:P2317 "JOTB-DTV";
     tvst:callName "NHKまつえきょういくデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg/300px-NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/NHKEテレロゴ2020-.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "2";
     tvst:parentStation "松江";
@@ -2442,7 +2442,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/NHKG>;
     wdt:P2317 "JOFK-DTV";
     tvst:callName "NHKひろしまデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg/300px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/NHK総合ロゴ2020-.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "1";
     tvst:parentStation "広島";
@@ -2459,7 +2459,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/NHKE>;
     wdt:P2317 "JOFB-DTV";
     tvst:callName "NHKひろしまきょういくデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg/300px-NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/NHKEテレロゴ2020-.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "2";
     tvst:parentStation "広島";
@@ -2514,7 +2514,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/NHKG>;
     wdt:P2317 "JOUG-DTV";
     tvst:callName "NHKやまぐちデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg/300px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/NHK総合ロゴ2020-.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "1";
     tvst:parentStation "山口";
@@ -2531,7 +2531,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/NHKE>;
     wdt:P2317 "JOUC-DTV";
     tvst:callName "NHKやまぐちきょういくデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg/300px-NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/NHKEテレロゴ2020-.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "2";
     tvst:parentStation "山口";
@@ -2586,7 +2586,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/NHKG>;
     wdt:P2317 "JOLK-DTV";
     tvst:callName "NHKふくおかデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg/300px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/NHK総合ロゴ2020-.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "3";
     tvst:parentStation "福岡";
@@ -2603,7 +2603,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/NHKE>;
     wdt:P2317 "JOLB-DTV";
     tvst:callName "NHKふくおかきょういくデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg/300px-NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/NHKEテレロゴ2020-.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "2";
     tvst:parentStation "福岡";
@@ -2658,7 +2658,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/NHKG>;
     wdt:P2317 "JOSK-DTV";
     tvst:callName "NHKきたきゅうしゅうデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg/300px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/NHK総合ロゴ2020-.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "3";
     tvst:parentStation "北九州";
@@ -2675,7 +2675,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/NHKE>;
     wdt:P2317 "JOSB-DTV";
     tvst:callName "NHKきたきゅうしゅうきょういくデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg/300px-NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/NHKEテレロゴ2020-.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "2";
     tvst:parentStation "北九州";
@@ -2729,7 +2729,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/NHKG>;
     wdt:P2317 "JOSP-DTV";
     tvst:callName "NHKさがデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg/300px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/NHK総合ロゴ2020-.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "1";
     tvst:parentStation "佐賀";
@@ -2746,7 +2746,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/NHKE>;
     wdt:P2317 "JOSD-DTV";
     tvst:callName "NHKさがきょういくデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg/300px-NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/NHKEテレロゴ2020-.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "2";
     tvst:parentStation "佐賀";
@@ -2789,7 +2789,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/NHKG>;
     wdt:P2317 "JOAG-DTV";
     tvst:callName "NHKながさきデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg/300px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/NHK総合ロゴ2020-.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "1";
     tvst:parentStation "長崎";
@@ -2806,7 +2806,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/NHKE>;
     wdt:P2317 "JOAC-DTV";
     tvst:callName "NHKながさききょういくデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg/300px-NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/NHKEテレロゴ2020-.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "2";
     tvst:parentStation "長崎";
@@ -2861,7 +2861,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/NHKG>;
     wdt:P2317 "JOGK-DTV";
     tvst:callName "NHKくまもとデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg/300px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/NHK総合ロゴ2020-.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "1";
     tvst:parentStation "熊本";
@@ -2878,7 +2878,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/NHKE>;
     wdt:P2317 "JOGB-DTV";
     tvst:callName "NHKくまもときょういくデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg/300px-NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/NHKEテレロゴ2020-.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "2";
     tvst:parentStation "熊本";
@@ -2933,7 +2933,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/NHKG>;
     wdt:P2317 "JOIP-DTV";
     tvst:callName "NHKおおいたデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg/300px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/NHK総合ロゴ2020-.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "1";
     tvst:parentStation "大分";
@@ -2950,7 +2950,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/NHKE>;
     wdt:P2317 "JOID-DTV";
     tvst:callName "NHKおおいたきょういくデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg/300px-NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/NHKEテレロゴ2020-.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "2";
     tvst:parentStation "大分";
@@ -3005,7 +3005,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/NHKG>;
     wdt:P2317 "JOMG-DTV";
     tvst:callName "NHKみやざきデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg/300px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/NHK総合ロゴ2020-.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "1";
     tvst:parentStation "宮崎";
@@ -3022,7 +3022,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/NHKE>;
     wdt:P2317 "JOMC-DTV";
     tvst:callName "NHKみやざききょういくデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg/300px-NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/NHKEテレロゴ2020-.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "2";
     tvst:parentStation "宮崎";
@@ -3077,7 +3077,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/NHKG>;
     wdt:P2317 "JOHG-DTV";
     tvst:callName "NHKかごしまデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg/300px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/NHK総合ロゴ2020-.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "3";
     tvst:parentStation "鹿児島";
@@ -3094,7 +3094,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/NHKE>;
     wdt:P2317 "JOHC-DTV";
     tvst:callName "NHKかごしまきょういくデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg/300px-NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/NHKEテレロゴ2020-.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "2";
     tvst:parentStation "鹿児島";
@@ -3149,7 +3149,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/NHKG>;
     wdt:P2317 "JOAP-DTV";
     tvst:callName "NHKおきなわデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg/300px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/NHK総合ロゴ2020-.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "1";
     tvst:parentStation "那覇";
@@ -3166,7 +3166,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/NHKE>;
     wdt:P2317 "JOAD-DTV";
     tvst:callName "NHKおきなわきょういくデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg/300px-NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/NHKEテレロゴ2020-.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "2";
     tvst:parentStation "那覇";

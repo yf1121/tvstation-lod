@@ -12,7 +12,7 @@
     schema:alternateName "札幌テレビ"@ja;
     wdt:P2317 "JOKX-DTV";
     tvst:callName "STVデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Stv_logo.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "5";
     tvst:parentStation "札幌";
@@ -37,7 +37,7 @@
     schema:alternateName "北海道テレビ"@ja;
     wdt:P2317 "JOHH-DTV";
     tvst:callName "ほっかいどうテレビデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Htb_logo.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "6";
     tvst:parentStation "札幌";
@@ -64,7 +64,7 @@
     schema:alternateName "HBC北海道放送"@ja;
     wdt:P2317 "JOHR-DTV";
     tvst:callName "HBCデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Hbc_logo.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "1";
     tvst:parentStation "札幌";
@@ -87,7 +87,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/TXN>;
     wdt:P2317 "JOHI-DTV";
     tvst:callName "テレビほっかいどうデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/25px-Flag_of_Japan.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Tvh_logo.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "7";
     tvst:parentStation "札幌";
@@ -111,7 +111,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/FNS>;
     wdt:P2317 "JOBM-DTV";
     tvst:callName "UHBデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Uhb_logo.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "8";
     tvst:parentStation "札幌";
@@ -136,7 +136,7 @@
     schema:alternateName "RABテレビ"@ja;
     wdt:P2317 "JOGR-DTV";
     tvst:callName "あおもりほうそうデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Rab_logo.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "1";
     tvst:parentStation "青森";
@@ -160,7 +160,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/テレビ朝日ネットワーク>;
     wdt:P2317 "JOAH-DTV";
     tvst:callName "あおもりあさひデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Aba_logo.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "5";
     tvst:parentStation "青森";
@@ -186,7 +186,7 @@
     schema:alternateName "ATV青森テレビ"@ja;
     wdt:P2317 "JOAI-DTV";
     tvst:callName "あおもりテレビデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Atv_logo.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "6";
     tvst:parentStation "青森";
@@ -210,7 +210,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/NNS>;
     wdt:P2317 "JOII-DTV";
     tvst:callName "テレビいわてデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Headquarters_of_TV_Iwate_and_FM_Iwate.jpg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "4";
     tvst:parentStation "盛岡";
@@ -235,7 +235,7 @@
     schema:alternateName "IAT"@ja;
     wdt:P2317 "JOIY-DTV";
     tvst:callName "いわてあさひテレビデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Iat_logo.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "5";
     tvst:parentStation "盛岡";
@@ -261,7 +261,7 @@
     schema:alternateName "IBCテレビ"@ja;
     wdt:P2317 "JODF-DTV";
     tvst:callName "IBCデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Iwate_Ibc_logo.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "6";
     tvst:parentStation "盛岡";
@@ -287,7 +287,7 @@
     schema:alternateName "ミット"@ja;
     wdt:P2317 "JOYH-DTV";
     tvst:callName "いわてめんこいテレビデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Mit_logo.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "8";
     tvst:parentStation "盛岡";
@@ -314,7 +314,7 @@
     schema:alternateName "ABS秋田放送"@ja;
     wdt:P2317 "JOTR-DTV";
     tvst:callName "あきたほうそうデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Abs_logo.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "4";
     tvst:parentStation "秋田（大森山）";
@@ -339,7 +339,7 @@
     schema:alternateName "AAB"@ja;
     wdt:P2317 "JOXX-DTV";
     tvst:callName "あきたあさひテレビデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Aab_logo.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "5";
     tvst:parentStation "秋田";
@@ -365,7 +365,7 @@
     schema:alternateName "AKT秋田テレビ"@ja;
     wdt:P2317 "JOBI-DTV";
     tvst:callName "AKTあきたテレビデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Akt_logo.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "8";
     tvst:parentStation "秋田";
@@ -390,7 +390,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/民教協>;
     schema:alternateName "YBCラジオ"@ja;
     wdt:P2317 "JOEF-DTV";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Ybc_logo.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "4";
     tvst:parentStation "山形";
@@ -414,7 +414,7 @@
     schema:alternateName "YTS"@ja;
     wdt:P2317 "JOYI-DTV";
     tvst:callName "YTSやまがたデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Yts_logo.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "5";
     tvst:parentStation "山形";
@@ -439,7 +439,7 @@
     schema:alternateName "TUY"@ja;
     wdt:P2317 "JOWI-DTV";
     tvst:callName "TUYデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Tuy_logo.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "6";
     tvst:parentStation "山形";
@@ -464,7 +464,7 @@
     schema:alternateName "さくらんぼテレビ"@ja;
     wdt:P2317 "JOCY-DTV";
     tvst:callName "さくらんぼデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Say_logo_201804.png?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "8";
     tvst:parentStation "山形";
@@ -490,7 +490,7 @@
     schema:alternateName "ミヤギテレビ"@ja;
     wdt:P2317 "JOMM-DTV";
     tvst:callName "ミヤギテレビデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Mmt_logo.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "4";
     tvst:parentStation "仙台";
@@ -516,7 +516,7 @@
     schema:alternateName "khb東日本放送"@ja;
     wdt:P2317 "JOEM-DTV";
     tvst:callName "ひがしにっぽんほうそうデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Khb_logo_2021.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "5";
     tvst:parentStation "仙台";
@@ -542,7 +542,7 @@
     schema:alternateName "tbcテレビ"@ja;
     wdt:P2317 "JOIR-DTV";
     tvst:callName "とうほくほうそうデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/TBC_logo_(2020).svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "1";
     tvst:parentStation "仙台";
@@ -568,7 +568,7 @@
     schema:alternateName "仙放"@ja;
     wdt:P2317 "JOOX-DTV";
     tvst:callName "せんだいほうそうデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/仙台放送.png?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "8";
     tvst:parentStation "仙台";
@@ -594,7 +594,7 @@
     schema:alternateName "KFB福島放送"@ja;
     wdt:P2317 "JOJI-DTV";
     tvst:callName "ふくしまほうそうデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Fukushima_Kfb_logo.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "5";
     tvst:parentStation "福島（笹森山）";
@@ -618,7 +618,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/TBSネットワーク>;
     wdt:P2317 "JOKI-DTV";
     tvst:callName "TUFデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Tuf_logo.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "6";
     tvst:parentStation "福島（笹森山）";
@@ -644,7 +644,7 @@
     schema:alternateName "福テレ"@ja;
     wdt:P2317 "JOPX-DTV";
     tvst:callName "ふくしまテレビ デジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Fukutele_2019.png?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "8";
     tvst:parentStation "福島（笹森山）";
@@ -669,7 +669,7 @@
     schema:alternateName "中テレ"@ja;
     wdt:P2317 "JOVI-DTV";
     tvst:callName "ふくしまちゅうおうテレビデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/%E7%A6%8F%E5%B3%B6%E4%B8%AD%E5%A4%AE%E3%83%86%E3%83%AC%E3%83%93.png/405px-%E7%A6%8F%E5%B3%B6%E4%B8%AD%E5%A4%AE%E3%83%86%E3%83%AC%E3%83%93.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/福島中央テレビ.png?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "4";
     tvst:parentStation "福島（笹森山）";
@@ -694,7 +694,7 @@
     schema:alternateName "日テレ"@ja;
     wdt:P2317 "JOAX-DTV";
     tvst:callName "にほんテレビデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Nippon_TV_logo_2014.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "4";
     tvst:parentStation "東京";
@@ -721,7 +721,7 @@
     schema:alternateName "テレ朝"@ja;
     wdt:P2317 "JOEX-DTV";
     tvst:callName "テレビあさひデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/TV_Asahi_Logo.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "5";
     tvst:parentStation "東京";
@@ -748,7 +748,7 @@
     schema:alternateName "TBS"@ja;
     wdt:P2317 "JORX-DTV";
     tvst:callName "TBSデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Tokyo_Broadcasting_System_logo_2020.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "6";
     tvst:parentStation "東京";
@@ -775,7 +775,7 @@
     schema:alternateName "テレ東"@ja;
     wdt:P2317 "JOTX-DTV";
     tvst:callName "テレビとうきょうデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/25px-Flag_of_Japan.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/TV_Tokyo_logo_20110629.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "7";
     tvst:parentStation "東京";
@@ -803,7 +803,7 @@
     schema:alternateName "フジテレビ"@ja;
     wdt:P2317 "JOCX-DTV";
     tvst:callName "フジデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Fuji_Television_Logo.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "8";
     tvst:parentStation "東京";
@@ -830,7 +830,7 @@
     schema:alternateName "東京MXテレビ"@ja;
     wdt:P2317 "JOMX-DTV";
     tvst:callName "とうきょうメトロポリタンテレビジョンデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Tokyo_metropolitan_television_logo_(rainbow).svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "9";
     tvst:parentStation "東京";
@@ -856,7 +856,7 @@
     schema:alternateName "tvk"@ja;
     wdt:P2317 "JOKM-DTV";
     tvst:callName "テレビかながわデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Tvk_logo.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "3";
     tvst:parentStation "横浜";
@@ -882,7 +882,7 @@
     schema:alternateName "テレ玉"@ja;
     wdt:P2317 "JOUS-DTV";
     tvst:callName "テレビさいたまデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/25px-Flag_of_Japan.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Tvs_logo.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "3";
     tvst:parentStation "さいたま（浦和）";
@@ -906,7 +906,7 @@
     schema:alternateName "チバテレ"@ja;
     wdt:P2317 "JOCL-DTV";
     tvst:callName "ちばテレビデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/25px-Flag_of_Japan.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Chiba_TV_logo.jpg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "3";
     tvst:parentStation "千葉（船橋）";
@@ -933,7 +933,7 @@
     schema:alternateName "群テレ"@ja;
     wdt:P2317 "JOML-DTV";
     tvst:callName "ぐんまテレビデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Gtv_logo_ja_01.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "3";
     tvst:parentStation "前橋";
@@ -958,7 +958,7 @@
     schema:alternateName "とちテレ"@ja;
     wdt:P2317 "JOGY-DTV";
     tvst:callName "とちぎテレビデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Tochigi_Television_2013-02-09.jpg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "3";
     tvst:parentStation "宇都宮";
@@ -983,7 +983,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/民教協>;
     schema:alternateName "YBSラジオ"@ja;
     wdt:P2317 "JOJF-DTV";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/山梨放送.png?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "4";
     tvst:parentStation "甲府";
@@ -1009,7 +1009,7 @@
     schema:alternateName "UTYテレビ山梨"@ja;
     wdt:P2317 "JOGI-DTV";
     tvst:callName "UTYデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/UTY_Logos.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "6";
     tvst:parentStation "甲府";
@@ -1034,7 +1034,7 @@
     schema:alternateName "Daiichi-TV"@ja;
     wdt:P2317 "JOSX-DTV";
     tvst:callName "しずおかだいいちテレビデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Daiichi_tv_logo.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "4";
     tvst:parentStation "静岡";
@@ -1059,7 +1059,7 @@
     schema:alternateName "静岡朝日"@ja;
     wdt:P2317 "JOSI-DTV";
     tvst:callName "しずおかあさひテレビデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Satv_logo_2021.jpg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "5";
     tvst:parentStation "静岡";
@@ -1084,7 +1084,7 @@
     schema:alternateName "SBSテレビ"@ja;
     wdt:P2317 "JOVR-DTV";
     tvst:callName "しずおかほうそうデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/ShizuokaBroadcastingSystem.png?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "6";
     tvst:parentStation "静岡";
@@ -1108,7 +1108,7 @@
     schema:alternateName "テレしず"@ja;
     wdt:P2317 "JOQH-DTV";
     tvst:callName "テレビしずおかデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/25px-Flag_of_Japan.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Sut_logo.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "8";
     tvst:parentStation "静岡（日本平）";
@@ -1133,7 +1133,7 @@
     schema:alternateName "TSB"@ja;
     wdt:P2317 "JONI-DTV";
     tvst:callName "テレビしんしゅうデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Tsb_logo_ja.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "4";
     tvst:parentStation "長野";
@@ -1158,7 +1158,7 @@
     schema:alternateName "abn"@ja;
     wdt:P2317 "JOGH-DTV";
     tvst:callName "ながのあさひデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Abn_logo.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "5";
     tvst:parentStation "長野";
@@ -1183,7 +1183,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/民教協>;
     schema:alternateName "SBCラジオ"@ja;
     wdt:P2317 "JOSR-DTV";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Sbc_logo.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "6";
     tvst:parentStation "長野（美ヶ原）";
@@ -1209,7 +1209,7 @@
     schema:alternateName "NBSテレビ"@ja;
     wdt:P2317 "JOLH-DTV";
     tvst:callName "ながのほうそう デジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Nbs_logo.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "8";
     tvst:parentStation "長野";
@@ -1234,7 +1234,7 @@
     schema:alternateName "TeNYテレビ新潟"@ja;
     wdt:P2317 "JOPI-DTV";
     tvst:callName "テレビにいがたデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Teny_logo.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "4";
     tvst:parentStation "新潟";
@@ -1259,7 +1259,7 @@
     schema:alternateName "テレビ21"@ja;
     wdt:P2317 "JOUX-DTV";
     tvst:callName "にいがたテレビ21デジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Niigata_UX_logo.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "5";
     tvst:parentStation "新潟";
@@ -1285,7 +1285,7 @@
     schema:alternateName "BSNテレビ"@ja;
     wdt:P2317 "JODR-DTV";
     tvst:callName "にいがたほうそうデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Bsn_logo.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "6";
     tvst:parentStation "新潟";
@@ -1310,7 +1310,7 @@
     schema:alternateName "NST"@ja;
     wdt:P2317 "JONH-DTV";
     tvst:callName "NSTにいがたデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Niigata_Nst_logo.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "8";
     tvst:parentStation "新潟";
@@ -1335,7 +1335,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/民教協>;
     schema:alternateName "KNBラジオ"@ja;
     wdt:P2317 "JOLR-DTV";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Kitanihon_Broadcasting_logo_20150821.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "1";
     tvst:parentStation "富山";
@@ -1361,7 +1361,7 @@
     schema:alternateName "チューリップ"@ja;
     wdt:P2317 "JOJH-DTV";
     tvst:callName "チューリップテレビデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/チューリップテレビ.png?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "6";
     tvst:parentStation "富山";
@@ -1386,7 +1386,7 @@
     schema:alternateName "富山テレビ"@ja;
     wdt:P2317 "JOTH-DTV";
     tvst:callName "BBTとやまデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Bbt_logo.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "8";
     tvst:parentStation "富山";
@@ -1413,7 +1413,7 @@
     schema:alternateName "テレきん"@ja;
     wdt:P2317 "JOWX-DTV";
     tvst:callName "テレビかなざわデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/KTKテレビ金沢本社.jpg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "4";
     tvst:parentStation "金沢";
@@ -1438,7 +1438,7 @@
     schema:alternateName "HAB"@ja;
     wdt:P2317 "JOWY-DTV";
     tvst:callName "ほくりくあさひデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Hab_logo_2021.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "5";
     tvst:parentStation "金沢";
@@ -1464,7 +1464,7 @@
     schema:alternateName "MROテレビ"@ja;
     wdt:P2317 "JOMR-DTV";
     tvst:callName "ほくりくほうそうデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Hokuriku_Broadcasting_Company_Kanazawa_HQ_20201115-001.jpg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "6";
     tvst:parentStation "金沢";
@@ -1489,7 +1489,7 @@
     schema:alternateName "石川テレビ"@ja;
     wdt:P2317 "JOIH-DTV";
     tvst:callName "いしかわテレビデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Itc_logo.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "8";
     tvst:parentStation "金沢";
@@ -1516,7 +1516,7 @@
     schema:alternateName "FBCテレビ"@ja;
     wdt:P2317 "JOPR-DTV";
     tvst:callName "ふくいほうそうデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/25px-Flag_of_Japan.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Fbc_logo.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "7";
     tvst:parentStation "福井";
@@ -1541,7 +1541,7 @@
     schema:alternateName "福井テレビ"@ja;
     wdt:P2317 "JOFI-DTV";
     tvst:callName "ふくいテレビデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Ftb_logo.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "8";
     tvst:parentStation "福井";
@@ -1566,7 +1566,7 @@
     schema:alternateName "中京テレビ"@ja;
     wdt:P2317 "JOCH-DTV";
     tvst:callName "ちゅうきょうテレビデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/25px-Flag_of_Japan.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/CHUKYO_TV_logo.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "4";
     tvst:parentStation "名古屋";
@@ -1592,7 +1592,7 @@
     schema:alternateName "メ〜テレ"@ja;
     wdt:P2317 "JOLX-DTV";
     tvst:callName "なごやテレビデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/25px-Flag_of_Japan.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Nagoya_Nbn_logo.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "6";
     tvst:parentStation "名古屋";
@@ -1620,7 +1620,7 @@
     schema:alternateName "CBC"@ja;
     wdt:P2317 "JOGX-DTV";
     tvst:callName "CBCデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Chubu-Nippon_Broadcasting_logo_20150825.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "5";
     tvst:parentStation "名古屋";
@@ -1647,7 +1647,7 @@
     schema:alternateName "テレビ愛知"@ja;
     wdt:P2317 "JOCI-DTV";
     tvst:callName "テレビあいちデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/25px-Flag_of_Japan.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/TV_Aichi_text_logo_20150824.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "10";
     tvst:parentStation "名古屋";
@@ -1672,7 +1672,7 @@
     schema:alternateName "東海テレビ"@ja;
     wdt:P2317 "JOFX-DTV";
     tvst:callName "とうかいテレビほうそうデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/25px-Flag_of_Japan.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Tokai_Television_Broadcasting_logo.png?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "1";
     tvst:parentStation "名古屋";
@@ -1695,7 +1695,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/JAITS>;
     schema:alternateName "ぎふチャン"@ja;
     wdt:P2317 "JOZF-DTV";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/25px-Flag_of_Japan.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Gbs_logo.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "8";
     tvst:parentStation "岐阜";
@@ -1719,7 +1719,7 @@
     schema:alternateName "三重テレビ"@ja;
     wdt:P2317 "JOMH-DTV";
     tvst:callName "みえてれびほうそうデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/25px-Flag_of_Japan.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Mie_Television.jpg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "7";
     tvst:parentStation "津";
@@ -1746,7 +1746,7 @@
     schema:alternateName "読テレ"@ja;
     wdt:P2317 "JOIX-DTV";
     tvst:callName "よみうりデジタルテレビ";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/25px-Flag_of_Japan.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Yomiuri_Telecasting_Corporation_Logo.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "10";
     tvst:parentStation "大阪";
@@ -1773,7 +1773,7 @@
     schema:alternateName "ABC TV"@ja;
     wdt:P2317 "JOAY-DTV";
     tvst:callName "あさひほうそうデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Asahi_Broadcasting_Corporation_Logo.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "6";
     tvst:parentStation "大阪";
@@ -1799,7 +1799,7 @@
     schema:alternateName "MBS毎日放送"@ja;
     wdt:P2317 "JOOY-DTV";
     tvst:callName "まいにちほうそうデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/25px-Flag_of_Japan.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Mainichi_Broadcasting_System_logo.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "4";
     tvst:parentStation "大阪";
@@ -1823,7 +1823,7 @@
     schema:alternateName "テレビ大阪"@ja;
     wdt:P2317 "JOBH-DTV";
     tvst:callName "TVOおおさかデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/25px-Flag_of_Japan.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Tv_osaka_logo.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "7";
     tvst:parentStation "大阪";
@@ -1849,7 +1849,7 @@
     schema:alternateName "関西テレビ"@ja;
     wdt:P2317 "JODX-DTV";
     tvst:callName "かんさいテレビデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/25px-Flag_of_Japan.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Ktv_logo.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "8";
     tvst:parentStation "大阪";
@@ -1874,7 +1874,7 @@
     schema:alternateName "サン"@ja;
     wdt:P2317 "JOUH-DTV";
     tvst:callName "サンデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/SUN-TV_wordmark_2019.png?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "3";
     tvst:parentStation "神戸";
@@ -1900,7 +1900,7 @@
     schema:alternateName "KBSテレビ"@ja;
     wdt:P2317 "JOBR-DTV";
     tvst:callName "きょうとほうそうデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Kbs_logo.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "5";
     tvst:parentStation "京都";
@@ -1924,7 +1924,7 @@
     schema:alternateName "BBCびわ湖放送"@ja;
     wdt:P2317 "JOBL-DTV";
     tvst:callName "びわこほうそうデジタルテレビ";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/25px-Flag_of_Japan.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Bbc_logo.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "3";
     tvst:parentStation "大津";
@@ -1948,7 +1948,7 @@
     schema:alternateName "奈良テレビ"@ja;
     wdt:P2317 "JONM-DTV";
     tvst:callName "TVNデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/25px-Flag_of_Japan.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Tvn_logo.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "9";
     tvst:parentStation "奈良";
@@ -1972,7 +1972,7 @@
     schema:alternateName "テレわか"@ja;
     wdt:P2317 "JOOM-DTV";
     tvst:callName "テレビわかやまデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/25px-Flag_of_Japan.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Wtv_logo_ja.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "5";
     tvst:parentStation "和歌山";
@@ -1999,7 +1999,7 @@
     schema:alternateName "四国テレビ"@ja;
     wdt:P2317 "JOJR-DTV";
     tvst:callName "しこくほうそうデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/25px-Flag_of_Japan.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Jrt_logo.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "1";
     tvst:parentStation "徳島";
@@ -2026,7 +2026,7 @@
     schema:alternateName "高知放送テレビ"@ja;
     wdt:P2317 "JOZR-DTV";
     tvst:callName "こうちほうそうデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Rkc_logo.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "4";
     tvst:parentStation "高知";
@@ -2050,7 +2050,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/TBSネットワーク>;
     wdt:P2317 "JORI-DTV";
     tvst:callName "テレビこうちデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Kutv_logo.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "6";
     tvst:parentStation "高知";
@@ -2076,7 +2076,7 @@
     schema:alternateName "SUNSUN"@ja;
     wdt:P2317 "JOQX-DTV";
     tvst:callName "こうちさんさんデジタルテレビ";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Kochi_Sun_Sun_Broadcasting.png?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "8";
     tvst:parentStation "高知";
@@ -2101,7 +2101,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/民教協>;
     schema:alternateName "南海放送"@ja;
     wdt:P2317 "JOAF-DTV";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/25px-Flag_of_Japan.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Rnb_logo.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "4";
     tvst:parentStation "松山";
@@ -2127,7 +2127,7 @@
     schema:alternateName "イート"@ja;
     wdt:P2317 "JOEY-DTV";
     tvst:callName "えひめあさひテレビデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Eat_logo.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "5";
     tvst:parentStation "松山";
@@ -2152,7 +2152,7 @@
     schema:alternateName "あいテレビ"@ja;
     wdt:P2317 "JOEH-DTV";
     tvst:callName "あいテレビデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Itv_logo.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "6";
     tvst:parentStation "松山";
@@ -2177,7 +2177,7 @@
     schema:alternateName "テレビ愛媛"@ja;
     wdt:P2317 "JOEI-DTV";
     tvst:callName "テレビえひめデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Ebc_logo.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "8";
     tvst:parentStation "松山";
@@ -2207,7 +2207,7 @@
     schema:alternateName "RNC西日本テレビ"@ja;
     wdt:P2317 "JOKF-DTV";
     tvst:callName "RNCたかまつデジタルテレビジョン";
-    schema:logo <https://www.wikidata.org/wiki/Q843732#/media/File:Rnc_logo.svg>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Nishinippon_Broadcasting_Company_Headquarters.jpg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "4";
     tvst:parentStation "高松";
@@ -2234,7 +2234,7 @@
     schema:alternateName "瀬戸内海テレビ"@ja;
     wdt:P2317 "JOVH-DTV";
     tvst:callName "KSBたかまつデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/KSB_logo_2020.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "5";
     tvst:parentStation "岡山";
@@ -2260,7 +2260,7 @@
     schema:alternateName "RSKテレビ"@ja;
     wdt:P2317 "JOYR-DTV";
     tvst:callName "RSKおかやまデジタルテレビジョン";
-    schema:logo <https://www.wikidata.org/wiki/Q843784#/media/File:Rsk_logo.svg>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Rsk_logo.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "6";
     tvst:parentStation "岡山";
@@ -2286,7 +2286,7 @@
     schema:alternateName "TSCテレビせとうち"@ja;
     wdt:P2317 "JOPH-DTV";
     tvst:callName "TSCおかやまデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Tsc_logo.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "7";
     tvst:parentStation "岡山";
@@ -2313,7 +2313,7 @@
     schema:alternateName "OHK岡山放送"@ja;
     wdt:P2317 "JOOH-DTV";
     tvst:callName "OHKおかやまデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Ohk_logo.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "8";
     tvst:parentStation "岡山";
@@ -2340,7 +2340,7 @@
     schema:alternateName "日本海テレビ"@ja;
     wdt:P2317 "JOJX-DTV";
     tvst:callName "にほんかいテレビデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/NKT_logo_2018.png?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "1";
     tvst:parentStation "鳥取";
@@ -2367,7 +2367,7 @@
     schema:alternateName "BSS山陰放送"@ja;
     wdt:P2317 "JOHF-DTV";
     tvst:callName "BSSまつえデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/25px-Flag_of_Japan.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/BSS-Sanin.png?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "6";
     tvst:parentStation "松江";
@@ -2394,7 +2394,7 @@
     schema:alternateName "山陰中央"@ja;
     wdt:P2317 "JOMI-DTV";
     tvst:callName "TSKまつえデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/TSK_4th.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "8";
     tvst:parentStation "松江";
@@ -2420,7 +2420,7 @@
     schema:alternateName "広島テレビ"@ja;
     wdt:P2317 "JONX-DTV";
     tvst:callName "ひろしまテレビデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Htv_formal_logo.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "4";
     tvst:parentStation "広島";
@@ -2446,7 +2446,7 @@
     schema:alternateName "HOME"@ja;
     wdt:P2317 "JOGM-DTV";
     tvst:callName "HOMEひろしまデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Hometv_logo.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "5";
     tvst:parentStation "広島";
@@ -2472,7 +2472,7 @@
     schema:alternateName "RCCテレビ"@ja;
     wdt:P2317 "JOER-DTV";
     tvst:callName "ちゅうごくほうそう";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/25px-Flag_of_Japan.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Rcc_logo_2022.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "3";
     tvst:parentStation "広島";
@@ -2497,7 +2497,7 @@
     schema:alternateName "TSS"@ja;
     wdt:P2317 "JORM-DTV";
     tvst:callName "テレビしんひろしまひろしまデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Tss_logo.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "8";
     tvst:parentStation "広島";
@@ -2523,7 +2523,7 @@
     schema:alternateName "KRYラジオ"@ja;
     wdt:P2317 "JOPF-DTV";
     tvst:callName "やまぐちほうそう";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/25px-Flag_of_Japan.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Kry_logo.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "4";
     tvst:parentStation "周南（大平山）";
@@ -2549,7 +2549,7 @@
     schema:alternateName "yab山口朝日"@ja;
     wdt:P2317 "JOYX-DTV";
     tvst:callName "やまぐちあさひほうそうデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Yab_logo.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "5";
     tvst:parentStation "山口（大平山）";
@@ -2575,7 +2575,7 @@
     schema:alternateName "tysテレビ山口"@ja;
     wdt:P2317 "JOLI-DTV";
     tvst:callName "TYSやまぐちデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Tys_logo.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "3";
     tvst:parentStation "山口（大平山）";
@@ -2601,7 +2601,7 @@
     schema:alternateName "FBS福岡放送"@ja;
     wdt:P2317 "JOFH-DTV";
     tvst:callName "ふくおかほうそうデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Fbs_logo.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "5";
     tvst:parentStation "福岡";
@@ -2625,7 +2625,7 @@
     schema:alternateName "KBCテレビ"@ja;
     wdt:P2317 "JOIF-DTV";
     tvst:callName "きゅうしゅうあさひほうそうデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/KBC_1988.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "1";
     tvst:parentStation "福岡";
@@ -2651,7 +2651,7 @@
     schema:alternateName "RKB"@ja;
     wdt:P2317 "JOFR-DTV";
     tvst:callName "RKBまいにちデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/RKB_Mainichi_Broadcasting_logo_2005.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "4";
     tvst:parentStation "福岡";
@@ -2676,7 +2676,7 @@
     schema:alternateName "テレキュー"@ja;
     wdt:P2317 "JOTY-DTV";
     tvst:callName "TVQデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/25px-Flag_of_Japan.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/2019_tvq_logo.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "7";
     tvst:parentStation "福岡";
@@ -2700,7 +2700,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/FNS>;
     wdt:P2317 "JOJY-DTV";
     tvst:callName "テレビにしにっぽんデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Tnc_logo.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "8";
     tvst:parentStation "福岡";
@@ -2726,7 +2726,7 @@
     schema:alternateName "STSサガテレビ"@ja;
     wdt:P2317 "JOSH-DTV";
     tvst:callName "サガテレビデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Sagatv_logo.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "3";
     tvst:parentStation "佐賀";
@@ -2751,7 +2751,7 @@
     schema:alternateName "NIB"@ja;
     wdt:P2317 "JOXH-DTV";
     tvst:callName "ながさきこくさいデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Nib_logo.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "4";
     tvst:parentStation "長崎（稲佐山）";
@@ -2777,7 +2777,7 @@
     schema:alternateName "NCC長崎文化放送"@ja;
     wdt:P2317 "JOXI-DTV";
     tvst:callName "NCCデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Nagasaki_Culture_Telecasting_Corporation_Logo.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "5";
     tvst:parentStation "長崎";
@@ -2804,7 +2804,7 @@
     schema:alternateName "NBC長崎放送"@ja;
     wdt:P2317 "JOUR-DTV";
     tvst:callName "NBCながさきデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Logo-nbc_nagasaki_new.png?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "3";
     tvst:parentStation "長崎（稲佐山）";
@@ -2829,7 +2829,7 @@
     schema:alternateName "KTN"@ja;
     wdt:P2317 "JOWH-DTV";
     tvst:callName "テレビながさきデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Ktn_logo.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "8";
     tvst:parentStation "長崎（稲佐山）";
@@ -2854,7 +2854,7 @@
     schema:alternateName "kkt!くまもと県民"@ja;
     wdt:P2317 "JOQI-DTV";
     tvst:callName "くまもとけんみんデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Kkt_logo_2017.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "4";
     tvst:parentStation "熊本（金峰山）";
@@ -2880,7 +2880,7 @@
     schema:alternateName "KAB熊本朝日放送"@ja;
     wdt:P2317 "JOZI-DTV";
     tvst:callName "くまもとあさひデジタルテレビ";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Kumamoto_Asahi_Broadcasting_2020.jpg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "5";
     tvst:parentStation "熊本（金峰山）";
@@ -2906,7 +2906,7 @@
     schema:alternateName "RKKテレビ"@ja;
     schema:alternateName "RKK熊本放送"@ja;
     wdt:P2317 "JOBF-DTV";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Rkk_vector_logo.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "3";
     tvst:parentStation "熊本（金峰山）";
@@ -2932,7 +2932,7 @@
     schema:alternateName "テレビくまもと"@ja;
     wdt:P2317 "JOZH-DTV";
     tvst:callName "テレビくまもとデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/TKU_TV-Kumamoto_2020_logo.jpg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "8";
     tvst:parentStation "熊本（金峰山）";
@@ -2960,7 +2960,7 @@
     schema:alternateName "TOSテレビ大分"@ja;
     wdt:P2317 "JOOI-DTV";
     tvst:callName "テレビおおいたデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Oita_Tos_logo.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "4";
     tvst:parentStation "大分";
@@ -2986,7 +2986,7 @@
     schema:alternateName "OAB大分朝日放送"@ja;
     wdt:P2317 "JOBX-DTV";
     tvst:callName "OABデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Oab_logo.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "5";
     tvst:parentStation "大分";
@@ -3013,7 +3013,7 @@
     schema:alternateName "OBS大分放送"@ja;
     wdt:P2317 "JOGF-DTV";
     tvst:callName "おおいたほうそうデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Oita_Obs_logo.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "3";
     tvst:parentStation "大分";
@@ -3040,7 +3040,7 @@
     schema:alternateName "MRT宮崎放送"@ja;
     wdt:P2317 "JONF-DTV";
     tvst:callName "みやざきほうそうデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Mrt_logo.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "6";
     tvst:parentStation "宮崎";
@@ -3068,7 +3068,7 @@
     schema:alternateName "UMKテレビ宮崎"@ja;
     wdt:P2317 "JODI-DTV";
     tvst:callName "テレビみやざきデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/25px-Flag_of_Japan.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/UMK_Logo_2020.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "3";
     tvst:parentStation "宮崎";
@@ -3093,7 +3093,7 @@
     schema:alternateName "KYT鹿児島読売テレビ"@ja;
     wdt:P2317 "JOUI-DTV";
     tvst:callName "かごしまよみうりテレビデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Kyt_logo.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "4";
     tvst:parentStation "鹿児島";
@@ -3118,7 +3118,7 @@
     schema:alternateName "KKB鹿児島放送"@ja;
     wdt:P2317 "JOTI-DTV";
     tvst:callName "かごしまほうそうデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Kkb_logo.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "5";
     tvst:parentStation "鹿児島";
@@ -3144,7 +3144,7 @@
     schema:alternateName "MBC南日本放送"@ja;
     wdt:P2317 "JOCF-DTV";
     tvst:callName "みなみにほんほうそうデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Minaminihon_Broadcasting_Co_Ltd.jpg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "1";
     tvst:parentStation "鹿児島";
@@ -3168,7 +3168,7 @@
     tvst:networkSystem <https://w3id.org/tvstationjp/network/FNS>;
     wdt:P2317 "JOKH-DTV";
     tvst:callName "かごしまテレビほうそうデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/KTS_Kagoshima_Television_Station_Logo.jpg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "8";
     tvst:parentStation "鹿児島";
@@ -3193,7 +3193,7 @@
     schema:alternateName "QAB"@ja;
     wdt:P2317 "JORY-DTV";
     tvst:callName "りゅうきゅうあさひほうそうデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Qab_logo.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "5";
     tvst:parentStation "那覇";
@@ -3219,7 +3219,7 @@
     schema:alternateName "RBCテレビ"@ja;
     wdt:P2317 "JORR-DTV";
     tvst:callName "りゅうきゅうほうそうデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Okinawa_Rbc_logo.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "3";
     tvst:parentStation "那覇";
@@ -3248,7 +3248,7 @@
     schema:alternateName "OTV沖縄テレビ"@ja;
     wdt:P2317 "JOOF-DTV";
     tvst:callName "おきなわテレビデジタルテレビジョン";
-    schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/25px-Flag_of_Japan.svg.png>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/Otv_logo.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "8";
     tvst:parentStation "那覇";
