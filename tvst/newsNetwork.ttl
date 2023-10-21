@@ -1,5 +1,5 @@
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 <https://w3id.org/tvstationjp/tvst/newsNetwork> rdf:type rdf:Property;
-    rdfs:comment "‰Á–¿‚·‚éƒjƒ…[ƒXƒlƒbƒgƒ[ƒNi•ñ“¹Œn—ñj‚ğˆÓ–¡‚µ‚Ü‚·B"@ja;
-    rdfs:label "ƒjƒ…[ƒXŒn—ñ"@ja.
+    rdfs:comment "åŠ ç›Ÿã™ã‚‹ãƒ‹ãƒ¥ãƒ¼ã‚¹ãƒãƒƒãƒˆãƒ¯ãƒ¼ã‚¯ï¼ˆå ±é“ç³»åˆ—ï¼‰ã‚’æ„å‘³ã—ã¾ã™ã€‚"@ja;
+    rdfs:label "ãƒ‹ãƒ¥ãƒ¼ã‚¹ç³»åˆ—"@ja.

@@ -1,5 +1,5 @@
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 <https://w3id.org/tvstationjp/tvst/parentATVCh> rdf:type rdf:Property;
-    rdfs:comment "かつて使用していたアナログ放送におけるチャンネル位置を意味します。"@ja;
-    rdfs:label "アナログ親局ch"@ja.
+    rdfs:comment "縺九▽縺ｦ菴ｿ逕ｨ縺励※縺�縺溘い繝翫Ο繧ｰ謾ｾ騾√↓縺翫￠繧九メ繝｣繝ｳ繝阪Ν菴咲ｽｮ繧呈э蜻ｳ縺励∪縺吶�"@ja;
+    rdfs:label "繧｢繝翫Ο繧ｰ隕ｪ螻ch"@ja.

@@ -1,5 +1,5 @@
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 <https://w3id.org/tvstationjp/tvst/keystation> rdf:type rdf:Property;
-    rdfs:comment "NHK‚ðœ‚­’nã”g•ú‘—‹Ç‚Ì•ú‘—Œn—ñ‚É‚¨‚¢‚ÄA”Ô‘g‚ðŒn—ñ‰Á–¿‹Ç‚ÉŒü‚¯‚Ä‘—o‚·‚éA•ú‘—Œn—ñi•ú‘—–Ôj‚Ì’†S“I‚È–ðŠ„‚ð’S‚¤•ú‘—‹Ç‚ðˆÓ–¡‚µ‚Ü‚·B"@ja;
-    rdfs:label "Œn—ñ‚ÌƒL[‹Ç"@ja.
+    rdfs:comment "NHKã‚’é™¤ãåœ°ä¸Šæ³¢æ”¾é€å±€ã®æ”¾é€ç³»åˆ—ã«ãŠã„ã¦ã€ç•ªçµ„ã‚’ç³»åˆ—åŠ ç›Ÿå±€ã«å‘ã‘ã¦é€å‡ºã™ã‚‹ã€æ”¾é€ç³»åˆ—ï¼ˆæ”¾é€ç¶²ï¼‰ã®ä¸­å¿ƒçš„ãªå½¹å‰²ã‚’æ‹…ã†æ”¾é€å±€ã‚’æ„å‘³ã—ã¾ã™ã€‚"@ja;
+    rdfs:label "ç³»åˆ—ã®ã‚­ãƒ¼å±€"@ja.

@@ -1,5 +1,5 @@
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 <https://w3id.org/tvstationjp/tvst/chPosition> rdf:type rdf:Property;
-    rdfs:comment "���蓖�Ă�ꂽ�����R���̔ԍ����Ӗ����܂��B1����12�̂����ꂩ�̐����ŕ\����܂��B"@ja;
-    rdfs:label "�����R���L�[ID"@ja.
+    rdfs:comment "割り当てられたリモコンの番号を意味します。1から12のいずれかの整数で表されます。"@ja;
+    rdfs:label "リモコンキーID"@ja.

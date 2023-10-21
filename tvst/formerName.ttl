@@ -1,5 +1,5 @@
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 <https://w3id.org/tvstationjp/tvst/formerName> rdf:type rdf:Property;
-    rdfs:comment "かつて法人名として使用していた名称を意味します。"@ja;
-    rdfs:label "過去の名称"@ja.
+    rdfs:comment "縺九▽縺ｦ豕穂ｺｺ蜷阪→縺励※菴ｿ逕ｨ縺励※縺�縺溷錐遘ｰ繧呈э蜻ｳ縺励∪縺吶�"@ja;
+    rdfs:label "驕主悉縺ｮ蜷咲ｧｰ"@ja.

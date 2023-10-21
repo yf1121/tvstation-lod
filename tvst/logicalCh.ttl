@@ -1,5 +1,5 @@
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 <https://w3id.org/tvstationjp/tvst/logicalCh> rdf:type rdf:Property;
-    rdfs:comment "Žg—p‚µ‚Ä‚¢‚é˜_—ƒ`ƒƒƒ“ƒlƒ‹‚Ì”Ô†‚ðˆÓ–¡‚µ‚Ü‚·B˜_—ƒ`ƒƒƒ“ƒlƒ‹‚Í3Œ…‚Å•\Œ»‚³‚êAƒ}ƒ‹ƒ`•ú‘—‚ÌŠe•Ò¬ƒŒƒxƒ‹‚Åƒ`ƒƒƒ“ƒlƒ‹‚ðŽ¯•Ê‚Å‚«‚Ü‚·B"@ja;
-    rdfs:label "˜_—ch"@ja.
+    rdfs:comment "ä½¿ç”¨ã—ã¦ã„ã‚‹è«–ç†ãƒãƒ£ãƒ³ãƒãƒ«ã®ç•ªå·ã‚’æ„å‘³ã—ã¾ã™ã€‚è«–ç†ãƒãƒ£ãƒ³ãƒãƒ«ã¯3æ¡ã§è¡¨ç¾ã•ã‚Œã€ãƒžãƒ«ãƒæ”¾é€ã®å„ç·¨æˆãƒ¬ãƒ™ãƒ«ã§ãƒãƒ£ãƒ³ãƒãƒ«ã‚’è­˜åˆ¥ã§ãã¾ã™ã€‚"@ja;
+    rdfs:label "è«–ç†ch"@ja.
