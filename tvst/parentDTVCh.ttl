@@ -1,0 +1,5 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+<https://w3id.org/tvstationjp/tvst/parentDTVCh> rdf:type rdf:Property;
+    rdfs:comment "親局において放送を認められた物理チャンネルを意味します。アナログ放送におけるUHFのチャンネル帯域の区分に該当します。"@ja;
+    rdfs:label "親局物理ch"@ja.
