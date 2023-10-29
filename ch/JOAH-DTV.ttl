@@ -1,0 +1,24 @@
+<https://w3id.org/tvstationjp/ch/JOAH-DTV> <http://www.w3.org/2000/01/rdf-schema#label> "青森朝日放送"@ja,
+		"あおもりあさひほうそう"@ja-Kana,
+		"Asahi BroadcastingAomori Co., Ltd."@en;
+	<https://schema.org/name> "ABA";
+	<https://schema.org/areaServed> <https://w3id.org/tvstationjp/area/青森県>;
+	<https://w3id.org/tvstationjp/tvst/newsNetwork> <https://w3id.org/tvstationjp/network/ANN>;
+	<https://w3id.org/tvstationjp/tvst/networkSystem> <https://w3id.org/tvstationjp/network/テレビ朝日ネットワーク>;
+	<http://www.wikidata.org/prop/direct/P2317> "JOAH-DTV";
+	<https://w3id.org/tvstationjp/tvst/callName> "あおもりあさひデジタルテレビジョン";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Aba_logo.svg?width=300>;
+	<https://w3id.org/tvstationjp/tvst/platform> <https://w3id.org/tvstationjp/platform/ISDBt>;
+	<https://w3id.org/tvstationjp/tvst/chPosition> "5";
+	<https://w3id.org/tvstationjp/tvst/parentStation> "青森";
+	<https://w3id.org/tvstationjp/tvst/parentDTVCh> "32ch";
+	<https://w3id.org/tvstationjp/tvst/parentATVCh> "34ch";
+	<https://w3id.org/tvstationjp/tvst/logicalCh> "051";
+	<https://schema.org/url> <https://www.aba-net.com/>;
+	<https://schema.org/address> "030-0181";
+	<http://www.wikidata.org/prop/direct/P159> "青森県青森市荒川字柴田125番1号";
+	<https://schema.org/latitude> "北緯40.78628度";
+	<https://schema.org/longitude> "東経140.73947度";
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/青森朝日放送>,
+		<https://www.wikidata.org/entity/Q843435>,
+		<http://ja.dbpedia.org/resource/青森朝日放送>.

@@ -1,0 +1,20 @@
+<https://w3id.org/tvstationjp/org/NHK釧路> <http://www.w3.org/2000/01/rdf-schema#label> "NHK釧路放送局"@ja,
+		"エヌエイチケイくしろほうそうきょく"@ja-Kana;
+	<https://schema.org/name> "NHK釧路";
+	<https://schema.org/logo> <https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/100px-NHK_logo_2020.svg.png>;
+	<http://www.wikidata.org/prop/direct/P3225> "8011005000968";
+	<https://schema.org/url> <https://www.nhk.or.jp/kushiro/>;
+	<https://w3id.org/tvstationjp/tvst/networkBlock> "北海道";
+	<https://schema.org/parentOrganization> <https://w3id.org/tvstationjp/station/NHK帯広>;
+	<https://schema.org/address> "085-8660";
+	<http://www.wikidata.org/prop/direct/P159> "北海道釧路市幣舞町3-8";
+	<https://schema.org/latitude> "北緯42.979306度";
+	<https://schema.org/longitude> "東経144.388750度";
+	<https://schema.org/brand> <https://w3id.org/tvstationjp/ch/JOPG-DTV>,
+		<https://w3id.org/tvstationjp/ch/JOPC-DTV>,
+		<https://w3id.org/tvstationjp/ch/JOPG>,
+		<https://w3id.org/tvstationjp/ch/JOPC>,
+		<https://w3id.org/tvstationjp/ch/JOPG-FM>;
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/NHK釧路放送局>,
+		<https://www.wikidata.org/entity/Q10854692>,
+		<http://ja.dbpedia.org/resource/NHK釧路放送局>.

@@ -1,0 +1,27 @@
+<https://w3id.org/tvstationjp/ch/JOAY-DTV> <http://www.w3.org/2000/01/rdf-schema#label> "朝日放送テレビ"@ja,
+		"あさひほうそうてれび"@ja-Kana,
+		"Asahi Television Broadcasting Corporation"@en;
+	<https://schema.org/name> "ABC";
+	<https://schema.org/areaServed> <https://w3id.org/tvstationjp/area/近畿広域圏>;
+	<https://w3id.org/tvstationjp/tvst/newsNetwork> <https://w3id.org/tvstationjp/network/ANN>;
+	<https://w3id.org/tvstationjp/tvst/networkSystem> <https://w3id.org/tvstationjp/network/テレビ朝日ネットワーク>,
+		<https://w3id.org/tvstationjp/network/民教協>;
+	<https://schema.org/alternateName> "ABCテレビ"@ja,
+		"ABC TV"@ja;
+	<http://www.wikidata.org/prop/direct/P2317> "JOAY-DTV";
+	<https://w3id.org/tvstationjp/tvst/callName> "あさひほうそうデジタルテレビジョン";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Asahi_Broadcasting_Corporation_Logo.svg?width=300>;
+	<https://w3id.org/tvstationjp/tvst/platform> <https://w3id.org/tvstationjp/platform/ISDBt>;
+	<https://w3id.org/tvstationjp/tvst/chPosition> "6";
+	<https://w3id.org/tvstationjp/tvst/parentStation> "大阪";
+	<https://w3id.org/tvstationjp/tvst/parentDTVCh> "15ch";
+	<https://w3id.org/tvstationjp/tvst/parentATVCh> "6ch";
+	<https://w3id.org/tvstationjp/tvst/logicalCh> "061";
+	<https://schema.org/url> <https://www.asahi.co.jp/>;
+	<https://schema.org/address> "553-8503";
+	<http://www.wikidata.org/prop/direct/P159> "大阪府大阪市福島区福島1丁目1番30号";
+	<https://schema.org/latitude> "北緯34.6936度";
+	<https://schema.org/longitude> "東経135.48816度";
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/朝日放送テレビ>,
+		<https://www.wikidata.org/entity/Q11188768>,
+		<http://ja.dbpedia.org/resource/朝日放送テレビ>.

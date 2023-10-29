@@ -1,0 +1,4 @@
+<https://w3id.org/tvstationjp/area/鳥取島根> <http://www.w3.org/2000/01/rdf-schema#label> "鳥取島根"@ja;
+	<https://schema.org/description> "鳥取・島根"@ja;
+	<https://schema.org/containsPlace> <http://data.e-stat.go.jp/lod/sac/C31000>,
+		<http://data.e-stat.go.jp/lod/sac/C32000>.

@@ -1,0 +1,3 @@
+<https://w3id.org/tvstationjp/area/青森県> <http://www.w3.org/2000/01/rdf-schema#label> "青森県"@ja;
+	<https://schema.org/description> "青森県"@ja;
+	<https://schema.org/containsPlace> <http://data.e-stat.go.jp/lod/sac/C02000>.

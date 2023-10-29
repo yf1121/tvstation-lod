@@ -1,0 +1,27 @@
+<https://w3id.org/tvstationjp/ch/JOPR-DTV> <http://www.w3.org/2000/01/rdf-schema#label> "福井放送"@ja,
+		"ふくいほうそう"@ja-Kana,
+		"Fukui Broadcasting Corporation"@en;
+	<https://schema.org/name> "FBC";
+	<https://schema.org/areaServed> <https://w3id.org/tvstationjp/area/福井県>;
+	<https://w3id.org/tvstationjp/tvst/newsNetwork> <https://w3id.org/tvstationjp/network/NNN>,
+		<https://w3id.org/tvstationjp/network/ANN>;
+	<https://w3id.org/tvstationjp/tvst/networkSystem> <https://w3id.org/tvstationjp/network/NNS>,
+		<https://w3id.org/tvstationjp/network/民教協>;
+	<https://schema.org/alternateName> "FBCテレビ"@ja;
+	<http://www.wikidata.org/prop/direct/P2317> "JOPR-DTV";
+	<https://w3id.org/tvstationjp/tvst/callName> "ふくいほうそうデジタルテレビジョン";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Fbc_logo.svg?width=300>;
+	<https://w3id.org/tvstationjp/tvst/platform> <https://w3id.org/tvstationjp/platform/ISDBt>;
+	<https://w3id.org/tvstationjp/tvst/chPosition> "7";
+	<https://w3id.org/tvstationjp/tvst/parentStation> "福井";
+	<https://w3id.org/tvstationjp/tvst/parentDTVCh> "20ch";
+	<https://w3id.org/tvstationjp/tvst/parentATVCh> "11ch";
+	<https://w3id.org/tvstationjp/tvst/logicalCh> "071";
+	<https://schema.org/url> <https://www.fbc.jp/>;
+	<https://schema.org/address> "910-8588";
+	<http://www.wikidata.org/prop/direct/P159> "福井県福井市大和田2丁目510番地";
+	<https://schema.org/latitude> "北緯36.09508度";
+	<https://schema.org/longitude> "東経136.25569度";
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/福井放送>,
+		<https://www.wikidata.org/entity/Q843644>,
+		<http://ja.dbpedia.org/resource/福井放送>.

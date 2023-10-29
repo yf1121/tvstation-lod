@@ -1,0 +1,3 @@
+<https://w3id.org/tvstationjp/platform/FM> <http://www.w3.org/2000/01/rdf-schema#label> "FMラジオ放送"@ja,
+		"FM"@en;
+	<http://www.w3.org/2000/01/rdf-schema#comment> "超短波ラジオ放送"@ja.

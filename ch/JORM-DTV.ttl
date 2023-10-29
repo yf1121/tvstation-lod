@@ -1,0 +1,25 @@
+<https://w3id.org/tvstationjp/ch/JORM-DTV> <http://www.w3.org/2000/01/rdf-schema#label> "テレビ新広島"@ja,
+		"てれびしんひろしま"@ja-Kana,
+		"TSS-TV Co., Ltd."@en;
+	<https://schema.org/name> "TSS";
+	<https://schema.org/areaServed> <https://w3id.org/tvstationjp/area/広島県>;
+	<https://w3id.org/tvstationjp/tvst/newsNetwork> <https://w3id.org/tvstationjp/network/FNN>;
+	<https://w3id.org/tvstationjp/tvst/networkSystem> <https://w3id.org/tvstationjp/network/FNS>;
+	<https://schema.org/alternateName> "TSS"@ja;
+	<http://www.wikidata.org/prop/direct/P2317> "JORM-DTV";
+	<https://w3id.org/tvstationjp/tvst/callName> "テレビしんひろしまひろしまデジタルテレビジョン";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Tss_logo.svg?width=300>;
+	<https://w3id.org/tvstationjp/tvst/platform> <https://w3id.org/tvstationjp/platform/ISDBt>;
+	<https://w3id.org/tvstationjp/tvst/chPosition> "8";
+	<https://w3id.org/tvstationjp/tvst/parentStation> "広島";
+	<https://w3id.org/tvstationjp/tvst/parentDTVCh> "23ch";
+	<https://w3id.org/tvstationjp/tvst/parentATVCh> "31ch";
+	<https://w3id.org/tvstationjp/tvst/logicalCh> "081";
+	<https://schema.org/url> <https://www.tss-tv.co.jp/>;
+	<https://schema.org/address> "734-8585";
+	<http://www.wikidata.org/prop/direct/P159> "広島県広島市南区出汐二丁目3番19号";
+	<https://schema.org/latitude> "北緯34.37801度";
+	<https://schema.org/longitude> "東経132.47537度";
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/テレビ新広島>,
+		<https://www.wikidata.org/entity/Q843314>,
+		<http://ja.dbpedia.org/resource/テレビ新広島>.

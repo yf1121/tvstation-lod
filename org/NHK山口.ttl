@@ -1,0 +1,19 @@
+<https://w3id.org/tvstationjp/org/NHK山口> <http://www.w3.org/2000/01/rdf-schema#label> "NHK山口放送局"@ja,
+		"エヌエイチケイやまぐちほうそうきょく"@ja-Kana;
+	<https://schema.org/name> "NHK山口";
+	<https://schema.org/logo> <https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/100px-NHK_logo_2020.svg.png>;
+	<http://www.wikidata.org/prop/direct/P3225> "8011005000968";
+	<https://schema.org/url> <https://www.nhk.or.jp/yamaguchi/>;
+	<https://w3id.org/tvstationjp/tvst/networkBlock> "中国";
+	<https://schema.org/address> "753-8660";
+	<http://www.wikidata.org/prop/direct/P159> "山口県山口市中園町2-1";
+	<https://schema.org/latitude> "北緯34.17028度";
+	<https://schema.org/longitude> "東経131.46833度";
+	<https://schema.org/brand> <https://w3id.org/tvstationjp/ch/JOUG-DTV>,
+		<https://w3id.org/tvstationjp/ch/JOUC-DTV>,
+		<https://w3id.org/tvstationjp/ch/JOUG>,
+		<https://w3id.org/tvstationjp/ch/JOUC>,
+		<https://w3id.org/tvstationjp/ch/JOUG-FM>;
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/NHK山口放送局>,
+		<https://www.wikidata.org/entity/Q10854728>,
+		<http://ja.dbpedia.org/resource/NHK山口放送局>.

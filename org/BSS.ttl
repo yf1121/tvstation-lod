@@ -1,0 +1,17 @@
+<https://w3id.org/tvstationjp/org/BSS> <http://www.w3.org/2000/01/rdf-schema#label> "株式会社山陰放送"@ja,
+		"さんいんほうそう"@ja-Kana,
+		"Broadcasting System of San-in"@en;
+	<https://schema.org/name> "BSS";
+	<https://schema.org/formerName> "株式会社ラジオ山陰"@ja;
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/BSS-Sanin.png?width=300>;
+	<https://schema.org/foundingDate> "1953-12-24";
+	<http://www.wikidata.org/prop/direct/P3225> "7270001003679";
+	<https://schema.org/url> <https://www.bss.jp/>;
+	<https://schema.org/address> "683-8670";
+	<http://www.wikidata.org/prop/direct/P159> "鳥取県米子市西福原1丁目1番71号";
+	<https://schema.org/latitude> "北緯35.43832度";
+	<https://schema.org/longitude> "東経133.34029度";
+	<https://schema.org/brand> <https://w3id.org/tvstationjp/ch/JOHF-DTV>;
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/山陰放送>,
+		<https://www.wikidata.org/entity/Q843770>,
+		<http://ja.dbpedia.org/resource/山陰放送>.

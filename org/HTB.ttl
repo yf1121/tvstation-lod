@@ -1,0 +1,16 @@
+<https://w3id.org/tvstationjp/org/HTB> <http://www.w3.org/2000/01/rdf-schema#label> "北海道テレビ放送株式会社"@ja,
+		"ほっかいどうてれびほうそう"@ja-Kana,
+		"Hokkaido Television Broadcasting Co.,Ltd."@en;
+	<https://schema.org/name> "HTB";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Htb_logo.svg?width=300>;
+	<https://schema.org/foundingDate> "1967-12-01";
+	<http://www.wikidata.org/prop/direct/P3225> "9430001022322";
+	<https://schema.org/url> <https://www.htb.co.jp/>;
+	<https://schema.org/address> "060-8406";
+	<http://www.wikidata.org/prop/direct/P159> "北海道札幌市中央区北1条西1丁目6番地";
+	<https://schema.org/latitude> "北緯43.06306度";
+	<https://schema.org/longitude> "東経141.35556度";
+	<https://schema.org/brand> <https://w3id.org/tvstationjp/ch/JOHH-DTV>;
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/北海道テレビ放送>,
+		<https://www.wikidata.org/entity/Q843294>,
+		<http://ja.dbpedia.org/resource/北海道テレビ放送>.

@@ -1,0 +1,27 @@
+<https://w3id.org/tvstationjp/ch/JOZR-DTV> <http://www.w3.org/2000/01/rdf-schema#label> "高知放送"@ja,
+		"こうちほうそう"@ja-Kana,
+		"Kochi Broadcasting Co., Ltd."@en;
+	<https://schema.org/name> "RKC";
+	<https://schema.org/areaServed> <https://w3id.org/tvstationjp/area/高知県>;
+	<https://w3id.org/tvstationjp/tvst/newsNetwork> <https://w3id.org/tvstationjp/network/NNN>;
+	<https://w3id.org/tvstationjp/tvst/networkSystem> <https://w3id.org/tvstationjp/network/NNS>,
+		<https://w3id.org/tvstationjp/network/民教協>;
+	<https://schema.org/alternateName> "RKCラジオ"@ja,
+		"高知放送テレビ"@ja;
+	<http://www.wikidata.org/prop/direct/P2317> "JOZR-DTV";
+	<https://w3id.org/tvstationjp/tvst/callName> "こうちほうそうデジタルテレビジョン";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Rkc_logo.svg?width=300>;
+	<https://w3id.org/tvstationjp/tvst/platform> <https://w3id.org/tvstationjp/platform/ISDBt>;
+	<https://w3id.org/tvstationjp/tvst/chPosition> "4";
+	<https://w3id.org/tvstationjp/tvst/parentStation> "高知";
+	<https://w3id.org/tvstationjp/tvst/parentDTVCh> "17ch";
+	<https://w3id.org/tvstationjp/tvst/parentATVCh> "8ch";
+	<https://w3id.org/tvstationjp/tvst/logicalCh> "041";
+	<https://schema.org/url> <https://www.rkc-kochi.co.jp/>;
+	<https://schema.org/address> "780-8550";
+	<http://www.wikidata.org/prop/direct/P159> "高知県高知市本町三丁目2番8号";
+	<https://schema.org/latitude> "北緯33.55883度";
+	<https://schema.org/longitude> "東経133.53502度";
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/高知放送>,
+		<https://www.wikidata.org/entity/Q3082667>,
+		<http://ja.dbpedia.org/resource/高知放送>.

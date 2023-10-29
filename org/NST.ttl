@@ -1,0 +1,17 @@
+<https://w3id.org/tvstationjp/org/NST> <http://www.w3.org/2000/01/rdf-schema#label> "株式会社NST新潟総合テレビ"@ja,
+		"エヌエスティーにいがたそうごうテレビ"@ja-Kana,
+		"NST Niigata Sogo Television, Co., Ltd."@en;
+	<https://schema.org/name> "NST";
+	<https://schema.org/formerName> "株式会社新潟総合テレビ"@ja;
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Niigata_Nst_logo.svg?width=300>;
+	<https://schema.org/foundingDate> "1968-03-02";
+	<http://www.wikidata.org/prop/direct/P3225> "1110001003832";
+	<https://schema.org/url> <https://www.nsttv.com/>;
+	<https://schema.org/address> "950-8572";
+	<http://www.wikidata.org/prop/direct/P159> "新潟県新潟市中央区八千代二丁目3番1号";
+	<https://schema.org/latitude> "北緯37.91518度";
+	<https://schema.org/longitude> "東経139.05147度";
+	<https://schema.org/brand> <https://w3id.org/tvstationjp/ch/JONH-DTV>;
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/NST新潟総合テレビ>,
+		<https://www.wikidata.org/entity/Q843451>,
+		<http://ja.dbpedia.org/resource/NST新潟総合テレビ>.

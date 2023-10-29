@@ -1,0 +1,18 @@
+<https://w3id.org/tvstationjp/org/TVQ> <http://www.w3.org/2000/01/rdf-schema#label> "株式会社TVQ九州放送"@ja,
+		"ティーヴィーキューきゅうしゅうほうそう"@ja-Kana,
+		"TVQ KYUSHU BROADCASTING CO., LTD."@en;
+	<https://schema.org/name> "TVQ";
+	<https://schema.org/alternateName> "テレQ"@ja;
+	<https://schema.org/formerName> "株式会社ティー・エックス・エヌ九州"@ja;
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/2019_tvq_logo.svg?width=300>;
+	<https://schema.org/foundingDate> "1990-09-01";
+	<http://www.wikidata.org/prop/direct/P3225> "4290001014719";
+	<https://schema.org/url> <https://www.tvq.co.jp/>;
+	<https://schema.org/address> "812-8570";
+	<http://www.wikidata.org/prop/direct/P159> "福岡県福岡市博多区住吉2丁目3-1日経西部電波会館内";
+	<https://schema.org/latitude> "北緯33.58853度";
+	<https://schema.org/longitude> "東経130.41318度";
+	<https://schema.org/brand> <https://w3id.org/tvstationjp/ch/JOTY-DTV>;
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/TVQ九州放送>,
+		<https://www.wikidata.org/entity/Q908089>,
+		<http://ja.dbpedia.org/resource/TVQ九州放送>.

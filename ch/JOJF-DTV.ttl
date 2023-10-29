@@ -1,0 +1,25 @@
+<https://w3id.org/tvstationjp/ch/JOJF-DTV> <http://www.w3.org/2000/01/rdf-schema#label> "山梨放送"@ja,
+		"やまなしほうそう"@ja-Kana,
+		"Yamanashi Broadcasting System Inc."@en;
+	<https://schema.org/name> "YBS";
+	<https://schema.org/areaServed> <https://w3id.org/tvstationjp/area/山梨県>;
+	<https://w3id.org/tvstationjp/tvst/newsNetwork> <https://w3id.org/tvstationjp/network/NNN>;
+	<https://w3id.org/tvstationjp/tvst/networkSystem> <https://w3id.org/tvstationjp/network/NNS>,
+		<https://w3id.org/tvstationjp/network/民教協>;
+	<https://schema.org/alternateName> "YBSラジオ"@ja;
+	<http://www.wikidata.org/prop/direct/P2317> "JOJF-DTV";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/山梨放送.png?width=300>;
+	<https://w3id.org/tvstationjp/tvst/platform> <https://w3id.org/tvstationjp/platform/ISDBt>;
+	<https://w3id.org/tvstationjp/tvst/chPosition> "4";
+	<https://w3id.org/tvstationjp/tvst/parentStation> "甲府";
+	<https://w3id.org/tvstationjp/tvst/parentDTVCh> "25ch";
+	<https://w3id.org/tvstationjp/tvst/parentATVCh> "5ch";
+	<https://w3id.org/tvstationjp/tvst/logicalCh> "041";
+	<https://schema.org/url> <https://www.ybs.jp/>;
+	<https://schema.org/address> "400-8525";
+	<http://www.wikidata.org/prop/direct/P159> "山梨県甲府市北口二丁目6番10号";
+	<https://schema.org/latitude> "北緯35.66806度";
+	<https://schema.org/longitude> "東経138.57092度";
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/山梨放送>,
+		<https://www.wikidata.org/entity/Q843689>,
+		<http://ja.dbpedia.org/resource/山梨放送>.

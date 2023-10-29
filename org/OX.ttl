@@ -1,0 +1,17 @@
+<https://w3id.org/tvstationjp/org/OX> <http://www.w3.org/2000/01/rdf-schema#label> "株式会社仙台放送"@ja,
+		"せんだいほうそう"@ja-Kana,
+		"Sendai Television Incorporated"@en;
+	<https://schema.org/name> "OX";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/仙台放送.png?width=300>;
+	<https://schema.org/foundingDate> "1961-10-01";
+	<http://www.wikidata.org/prop/direct/P3225> "7370001002398";
+	<https://schema.org/url> <https://www.ox-tv.co.jp/>;
+	<https://schema.org/address> "980-8433";
+	<http://www.wikidata.org/prop/direct/P159> "仙台市青葉区上杉5丁目8-33";
+	<https://schema.org/latitude> "北緯38.274500度";
+	<https://schema.org/longitude> "東経140.874139度";
+	<https://schema.org/brand> <https://w3id.org/tvstationjp/ch/JOOX-DTV>;
+	<https://schema.org/ownershipFundingInfo> <https://w3id.org/tvstationjp/org/FMH>;
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/仙台放送>,
+		<https://www.wikidata.org/entity/Q843347>,
+		<http://ja.dbpedia.org/resource/仙台放送>.

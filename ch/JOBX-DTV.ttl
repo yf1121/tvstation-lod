@@ -1,0 +1,26 @@
+<https://w3id.org/tvstationjp/ch/JOBX-DTV> <http://www.w3.org/2000/01/rdf-schema#label> "大分朝日放送"@ja,
+		"おおいたあさひほうそう"@ja-Kana,
+		"Oita Asahi Broadcasting Co., Ltd."@en;
+	<https://schema.org/name> "OAB";
+	<https://schema.org/areaServed> <https://w3id.org/tvstationjp/area/大分県>;
+	<https://w3id.org/tvstationjp/tvst/newsNetwork> <https://w3id.org/tvstationjp/network/ANN>;
+	<https://w3id.org/tvstationjp/tvst/networkSystem> <https://w3id.org/tvstationjp/network/テレビ朝日ネットワーク>;
+	<https://schema.org/alternateName> "OAB"@ja,
+		"OAB大分朝日放送"@ja;
+	<http://www.wikidata.org/prop/direct/P2317> "JOBX-DTV";
+	<https://w3id.org/tvstationjp/tvst/callName> "OABデジタルテレビジョン";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Oab_logo.svg?width=300>;
+	<https://w3id.org/tvstationjp/tvst/platform> <https://w3id.org/tvstationjp/platform/ISDBt>;
+	<https://w3id.org/tvstationjp/tvst/chPosition> "5";
+	<https://w3id.org/tvstationjp/tvst/parentStation> "大分";
+	<https://w3id.org/tvstationjp/tvst/parentDTVCh> "32ch";
+	<https://w3id.org/tvstationjp/tvst/parentATVCh> "24ch";
+	<https://w3id.org/tvstationjp/tvst/logicalCh> "051";
+	<https://schema.org/url> <https://www.oab.co.jp/>;
+	<https://schema.org/address> "870-8524";
+	<http://www.wikidata.org/prop/direct/P159> "大分県大分市新川西2丁目7番1号";
+	<https://schema.org/latitude> "北緯33.249250度";
+	<https://schema.org/longitude> "東経131.605472度";
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/大分朝日放送>,
+		<https://www.wikidata.org/entity/Q843317>,
+		<http://ja.dbpedia.org/resource/大分朝日放送>.

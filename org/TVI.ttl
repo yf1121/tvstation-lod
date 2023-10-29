@@ -1,0 +1,16 @@
+<https://w3id.org/tvstationjp/org/TVI> <http://www.w3.org/2000/01/rdf-schema#label> "株式会社テレビ岩手"@ja,
+		"てれびいわて"@ja-Kana,
+		"Television Iwate Corporation."@en;
+	<https://schema.org/name> "TVI";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Headquarters_of_TV_Iwate_and_FM_Iwate.jpg?width=300>;
+	<https://schema.org/foundingDate> "1969-01-23";
+	<http://www.wikidata.org/prop/direct/P3225> "3400001001037";
+	<https://schema.org/url> <https://www.tvi.jp/>;
+	<https://schema.org/address> "020-8650";
+	<http://www.wikidata.org/prop/direct/P159> "岩手県盛岡市内丸2-10";
+	<https://schema.org/latitude> "北緯39.70149度";
+	<https://schema.org/longitude> "東経141.15381度";
+	<https://schema.org/brand> <https://w3id.org/tvstationjp/ch/JOII-DTV>;
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/テレビ岩手>,
+		<https://www.wikidata.org/entity/Q843430>,
+		<http://ja.dbpedia.org/resource/テレビ岩手>.

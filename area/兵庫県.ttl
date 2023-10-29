@@ -1,0 +1,3 @@
+<https://w3id.org/tvstationjp/area/兵庫県> <http://www.w3.org/2000/01/rdf-schema#label> "兵庫県"@ja;
+	<https://schema.org/description> "兵庫県"@ja;
+	<https://schema.org/containsPlace> <http://data.e-stat.go.jp/lod/sac/C28000>.

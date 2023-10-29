@@ -1,0 +1,16 @@
+<https://w3id.org/tvstationjp/org/AAB> <http://www.w3.org/2000/01/rdf-schema#label> "秋田朝日放送株式会社"@ja,
+		"あきたあさひほうそう"@ja-Kana,
+		"Akita Asahi Broadcasting CO.,LTD."@en;
+	<https://schema.org/name> "AAB";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Aab_logo.svg?width=300>;
+	<https://schema.org/foundingDate> "1991-07-29";
+	<http://www.wikidata.org/prop/direct/P3225> "8410001000181";
+	<https://schema.org/url> <https://www.aab-tv.co.jp/>;
+	<https://schema.org/address> "010-0941";
+	<http://www.wikidata.org/prop/direct/P159> "秋田県秋田市川尻町字大川反233-209";
+	<https://schema.org/latitude> "北緯39.716889度";
+	<https://schema.org/longitude> "東経140.086278度";
+	<https://schema.org/brand> <https://w3id.org/tvstationjp/ch/JOXX-DTV>;
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/秋田朝日放送>,
+		<https://www.wikidata.org/entity/Q908057>,
+		<http://ja.dbpedia.org/resource/秋田朝日放送>.

@@ -1,0 +1,17 @@
+<https://w3id.org/tvstationjp/org/KSB> <http://www.w3.org/2000/01/rdf-schema#label> "株式会社瀨戸内海放送"@ja,
+		"せとないかいほうそう"@ja-Kana,
+		"Setonaikai Broadcasting Corporation"@en;
+	<https://schema.org/name> "KSB";
+	<https://schema.org/formerName> "株式会社新日本放送"@ja;
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/KSB_logo_2020.svg?width=300>;
+	<https://schema.org/foundingDate> "1967-11-22";
+	<http://www.wikidata.org/prop/direct/P3225> "7470001002330";
+	<https://schema.org/url> <https://www.ksb.co.jp/>;
+	<https://schema.org/address> "761-8581";
+	<http://www.wikidata.org/prop/direct/P159> "香川県高松市上之町二丁目1番43号";
+	<https://schema.org/latitude> "北緯34.321611度";
+	<https://schema.org/longitude> "東経134.046889度";
+	<https://schema.org/brand> <https://w3id.org/tvstationjp/ch/JOVH-DTV>;
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/瀬戸内海放送>,
+		<https://www.wikidata.org/entity/Q843734>,
+		<http://ja.dbpedia.org/resource/瀬戸内海放送>.

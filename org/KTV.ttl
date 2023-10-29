@@ -1,0 +1,17 @@
+<https://w3id.org/tvstationjp/org/KTV> <http://www.w3.org/2000/01/rdf-schema#label> "関西テレビ放送株式会社"@ja,
+		"かんさいてれびほうそう"@ja-Kana,
+		"Kansai Television Co. Ltd."@en;
+	<https://schema.org/name> "KTV";
+	<https://schema.org/formerName> "大関西テレビ放送株式会社"@ja;
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Ktv_logo.svg?width=300>;
+	<https://schema.org/foundingDate> "1957-02-01";
+	<http://www.wikidata.org/prop/direct/P3225> "9120001059627";
+	<https://schema.org/url> <https://www.ktv.jp/>;
+	<https://schema.org/address> "530-8408";
+	<http://www.wikidata.org/prop/direct/P159> "大阪府大阪市北区扇町2丁目1番7号";
+	<https://schema.org/latitude> "北緯34.70427度";
+	<https://schema.org/longitude> "東経135.50993度";
+	<https://schema.org/brand> <https://w3id.org/tvstationjp/ch/JODX-DTV>;
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/関西テレビ放送>,
+		<https://www.wikidata.org/entity/Q1143147>,
+		<http://ja.dbpedia.org/resource/関西テレビ放送>.

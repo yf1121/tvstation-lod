@@ -1,0 +1,25 @@
+<https://w3id.org/tvstationjp/ch/JOBH-DTV> <http://www.w3.org/2000/01/rdf-schema#label> "テレビ大阪"@ja,
+		"てれびおおさか"@ja-Kana,
+		"Television Osaka, Inc."@en;
+	<https://schema.org/name> "TVO";
+	<https://schema.org/areaServed> <https://w3id.org/tvstationjp/area/大阪府>;
+	<https://w3id.org/tvstationjp/tvst/newsNetwork> <https://w3id.org/tvstationjp/network/TXN>;
+	<https://w3id.org/tvstationjp/tvst/networkSystem> <https://w3id.org/tvstationjp/network/TXN>;
+	<https://schema.org/alternateName> "テレビ大阪"@ja;
+	<http://www.wikidata.org/prop/direct/P2317> "JOBH-DTV";
+	<https://w3id.org/tvstationjp/tvst/callName> "TVOおおさかデジタルテレビジョン";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Tv_osaka_logo.svg?width=300>;
+	<https://w3id.org/tvstationjp/tvst/platform> <https://w3id.org/tvstationjp/platform/ISDBt>;
+	<https://w3id.org/tvstationjp/tvst/chPosition> "7";
+	<https://w3id.org/tvstationjp/tvst/parentStation> "大阪";
+	<https://w3id.org/tvstationjp/tvst/parentDTVCh> "18ch";
+	<https://w3id.org/tvstationjp/tvst/parentATVCh> "19ch";
+	<https://w3id.org/tvstationjp/tvst/logicalCh> "071";
+	<https://schema.org/url> <https://www.tv-osaka.co.jp/>;
+	<https://schema.org/address> "540-8519";
+	<http://www.wikidata.org/prop/direct/P159> "大阪府大阪市中央区大手前1丁目2番18号";
+	<https://schema.org/latitude> "北緯34.6908度";
+	<https://schema.org/longitude> "東経135.52095度";
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/テレビ大阪>,
+		<https://www.wikidata.org/entity/Q1324709>,
+		<http://ja.dbpedia.org/resource/テレビ大阪>.

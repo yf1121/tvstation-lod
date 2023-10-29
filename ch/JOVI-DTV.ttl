@@ -1,0 +1,25 @@
+<https://w3id.org/tvstationjp/ch/JOVI-DTV> <http://www.w3.org/2000/01/rdf-schema#label> "福島中央テレビ"@ja,
+		"ふくしまちゅうおうてれび"@ja-Kana,
+		"Fukushima Central Television Co., Ltd."@en;
+	<https://schema.org/name> "FCT";
+	<https://schema.org/areaServed> <https://w3id.org/tvstationjp/area/福島県>;
+	<https://w3id.org/tvstationjp/tvst/newsNetwork> <https://w3id.org/tvstationjp/network/NNN>;
+	<https://w3id.org/tvstationjp/tvst/networkSystem> <https://w3id.org/tvstationjp/network/NNS>;
+	<https://schema.org/alternateName> "中テレ"@ja;
+	<http://www.wikidata.org/prop/direct/P2317> "JOVI-DTV";
+	<https://w3id.org/tvstationjp/tvst/callName> "ふくしまちゅうおうテレビデジタルテレビジョン";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/福島中央テレビ.png?width=300>;
+	<https://w3id.org/tvstationjp/tvst/platform> <https://w3id.org/tvstationjp/platform/ISDBt>;
+	<https://w3id.org/tvstationjp/tvst/chPosition> "4";
+	<https://w3id.org/tvstationjp/tvst/parentStation> "福島（笹森山）";
+	<https://w3id.org/tvstationjp/tvst/parentDTVCh> "27ch";
+	<https://w3id.org/tvstationjp/tvst/parentATVCh> "33ch";
+	<https://w3id.org/tvstationjp/tvst/logicalCh> "041";
+	<https://schema.org/url> <https://www.fct.co.jp/>;
+	<https://schema.org/address> "963-8533";
+	<http://www.wikidata.org/prop/direct/P159> "福島県郡山市池ノ台13番23号";
+	<https://schema.org/latitude> "北緯37.39305度";
+	<https://schema.org/longitude> "東経140.37326度";
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/福島中央テレビ>,
+		<https://www.wikidata.org/entity/Q843311>,
+		<http://ja.dbpedia.org/resource/福島中央テレビ>.

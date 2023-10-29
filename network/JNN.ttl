@@ -1,0 +1,8 @@
+<https://w3id.org/tvstationjp/network/JNN> <http://www.w3.org/2000/01/rdf-schema#label> "JNN"@ja,
+		"Japan News Network"@en,
+		"ジェイエヌエヌ"@ja-Kana;
+	<https://schema.org/name> "ジャパン・ニュース・ネットワーク"@ja;
+	<https://w3id.org/tvstationjp/tvst/keystation> <https://w3id.org/tvstationjp/station/TBS>;
+	<https://schema.org/url> <https://www.tbsholdings.co.jp/tbstv/corporate/jnn.html>;
+	<https://schema.org/logo> <https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/JNN_logo.svg/330px-JNN_logo.svg.png>;
+	<https://schema.org/foundingDate> "1959-08-01".

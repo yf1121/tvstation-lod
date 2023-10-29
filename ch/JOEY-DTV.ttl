@@ -1,0 +1,26 @@
+<https://w3id.org/tvstationjp/ch/JOEY-DTV> <http://www.w3.org/2000/01/rdf-schema#label> "愛媛朝日テレビ"@ja,
+		"えひめあさひほうそう"@ja-Kana,
+		"Ehime Asahi Television, Inc."@en;
+	<https://schema.org/name> "eat";
+	<https://schema.org/areaServed> <https://w3id.org/tvstationjp/area/愛媛県>;
+	<https://w3id.org/tvstationjp/tvst/newsNetwork> <https://w3id.org/tvstationjp/network/ANN>;
+	<https://w3id.org/tvstationjp/tvst/networkSystem> <https://w3id.org/tvstationjp/network/テレビ朝日ネットワーク>;
+	<https://schema.org/alternateName> "eat"@ja,
+		"イート"@ja;
+	<http://www.wikidata.org/prop/direct/P2317> "JOEY-DTV";
+	<https://w3id.org/tvstationjp/tvst/callName> "えひめあさひテレビデジタルテレビジョン";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Eat_logo.svg?width=300>;
+	<https://w3id.org/tvstationjp/tvst/platform> <https://w3id.org/tvstationjp/platform/ISDBt>;
+	<https://w3id.org/tvstationjp/tvst/chPosition> "5";
+	<https://w3id.org/tvstationjp/tvst/parentStation> "松山";
+	<https://w3id.org/tvstationjp/tvst/parentDTVCh> "17ch";
+	<https://w3id.org/tvstationjp/tvst/parentATVCh> "25ch";
+	<https://w3id.org/tvstationjp/tvst/logicalCh> "051";
+	<https://schema.org/url> <https://eat.jp/>;
+	<https://schema.org/address> "790-8525";
+	<http://www.wikidata.org/prop/direct/P159> "愛媛県松山市和泉北1丁目14-11";
+	<https://schema.org/latitude> "北緯33.824333度";
+	<https://schema.org/longitude> "東経132.758667度";
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/愛媛朝日テレビ>,
+		<https://www.wikidata.org/entity/Q843337>,
+		<http://ja.dbpedia.org/resource/愛媛朝日テレビ>.

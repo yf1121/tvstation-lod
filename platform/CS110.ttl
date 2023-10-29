@@ -1,0 +1,3 @@
+<https://w3id.org/tvstationjp/platform/CS110> <http://www.w3.org/2000/01/rdf-schema#label> "CSデジタル"@ja,
+		"ISDB-S/CS"@en;
+	<http://www.w3.org/2000/01/rdf-schema#comment> "110度CSデジタル放送"@ja.

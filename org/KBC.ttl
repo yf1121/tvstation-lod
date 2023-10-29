@@ -1,0 +1,18 @@
+<https://w3id.org/tvstationjp/org/KBC> <http://www.w3.org/2000/01/rdf-schema#label> "九州朝日放送株式会社"@ja,
+		"きゅうしゅうあさひほうそう"@ja-Kana,
+		"KYUSHU ASAHI BROADCASTING CO., LTD."@en;
+	<https://schema.org/name> "KBC";
+	<https://schema.org/formerName> "九州朝日放送分割準備会社株式会社"@ja;
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/KBC_1988.svg?width=300>;
+	<https://schema.org/foundingDate> "2022-04-01";
+	<http://www.wikidata.org/prop/direct/P3225> "9290001097189";
+	<https://schema.org/url> <https://kbc.co.jp/tv>;
+	<https://schema.org/address> "810-8571";
+	<http://www.wikidata.org/prop/direct/P159> "福岡県福岡市中央区長浜1丁目1番1号";
+	<https://schema.org/latitude> "北緯33.59571度";
+	<https://schema.org/longitude> "東経130.39636度";
+	<https://schema.org/brand> <https://w3id.org/tvstationjp/ch/JOIF-DTV>;
+	<https://schema.org/ownershipFundingInfo> <https://w3id.org/tvstationjp/org/KBCGHD>;
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/九州朝日放送>,
+		<https://www.wikidata.org/entity/Q843686>,
+		<http://ja.dbpedia.org/resource/九州朝日放送>.

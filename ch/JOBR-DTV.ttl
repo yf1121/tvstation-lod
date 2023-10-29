@@ -1,0 +1,26 @@
+<https://w3id.org/tvstationjp/ch/JOBR-DTV> <http://www.w3.org/2000/01/rdf-schema#label> "京都放送"@ja,
+		"きょうとほうそう"@ja-Kana,
+		"Kyoto Broadcasting System Company Limited"@en;
+	<https://schema.org/name> "KBS";
+	<https://schema.org/areaServed> <https://w3id.org/tvstationjp/area/京都府>;
+	<https://w3id.org/tvstationjp/tvst/networkSystem> <https://w3id.org/tvstationjp/network/JAITS>;
+	<https://schema.org/alternateName> "KBS京都"@ja,
+		"KBS京都テレビ"@ja,
+		"KBSテレビ"@ja;
+	<http://www.wikidata.org/prop/direct/P2317> "JOBR-DTV";
+	<https://w3id.org/tvstationjp/tvst/callName> "きょうとほうそうデジタルテレビジョン";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Kbs_logo.svg?width=300>;
+	<https://w3id.org/tvstationjp/tvst/platform> <https://w3id.org/tvstationjp/platform/ISDBt>;
+	<https://w3id.org/tvstationjp/tvst/chPosition> "5";
+	<https://w3id.org/tvstationjp/tvst/parentStation> "京都";
+	<https://w3id.org/tvstationjp/tvst/parentDTVCh> "23ch";
+	<https://w3id.org/tvstationjp/tvst/parentATVCh> "34ch";
+	<https://w3id.org/tvstationjp/tvst/logicalCh> "051";
+	<https://schema.org/url> <https://www.kbs-kyoto.co.jp/>;
+	<https://schema.org/address> "602-8588";
+	<http://www.wikidata.org/prop/direct/P159> "京都府京都市上京区烏丸通一条下ル龍前町600番地の1";
+	<https://schema.org/latitude> "北緯35.02877度";
+	<https://schema.org/longitude> "東経135.74498度";
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/京都放送>,
+		<https://www.wikidata.org/entity/Q1065614>,
+		<http://ja.dbpedia.org/resource/京都放送>.

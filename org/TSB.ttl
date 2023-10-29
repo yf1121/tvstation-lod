@@ -1,0 +1,16 @@
+<https://w3id.org/tvstationjp/org/TSB> <http://www.w3.org/2000/01/rdf-schema#label> "株式会社テレビ信州"@ja,
+		"てれびしんしゅう"@ja-Kana,
+		"TV Shinshu Broadcasting Co., Ltd."@en;
+	<https://schema.org/name> "TSB";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Tsb_logo_ja.svg?width=300>;
+	<https://schema.org/foundingDate> "1979-12-03";
+	<http://www.wikidata.org/prop/direct/P3225> "1100001006002";
+	<https://schema.org/url> <https://www.tsb.jp/>;
+	<https://schema.org/address> "380-8555";
+	<http://www.wikidata.org/prop/direct/P159> "長野県長野市若里一丁目1-1";
+	<https://schema.org/latitude> "北緯36.6373度";
+	<https://schema.org/longitude> "東経138.18636度";
+	<https://schema.org/brand> <https://w3id.org/tvstationjp/ch/JONI-DTV>;
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/テレビ信州>,
+		<https://www.wikidata.org/entity/Q843197>,
+		<http://ja.dbpedia.org/resource/テレビ信州>.

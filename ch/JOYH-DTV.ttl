@@ -1,0 +1,26 @@
+<https://w3id.org/tvstationjp/ch/JOYH-DTV> <http://www.w3.org/2000/01/rdf-schema#label> "岩手めんこいテレビ"@ja,
+		"いわてめんこいてれび"@ja-Kana,
+		"Iwate Menkoi Television Co., Ltd."@en;
+	<https://schema.org/name> "mit";
+	<https://schema.org/areaServed> <https://w3id.org/tvstationjp/area/岩手県>;
+	<https://w3id.org/tvstationjp/tvst/newsNetwork> <https://w3id.org/tvstationjp/network/FNN>;
+	<https://w3id.org/tvstationjp/tvst/networkSystem> <https://w3id.org/tvstationjp/network/FNS>;
+	<https://schema.org/alternateName> "めんこいテレビ"@ja,
+		"ミット"@ja;
+	<http://www.wikidata.org/prop/direct/P2317> "JOYH-DTV";
+	<https://w3id.org/tvstationjp/tvst/callName> "いわてめんこいテレビデジタルテレビジョン";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Mit_logo.svg?width=300>;
+	<https://w3id.org/tvstationjp/tvst/platform> <https://w3id.org/tvstationjp/platform/ISDBt>;
+	<https://w3id.org/tvstationjp/tvst/chPosition> "8";
+	<https://w3id.org/tvstationjp/tvst/parentStation> "盛岡";
+	<https://w3id.org/tvstationjp/tvst/parentDTVCh> "20ch";
+	<https://w3id.org/tvstationjp/tvst/parentATVCh> "33ch";
+	<https://w3id.org/tvstationjp/tvst/logicalCh> "081";
+	<https://schema.org/url> <https://www.menkoi-tv.co.jp/top.html>;
+	<https://schema.org/address> "020-0866";
+	<http://www.wikidata.org/prop/direct/P159> "岩手県盛岡市本宮5丁目2-25";
+	<https://schema.org/latitude> "北緯39.69225度";
+	<https://schema.org/longitude> "東経141.12126度";
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/岩手めんこいテレビ>,
+		<https://www.wikidata.org/entity/Q843297>,
+		<http://ja.dbpedia.org/resource/岩手めんこいテレビ>.

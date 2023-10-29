@@ -1,0 +1,18 @@
+<https://w3id.org/tvstationjp/ch/JOAP-DTV> <http://www.w3.org/2000/01/rdf-schema#label> "NHK総合・沖縄"@ja,
+		"NHK General TV"@en;
+	<https://schema.org/areaServed> <https://w3id.org/tvstationjp/area/沖縄県>;
+	<https://w3id.org/tvstationjp/tvst/newsNetwork> <https://w3id.org/tvstationjp/network/NHKG>;
+	<https://w3id.org/tvstationjp/tvst/networkSystem> <https://w3id.org/tvstationjp/network/NHKG>;
+	<http://www.wikidata.org/prop/direct/P2317> "JOAP-DTV";
+	<https://w3id.org/tvstationjp/tvst/callName> "NHKおきなわデジタルテレビジョン";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/NHK総合ロゴ2020-.svg?width=300>;
+	<https://w3id.org/tvstationjp/tvst/platform> <https://w3id.org/tvstationjp/platform/ISDBt>;
+	<https://w3id.org/tvstationjp/tvst/chPosition> "1";
+	<https://w3id.org/tvstationjp/tvst/parentStation> "那覇";
+	<https://w3id.org/tvstationjp/tvst/parentDTVCh> "17ch";
+	<https://w3id.org/tvstationjp/tvst/parentATVCh> "2";
+	<https://w3id.org/tvstationjp/tvst/logicalCh> "011",
+		"012";
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/NHK総合テレビジョン>,
+		<https://www.wikidata.org/entity/Q909336>,
+		<http://ja.dbpedia.org/resource/NHK総合テレビジョン>.

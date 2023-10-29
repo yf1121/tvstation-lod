@@ -1,0 +1,26 @@
+<https://w3id.org/tvstationjp/ch/JOEM-DTV> <http://www.w3.org/2000/01/rdf-schema#label> "東日本放送"@ja,
+		"ひがしにっぽんほうそう"@ja-Kana,
+		"HIGASHI NIPPON BROADCASTING Co.,Ltd."@en;
+	<https://schema.org/name> "khb";
+	<https://schema.org/areaServed> <https://w3id.org/tvstationjp/area/宮城県>;
+	<https://w3id.org/tvstationjp/tvst/newsNetwork> <https://w3id.org/tvstationjp/network/ANN>;
+	<https://w3id.org/tvstationjp/tvst/networkSystem> <https://w3id.org/tvstationjp/network/テレビ朝日ネットワーク>;
+	<https://schema.org/alternateName> "khb"@ja,
+		"khb東日本放送"@ja;
+	<http://www.wikidata.org/prop/direct/P2317> "JOEM-DTV";
+	<https://w3id.org/tvstationjp/tvst/callName> "ひがしにっぽんほうそうデジタルテレビジョン";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Khb_logo_2021.svg?width=300>;
+	<https://w3id.org/tvstationjp/tvst/platform> <https://w3id.org/tvstationjp/platform/ISDBt>;
+	<https://w3id.org/tvstationjp/tvst/chPosition> "5";
+	<https://w3id.org/tvstationjp/tvst/parentStation> "仙台";
+	<https://w3id.org/tvstationjp/tvst/parentDTVCh> "28ch";
+	<https://w3id.org/tvstationjp/tvst/parentATVCh> "32ch";
+	<https://w3id.org/tvstationjp/tvst/logicalCh> "051";
+	<https://schema.org/url> <https://www.khb-tv.co.jp/>;
+	<https://schema.org/address> "982-8505";
+	<http://www.wikidata.org/prop/direct/P159> "宮城県仙台市太白区あすと長町1丁目3-15";
+	<https://schema.org/latitude> "北緯38.23005度";
+	<https://schema.org/longitude> "東経140.88947度";
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/東日本放送>,
+		<https://www.wikidata.org/entity/Q843355>,
+		<http://ja.dbpedia.org/resource/東日本放送>.

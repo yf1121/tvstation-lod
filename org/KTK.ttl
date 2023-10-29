@@ -1,0 +1,16 @@
+<https://w3id.org/tvstationjp/org/KTK> <http://www.w3.org/2000/01/rdf-schema#label> "株式会社テレビ金沢"@ja,
+		"てれびかなざわ"@ja-Kana,
+		"Television Kanazawa Corporation"@en;
+	<https://schema.org/name> "KTK";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/KTKテレビ金沢本社.jpg?width=300>;
+	<https://schema.org/foundingDate> "1989-08-01";
+	<http://www.wikidata.org/prop/direct/P3225> "1220001004472";
+	<https://schema.org/url> <https://www.tvkanazawa.co.jp/>;
+	<https://schema.org/address> "920-0386";
+	<http://www.wikidata.org/prop/direct/P159> "石川県金沢市古府二丁目136番地";
+	<https://schema.org/latitude> "北緯36.5690333度";
+	<https://schema.org/longitude> "東経136.6034611度";
+	<https://schema.org/brand> <https://w3id.org/tvstationjp/ch/JOWX-DTV>;
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/テレビ金沢>,
+		<https://www.wikidata.org/entity/Q843432>,
+		<http://ja.dbpedia.org/resource/テレビ金沢>.

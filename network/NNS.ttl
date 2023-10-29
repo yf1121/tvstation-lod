@@ -1,0 +1,8 @@
+<https://w3id.org/tvstationjp/network/NNS> <http://www.w3.org/2000/01/rdf-schema#label> "NNS"@ja,
+		"Nippon Television Network System"@en,
+		"エヌエヌエス"@ja-Kana;
+	<https://schema.org/name> "日本テレビネットワーク協議会"@ja,
+		"日本テレビ系列"@ja;
+	<https://w3id.org/tvstationjp/tvst/keystation> <https://w3id.org/tvstationjp/station/NTV>;
+	<https://schema.org/url> <https://www.ntv.co.jp/info/outline/domestic.html>;
+	<https://schema.org/foundingDate> "1972-06-14".

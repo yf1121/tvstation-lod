@@ -1,0 +1,19 @@
+<https://w3id.org/tvstationjp/org/NHK甲府> <http://www.w3.org/2000/01/rdf-schema#label> "NHK甲府放送局"@ja,
+		"エヌエイチケイこうふほうそうきょく"@ja-Kana;
+	<https://schema.org/name> "NHK甲府";
+	<https://schema.org/logo> <https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/100px-NHK_logo_2020.svg.png>;
+	<http://www.wikidata.org/prop/direct/P3225> "8011005000968";
+	<https://schema.org/url> <https://www.nhk.or.jp/kofu/>;
+	<https://w3id.org/tvstationjp/tvst/networkBlock> "関東甲信越";
+	<https://schema.org/address> "400-8552";
+	<http://www.wikidata.org/prop/direct/P159> "山梨県甲府市丸の内1-1-20";
+	<https://schema.org/latitude> "北緯35.667833度";
+	<https://schema.org/longitude> "東経138.568667度";
+	<https://schema.org/brand> <https://w3id.org/tvstationjp/ch/JOKG-DTV>,
+		<https://w3id.org/tvstationjp/ch/JOKC-DTV>,
+		<https://w3id.org/tvstationjp/ch/JOKG>,
+		<https://w3id.org/tvstationjp/ch/JOKC>,
+		<https://w3id.org/tvstationjp/ch/JOKG-FM>;
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/NHK甲府放送局>,
+		<https://www.wikidata.org/entity/Q2948614>,
+		<http://ja.dbpedia.org/resource/NHK甲府放送局>.

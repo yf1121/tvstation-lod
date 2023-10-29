@@ -1,0 +1,18 @@
+<https://w3id.org/tvstationjp/org/itv> <http://www.w3.org/2000/01/rdf-schema#label> "株式会社あいテレビ"@ja,
+		"あいてれび"@ja-Kana,
+		"i-Television Inc."@en;
+	<https://schema.org/name> "itv";
+	<https://schema.org/alternateName> "ITV"@ja;
+	<https://schema.org/formerName> "株式会社伊予テレビ"@ja;
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Itv_logo.svg?width=300>;
+	<https://schema.org/foundingDate> "1991-07-03";
+	<http://www.wikidata.org/prop/direct/P3225> "4500001000481";
+	<https://schema.org/url> <https://www.itv6.jp/>;
+	<https://schema.org/address> "790-8529";
+	<http://www.wikidata.org/prop/direct/P159> "愛媛県松山市竹原町1丁目5-25";
+	<https://schema.org/latitude> "北緯33.833778度";
+	<https://schema.org/longitude> "東経132.755639度";
+	<https://schema.org/brand> <https://w3id.org/tvstationjp/ch/JOEH-DTV>;
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/あいテレビ>,
+		<https://www.wikidata.org/entity/Q843358>,
+		<http://ja.dbpedia.org/resource/あいテレビ>.

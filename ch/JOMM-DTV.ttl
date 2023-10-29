@@ -1,0 +1,26 @@
+<https://w3id.org/tvstationjp/ch/JOMM-DTV> <http://www.w3.org/2000/01/rdf-schema#label> "宮城テレビ放送"@ja,
+		"みやぎてれびほうそう"@ja-Kana,
+		"Miyagi Television Broadcasting Co., Ltd."@en;
+	<https://schema.org/name> "MMT";
+	<https://schema.org/areaServed> <https://w3id.org/tvstationjp/area/宮城県>;
+	<https://w3id.org/tvstationjp/tvst/newsNetwork> <https://w3id.org/tvstationjp/network/NNN>;
+	<https://w3id.org/tvstationjp/tvst/networkSystem> <https://w3id.org/tvstationjp/network/NNS>;
+	<https://schema.org/alternateName> "ミヤテレ"@ja,
+		"ミヤギテレビ"@ja;
+	<http://www.wikidata.org/prop/direct/P2317> "JOMM-DTV";
+	<https://w3id.org/tvstationjp/tvst/callName> "ミヤギテレビデジタルテレビジョン";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Mmt_logo.svg?width=300>;
+	<https://w3id.org/tvstationjp/tvst/platform> <https://w3id.org/tvstationjp/platform/ISDBt>;
+	<https://w3id.org/tvstationjp/tvst/chPosition> "4";
+	<https://w3id.org/tvstationjp/tvst/parentStation> "仙台";
+	<https://w3id.org/tvstationjp/tvst/parentDTVCh> "24ch";
+	<https://w3id.org/tvstationjp/tvst/parentATVCh> "34ch";
+	<https://w3id.org/tvstationjp/tvst/logicalCh> "041";
+	<https://schema.org/url> <https://www.mmt-tv.co.jp/>;
+	<https://schema.org/address> "983-8611";
+	<http://www.wikidata.org/prop/direct/P159> "宮城県仙台市宮城野区日の出町1-5-33";
+	<https://schema.org/latitude> "北緯38.26925度";
+	<https://schema.org/longitude> "東経140.93544度";
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/宮城テレビ放送>,
+		<https://www.wikidata.org/entity/Q3082642>,
+		<http://ja.dbpedia.org/resource/宮城テレビ放送>.

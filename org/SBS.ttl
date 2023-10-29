@@ -1,0 +1,16 @@
+<https://w3id.org/tvstationjp/org/SBS> <http://www.w3.org/2000/01/rdf-schema#label> "静岡放送株式会社"@ja,
+		"しずおかほうそう"@ja-Kana,
+		"Shizuoka Broadcasting System Co., Ltd."@en;
+	<https://schema.org/name> "SBS";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/ShizuokaBroadcastingSystem.png?width=300>;
+	<https://schema.org/foundingDate> "1952-10-01";
+	<http://www.wikidata.org/prop/direct/P3225> "8080001002914";
+	<https://schema.org/url> <https://www.at-s.com/sbstv/>;
+	<https://schema.org/address> "422-8680";
+	<http://www.wikidata.org/prop/direct/P159> "静岡県静岡市駿河区登呂三丁目1番1号";
+	<https://schema.org/latitude> "北緯34.96048度";
+	<https://schema.org/longitude> "東経138.40656度";
+	<https://schema.org/brand> <https://w3id.org/tvstationjp/ch/JOVR-DTV>;
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/静岡放送>,
+		<https://www.wikidata.org/entity/Q843648>,
+		<http://ja.dbpedia.org/resource/静岡放送>.

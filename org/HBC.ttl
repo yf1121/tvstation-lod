@@ -1,0 +1,16 @@
+<https://w3id.org/tvstationjp/org/HBC> <http://www.w3.org/2000/01/rdf-schema#label> "北海道放送株式会社"@ja,
+		"ほっかいどうほうそう"@ja-Kana,
+		"Hokkaido Broadcasting Co.,Ltd."@en;
+	<https://schema.org/name> "HBC";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Hbc_logo.svg?width=300>;
+	<https://schema.org/foundingDate> "1951-11-30";
+	<http://www.wikidata.org/prop/direct/P3225> "6430001022390";
+	<https://schema.org/url> <https://www.hbc.co.jp/>;
+	<https://schema.org/address> "060-8501";
+	<http://www.wikidata.org/prop/direct/P159> "北海道札幌市中央区北1条西5丁目2番地";
+	<https://schema.org/latitude> "北緯43.062556度";
+	<https://schema.org/longitude> "東経141.348806度";
+	<https://schema.org/brand> <https://w3id.org/tvstationjp/ch/JOHR-DTV>;
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/北海道放送>,
+		<https://www.wikidata.org/entity/Q843702>,
+		<http://ja.dbpedia.org/resource/北海道放送>.

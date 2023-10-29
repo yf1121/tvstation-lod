@@ -1,0 +1,15 @@
+<https://w3id.org/tvstationjp/org/CBC> <http://www.w3.org/2000/01/rdf-schema#label> "中部日本放送株式会社"@ja,
+		"チュウブニッポンホウソウ"@ja-Kana,
+		"CHUBU-NIPPON BROADCASTING CO., LTD."@en;
+	<https://schema.org/name> "CBC";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Chubu-Nippon_Broadcasting_logo_20150825.svg?width=300>;
+	<https://schema.org/foundingDate> "1950-12-15";
+	<http://www.wikidata.org/prop/direct/P3225> "7180001038107";
+	<https://schema.org/url> <https://hicbc.com/corporation/>;
+	<https://schema.org/address> "460-8405";
+	<http://www.wikidata.org/prop/direct/P159> "愛知県名古屋市中区新栄1丁目2番8号";
+	<https://schema.org/latitude> "北緯35.16939度";
+	<https://schema.org/longitude> "東経136.91644度";
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/中部日本放送>,
+		<https://www.wikidata.org/entity/Q528448>,
+		<http://ja.dbpedia.org/resource/中部日本放送>.

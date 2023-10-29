@@ -1,0 +1,19 @@
+<https://w3id.org/tvstationjp/org/NHK沖縄> <http://www.w3.org/2000/01/rdf-schema#label> "NHK沖縄放送局"@ja,
+		"エヌエイチケイおきなわほうそうきょく"@ja-Kana;
+	<https://schema.org/name> "NHK沖縄";
+	<https://schema.org/logo> <https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/100px-NHK_logo_2020.svg.png>;
+	<http://www.wikidata.org/prop/direct/P3225> "8011005000968";
+	<https://schema.org/url> <https://www.nhk.or.jp/okinawa/>;
+	<https://w3id.org/tvstationjp/tvst/networkBlock> "九州・沖縄";
+	<https://schema.org/address> "900-8535";
+	<http://www.wikidata.org/prop/direct/P159> "沖縄県那覇市おもろまち2丁目6-21";
+	<https://schema.org/latitude> "北緯26.2258778度";
+	<https://schema.org/longitude> "東経127.691194度";
+	<https://schema.org/brand> <https://w3id.org/tvstationjp/ch/JOAP-DTV>,
+		<https://w3id.org/tvstationjp/ch/JOAD-DTV>,
+		<https://w3id.org/tvstationjp/ch/JOAP>,
+		<https://w3id.org/tvstationjp/ch/JOAD>,
+		<https://w3id.org/tvstationjp/ch/JOAP-FM>;
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/NHK沖縄放送局>,
+		<https://www.wikidata.org/entity/Q10854733>,
+		<http://ja.dbpedia.org/resource/NHK沖縄放送局>.

@@ -1,0 +1,30 @@
+<https://w3id.org/tvstationjp/ch/JOGX-DTV> <http://www.w3.org/2000/01/rdf-schema#label> "CBCテレビ"@ja,
+		"シービーシーテレビ"@ja-Kana,
+		"CBC Television Co., Ltd."@en;
+	<https://schema.org/name> "CBC";
+	<https://schema.org/areaServed> <https://w3id.org/tvstationjp/area/中京広域圏>;
+	<https://w3id.org/tvstationjp/tvst/newsNetwork> <https://w3id.org/tvstationjp/network/JNN>;
+	<https://w3id.org/tvstationjp/tvst/networkSystem> <https://w3id.org/tvstationjp/network/TBSネットワーク>;
+	<https://schema.org/alternateName> "CBCテレビ"@ja,
+		"中日放送"@ja,
+		"中部日本放送"@ja,
+		"CBC"@ja;
+	<http://www.wikidata.org/prop/direct/P2317> "JOGX-DTV";
+	<https://w3id.org/tvstationjp/tvst/callName> "CBCデジタルテレビジョン";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Chubu-Nippon_Broadcasting_logo_20150825.svg?width=300>;
+	<https://w3id.org/tvstationjp/tvst/platform> <https://w3id.org/tvstationjp/platform/ISDBt>;
+	<https://w3id.org/tvstationjp/tvst/chPosition> "5";
+	<https://w3id.org/tvstationjp/tvst/parentStation> "名古屋";
+	<https://w3id.org/tvstationjp/tvst/parentDTVCh> "18ch";
+	<https://w3id.org/tvstationjp/tvst/parentATVCh> "5ch";
+	<https://w3id.org/tvstationjp/tvst/logicalCh> "051",
+		"052",
+		"053";
+	<https://schema.org/url> <https://hicbc.com/tv/>;
+	<https://schema.org/address> "460-8405";
+	<http://www.wikidata.org/prop/direct/P159> "愛知県名古屋市中区新栄1丁目2番8号";
+	<https://schema.org/latitude> "北緯35.16939度";
+	<https://schema.org/longitude> "東経136.91644度";
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/CBCテレビ>,
+		<https://www.wikidata.org/entity/Q27621346>,
+		<http://ja.dbpedia.org/resource/CBCテレビ>.

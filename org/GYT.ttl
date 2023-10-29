@@ -1,0 +1,16 @@
+<https://w3id.org/tvstationjp/org/GYT> <http://www.w3.org/2000/01/rdf-schema#label> "株式会社とちぎテレビ"@ja,
+		"とちぎてれび"@ja-Kana,
+		"Tochigi Television Co., Ltd."@en;
+	<https://schema.org/name> "GYT";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Tochigi_Television_2013-02-09.jpg?width=300>;
+	<https://schema.org/foundingDate> "1997-05-14";
+	<http://www.wikidata.org/prop/direct/P3225> "4060001003001";
+	<https://schema.org/url> <https://www.tochigi-tv.jp/>;
+	<https://schema.org/address> "320-8531";
+	<http://www.wikidata.org/prop/direct/P159> "栃木県宇都宮市昭和2丁目2番2号";
+	<https://schema.org/latitude> "北緯36.56737度";
+	<https://schema.org/longitude> "東経139.88199度";
+	<https://schema.org/brand> <https://w3id.org/tvstationjp/ch/JOGY-DTV>;
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/とちぎテレビ>,
+		<https://www.wikidata.org/entity/Q8013689>,
+		<http://ja.dbpedia.org/resource/とちぎテレビ>.

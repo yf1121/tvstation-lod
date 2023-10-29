@@ -1,0 +1,16 @@
+<https://w3id.org/tvstationjp/org/TNC> <http://www.w3.org/2000/01/rdf-schema#label> "株式会社テレビ西日本"@ja,
+		"テレビにしにっぽん"@ja-Kana,
+		"Television Nishinippon Corporation"@en;
+	<https://schema.org/name> "TNC";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Tnc_logo.svg?width=300>;
+	<https://schema.org/foundingDate> "1958-04-01";
+	<http://www.wikidata.org/prop/direct/P3225> "8290001005441";
+	<https://schema.org/url> <http://www.tnc.co.jp>;
+	<https://schema.org/address> "814-8555";
+	<http://www.wikidata.org/prop/direct/P159> "福岡県福岡市早良区百道浜2丁目3番2号";
+	<https://schema.org/latitude> "北緯33.59208度";
+	<https://schema.org/longitude> "東経130.35304度";
+	<https://schema.org/brand> <https://w3id.org/tvstationjp/ch/JOJY-DTV>;
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/テレビ西日本>,
+		<https://www.wikidata.org/entity/Q843613>,
+		<http://ja.dbpedia.org/resource/テレビ西日本>.

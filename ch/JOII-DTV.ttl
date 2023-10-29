@@ -1,0 +1,24 @@
+<https://w3id.org/tvstationjp/ch/JOII-DTV> <http://www.w3.org/2000/01/rdf-schema#label> "テレビ岩手"@ja,
+		"てれびいわて"@ja-Kana,
+		"Television Iwate Corporation."@en;
+	<https://schema.org/name> "TVI";
+	<https://schema.org/areaServed> <https://w3id.org/tvstationjp/area/岩手県>;
+	<https://w3id.org/tvstationjp/tvst/newsNetwork> <https://w3id.org/tvstationjp/network/NNN>;
+	<https://w3id.org/tvstationjp/tvst/networkSystem> <https://w3id.org/tvstationjp/network/NNS>;
+	<http://www.wikidata.org/prop/direct/P2317> "JOII-DTV";
+	<https://w3id.org/tvstationjp/tvst/callName> "テレビいわてデジタルテレビジョン";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Headquarters_of_TV_Iwate_and_FM_Iwate.jpg?width=300>;
+	<https://w3id.org/tvstationjp/tvst/platform> <https://w3id.org/tvstationjp/platform/ISDBt>;
+	<https://w3id.org/tvstationjp/tvst/chPosition> "4";
+	<https://w3id.org/tvstationjp/tvst/parentStation> "盛岡";
+	<https://w3id.org/tvstationjp/tvst/parentDTVCh> "18ch";
+	<https://w3id.org/tvstationjp/tvst/parentATVCh> "35ch";
+	<https://w3id.org/tvstationjp/tvst/logicalCh> "041";
+	<https://schema.org/url> <https://www.tvi.jp/>;
+	<https://schema.org/address> "020-8650";
+	<http://www.wikidata.org/prop/direct/P159> "岩手県盛岡市内丸2-10";
+	<https://schema.org/latitude> "北緯39.70149度";
+	<https://schema.org/longitude> "東経141.15381度";
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/テレビ岩手>,
+		<https://www.wikidata.org/entity/Q843430>,
+		<http://ja.dbpedia.org/resource/テレビ岩手>.

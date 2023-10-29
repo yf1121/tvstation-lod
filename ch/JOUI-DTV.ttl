@@ -1,0 +1,25 @@
+<https://w3id.org/tvstationjp/ch/JOUI-DTV> <http://www.w3.org/2000/01/rdf-schema#label> "鹿児島讀賣テレビ"@ja,
+		"かごしまよみうりてれび"@ja-Kana,
+		"Kagoshima Yomiuri Television"@en;
+	<https://schema.org/name> "KYT";
+	<https://schema.org/areaServed> <https://w3id.org/tvstationjp/area/鹿児島県>;
+	<https://w3id.org/tvstationjp/tvst/newsNetwork> <https://w3id.org/tvstationjp/network/NNN>;
+	<https://w3id.org/tvstationjp/tvst/networkSystem> <https://w3id.org/tvstationjp/network/NNS>;
+	<https://schema.org/alternateName> "KYT鹿児島読売テレビ"@ja;
+	<http://www.wikidata.org/prop/direct/P2317> "JOUI-DTV";
+	<https://w3id.org/tvstationjp/tvst/callName> "かごしまよみうりテレビデジタルテレビジョン";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Kyt_logo.svg?width=300>;
+	<https://w3id.org/tvstationjp/tvst/platform> <https://w3id.org/tvstationjp/platform/ISDBt>;
+	<https://w3id.org/tvstationjp/tvst/chPosition> "4";
+	<https://w3id.org/tvstationjp/tvst/parentStation> "鹿児島";
+	<https://w3id.org/tvstationjp/tvst/parentDTVCh> "29ch";
+	<https://w3id.org/tvstationjp/tvst/parentATVCh> "30ch";
+	<https://w3id.org/tvstationjp/tvst/logicalCh> "041";
+	<https://schema.org/url> <https://www.kyt-tv.com/>;
+	<https://schema.org/address> "890-8574";
+	<http://www.wikidata.org/prop/direct/P159> "鹿児島市与次郎1-9-34";
+	<https://schema.org/latitude> "北緯31.56696度";
+	<https://schema.org/longitude> "東経130.5649度";
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/鹿児島讀賣テレビ>,
+		<https://www.wikidata.org/entity/Q843366>,
+		<http://ja.dbpedia.org/resource/鹿児島讀賣テレビ>.

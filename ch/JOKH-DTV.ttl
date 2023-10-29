@@ -1,0 +1,24 @@
+<https://w3id.org/tvstationjp/ch/JOKH-DTV> <http://www.w3.org/2000/01/rdf-schema#label> "鹿児島テレビ放送"@ja,
+		"かごしまてれびほうそう"@ja-Kana,
+		"Kagoshima Television Station Co.,Ltd."@en;
+	<https://schema.org/name> "KTS";
+	<https://schema.org/areaServed> <https://w3id.org/tvstationjp/area/鹿児島県>;
+	<https://w3id.org/tvstationjp/tvst/newsNetwork> <https://w3id.org/tvstationjp/network/FNN>;
+	<https://w3id.org/tvstationjp/tvst/networkSystem> <https://w3id.org/tvstationjp/network/FNS>;
+	<http://www.wikidata.org/prop/direct/P2317> "JOKH-DTV";
+	<https://w3id.org/tvstationjp/tvst/callName> "かごしまテレビほうそうデジタルテレビジョン";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/KTS_Kagoshima_Television_Station_Logo.jpg?width=300>;
+	<https://w3id.org/tvstationjp/tvst/platform> <https://w3id.org/tvstationjp/platform/ISDBt>;
+	<https://w3id.org/tvstationjp/tvst/chPosition> "8";
+	<https://w3id.org/tvstationjp/tvst/parentStation> "鹿児島";
+	<https://w3id.org/tvstationjp/tvst/parentDTVCh> "42ch";
+	<https://w3id.org/tvstationjp/tvst/parentATVCh> "38ch";
+	<https://w3id.org/tvstationjp/tvst/logicalCh> "081";
+	<https://schema.org/url> <https://www.kts-tv.co.jp/>;
+	<https://schema.org/address> "890-8666";
+	<http://www.wikidata.org/prop/direct/P159> "鹿児島県鹿児島市紫原六丁目15-8";
+	<https://schema.org/latitude> "北緯31.56115度";
+	<https://schema.org/longitude> "東経130.5313度";
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/鹿児島テレビ放送>,
+		<https://www.wikidata.org/entity/Q8014155>,
+		<http://ja.dbpedia.org/resource/鹿児島テレビ放送>.

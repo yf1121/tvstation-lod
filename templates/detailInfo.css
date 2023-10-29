@@ -1,0 +1,185 @@
+body {
+	display: flex;
+	flex-direction: column;
+	margin: 0;
+	align-items: center;
+}
+
+/* ツリー部分 */
+p.path_tree {
+	margin-top: 64px;
+	margin-bottom: 8px;
+	width: calc(100% - 64px);
+	text-align: left;
+}
+
+p.path_tree a {
+	color: #1995AD;
+	text-decoration: none;
+	font-weight: 300;
+}
+
+p.path_tree a:last-of-type {
+	color: #151515;
+	font-weight: 600;
+}
+
+/* タイトル部分 */
+body div.body_div {
+	display: flex;
+	width: 100%;
+	justify-content: center;
+	background-color: #e6e1e9;
+}
+
+body div.body_div div {
+	width: calc(100% - 16px);
+	display: flex;
+	flex-direction: row;
+	max-width: 1200px;
+	padding: 16px;
+}
+
+/* 左側 */
+div.body_div div.left_content {
+	flex-direction: column;
+	padding: 0;
+}
+
+h2.main_title {
+	line-height: 1.5em;
+	margin: .5em 0;
+	color: #151515;
+}
+
+h5.eng_title {
+	margin: 0 0 1.5em 0;
+	color: #777;
+}
+
+h5.permalink {
+	margin: .5em 0;
+}
+
+h5.permalink a {
+	color: #00aad0;
+}
+
+/* 右側 */
+div.body_div div.right_content {
+	flex-direction: column;
+	justify-content: flex-end;
+	max-width: 300px;
+	padding: 0;
+}
+
+/* ダウンロードボタン */
+a.detail_dl_btn {
+	display:flex;
+	height: 32px;
+	width: 96px;
+	color: #505050;
+	justify-content: center;
+	align-items: center;
+	padding: auto;
+	text-decoration: none;
+	background-color: #FFFFFF;
+	text-align: center;
+	margin: 0 auto;
+	border-radius: 16px;
+	transition: .2s cubic-bezier(0.45, 0, 0.55, 1);
+}
+
+a.detail_dl_btn:hover {
+	color: #FFF;
+	background-color: #1995AD;
+}
+
+/* table */
+h2.table_label {
+	width: calc(100% - 48px);
+	max-width: 1200px;
+}
+body table {
+	width: calc(100% - 48px);
+	max-width: 1200px;
+}
+
+table tbody tr th, td {
+	padding: 8px;
+}
+
+table tbody tr th {
+	font-size: small;
+	vertical-align: top;
+	width: 40%;
+}
+table tbody tr:nth-child(2n+1) {
+	background-color: #F1F1F2;
+}
+table tbody tr:nth-child(2n) {
+	background-color: #FFFFFF;
+}
+
+td p {
+	display: flex;
+	margin: 0;
+}
+
+span.langtag {
+	color: #1995AD;
+	font-size: 0.65em;
+}
+
+th a {
+	display: flex;
+	color: #324851;
+}
+
+td a {
+	display: flex;
+	color: #00aad0;
+}
+
+.verb_uri {
+	color: #1995AD;
+	font-size: 0.65em;
+	text-decoration: none;
+	font-weight: 400;
+}
+
+a.wiki_link .wiki_name {
+	width: 10em;
+}
+
+a.wiki_link {
+	display:flex;
+	width: 16em;
+	color: #505050;
+	justify-content: space-between;
+	align-items: flex-start;
+	text-decoration: none;
+	background-color: #FFFFFF;
+	border: 1px solid #151515;
+	border-radius: 4px;
+	padding: 4px 4px 0 4px;
+	margin: 4px 0;
+	transition: .2s cubic-bezier(0.45, 0, 0.55, 1);
+}
+
+a.wiki_link:hover {
+	color: #FFF;
+	background-color: #1995AD;
+	border: 1px solid #1995AD;
+}
+
+p:has(a.wiki_link) {
+	align-items: flex-start;
+}
+
+.resource_uri {
+	padding-left: 4px;
+	color: #1995AD;
+	font-size: 0.65em;
+	text-decoration: none;
+}

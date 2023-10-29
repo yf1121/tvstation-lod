@@ -1,0 +1,16 @@
+<https://w3id.org/tvstationjp/org/HAB> <http://www.w3.org/2000/01/rdf-schema#label> "北陸朝日放送株式会社"@ja,
+		"ほくりくあさひほうそう"@ja-Kana,
+		"Hokuriku Asahi Broadcasting Co., Ltd."@en;
+	<https://schema.org/name> "HAB";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Hab_logo_2021.svg?width=300>;
+	<https://schema.org/foundingDate> "1990-11-14";
+	<http://www.wikidata.org/prop/direct/P3225> "4220001006251";
+	<https://schema.org/url> <https://www.hab.co.jp/>;
+	<https://schema.org/address> "920-0393";
+	<http://www.wikidata.org/prop/direct/P159> "石川県金沢市松島一丁目32番地2";
+	<https://schema.org/latitude> "北緯36.56178度";
+	<https://schema.org/longitude> "東経136.60364度";
+	<https://schema.org/brand> <https://w3id.org/tvstationjp/ch/JOWY-DTV>;
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/北陸朝日放送>,
+		<https://www.wikidata.org/entity/Q843466>,
+		<http://ja.dbpedia.org/resource/北陸朝日放送>.

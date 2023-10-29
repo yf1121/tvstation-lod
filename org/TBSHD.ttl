@@ -1,0 +1,16 @@
+<https://w3id.org/tvstationjp/org/TBSHD> <http://www.w3.org/2000/01/rdf-schema#label> "株式会社TBSホールディングス"@ja,
+		"ティビーエスホールディングス"@ja-Kana,
+		"TBS HOLDINGS, INC."@en;
+	<https://schema.org/name> "TBSHD";
+	<https://schema.org/formerName> "株式会社ラジオ東京"@ja;
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Tokyo_Broadcasting_System_logo_2020.svg?width=300>;
+	<https://schema.org/foundingDate> "1951-05-10";
+	<http://www.wikidata.org/prop/direct/P3225> "5010401020855";
+	<https://schema.org/url> <https://www.tbsholdings.co.jp/>;
+	<https://schema.org/address> "107-8006";
+	<http://www.wikidata.org/prop/direct/P159> "東京都港区赤坂五丁目3番6号";
+	<https://schema.org/latitude> "北緯35.67238度";
+	<https://schema.org/longitude> "東経139.73523度";
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/TBSホールディングス>,
+		<https://www.wikidata.org/entity/Q605233>,
+		<http://ja.dbpedia.org/resource/TBSホールディングス>.

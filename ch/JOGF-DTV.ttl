@@ -1,0 +1,27 @@
+<https://w3id.org/tvstationjp/ch/JOGF-DTV> <http://www.w3.org/2000/01/rdf-schema#label> "大分放送"@ja,
+		"おおいたほうそう"@ja-Kana,
+		"Oita Broadcasting System, Inc."@en;
+	<https://schema.org/name> "OBS";
+	<https://schema.org/areaServed> <https://w3id.org/tvstationjp/area/大分県>;
+	<https://w3id.org/tvstationjp/tvst/newsNetwork> <https://w3id.org/tvstationjp/network/JNN>;
+	<https://w3id.org/tvstationjp/tvst/networkSystem> <https://w3id.org/tvstationjp/network/TBSネットワーク>,
+		<https://w3id.org/tvstationjp/network/民教協>;
+	<https://schema.org/alternateName> "OBSテレビ"@ja,
+		"OBS大分放送"@ja;
+	<http://www.wikidata.org/prop/direct/P2317> "JOGF-DTV";
+	<https://w3id.org/tvstationjp/tvst/callName> "おおいたほうそうデジタルテレビジョン";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Oita_Obs_logo.svg?width=300>;
+	<https://w3id.org/tvstationjp/tvst/platform> <https://w3id.org/tvstationjp/platform/ISDBt>;
+	<https://w3id.org/tvstationjp/tvst/chPosition> "3";
+	<https://w3id.org/tvstationjp/tvst/parentStation> "大分";
+	<https://w3id.org/tvstationjp/tvst/parentDTVCh> "22ch";
+	<https://w3id.org/tvstationjp/tvst/parentATVCh> "5ch";
+	<https://w3id.org/tvstationjp/tvst/logicalCh> "031";
+	<https://schema.org/url> <https://obs-oita.co.jp/>;
+	<https://schema.org/address> "870-8620";
+	<http://www.wikidata.org/prop/direct/P159> "大分県大分市今津留三丁目1番1号";
+	<https://schema.org/latitude> "北緯33.24157度";
+	<https://schema.org/longitude> "東経131.62692度";
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/大分放送>,
+		<https://www.wikidata.org/entity/Q843659>,
+		<http://ja.dbpedia.org/resource/大分放送>.

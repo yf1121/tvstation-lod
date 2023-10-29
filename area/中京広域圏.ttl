@@ -1,0 +1,5 @@
+<https://w3id.org/tvstationjp/area/中京広域圏> <http://www.w3.org/2000/01/rdf-schema#label> "中京広域圏"@ja;
+	<https://schema.org/description> "中京広域圏"@ja;
+	<https://schema.org/containsPlace> <http://data.e-stat.go.jp/lod/sac/C23000>,
+		<http://data.e-stat.go.jp/lod/sac/C21000>,
+		<http://data.e-stat.go.jp/lod/sac/C24000>.

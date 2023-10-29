@@ -1,0 +1,3 @@
+<https://w3id.org/tvstationjp/platform/ISDBs> <http://www.w3.org/2000/01/rdf-schema#label> "BSデジタル"@ja,
+		"ISDB-S/BS"@en;
+	<http://www.w3.org/2000/01/rdf-schema#comment> "BSデジタル放送"@ja.

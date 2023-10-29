@@ -1,0 +1,18 @@
+<https://w3id.org/tvstationjp/ch/JOIB-DTV> <http://www.w3.org/2000/01/rdf-schema#label> "NHKEテレ・札幌"@ja,
+		"NHK Educational TV"@en;
+	<https://schema.org/areaServed> <https://w3id.org/tvstationjp/area/札幌>;
+	<https://w3id.org/tvstationjp/tvst/networkSystem> <https://w3id.org/tvstationjp/network/NHKE>;
+	<http://www.wikidata.org/prop/direct/P2317> "JOIB-DTV";
+	<https://w3id.org/tvstationjp/tvst/callName> "NHKさっぽろきょういくデジタルテレビジョン";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/NHKEテレロゴ2020-.svg?width=300>;
+	<https://w3id.org/tvstationjp/tvst/platform> <https://w3id.org/tvstationjp/platform/ISDBt>;
+	<https://w3id.org/tvstationjp/tvst/chPosition> "2";
+	<https://w3id.org/tvstationjp/tvst/parentStation> "札幌";
+	<https://w3id.org/tvstationjp/tvst/parentDTVCh> "13ch";
+	<https://w3id.org/tvstationjp/tvst/parentATVCh> "12";
+	<https://w3id.org/tvstationjp/tvst/logicalCh> "021",
+		"022",
+		"023";
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/NHK教育テレビジョン>,
+		<https://www.wikidata.org/entity/Q1067563>,
+		<http://ja.dbpedia.org/resource/NHK教育テレビジョン>.

@@ -1,0 +1,14 @@
+<https://w3id.org/tvstationjp/org/NHK宇都宮> <http://www.w3.org/2000/01/rdf-schema#label> "NHK宇都宮放送局"@ja,
+		"エヌエイチケイうつのみやほうそうきょく"@ja-Kana;
+	<https://schema.org/name> "NHK宇都宮";
+	<https://schema.org/logo> <https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/100px-NHK_logo_2020.svg.png>;
+	<http://www.wikidata.org/prop/direct/P3225> "8011005000968";
+	<https://schema.org/url> <https://www.nhk.or.jp/utsunomiya/>;
+	<https://w3id.org/tvstationjp/tvst/networkBlock> "関東甲信越";
+	<https://schema.org/address> "320-8502";
+	<http://www.wikidata.org/prop/direct/P159> "栃木県宇都宮市中央3-1-2";
+	<https://schema.org/latitude> "北緯36.55695度";
+	<https://schema.org/longitude> "東経139.88443度";
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/NHK宇都宮放送局>,
+		<https://www.wikidata.org/entity/Q10854738>,
+		<http://ja.dbpedia.org/resource/NHK宇都宮放送局>.

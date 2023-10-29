@@ -1,0 +1,26 @@
+<https://w3id.org/tvstationjp/ch/JONI-DTV> <http://www.w3.org/2000/01/rdf-schema#label> "テレビ信州"@ja,
+		"てれびしんしゅう"@ja-Kana,
+		"TV ShinshuBroadcasting Co., Ltd."@en;
+	<https://schema.org/name> "TSB";
+	<https://schema.org/areaServed> <https://w3id.org/tvstationjp/area/長野県>;
+	<https://w3id.org/tvstationjp/tvst/newsNetwork> <https://w3id.org/tvstationjp/network/NNN>;
+	<https://w3id.org/tvstationjp/tvst/networkSystem> <https://w3id.org/tvstationjp/network/NNS>;
+	<https://schema.org/alternateName> "テレビ信州"@ja,
+		"TSB"@ja;
+	<http://www.wikidata.org/prop/direct/P2317> "JONI-DTV";
+	<https://w3id.org/tvstationjp/tvst/callName> "テレビしんしゅうデジタルテレビジョン";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Tsb_logo_ja.svg?width=300>;
+	<https://w3id.org/tvstationjp/tvst/platform> <https://w3id.org/tvstationjp/platform/ISDBt>;
+	<https://w3id.org/tvstationjp/tvst/chPosition> "4";
+	<https://w3id.org/tvstationjp/tvst/parentStation> "長野";
+	<https://w3id.org/tvstationjp/tvst/parentDTVCh> "14ch";
+	<https://w3id.org/tvstationjp/tvst/parentATVCh> "30ch";
+	<https://w3id.org/tvstationjp/tvst/logicalCh> "041";
+	<https://schema.org/url> <https://www.tsb.jp/>;
+	<https://schema.org/address> "380-8555";
+	<http://www.wikidata.org/prop/direct/P159> "長野県長野市若里一丁目1-1";
+	<https://schema.org/latitude> "北緯36.6373度";
+	<https://schema.org/longitude> "東経138.18636度";
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/テレビ信州>,
+		<https://www.wikidata.org/entity/Q843197>,
+		<http://ja.dbpedia.org/resource/テレビ信州>.

@@ -1,0 +1,20 @@
+<https://w3id.org/tvstationjp/org/NHK室蘭> <http://www.w3.org/2000/01/rdf-schema#label> "NHK室蘭放送局"@ja,
+		"エヌエイチケイむろらんほうそうきょく"@ja-Kana;
+	<https://schema.org/name> "NHK室蘭";
+	<https://schema.org/logo> <https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/100px-NHK_logo_2020.svg.png>;
+	<http://www.wikidata.org/prop/direct/P3225> "8011005000968";
+	<https://schema.org/url> <https://www.nhk.or.jp/muroran/>;
+	<https://w3id.org/tvstationjp/tvst/networkBlock> "北海道";
+	<https://schema.org/parentOrganization> <https://w3id.org/tvstationjp/station/NHK札幌>;
+	<https://schema.org/address> "051-0012";
+	<http://www.wikidata.org/prop/direct/P159> "北海道室蘭市山手町1丁目3-50";
+	<https://schema.org/latitude> "北緯42.31611度";
+	<https://schema.org/longitude> "東経140.98028度";
+	<https://schema.org/brand> <https://w3id.org/tvstationjp/ch/JOIQ-DTV>,
+		<https://w3id.org/tvstationjp/ch/JOIZ-DTV>,
+		<https://w3id.org/tvstationjp/ch/JOIQ>,
+		<https://w3id.org/tvstationjp/ch/JOIZ>,
+		<https://w3id.org/tvstationjp/ch/JOIQ-FM>;
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/NHK室蘭放送局>,
+		<https://www.wikidata.org/entity/Q10854712>,
+		<http://ja.dbpedia.org/resource/NHK室蘭放送局>.

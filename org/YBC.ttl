@@ -1,0 +1,16 @@
+<https://w3id.org/tvstationjp/org/YBC> <http://www.w3.org/2000/01/rdf-schema#label> "山形放送株式会社"@ja,
+		"やまがたほうそう"@ja-Kana,
+		"Yamagata Broadcasting Co., Ltd."@en;
+	<https://schema.org/name> "YBC";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Ybc_logo.svg?width=300>;
+	<https://schema.org/foundingDate> "1953-10-01";
+	<http://www.wikidata.org/prop/direct/P3225> "2390001002095";
+	<https://schema.org/url> <https://www.ybc.co.jp/>;
+	<https://schema.org/address> "990-8555";
+	<http://www.wikidata.org/prop/direct/P159> "山形県山形市旅篭町2丁目5番12号";
+	<https://schema.org/latitude> "北緯38.25677度";
+	<https://schema.org/longitude> "東経140.33897度";
+	<https://schema.org/brand> <https://w3id.org/tvstationjp/ch/JOEF-DTV>;
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/山形放送>,
+		<https://www.wikidata.org/entity/Q843521>,
+		<http://ja.dbpedia.org/resource/山形放送>.

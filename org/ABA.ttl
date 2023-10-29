@@ -1,0 +1,16 @@
+<https://w3id.org/tvstationjp/org/ABA> <http://www.w3.org/2000/01/rdf-schema#label> "青森朝日放送株式会社"@ja,
+		"あおもりあさひほうそう"@ja-Kana,
+		"Asahi Broadcasting Aomori Co., Ltd."@en;
+	<https://schema.org/name> "ABA";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Aba_logo.svg?width=300>;
+	<https://schema.org/foundingDate> "1990-05-15";
+	<http://www.wikidata.org/prop/direct/P3225> "3420001004681";
+	<https://schema.org/url> <https://www.aba-net.com/>;
+	<https://schema.org/address> "030-0181";
+	<http://www.wikidata.org/prop/direct/P159> "青森県青森市荒川字柴田125番1号";
+	<https://schema.org/latitude> "北緯40.78628度";
+	<https://schema.org/longitude> "東経140.73947度";
+	<https://schema.org/brand> <https://w3id.org/tvstationjp/ch/JOAH-DTV>;
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/青森朝日放送>,
+		<https://www.wikidata.org/entity/Q843435>,
+		<http://ja.dbpedia.org/resource/青森朝日放送>.

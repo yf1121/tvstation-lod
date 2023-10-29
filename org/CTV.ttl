@@ -1,0 +1,17 @@
+<https://w3id.org/tvstationjp/org/CTV> <http://www.w3.org/2000/01/rdf-schema#label> "中京テレビ放送株式会社"@ja,
+		"ちゅうきょうてれびほうそう"@ja-Kana,
+		"CHUKYO TV.BROADCASTING CO., LTD."@en;
+	<https://schema.org/name> "CTV";
+	<https://schema.org/alternateName> "CH"@ja;
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/CHUKYO_TV_logo.svg?width=300>;
+	<https://schema.org/foundingDate> "1968-03-01";
+	<http://www.wikidata.org/prop/direct/P3225> "1180001008775";
+	<https://schema.org/url> <https://www.ctv.co.jp/indexmenu.html>;
+	<https://schema.org/address> "453-8704";
+	<http://www.wikidata.org/prop/direct/P159> "愛知県名古屋市中村区平池町";
+	<https://schema.org/latitude> "北緯35.16314度";
+	<https://schema.org/longitude> "東経136.8848度";
+	<https://schema.org/brand> <https://w3id.org/tvstationjp/ch/JOCH-DTV>;
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/中京テレビ放送>,
+		<https://www.wikidata.org/entity/Q843620>,
+		<http://ja.dbpedia.org/resource/中京テレビ放送>.

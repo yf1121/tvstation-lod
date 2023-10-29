@@ -1,0 +1,17 @@
+<https://w3id.org/tvstationjp/org/CTC> <http://www.w3.org/2000/01/rdf-schema#label> "千葉テレビ放送株式会社"@ja,
+		"ちばてれび"@ja-Kana,
+		"Chiba Television Broadcasting Corporation"@en;
+	<https://schema.org/name> "CTC";
+	<https://schema.org/alternateName> "チバテレ"@ja;
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Chiba_TV_logo.jpg?width=300>;
+	<https://schema.org/foundingDate> "1970-01-28";
+	<http://www.wikidata.org/prop/direct/P3225> "1040001004838";
+	<https://schema.org/url> <https://www.chiba-tv.com/>;
+	<https://schema.org/address> "260-0001";
+	<http://www.wikidata.org/prop/direct/P159> "千葉県千葉市中央区都町一丁目1番25号";
+	<https://schema.org/latitude> "北緯35.61406度";
+	<https://schema.org/longitude> "東経140.13541度";
+	<https://schema.org/brand> <https://w3id.org/tvstationjp/ch/JOCL-DTV>;
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/千葉テレビ放送>,
+		<https://www.wikidata.org/entity/Q1071746>,
+		<http://ja.dbpedia.org/resource/千葉テレビ放送>.

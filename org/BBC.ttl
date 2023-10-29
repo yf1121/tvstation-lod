@@ -1,0 +1,16 @@
+<https://w3id.org/tvstationjp/org/BBC> <http://www.w3.org/2000/01/rdf-schema#label> "びわ湖放送株式会社"@ja,
+		"びわこほうそう"@ja-Kana,
+		"Biwako Broadcasting Co., Ltd."@en;
+	<https://schema.org/name> "BBC";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Bbc_logo.svg?width=300>;
+	<https://schema.org/foundingDate> "1971-05-22";
+	<http://www.wikidata.org/prop/direct/P3225> "6160001001678";
+	<https://schema.org/url> <https://www.bbc-tv.co.jp/>;
+	<https://schema.org/address> "520-8585";
+	<http://www.wikidata.org/prop/direct/P159> "滋賀県大津市鶴の里16番1号";
+	<https://schema.org/latitude> "北緯34.99125度";
+	<https://schema.org/longitude> "東経135.87053度";
+	<https://schema.org/brand> <https://w3id.org/tvstationjp/ch/JOBL-DTV>;
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/びわ湖放送>,
+		<https://www.wikidata.org/entity/Q908776>,
+		<http://ja.dbpedia.org/resource/びわ湖放送>.

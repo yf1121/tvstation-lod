@@ -1,0 +1,23 @@
+<https://w3id.org/tvstationjp/ch/JOZF-DTV> <http://www.w3.org/2000/01/rdf-schema#label> "岐阜放送"@ja,
+		"ぎふほうそう"@ja-Kana,
+		"Gifu Broadcasting System, Inc."@en;
+	<https://schema.org/name> "GBS";
+	<https://schema.org/areaServed> <https://w3id.org/tvstationjp/area/岐阜県>;
+	<https://w3id.org/tvstationjp/tvst/networkSystem> <https://w3id.org/tvstationjp/network/JAITS>;
+	<https://schema.org/alternateName> "ぎふチャン"@ja;
+	<http://www.wikidata.org/prop/direct/P2317> "JOZF-DTV";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Gbs_logo.svg?width=300>;
+	<https://w3id.org/tvstationjp/tvst/platform> <https://w3id.org/tvstationjp/platform/ISDBt>;
+	<https://w3id.org/tvstationjp/tvst/chPosition> "8";
+	<https://w3id.org/tvstationjp/tvst/parentStation> "岐阜";
+	<https://w3id.org/tvstationjp/tvst/parentDTVCh> "30ch";
+	<https://w3id.org/tvstationjp/tvst/parentATVCh> "37ch";
+	<https://w3id.org/tvstationjp/tvst/logicalCh> "081";
+	<https://schema.org/url> <https://www.zf-web.com/>;
+	<https://schema.org/address> "500-8588";
+	<http://www.wikidata.org/prop/direct/P159> "岐阜県岐阜市橋本町2丁目52番地 岐阜シティ・タワー43 4階";
+	<https://schema.org/latitude> "北緯35.4108度";
+	<https://schema.org/longitude> "東経136.75414度";
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/岐阜放送>,
+		<https://www.wikidata.org/entity/Q8013824>,
+		<http://ja.dbpedia.org/resource/岐阜放送>.

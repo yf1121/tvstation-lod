@@ -1,0 +1,19 @@
+<https://w3id.org/tvstationjp/org/NHK福島> <http://www.w3.org/2000/01/rdf-schema#label> "NHK福島放送局"@ja,
+		"エヌエイチケイふくしまほうそうきょく"@ja-Kana;
+	<https://schema.org/name> "NHK福島";
+	<https://schema.org/logo> <https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/100px-NHK_logo_2020.svg.png>;
+	<http://www.wikidata.org/prop/direct/P3225> "8011005000968";
+	<https://schema.org/url> <https://www.nhk.or.jp/fukushima/>;
+	<https://w3id.org/tvstationjp/tvst/networkBlock> "東北";
+	<https://schema.org/address> "960-8588";
+	<http://www.wikidata.org/prop/direct/P159> "福島県福島市早稲町1-2";
+	<https://schema.org/latitude> "北緯37.751389度";
+	<https://schema.org/longitude> "東経140.460667度";
+	<https://schema.org/brand> <https://w3id.org/tvstationjp/ch/JOFP-DTV>,
+		<https://w3id.org/tvstationjp/ch/JOFD-DTV>,
+		<https://w3id.org/tvstationjp/ch/JOFP>,
+		<https://w3id.org/tvstationjp/ch/JOFD>,
+		<https://w3id.org/tvstationjp/ch/JOFP-FM>;
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/NHK福島放送局>,
+		<https://www.wikidata.org/entity/Q10854745>,
+		<http://ja.dbpedia.org/resource/NHK福島放送局>.

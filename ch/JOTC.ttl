@@ -1,0 +1,12 @@
+<https://w3id.org/tvstationjp/ch/JOTC> <http://www.w3.org/2000/01/rdf-schema#label> "NHKラジオ第2・青森"@ja,
+		"NHK Radio2"@en;
+	<https://schema.org/areaServed> <https://w3id.org/tvstationjp/area/青森県>;
+	<https://w3id.org/tvstationjp/tvst/networkSystem> <https://w3id.org/tvstationjp/network/NHKR2>;
+	<http://www.wikidata.org/prop/direct/P2317> "JOTC";
+	<https://w3id.org/tvstationjp/tvst/callName> "NHKあおもりだいにほうそう";
+	<https://w3id.org/tvstationjp/tvst/platform> <https://w3id.org/tvstationjp/platform/AM>;
+	<https://w3id.org/tvstationjp/tvst/parentStation> "青森";
+	<https://w3id.org/tvstationjp/tvst/parentDTVCh> "1521kHz";
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/NHKラジオ第2放送>,
+		<https://www.wikidata.org/entity/Q8139754>,
+		<http://ja.dbpedia.org/resource/NHKラジオ第2放送>.

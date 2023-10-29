@@ -1,0 +1,3 @@
+<https://w3id.org/tvstationjp/platform/ISDBt> <http://www.w3.org/2000/01/rdf-schema#label> "地上デジタル"@ja,
+		"ISDB-T"@en;
+	<http://www.w3.org/2000/01/rdf-schema#comment> "地上デジタル放送"@ja.

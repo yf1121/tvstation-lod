@@ -1,0 +1,18 @@
+<https://w3id.org/tvstationjp/ch/JOIG-DTV> <http://www.w3.org/2000/01/rdf-schema#label> "NHK総合・富山"@ja,
+		"NHK General TV"@en;
+	<https://schema.org/areaServed> <https://w3id.org/tvstationjp/area/富山県>;
+	<https://w3id.org/tvstationjp/tvst/newsNetwork> <https://w3id.org/tvstationjp/network/NHKG>;
+	<https://w3id.org/tvstationjp/tvst/networkSystem> <https://w3id.org/tvstationjp/network/NHKG>;
+	<http://www.wikidata.org/prop/direct/P2317> "JOIG-DTV";
+	<https://w3id.org/tvstationjp/tvst/callName> "NHKとやまデジタルテレビジョン";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/NHK総合ロゴ2020-.svg?width=300>;
+	<https://w3id.org/tvstationjp/tvst/platform> <https://w3id.org/tvstationjp/platform/ISDBt>;
+	<https://w3id.org/tvstationjp/tvst/chPosition> "3";
+	<https://w3id.org/tvstationjp/tvst/parentStation> "富山";
+	<https://w3id.org/tvstationjp/tvst/parentDTVCh> "27ch";
+	<https://w3id.org/tvstationjp/tvst/parentATVCh> "3";
+	<https://w3id.org/tvstationjp/tvst/logicalCh> "031",
+		"032";
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/NHK総合テレビジョン>,
+		<https://www.wikidata.org/entity/Q909336>,
+		<http://ja.dbpedia.org/resource/NHK総合テレビジョン>.

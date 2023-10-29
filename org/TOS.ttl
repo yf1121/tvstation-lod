@@ -1,0 +1,16 @@
+<https://w3id.org/tvstationjp/org/TOS> <http://www.w3.org/2000/01/rdf-schema#label> "株式会社テレビ大分"@ja,
+		"てれびおおいた"@ja-Kana,
+		"TELEVISION OITA SYSTEM CO., LTD."@en;
+	<https://schema.org/name> "TOS";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Oita_Tos_logo.svg?width=300>;
+	<https://schema.org/foundingDate> "1969-02-25";
+	<http://www.wikidata.org/prop/direct/P3225> "8320001001866";
+	<https://schema.org/url> <https://www.tostv.jp>;
+	<https://schema.org/address> "870-8636";
+	<http://www.wikidata.org/prop/direct/P159> "大分県大分市大字勢家字春日浦843番地25";
+	<https://schema.org/latitude> "北緯33.2484度";
+	<https://schema.org/longitude> "東経131.5984度";
+	<https://schema.org/brand> <https://w3id.org/tvstationjp/ch/JOOI-DTV>;
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/テレビ大分>,
+		<https://www.wikidata.org/entity/Q8014708>,
+		<http://ja.dbpedia.org/resource/テレビ大分>.

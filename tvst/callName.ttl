@@ -1,5 +1,3 @@
-@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
-@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-<https://w3id.org/tvstationjp/tvst/callName> rdf:type rdf:Property;
-    rdfs:comment "無線局を識別するための正式な呼出名称を意味します。"@ja;
-    rdfs:label "呼出名称"@ja.
+<https://w3id.org/tvstationjp/tvst/callName> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property>;
+	<http://www.w3.org/2000/01/rdf-schema#comment> "無線局を識別するための正式な呼出名称を意味します。"@ja;
+	<http://www.w3.org/2000/01/rdf-schema#label> "呼出名称"@ja.

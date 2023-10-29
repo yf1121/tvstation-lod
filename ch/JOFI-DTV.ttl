@@ -1,0 +1,24 @@
+<https://w3id.org/tvstationjp/ch/JOFI-DTV> <http://www.w3.org/2000/01/rdf-schema#label> "福井テレビジョン放送"@ja,
+		"ふくいてれびじょんほうそう"@ja-Kana,
+		"Fukui TelevisionBroadcasting Co., Ltd."@en;
+	<https://schema.org/name> "FTB";
+	<https://schema.org/areaServed> <https://w3id.org/tvstationjp/area/福井県>;
+	<https://w3id.org/tvstationjp/tvst/newsNetwork> <https://w3id.org/tvstationjp/network/FNN>;
+	<https://w3id.org/tvstationjp/tvst/networkSystem> <https://w3id.org/tvstationjp/network/FNS>;
+	<https://schema.org/alternateName> "福井テレビ"@ja;
+	<http://www.wikidata.org/prop/direct/P2317> "JOFI-DTV";
+	<https://w3id.org/tvstationjp/tvst/callName> "ふくいテレビデジタルテレビジョン";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Ftb_logo.svg?width=300>;
+	<https://w3id.org/tvstationjp/tvst/platform> <https://w3id.org/tvstationjp/platform/ISDBt>;
+	<https://w3id.org/tvstationjp/tvst/chPosition> "8";
+	<https://w3id.org/tvstationjp/tvst/parentStation> "福井";
+	<https://w3id.org/tvstationjp/tvst/parentDTVCh> "22ch";
+	<https://w3id.org/tvstationjp/tvst/logicalCh> "081";
+	<https://schema.org/url> <https://www.fukui-tv.co.jp/>;
+	<https://schema.org/address> "918-8688";
+	<http://www.wikidata.org/prop/direct/P159> "福井県福井市問屋町三丁目410番地";
+	<https://schema.org/latitude> "北緯36.053度";
+	<https://schema.org/longitude> "東経136.25352度";
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/福井テレビジョン放送>,
+		<https://www.wikidata.org/entity/Q843351>,
+		<http://ja.dbpedia.org/resource/福井テレビジョン放送>.

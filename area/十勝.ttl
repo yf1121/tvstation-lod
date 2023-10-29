@@ -1,0 +1,3 @@
+<https://w3id.org/tvstationjp/area/十勝> <http://www.w3.org/2000/01/rdf-schema#label> "十勝"@ja;
+	<https://schema.org/description> "十勝"@ja;
+	<https://schema.org/containsPlace> <http://data.e-stat.go.jp/lod/sac/C01630-20100401>.

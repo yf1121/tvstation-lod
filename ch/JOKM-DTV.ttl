@@ -1,0 +1,26 @@
+<https://w3id.org/tvstationjp/ch/JOKM-DTV> <http://www.w3.org/2000/01/rdf-schema#label> "テレビ神奈川"@ja,
+		"てれびかながわ"@ja-Kana,
+		"Television KANAGAWA, Inc."@en;
+	<https://schema.org/name> "tvk";
+	<https://schema.org/areaServed> <https://w3id.org/tvstationjp/area/神奈川県>;
+	<https://w3id.org/tvstationjp/tvst/networkSystem> <https://w3id.org/tvstationjp/network/JAITS>;
+	<https://schema.org/alternateName> "tvk"@ja;
+	<http://www.wikidata.org/prop/direct/P2317> "JOKM-DTV";
+	<https://w3id.org/tvstationjp/tvst/callName> "テレビかながわデジタルテレビジョン";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Tvk_logo.svg?width=300>;
+	<https://w3id.org/tvstationjp/tvst/platform> <https://w3id.org/tvstationjp/platform/ISDBt>;
+	<https://w3id.org/tvstationjp/tvst/chPosition> "3";
+	<https://w3id.org/tvstationjp/tvst/parentStation> "横浜";
+	<https://w3id.org/tvstationjp/tvst/parentDTVCh> "18ch";
+	<https://w3id.org/tvstationjp/tvst/parentATVCh> "42ch";
+	<https://w3id.org/tvstationjp/tvst/logicalCh> "031",
+		"032",
+		"033";
+	<https://schema.org/url> <https://www.tvk-yokohama.com/>;
+	<https://schema.org/address> "231-8001";
+	<http://www.wikidata.org/prop/direct/P159> "神奈川県横浜市中区太田町2丁目23番地";
+	<https://schema.org/latitude> "北緯35.44709度";
+	<https://schema.org/longitude> "東経139.63905度";
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/テレビ神奈川>,
+		<https://www.wikidata.org/entity/Q1143787>,
+		<http://ja.dbpedia.org/resource/テレビ神奈川>.

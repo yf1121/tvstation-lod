@@ -1,0 +1,20 @@
+<https://w3id.org/tvstationjp/org/NHK北見> <http://www.w3.org/2000/01/rdf-schema#label> "NHK北見放送局"@ja,
+		"エヌエイチケイきたみほうそうきょく"@ja-Kana;
+	<https://schema.org/name> "NHK北見";
+	<https://schema.org/logo> <https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/100px-NHK_logo_2020.svg.png>;
+	<http://www.wikidata.org/prop/direct/P3225> "8011005000968";
+	<https://schema.org/url> <https://www.nhk.or.jp/kitami/>;
+	<https://w3id.org/tvstationjp/tvst/networkBlock> "北海道";
+	<https://schema.org/parentOrganization> <https://w3id.org/tvstationjp/station/NHK旭川>;
+	<https://schema.org/address> "090-0035";
+	<http://www.wikidata.org/prop/direct/P159> "北海道北見市北斗町2丁目3-24";
+	<https://schema.org/latitude> "北緯43.81111度";
+	<https://schema.org/longitude> "東経143.88444度";
+	<https://schema.org/brand> <https://w3id.org/tvstationjp/ch/JOKP-DTV>,
+		<https://w3id.org/tvstationjp/ch/JOKD-DTV>,
+		<https://w3id.org/tvstationjp/ch/JOKP>,
+		<https://w3id.org/tvstationjp/ch/JOKD>,
+		<https://w3id.org/tvstationjp/ch/JOKP-FM>;
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/NHK北見放送局>,
+		<https://www.wikidata.org/entity/Q10854693>,
+		<http://ja.dbpedia.org/resource/NHK北見放送局>.

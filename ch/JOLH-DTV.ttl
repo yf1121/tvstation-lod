@@ -1,0 +1,26 @@
+<https://w3id.org/tvstationjp/ch/JOLH-DTV> <http://www.w3.org/2000/01/rdf-schema#label> "長野放送"@ja,
+		"ながのほうそう"@ja-Kana,
+		"Nagano Broadcasting Systems Inc."@en;
+	<https://schema.org/name> "NBS";
+	<https://schema.org/areaServed> <https://w3id.org/tvstationjp/area/長野県>;
+	<https://w3id.org/tvstationjp/tvst/newsNetwork> <https://w3id.org/tvstationjp/network/FNN>;
+	<https://w3id.org/tvstationjp/tvst/networkSystem> <https://w3id.org/tvstationjp/network/FNS>;
+	<https://schema.org/alternateName> "NBS長野放送"@ja,
+		"NBSテレビ"@ja;
+	<http://www.wikidata.org/prop/direct/P2317> "JOLH-DTV";
+	<https://w3id.org/tvstationjp/tvst/callName> "ながのほうそう デジタルテレビジョン";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Nbs_logo.svg?width=300>;
+	<https://w3id.org/tvstationjp/tvst/platform> <https://w3id.org/tvstationjp/platform/ISDBt>;
+	<https://w3id.org/tvstationjp/tvst/chPosition> "8";
+	<https://w3id.org/tvstationjp/tvst/parentStation> "長野";
+	<https://w3id.org/tvstationjp/tvst/parentDTVCh> "15ch";
+	<https://w3id.org/tvstationjp/tvst/parentATVCh> "38ch";
+	<https://w3id.org/tvstationjp/tvst/logicalCh> "081";
+	<https://schema.org/url> <https://www.nbs-tv.co.jp/>;
+	<https://schema.org/address> "380-8633";
+	<http://www.wikidata.org/prop/direct/P159> "長野県長野市中御所岡田町131-7";
+	<https://schema.org/latitude> "北緯36.64332度";
+	<https://schema.org/longitude> "東経138.18149度";
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/長野放送>,
+		<https://www.wikidata.org/entity/Q843307>,
+		<http://ja.dbpedia.org/resource/長野放送>.

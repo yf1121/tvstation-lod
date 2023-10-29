@@ -1,0 +1,18 @@
+<https://w3id.org/tvstationjp/org/NTVHD> <http://www.w3.org/2000/01/rdf-schema#label> "日本テレビホールディングス株式会社"@ja,
+		"にほんてれびほーるでぃんぐす"@ja-Kana,
+		"Nippon Television Holdings, Inc."@en;
+	<https://schema.org/name> "NTVHD";
+	<https://schema.org/alternateName> "日本テレビHD"@ja,
+		"日テレHD"@ja;
+	<https://schema.org/formerName> "日本テレビ放送網株式会社"@ja;
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Nippon_Television_Holdings_logo.svg?width=300>;
+	<https://schema.org/foundingDate> "1952-10-28";
+	<http://www.wikidata.org/prop/direct/P3225> "1010401051458";
+	<https://schema.org/url> <https://www.ntvhd.co.jp/>;
+	<https://schema.org/address> "105-7444";
+	<http://www.wikidata.org/prop/direct/P159> "東京都港区東新橋一丁目6番1号";
+	<https://schema.org/latitude> "北緯35.6644194度";
+	<https://schema.org/longitude> "東経139.7599111度";
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/日本テレビホールディングス>,
+		<https://www.wikidata.org/entity/Q11086747>,
+		<http://ja.dbpedia.org/resource/日本テレビホールディングス>.

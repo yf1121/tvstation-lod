@@ -1,0 +1,27 @@
+<https://w3id.org/tvstationjp/ch/JOIX-DTV> <http://www.w3.org/2000/01/rdf-schema#label> "讀賣テレビ放送"@ja,
+		"よみうりてれびほうそう"@ja-Kana,
+		"YOMIURI TELECASTING CORPORATION"@en;
+	<https://schema.org/name> "ytv";
+	<https://schema.org/areaServed> <https://w3id.org/tvstationjp/area/近畿広域圏>;
+	<https://w3id.org/tvstationjp/tvst/newsNetwork> <https://w3id.org/tvstationjp/network/NNN>;
+	<https://w3id.org/tvstationjp/tvst/networkSystem> <https://w3id.org/tvstationjp/network/NNS>;
+	<https://schema.org/alternateName> "読売テレビ"@ja,
+		"ytv"@ja,
+		"読テレ"@ja;
+	<http://www.wikidata.org/prop/direct/P2317> "JOIX-DTV";
+	<https://w3id.org/tvstationjp/tvst/callName> "よみうりデジタルテレビ";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Yomiuri_Telecasting_Corporation_Logo.svg?width=300>;
+	<https://w3id.org/tvstationjp/tvst/platform> <https://w3id.org/tvstationjp/platform/ISDBt>;
+	<https://w3id.org/tvstationjp/tvst/chPosition> "10";
+	<https://w3id.org/tvstationjp/tvst/parentStation> "大阪";
+	<https://w3id.org/tvstationjp/tvst/parentDTVCh> "14ch";
+	<https://w3id.org/tvstationjp/tvst/parentATVCh> "10ch";
+	<https://w3id.org/tvstationjp/tvst/logicalCh> "101";
+	<https://schema.org/url> <https://www.ytv.co.jp/index.html>;
+	<https://schema.org/address> "540-8510";
+	<http://www.wikidata.org/prop/direct/P159> "大阪府大阪市中央区城見1丁目3番50号";
+	<https://schema.org/latitude> "北緯34.69073度";
+	<https://schema.org/longitude> "東経135.53171度";
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/讀賣テレビ放送>,
+		<https://www.wikidata.org/entity/Q1142348>,
+		<http://ja.dbpedia.org/resource/讀賣テレビ放送>.

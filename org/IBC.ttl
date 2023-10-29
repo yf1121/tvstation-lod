@@ -1,0 +1,17 @@
+<https://w3id.org/tvstationjp/org/IBC> <http://www.w3.org/2000/01/rdf-schema#label> "株式会社アイビーシー岩手放送"@ja,
+		"あいびーしーいわてほうそう"@ja-Kana,
+		"Iwate Broadcasting Co.,Ltd."@en;
+	<https://schema.org/name> "IBC";
+	<https://schema.org/formerName> "岩手放送株式会社"@ja;
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Iwate_Ibc_logo.svg?width=300>;
+	<https://schema.org/foundingDate> "1953-12-07";
+	<http://www.wikidata.org/prop/direct/P3225> "9400001000033";
+	<https://schema.org/url> <https://www.ibc.co.jp/>;
+	<https://schema.org/address> "020-8566";
+	<http://www.wikidata.org/prop/direct/P159> "岩手県盛岡市志家町6番1号";
+	<https://schema.org/latitude> "北緯39.698583度";
+	<https://schema.org/longitude> "東経141.161611度";
+	<https://schema.org/brand> <https://w3id.org/tvstationjp/ch/JODF-DTV>;
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/IBC岩手放送>,
+		<https://www.wikidata.org/entity/Q843452>,
+		<http://ja.dbpedia.org/resource/IBC岩手放送>.

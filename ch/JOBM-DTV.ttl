@@ -1,0 +1,23 @@
+<https://w3id.org/tvstationjp/ch/JOBM-DTV> <http://www.w3.org/2000/01/rdf-schema#label> "北海道文化放送"@ja,
+		"ほっかいどうぶんかほうそう"@ja-Kana,
+		"Hokkaido CulturalBroadcasting Co., Ltd."@en;
+	<https://schema.org/name> "UHB";
+	<https://schema.org/areaServed> <https://w3id.org/tvstationjp/area/北海道>;
+	<https://w3id.org/tvstationjp/tvst/newsNetwork> <https://w3id.org/tvstationjp/network/FNN>;
+	<https://w3id.org/tvstationjp/tvst/networkSystem> <https://w3id.org/tvstationjp/network/FNS>;
+	<http://www.wikidata.org/prop/direct/P2317> "JOBM-DTV";
+	<https://w3id.org/tvstationjp/tvst/callName> "UHBデジタルテレビジョン";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Uhb_logo.svg?width=300>;
+	<https://w3id.org/tvstationjp/tvst/platform> <https://w3id.org/tvstationjp/platform/ISDBt>;
+	<https://w3id.org/tvstationjp/tvst/chPosition> "8";
+	<https://w3id.org/tvstationjp/tvst/parentStation> "札幌";
+	<https://w3id.org/tvstationjp/tvst/parentDTVCh> "25ch";
+	<https://w3id.org/tvstationjp/tvst/logicalCh> "081";
+	<https://schema.org/url> <https://www.uhb.jp/>;
+	<https://schema.org/address> "060-8527";
+	<http://www.wikidata.org/prop/direct/P159> "北海道札幌市中央区北1条西14丁目1-5";
+	<https://schema.org/latitude> "北緯43.06039度";
+	<https://schema.org/longitude> "東経141.33516度";
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/北海道文化放送>,
+		<https://www.wikidata.org/entity/Q843461>,
+		<http://ja.dbpedia.org/resource/北海道文化放送>.

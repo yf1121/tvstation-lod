@@ -1,0 +1,16 @@
+<https://w3id.org/tvstationjp/org/eat> <http://www.w3.org/2000/01/rdf-schema#label> "株式会社愛媛朝日テレビ"@ja,
+		"えひめあさひほうそう"@ja-Kana,
+		"Ehime Asahi Television, Inc."@en;
+	<https://schema.org/name> "eat";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Eat_logo.svg?width=300>;
+	<https://schema.org/foundingDate> "1994-04-08";
+	<http://www.wikidata.org/prop/direct/P3225> "4500001000671";
+	<https://schema.org/url> <https://eat.jp/>;
+	<https://schema.org/address> "790-8525";
+	<http://www.wikidata.org/prop/direct/P159> "愛媛県松山市和泉北1丁目14-11";
+	<https://schema.org/latitude> "北緯33.824333度";
+	<https://schema.org/longitude> "東経132.758667度";
+	<https://schema.org/brand> <https://w3id.org/tvstationjp/ch/JOEY-DTV>;
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/愛媛朝日テレビ>,
+		<https://www.wikidata.org/entity/Q843337>,
+		<http://ja.dbpedia.org/resource/愛媛朝日テレビ>.

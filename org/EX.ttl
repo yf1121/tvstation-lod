@@ -1,0 +1,19 @@
+<https://w3id.org/tvstationjp/org/EX> <http://www.w3.org/2000/01/rdf-schema#label> "株式会社テレビ朝日"@ja,
+		"てれびあさひ"@ja-Kana,
+		"TV Asahi Corporation"@en;
+	<https://schema.org/name> "EX";
+	<https://schema.org/alternateName> "テレ朝"@ja;
+	<https://schema.org/formerName> "テレビ朝日分割準備株式会社"@ja;
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/TV_Asahi_Logo.svg?width=300>;
+	<https://schema.org/foundingDate> "2013-10-15";
+	<http://www.wikidata.org/prop/direct/P3225> "6010401108393";
+	<https://schema.org/url> <https://www.tv-asahi.co.jp/>;
+	<https://schema.org/address> "106-8001";
+	<http://www.wikidata.org/prop/direct/P159> "東京都港区六本木6丁目9番1号";
+	<https://schema.org/latitude> "北緯35.6597000度";
+	<https://schema.org/longitude> "東経139.7309222度";
+	<https://schema.org/brand> <https://w3id.org/tvstationjp/ch/JOEX-DTV>;
+	<https://schema.org/ownershipFundingInfo> <https://w3id.org/tvstationjp/org/EXHD>;
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/テレビ朝日>,
+		<https://www.wikidata.org/entity/Q908436>,
+		<http://ja.dbpedia.org/resource/テレビ朝日>.

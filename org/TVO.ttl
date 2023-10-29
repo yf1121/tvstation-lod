@@ -1,0 +1,16 @@
+<https://w3id.org/tvstationjp/org/TVO> <http://www.w3.org/2000/01/rdf-schema#label> "テレビ大阪株式会社"@ja,
+		"てれびおおさか"@ja-Kana,
+		"Television Osaka, Inc."@en;
+	<https://schema.org/name> "TVO";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Tv_osaka_logo.svg?width=300>;
+	<https://schema.org/foundingDate> "1981-01-23";
+	<http://www.wikidata.org/prop/direct/P3225> "2120001085068";
+	<https://schema.org/url> <https://www.tv-osaka.co.jp/>;
+	<https://schema.org/address> "540-8519";
+	<http://www.wikidata.org/prop/direct/P159> "大阪府大阪市中央区大手前1丁目2番18号";
+	<https://schema.org/latitude> "北緯34.6908度";
+	<https://schema.org/longitude> "東経135.52095度";
+	<https://schema.org/brand> <https://w3id.org/tvstationjp/ch/JOBH-DTV>;
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/テレビ大阪>,
+		<https://www.wikidata.org/entity/Q1324709>,
+		<http://ja.dbpedia.org/resource/テレビ大阪>.

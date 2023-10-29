@@ -1,0 +1,25 @@
+<https://w3id.org/tvstationjp/ch/JORY-DTV> <http://www.w3.org/2000/01/rdf-schema#label> "琉球朝日放送"@ja,
+		"りゅうきゅうあさひほうそう"@ja-Kana,
+		"Ryukyu AsahiBroadcasting Corporation."@en;
+	<https://schema.org/name> "QAB";
+	<https://schema.org/areaServed> <https://w3id.org/tvstationjp/area/沖縄県>;
+	<https://w3id.org/tvstationjp/tvst/newsNetwork> <https://w3id.org/tvstationjp/network/ANN>;
+	<https://w3id.org/tvstationjp/tvst/networkSystem> <https://w3id.org/tvstationjp/network/テレビ朝日ネットワーク>;
+	<https://schema.org/alternateName> "QAB"@ja;
+	<http://www.wikidata.org/prop/direct/P2317> "JORY-DTV";
+	<https://w3id.org/tvstationjp/tvst/callName> "りゅうきゅうあさひほうそうデジタルテレビジョン";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Qab_logo.svg?width=300>;
+	<https://w3id.org/tvstationjp/tvst/platform> <https://w3id.org/tvstationjp/platform/ISDBt>;
+	<https://w3id.org/tvstationjp/tvst/chPosition> "5";
+	<https://w3id.org/tvstationjp/tvst/parentStation> "那覇";
+	<https://w3id.org/tvstationjp/tvst/parentDTVCh> "16ch";
+	<https://w3id.org/tvstationjp/tvst/parentATVCh> "28ch";
+	<https://w3id.org/tvstationjp/tvst/logicalCh> "051";
+	<https://schema.org/url> <https://www.qab.co.jp/>;
+	<https://schema.org/address> "900-8510";
+	<http://www.wikidata.org/prop/direct/P159> "沖縄県那覇市久茂地二丁目3番1号";
+	<https://schema.org/latitude> "北緯26.21593度";
+	<https://schema.org/longitude> "東経127.67926度";
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/琉球朝日放送>,
+		<https://www.wikidata.org/entity/Q843353>,
+		<http://ja.dbpedia.org/resource/琉球朝日放送>.

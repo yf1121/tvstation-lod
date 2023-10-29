@@ -1,0 +1,17 @@
+<https://w3id.org/tvstationjp/org/tbc> <http://www.w3.org/2000/01/rdf-schema#label> "東北放送株式会社"@ja,
+		"とうほくほうそう"@ja-Kana,
+		"TOHOKU BROADCASTING CO., LTD."@en;
+	<https://schema.org/name> "tbc";
+	<https://schema.org/formerName> "仙台放送株式会社"@ja;
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/TBC_logo_(2020).svg?width=300>;
+	<https://schema.org/foundingDate> "1951-12-10";
+	<http://www.wikidata.org/prop/direct/P3225> "2370001002452";
+	<https://schema.org/url> <https://www.tbc-sendai.co.jp/>;
+	<https://schema.org/address> "980-8668";
+	<http://www.wikidata.org/prop/direct/P159> "宮城県仙台市太白区八木山香澄町26-1";
+	<https://schema.org/latitude> "北緯38.247111度";
+	<https://schema.org/longitude> "東経140.856056度";
+	<https://schema.org/brand> <https://w3id.org/tvstationjp/ch/JOIR-DTV>;
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/東北放送>,
+		<https://www.wikidata.org/entity/Q843723>,
+		<http://ja.dbpedia.org/resource/東北放送>.

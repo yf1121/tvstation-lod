@@ -1,0 +1,24 @@
+<https://w3id.org/tvstationjp/ch/JOSX-DTV> <http://www.w3.org/2000/01/rdf-schema#label> "静岡第一テレビ"@ja,
+		"しずおかだいいちてれび"@ja-Kana,
+		"Shizuoka DaiichiTelevision Corporation"@en;
+	<https://schema.org/name> "SDT";
+	<https://schema.org/areaServed> <https://w3id.org/tvstationjp/area/静岡県>;
+	<https://w3id.org/tvstationjp/tvst/newsNetwork> <https://w3id.org/tvstationjp/network/NNN>;
+	<https://w3id.org/tvstationjp/tvst/networkSystem> <https://w3id.org/tvstationjp/network/NNS>;
+	<https://schema.org/alternateName> "Daiichi-TV"@ja;
+	<http://www.wikidata.org/prop/direct/P2317> "JOSX-DTV";
+	<https://w3id.org/tvstationjp/tvst/callName> "しずおかだいいちテレビデジタルテレビジョン";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Daiichi_tv_logo.svg?width=300>;
+	<https://w3id.org/tvstationjp/tvst/platform> <https://w3id.org/tvstationjp/platform/ISDBt>;
+	<https://w3id.org/tvstationjp/tvst/chPosition> "4";
+	<https://w3id.org/tvstationjp/tvst/parentStation> "静岡";
+	<https://w3id.org/tvstationjp/tvst/parentDTVCh> "19ch";
+	<https://w3id.org/tvstationjp/tvst/logicalCh> "041";
+	<https://schema.org/url> <https://www.tv-sdt.co.jp/>;
+	<https://schema.org/address> "422-8560";
+	<http://www.wikidata.org/prop/direct/P159> "静岡県静岡市駿河区中原563";
+	<https://schema.org/latitude> "北緯34.95522度";
+	<https://schema.org/longitude> "東経138.39096度";
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/静岡第一テレビ>,
+		<https://www.wikidata.org/entity/Q843320>,
+		<http://ja.dbpedia.org/resource/静岡第一テレビ>.

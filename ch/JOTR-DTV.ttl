@@ -1,0 +1,27 @@
+<https://w3id.org/tvstationjp/ch/JOTR-DTV> <http://www.w3.org/2000/01/rdf-schema#label> "秋田放送"@ja,
+		"あきたほうそう"@ja-Kana,
+		"AKITA BROADCASTING SYSTEM, INCORPORATED."@en;
+	<https://schema.org/name> "ABS";
+	<https://schema.org/areaServed> <https://w3id.org/tvstationjp/area/秋田県>;
+	<https://w3id.org/tvstationjp/tvst/newsNetwork> <https://w3id.org/tvstationjp/network/NNN>;
+	<https://w3id.org/tvstationjp/tvst/networkSystem> <https://w3id.org/tvstationjp/network/NNS>,
+		<https://w3id.org/tvstationjp/network/民教協>;
+	<https://schema.org/alternateName> "ABS"@ja,
+		"ABS秋田放送"@ja;
+	<http://www.wikidata.org/prop/direct/P2317> "JOTR-DTV";
+	<https://w3id.org/tvstationjp/tvst/callName> "あきたほうそうデジタルテレビジョン";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Abs_logo.svg?width=300>;
+	<https://w3id.org/tvstationjp/tvst/platform> <https://w3id.org/tvstationjp/platform/ISDBt>;
+	<https://w3id.org/tvstationjp/tvst/chPosition> "4";
+	<https://w3id.org/tvstationjp/tvst/parentStation> "秋田（大森山）";
+	<https://w3id.org/tvstationjp/tvst/parentDTVCh> "35ch";
+	<https://w3id.org/tvstationjp/tvst/parentATVCh> "11ch";
+	<https://w3id.org/tvstationjp/tvst/logicalCh> "041";
+	<https://schema.org/url> <https://www.akita-abs.co.jp/>;
+	<https://schema.org/address> "020-0866";
+	<http://www.wikidata.org/prop/direct/P159> "秋田県秋田市中通七丁目1番1-2号";
+	<https://schema.org/latitude> "北緯39.71703度";
+	<https://schema.org/longitude> "東経140.12939度";
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/秋田放送>,
+		<https://www.wikidata.org/entity/Q843617>,
+		<http://ja.dbpedia.org/resource/秋田放送>.

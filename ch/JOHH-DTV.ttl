@@ -1,0 +1,25 @@
+<https://w3id.org/tvstationjp/ch/JOHH-DTV> <http://www.w3.org/2000/01/rdf-schema#label> "北海道テレビ放送"@ja,
+		"ほっかいどうてれびほうそう"@ja-Kana,
+		"Hokkaido TelevisionBroadcasting Co.,Ltd."@en;
+	<https://schema.org/name> "HTB";
+	<https://schema.org/areaServed> <https://w3id.org/tvstationjp/area/北海道>;
+	<https://w3id.org/tvstationjp/tvst/newsNetwork> <https://w3id.org/tvstationjp/network/ANN>;
+	<https://w3id.org/tvstationjp/tvst/networkSystem> <https://w3id.org/tvstationjp/network/テレビ朝日ネットワーク>;
+	<https://schema.org/alternateName> "北海道テレビ"@ja;
+	<http://www.wikidata.org/prop/direct/P2317> "JOHH-DTV";
+	<https://w3id.org/tvstationjp/tvst/callName> "ほっかいどうテレビデジタルテレビジョン";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Htb_logo.svg?width=300>;
+	<https://w3id.org/tvstationjp/tvst/platform> <https://w3id.org/tvstationjp/platform/ISDBt>;
+	<https://w3id.org/tvstationjp/tvst/chPosition> "6";
+	<https://w3id.org/tvstationjp/tvst/parentStation> "札幌";
+	<https://w3id.org/tvstationjp/tvst/parentDTVCh> "23ch";
+	<https://w3id.org/tvstationjp/tvst/parentATVCh> "35ch";
+	<https://w3id.org/tvstationjp/tvst/logicalCh> "061";
+	<https://schema.org/url> <https://www.htb.co.jp/>;
+	<https://schema.org/address> "060-8406";
+	<http://www.wikidata.org/prop/direct/P159> "北海道札幌市中央区北1条西1丁目6番地";
+	<https://schema.org/latitude> "北緯43.06316度";
+	<https://schema.org/longitude> "東経141.35544度";
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/北海道テレビ放送>,
+		<https://www.wikidata.org/entity/Q843294>,
+		<http://ja.dbpedia.org/resource/北海道テレビ放送>.

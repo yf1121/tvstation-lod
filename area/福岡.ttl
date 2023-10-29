@@ -1,0 +1,3 @@
+<https://w3id.org/tvstationjp/area/福岡> <http://www.w3.org/2000/01/rdf-schema#label> "福岡"@ja;
+	<https://schema.org/description> "福岡県（福岡地方・筑後地方）"@ja;
+	<https://schema.org/containsPlace> <http://data.e-stat.go.jp/lod/sac/C40000>.

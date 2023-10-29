@@ -1,0 +1,11 @@
+<https://w3id.org/tvstationjp/ch/JOHG-FM> <http://www.w3.org/2000/01/rdf-schema#label> "NHKFM・鹿児島"@ja,
+		"NHK FM"@en;
+	<https://schema.org/areaServed> <https://w3id.org/tvstationjp/area/鹿児島県>;
+	<https://w3id.org/tvstationjp/tvst/networkSystem> <https://w3id.org/tvstationjp/network/NHKFM>;
+	<http://www.wikidata.org/prop/direct/P2317> "JOHG-FM";
+	<https://w3id.org/tvstationjp/tvst/callName> "NHKかごしまエフエムほうそう";
+	<https://w3id.org/tvstationjp/tvst/platform> <https://w3id.org/tvstationjp/platform/FM>;
+	<https://w3id.org/tvstationjp/tvst/parentDTVCh> "85.6MHz";
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/NHK-FM放送>,
+		<https://www.wikidata.org/entity/Q843833>,
+		<http://ja.dbpedia.org/resource/NHK-FM放送>.

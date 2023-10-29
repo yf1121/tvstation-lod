@@ -1,0 +1,19 @@
+<https://w3id.org/tvstationjp/org/NHK青森> <http://www.w3.org/2000/01/rdf-schema#label> "NHK青森放送局"@ja,
+		"エヌエイチケイあおもりほうそうきょく"@ja-Kana;
+	<https://schema.org/name> "NHK青森";
+	<https://schema.org/logo> <https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/100px-NHK_logo_2020.svg.png>;
+	<http://www.wikidata.org/prop/direct/P3225> "8011005000968";
+	<https://schema.org/url> <https://www.nhk.or.jp/aomori/>;
+	<https://w3id.org/tvstationjp/tvst/networkBlock> "東北";
+	<https://schema.org/address> "030-8633";
+	<http://www.wikidata.org/prop/direct/P159> "青森県青森市松原2丁目1-1";
+	<https://schema.org/latitude> "北緯40.8194025度";
+	<https://schema.org/longitude> "東経140.7594446度";
+	<https://schema.org/brand> <https://w3id.org/tvstationjp/ch/JOTG-DTV>,
+		<https://w3id.org/tvstationjp/ch/JOTC-DTV>,
+		<https://w3id.org/tvstationjp/ch/JOTG>,
+		<https://w3id.org/tvstationjp/ch/JOTC>,
+		<https://w3id.org/tvstationjp/ch/JOTG-FM>;
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/NHK青森放送局>,
+		<https://www.wikidata.org/entity/Q10854726>,
+		<http://ja.dbpedia.org/resource/NHK青森放送局>.

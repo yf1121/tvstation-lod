@@ -1,0 +1,18 @@
+<https://w3id.org/tvstationjp/ch/JONP-DTV> <http://www.w3.org/2000/01/rdf-schema#label> "NHK総合・津"@ja,
+		"NHK General TV"@en;
+	<https://schema.org/areaServed> <https://w3id.org/tvstationjp/area/三重県>;
+	<https://w3id.org/tvstationjp/tvst/newsNetwork> <https://w3id.org/tvstationjp/network/NHKG>;
+	<https://w3id.org/tvstationjp/tvst/networkSystem> <https://w3id.org/tvstationjp/network/NHKG>;
+	<http://www.wikidata.org/prop/direct/P2317> "JONP-DTV";
+	<https://w3id.org/tvstationjp/tvst/callName> "NHKつデジタルテレビジョン";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/NHK総合ロゴ2020-.svg?width=300>;
+	<https://w3id.org/tvstationjp/tvst/platform> <https://w3id.org/tvstationjp/platform/ISDBt>;
+	<https://w3id.org/tvstationjp/tvst/chPosition> "3";
+	<https://w3id.org/tvstationjp/tvst/parentStation> "津";
+	<https://w3id.org/tvstationjp/tvst/parentDTVCh> "28ch";
+	<https://w3id.org/tvstationjp/tvst/parentATVCh> "31";
+	<https://w3id.org/tvstationjp/tvst/logicalCh> "031",
+		"032";
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/NHK総合テレビジョン>,
+		<https://www.wikidata.org/entity/Q909336>,
+		<http://ja.dbpedia.org/resource/NHK総合テレビジョン>.

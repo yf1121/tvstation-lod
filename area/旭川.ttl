@@ -1,0 +1,11 @@
+<https://w3id.org/tvstationjp/area/旭川> <http://www.w3.org/2000/01/rdf-schema#label> "旭川"@ja;
+	<https://schema.org/description> "旭川"@ja;
+	<https://schema.org/containsPlace> <http://data.e-stat.go.jp/lod/sac/C01450-20100401>,
+		<http://data.e-stat.go.jp/lod/sac/C01480-20100401>,
+		<http://data.e-stat.go.jp/lod/sac/C01510-20100401>,
+		<http://data.e-stat.go.jp/lod/sac/C01228-19700401>,
+		<http://data.e-stat.go.jp/lod/sac/C01433-19781001>,
+		<http://data.e-stat.go.jp/lod/sac/C01434-19720901>,
+		<http://data.e-stat.go.jp/lod/sac/C01436-19781001>,
+		<http://data.e-stat.go.jp/lod/sac/C01437-19781001>,
+		<http://data.e-stat.go.jp/lod/sac/C01438-19720901>.

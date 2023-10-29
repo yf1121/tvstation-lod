@@ -1,0 +1,7 @@
+<https://w3id.org/tvstationjp/network/TBSネットワーク> <http://www.w3.org/2000/01/rdf-schema#label> "TBSネットワーク"@ja,
+		"TBS Networks"@en,
+		"ティービーエスネットワーク"@ja-Kana;
+	<https://schema.org/name> "TBS系列"@ja;
+	<https://w3id.org/tvstationjp/tvst/keystation> <https://w3id.org/tvstationjp/station/TBS>;
+	<https://schema.org/url> <https://www.tbsholdings.co.jp/tbstv/corporate/jnn.html>;
+	<https://schema.org/foundingDate> "1959-08-01".

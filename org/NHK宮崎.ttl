@@ -1,0 +1,19 @@
+<https://w3id.org/tvstationjp/org/NHK宮崎> <http://www.w3.org/2000/01/rdf-schema#label> "NHK宮崎放送局"@ja,
+		"エヌエイチケイみやざきほうそうきょく"@ja-Kana;
+	<https://schema.org/name> "NHK宮崎";
+	<https://schema.org/logo> <https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/100px-NHK_logo_2020.svg.png>;
+	<http://www.wikidata.org/prop/direct/P3225> "8011005000968";
+	<https://schema.org/url> <https://www.nhk.or.jp/miyazaki/>;
+	<https://w3id.org/tvstationjp/tvst/networkBlock> "九州・沖縄";
+	<https://schema.org/address> "880-8633";
+	<http://www.wikidata.org/prop/direct/P159> "宮崎県宮崎市江平西2丁目2-15";
+	<https://schema.org/latitude> "北緯31.930139度";
+	<https://schema.org/longitude> "東経131.42583度";
+	<https://schema.org/brand> <https://w3id.org/tvstationjp/ch/JOMG-DTV>,
+		<https://w3id.org/tvstationjp/ch/JOMC-DTV>,
+		<https://w3id.org/tvstationjp/ch/JOMG>,
+		<https://w3id.org/tvstationjp/ch/JOMC>,
+		<https://w3id.org/tvstationjp/ch/JOMG-FM>;
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/NHK宮崎放送局>,
+		<https://www.wikidata.org/entity/Q10854713>,
+		<http://ja.dbpedia.org/resource/NHK宮崎放送局>.

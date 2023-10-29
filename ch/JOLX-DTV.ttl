@@ -1,0 +1,26 @@
+<https://w3id.org/tvstationjp/ch/JOLX-DTV> <http://www.w3.org/2000/01/rdf-schema#label> "名古屋テレビ放送"@ja,
+		"なごやてれびほうそう"@ja-Kana,
+		"Nagoya Broadcasting Network Co.,Ltd."@en;
+	<https://schema.org/name> "NBN";
+	<https://schema.org/areaServed> <https://w3id.org/tvstationjp/area/中京広域圏>;
+	<https://w3id.org/tvstationjp/tvst/newsNetwork> <https://w3id.org/tvstationjp/network/ANN>;
+	<https://w3id.org/tvstationjp/tvst/networkSystem> <https://w3id.org/tvstationjp/network/テレビ朝日ネットワーク>,
+		<https://w3id.org/tvstationjp/network/民教協>;
+	<https://schema.org/alternateName> "メ〜テレ"@ja;
+	<http://www.wikidata.org/prop/direct/P2317> "JOLX-DTV";
+	<https://w3id.org/tvstationjp/tvst/callName> "なごやテレビデジタルテレビジョン";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Nagoya_Nbn_logo.svg?width=300>;
+	<https://w3id.org/tvstationjp/tvst/platform> <https://w3id.org/tvstationjp/platform/ISDBt>;
+	<https://w3id.org/tvstationjp/tvst/chPosition> "6";
+	<https://w3id.org/tvstationjp/tvst/parentStation> "名古屋";
+	<https://w3id.org/tvstationjp/tvst/parentDTVCh> "22ch";
+	<https://w3id.org/tvstationjp/tvst/parentATVCh> "11ch";
+	<https://w3id.org/tvstationjp/tvst/logicalCh> "061";
+	<https://schema.org/url> <https://www.nagoyatv.com/>;
+	<https://schema.org/address> "460-8311";
+	<http://www.wikidata.org/prop/direct/P159> "愛知県名古屋市中区橘2丁目10番1号";
+	<https://schema.org/latitude> "北緯35.15108度";
+	<https://schema.org/longitude> "東経136.90305度";
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/名古屋テレビ放送>,
+		<https://www.wikidata.org/entity/Q909044>,
+		<http://ja.dbpedia.org/resource/名古屋テレビ放送>.

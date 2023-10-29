@@ -1,0 +1,25 @@
+<https://w3id.org/tvstationjp/ch/JOGY-DTV> <http://www.w3.org/2000/01/rdf-schema#label> "とちぎテレビ"@ja,
+		"とちぎてれび"@ja-Kana,
+		"Tochigi Television Co., Ltd."@en;
+	<https://schema.org/name> "GYT";
+	<https://schema.org/areaServed> <https://w3id.org/tvstationjp/area/栃木県>;
+	<https://w3id.org/tvstationjp/tvst/networkSystem> <https://w3id.org/tvstationjp/network/JAITS>;
+	<https://schema.org/alternateName> "とちぎTV"@ja,
+		"とちテレ"@ja;
+	<http://www.wikidata.org/prop/direct/P2317> "JOGY-DTV";
+	<https://w3id.org/tvstationjp/tvst/callName> "とちぎテレビデジタルテレビジョン";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Tochigi_Television_2013-02-09.jpg?width=300>;
+	<https://w3id.org/tvstationjp/tvst/platform> <https://w3id.org/tvstationjp/platform/ISDBt>;
+	<https://w3id.org/tvstationjp/tvst/chPosition> "3";
+	<https://w3id.org/tvstationjp/tvst/parentStation> "宇都宮";
+	<https://w3id.org/tvstationjp/tvst/parentDTVCh> "29ch";
+	<https://w3id.org/tvstationjp/tvst/parentATVCh> "31ch";
+	<https://w3id.org/tvstationjp/tvst/logicalCh> "031";
+	<https://schema.org/url> <https://www.tochigi-tv.jp/>;
+	<https://schema.org/address> "320-8531";
+	<http://www.wikidata.org/prop/direct/P159> "栃木県宇都宮市昭和2丁目2番2号";
+	<https://schema.org/latitude> "北緯36.56737度";
+	<https://schema.org/longitude> "東経139.88199度";
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/とちぎテレビ>,
+		<https://www.wikidata.org/entity/Q8013689>,
+		<http://ja.dbpedia.org/resource/とちぎテレビ>.

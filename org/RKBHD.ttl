@@ -1,0 +1,16 @@
+<https://w3id.org/tvstationjp/org/RKBHD> <http://www.w3.org/2000/01/rdf-schema#label> "株式会社RKB毎日ホールディングス"@ja,
+		"アールケービーマイニチホールディングス"@ja-Kana,
+		"RKB MAINICHI HOLDINGS CORPORATION"@en;
+	<https://schema.org/name> "RKBHD";
+	<https://schema.org/formerName> "株式会社ラジオ九州"@ja;
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/RKB_Mainichi_Broadcasting_logo_2005.svg?width=300>;
+	<https://schema.org/foundingDate> "1951-06-29";
+	<http://www.wikidata.org/prop/direct/P3225> "5290001004941";
+	<https://schema.org/url> <https://rkb.jp/holdings/>;
+	<https://schema.org/address> "814-8585";
+	<http://www.wikidata.org/prop/direct/P159> "福岡県福岡市早良区百道浜2丁目3番8号";
+	<https://schema.org/latitude> "北緯33.5930139度";
+	<https://schema.org/longitude> "東経130.3508778度";
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/RKB毎日ホールディングス>,
+		<https://www.wikidata.org/entity/Q22122879>,
+		<http://ja.dbpedia.org/resource/RKB毎日ホールディングス>.

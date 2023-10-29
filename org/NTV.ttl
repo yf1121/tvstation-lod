@@ -1,0 +1,20 @@
+<https://w3id.org/tvstationjp/org/NTV> <http://www.w3.org/2000/01/rdf-schema#label> "日本テレビ放送網株式会社"@ja,
+		"にほんてれびほうそうもう"@ja-Kana,
+		"Nippon Television Network Corporation"@en;
+	<https://schema.org/name> "NTV";
+	<https://schema.org/alternateName> "AX"@ja,
+		"日本テレビ"@ja;
+	<https://schema.org/formerName> "日本テレビ分割準備株式会社"@ja;
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Nippon_TV_logo_2014.svg?width=300>;
+	<https://schema.org/foundingDate> "2012-04-26";
+	<http://www.wikidata.org/prop/direct/P3225> "3010401099553";
+	<https://schema.org/url> <https://www.ntv.co.jp/>;
+	<https://schema.org/address> "105-7444";
+	<http://www.wikidata.org/prop/direct/P159> "東京都港区東新橋一丁目6番1号";
+	<https://schema.org/latitude> "北緯35.6644194度";
+	<https://schema.org/longitude> "東経139.7599111度";
+	<https://schema.org/brand> <https://w3id.org/tvstationjp/ch/JOAX-DTV>;
+	<https://schema.org/ownershipFundingInfo> <https://w3id.org/tvstationjp/org/NTVHD>;
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/日本テレビ放送網>,
+		<https://www.wikidata.org/entity/Q864910>,
+		<http://ja.dbpedia.org/resource/日本テレビ放送網>.

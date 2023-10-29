@@ -1,0 +1,38 @@
+<html>
+  <head>
+    <!-- <link rel='stylesheet' href='./detailInfo.css' /> -->
+    <!-- <script src="./detail.js"></script> -->
+    <link rel='stylesheet' href='../templates/detailInfo.css' />
+    <title>{label} - {website}</title>
+  </head>
+  <body>
+    <header id="header">{header}</header>
+    <p class="path_tree">{tree}</p>
+    <div class="body_div">
+      <div>
+        <div class="left_content">
+          <h2 class="main_title">{label}</h2>
+          <h5 class="eng_title">{englabel}</h2>
+          <h5 class="permalink"><a href="{permalink}">{permalink}</a></h4>
+        </div>
+        <div class="right_content">
+          <a class="detail_dl_btn" href="{permalink}.ttl">TURTLE</a>
+        </div>
+      </div>
+    </div>
+    <h2 class="table_label">プロパティ</h3>
+    <table>
+      {table}
+      <!-- <tr><th><a href='http://www.w3.org/2000/01/rdf-schema#label'><span>名称</span><span class='verb_uri'>rdfs:label</span></a></th>
+      <td><p>NHKEテレ・東京<span class='langtag'>@ja</span></p><p>NHK Educational TV<span class='langtag'>@en</span></p></td>
+      </tr><tr>
+      <th><a href='https://schema.org/areaServed'><span>放送対象となる地域</span><span class='verb_uri'>schema:areaServed</span></a></th>
+      <td><p><a href='https://w3id.org/tvstationjp/area/関東広域圏'><span>関東広域圏</span></a></p></td>
+      </tr><tr>
+      <th><a href='https://schema.org/sameAs'>schema:sameAs</a></th>
+      <td><p><a href='https://ja.wikipedia.org/wiki/NHK教育テレビジョン'>https://ja.wikipedia.org/wiki/NHK教育テレビジョン</a></p><p><a href='https://www.wikidata.org/entity/Q1067563'>https://www.wikidata.org/entity/Q1067563</a></p><p><a href='http://ja.dbpedia.org/resource/NHK教育テレビジョン'>http://ja.dbpedia.org/resource/NHK教育テレビジョン</a></p></td>
+      </tr> -->
+    </table>
+  </body>
+  <script>{page_script}</script>
+</html>

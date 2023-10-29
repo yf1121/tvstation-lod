@@ -1,0 +1,18 @@
+<https://w3id.org/tvstationjp/org/RSK> <http://www.w3.org/2000/01/rdf-schema#label> "RSK山陽放送株式会社"@ja,
+		"アールエスケーさんようほうそう"@ja-Kana,
+		"RSK Sanyo Broadcasting Co, Ltd."@en;
+	<https://schema.org/name> "RSK";
+	<https://schema.org/formerName> "山陽放送分割準備株式会社"@ja;
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Rsk_logo.svg?width=300>;
+	<https://schema.org/foundingDate> "2018-05-25";
+	<http://www.wikidata.org/prop/direct/P3225> "2260001032072";
+	<https://schema.org/url> <https://www.rsk.co.jp/tv/>;
+	<https://schema.org/address> "700-8580";
+	<http://www.wikidata.org/prop/direct/P159> "岡山県岡山市北区天神町9番24号";
+	<https://schema.org/latitude> "北緯34.66711度";
+	<https://schema.org/longitude> "東経133.9304度";
+	<https://schema.org/brand> <https://w3id.org/tvstationjp/ch/JOYR-DTV>;
+	<https://schema.org/ownershipFundingInfo> <https://w3id.org/tvstationjp/org/RSKHD>;
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/RSK山陽放送>,
+		<https://www.wikidata.org/entity/Q843784>,
+		<http://ja.dbpedia.org/resource/RSK山陽放送>.

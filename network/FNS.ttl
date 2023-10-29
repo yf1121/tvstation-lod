@@ -1,0 +1,8 @@
+<https://w3id.org/tvstationjp/network/FNS> <http://www.w3.org/2000/01/rdf-schema#label> "FNS"@ja,
+		"Fuji Network System"@en,
+		"エフエヌエス"@ja-Kana;
+	<https://schema.org/name> "フジネットワーク"@ja,
+		"フジテレビ系列"@ja;
+	<https://w3id.org/tvstationjp/tvst/keystation> <https://w3id.org/tvstationjp/station/CX>;
+	<https://schema.org/url> <https://www.fujitv.co.jp/company/info/network.html>;
+	<https://schema.org/foundingDate> "1969-10-01".

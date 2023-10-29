@@ -1,0 +1,25 @@
+<https://w3id.org/tvstationjp/ch/JOTH-DTV> <http://www.w3.org/2000/01/rdf-schema#label> "富山テレビ放送"@ja,
+		"とやまてれびほうそう"@ja-Kana,
+		"Toyama TelevisonBroadcasting Co., Ltd."@en;
+	<https://schema.org/name> "BBT";
+	<https://schema.org/areaServed> <https://w3id.org/tvstationjp/area/富山県>;
+	<https://w3id.org/tvstationjp/tvst/newsNetwork> <https://w3id.org/tvstationjp/network/FNN>;
+	<https://w3id.org/tvstationjp/tvst/networkSystem> <https://w3id.org/tvstationjp/network/FNS>;
+	<https://schema.org/alternateName> "富山テレビ"@ja;
+	<http://www.wikidata.org/prop/direct/P2317> "JOTH-DTV";
+	<https://w3id.org/tvstationjp/tvst/callName> "BBTとやまデジタルテレビジョン";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Bbt_logo.svg?width=300>;
+	<https://w3id.org/tvstationjp/tvst/platform> <https://w3id.org/tvstationjp/platform/ISDBt>;
+	<https://w3id.org/tvstationjp/tvst/chPosition> "8";
+	<https://w3id.org/tvstationjp/tvst/parentStation> "富山";
+	<https://w3id.org/tvstationjp/tvst/parentDTVCh> "18ch";
+	<https://w3id.org/tvstationjp/tvst/parentATVCh> "34ch";
+	<https://w3id.org/tvstationjp/tvst/logicalCh> "081";
+	<https://schema.org/url> <https://www.bbt.co.jp/>;
+	<https://schema.org/address> "939-8550";
+	<http://www.wikidata.org/prop/direct/P159> "富山県富山市新根塚町一丁目8番14号";
+	<https://schema.org/latitude> "北緯36.680500度";
+	<https://schema.org/longitude> "東経137.200889度";
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/富山テレビ放送>,
+		<https://www.wikidata.org/entity/Q841947>,
+		<http://ja.dbpedia.org/resource/富山テレビ放送>.

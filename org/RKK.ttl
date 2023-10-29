@@ -1,0 +1,16 @@
+<https://w3id.org/tvstationjp/org/RKK> <http://www.w3.org/2000/01/rdf-schema#label> "株式会社熊本放送"@ja,
+		"くまもとほうそう"@ja-Kana,
+		"RKK Kumamoto Broadcasting Co., Ltd."@en;
+	<https://schema.org/name> "RKK";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Rkk_vector_logo.svg?width=300>;
+	<https://schema.org/foundingDate> "1953-07-11";
+	<http://www.wikidata.org/prop/direct/P3225> "3330001005037";
+	<https://schema.org/url> <https://rkk.jp/>;
+	<https://schema.org/address> "860-8611";
+	<http://www.wikidata.org/prop/direct/P159> "熊本県熊本市中央区山崎町30番地";
+	<https://schema.org/latitude> "北緯32.7969度";
+	<https://schema.org/longitude> "東経130.70309度";
+	<https://schema.org/brand> <https://w3id.org/tvstationjp/ch/JOBF-DTV>;
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/熊本放送>,
+		<https://www.wikidata.org/entity/Q8014207>,
+		<http://ja.dbpedia.org/resource/熊本放送>.

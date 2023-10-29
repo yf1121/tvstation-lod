@@ -1,0 +1,17 @@
+<https://w3id.org/tvstationjp/org/EBC> <http://www.w3.org/2000/01/rdf-schema#label> "株式会社テレビ愛媛"@ja,
+		"てれびえひめ"@ja-Kana,
+		"Ehime Broadcasting Co., Ltd."@en;
+	<https://schema.org/name> "EBC";
+	<https://schema.org/formerName> "愛媛放送株式会社"@ja;
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Ebc_logo.svg?width=300>;
+	<https://schema.org/foundingDate> "1969-01-20";
+	<http://www.wikidata.org/prop/direct/P3225> "8500001000817";
+	<https://schema.org/url> <https://www.ebc.co.jp/>;
+	<https://schema.org/address> "790-8537";
+	<http://www.wikidata.org/prop/direct/P159> "愛媛県松山市真砂町119番地";
+	<https://schema.org/latitude> "北緯33.832361度";
+	<https://schema.org/longitude> "東経132.759583度";
+	<https://schema.org/brand> <https://w3id.org/tvstationjp/ch/JOEI-DTV>;
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/テレビ愛媛>,
+		<https://www.wikidata.org/entity/Q843135>,
+		<http://ja.dbpedia.org/resource/テレビ愛媛>.

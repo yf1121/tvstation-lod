@@ -1,0 +1,19 @@
+<https://w3id.org/tvstationjp/org/NHK大分> <http://www.w3.org/2000/01/rdf-schema#label> "NHK大分放送局"@ja,
+		"エヌエイチケイおおいたほうそうきょく"@ja-Kana;
+	<https://schema.org/name> "NHK大分";
+	<https://schema.org/logo> <https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/100px-NHK_logo_2020.svg.png>;
+	<http://www.wikidata.org/prop/direct/P3225> "8011005000968";
+	<https://schema.org/url> <https://www.nhk.or.jp/oita/>;
+	<https://w3id.org/tvstationjp/tvst/networkBlock> "九州・沖縄";
+	<https://schema.org/address> "870-8660";
+	<http://www.wikidata.org/prop/direct/P159> "大分県大分市高砂町2-36";
+	<https://schema.org/latitude> "北緯33.23861度";
+	<https://schema.org/longitude> "東経131.60222度";
+	<https://schema.org/brand> <https://w3id.org/tvstationjp/ch/JOIP-DTV>,
+		<https://w3id.org/tvstationjp/ch/JOID-DTV>,
+		<https://w3id.org/tvstationjp/ch/JOIP>,
+		<https://w3id.org/tvstationjp/ch/JOID>,
+		<https://w3id.org/tvstationjp/ch/JOIP-FM>;
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/NHK大分放送局>,
+		<https://www.wikidata.org/entity/Q10854731>,
+		<http://ja.dbpedia.org/resource/NHK大分放送局>.

@@ -1,0 +1,11 @@
+<https://w3id.org/tvstationjp/ch/JOUK-FM> <http://www.w3.org/2000/01/rdf-schema#label> "NHKFM・秋田"@ja,
+		"NHK FM"@en;
+	<https://schema.org/areaServed> <https://w3id.org/tvstationjp/area/秋田県>;
+	<https://w3id.org/tvstationjp/tvst/networkSystem> <https://w3id.org/tvstationjp/network/NHKFM>;
+	<http://www.wikidata.org/prop/direct/P2317> "JOUK-FM";
+	<https://w3id.org/tvstationjp/tvst/callName> "NHKあきたエフエムほうそう";
+	<https://w3id.org/tvstationjp/tvst/platform> <https://w3id.org/tvstationjp/platform/FM>;
+	<https://w3id.org/tvstationjp/tvst/parentDTVCh> "86.7MHz";
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/NHK-FM放送>,
+		<https://www.wikidata.org/entity/Q843833>,
+		<http://ja.dbpedia.org/resource/NHK-FM放送>.

@@ -1,0 +1,26 @@
+<https://w3id.org/tvstationjp/ch/JOLI-DTV> <http://www.w3.org/2000/01/rdf-schema#label> "テレビ山口"@ja,
+		"てれびやまぐち"@ja-Kana,
+		"Television YamaguchiBroadcasting Systems Co., Ltd."@en;
+	<https://schema.org/name> "tys";
+	<https://schema.org/areaServed> <https://w3id.org/tvstationjp/area/山口県>;
+	<https://w3id.org/tvstationjp/tvst/newsNetwork> <https://w3id.org/tvstationjp/network/JNN>;
+	<https://w3id.org/tvstationjp/tvst/networkSystem> <https://w3id.org/tvstationjp/network/TBSネットワーク>;
+	<https://schema.org/alternateName> "tys"@ja,
+		"tysテレビ山口"@ja;
+	<http://www.wikidata.org/prop/direct/P2317> "JOLI-DTV";
+	<https://w3id.org/tvstationjp/tvst/callName> "TYSやまぐちデジタルテレビジョン";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Tys_logo.svg?width=300>;
+	<https://w3id.org/tvstationjp/tvst/platform> <https://w3id.org/tvstationjp/platform/ISDBt>;
+	<https://w3id.org/tvstationjp/tvst/chPosition> "3";
+	<https://w3id.org/tvstationjp/tvst/parentStation> "山口（大平山）";
+	<https://w3id.org/tvstationjp/tvst/parentDTVCh> "18ch";
+	<https://w3id.org/tvstationjp/tvst/parentATVCh> "38ch";
+	<https://w3id.org/tvstationjp/tvst/logicalCh> "031";
+	<https://schema.org/url> <https://tys.co.jp/>;
+	<https://schema.org/address> "753-0292";
+	<http://www.wikidata.org/prop/direct/P159> "山口県山口市大内千坊六丁目7番1号";
+	<https://schema.org/latitude> "北緯34.14926度";
+	<https://schema.org/longitude> "東経131.49329度";
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/テレビ山口>,
+		<https://www.wikidata.org/entity/Q8013707>,
+		<http://ja.dbpedia.org/resource/テレビ山口>.

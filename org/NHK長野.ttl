@@ -1,0 +1,19 @@
+<https://w3id.org/tvstationjp/org/NHK長野> <http://www.w3.org/2000/01/rdf-schema#label> "NHK長野放送局"@ja,
+		"エヌエイチケイながのほうそうきょく"@ja-Kana;
+	<https://schema.org/name> "NHK長野";
+	<https://schema.org/logo> <https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/100px-NHK_logo_2020.svg.png>;
+	<http://www.wikidata.org/prop/direct/P3225> "8011005000968";
+	<https://schema.org/url> <https://www.nhk.or.jp/nagano/>;
+	<https://w3id.org/tvstationjp/tvst/networkBlock> "関東甲信越";
+	<https://schema.org/address> "380-8502";
+	<http://www.wikidata.org/prop/direct/P159> "長野県長野市稲葉210-2";
+	<https://schema.org/latitude> "北緯36.63002度";
+	<https://schema.org/longitude> "東経138.19756度";
+	<https://schema.org/brand> <https://w3id.org/tvstationjp/ch/JONK-DTV>,
+		<https://w3id.org/tvstationjp/ch/JONB-DTV>,
+		<https://w3id.org/tvstationjp/ch/JONK>,
+		<https://w3id.org/tvstationjp/ch/JONB>,
+		<https://w3id.org/tvstationjp/ch/JONK-FM>;
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/NHK長野放送局>,
+		<https://www.wikidata.org/entity/Q10854696>,
+		<http://ja.dbpedia.org/resource/NHK長野放送局>.

@@ -1,0 +1,16 @@
+<https://w3id.org/tvstationjp/org/NHK奈良> <http://www.w3.org/2000/01/rdf-schema#label> "NHK奈良放送局"@ja,
+		"エヌエイチケイならほうそうきょく"@ja-Kana;
+	<https://schema.org/name> "NHK奈良";
+	<https://schema.org/logo> <https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/100px-NHK_logo_2020.svg.png>;
+	<http://www.wikidata.org/prop/direct/P3225> "8011005000968";
+	<https://schema.org/url> <https://www.nhk.or.jp/nara/>;
+	<https://w3id.org/tvstationjp/tvst/networkBlock> "近畿";
+	<https://schema.org/address> "630-8540";
+	<http://www.wikidata.org/prop/direct/P159> "奈良県奈良市三条大路1丁目1-20";
+	<https://schema.org/latitude> "北緯34.6824583度";
+	<https://schema.org/longitude> "東経135.8053194度";
+	<https://schema.org/brand> <https://w3id.org/tvstationjp/ch/JOUP-DTV>,
+		<https://w3id.org/tvstationjp/ch/JOUP-FM>;
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/NHK奈良放送局>,
+		<https://www.wikidata.org/entity/Q10854698>,
+		<http://ja.dbpedia.org/resource/NHK奈良放送局>.

@@ -1,0 +1,11 @@
+<https://w3id.org/tvstationjp/ch/JOIG-FM> <http://www.w3.org/2000/01/rdf-schema#label> "NHKFM・富山"@ja,
+		"NHK FM"@en;
+	<https://schema.org/areaServed> <https://w3id.org/tvstationjp/area/富山県>;
+	<https://w3id.org/tvstationjp/tvst/networkSystem> <https://w3id.org/tvstationjp/network/NHKFM>;
+	<http://www.wikidata.org/prop/direct/P2317> "JOIG-FM";
+	<https://w3id.org/tvstationjp/tvst/callName> "NHKとやまエフエムほうそう";
+	<https://w3id.org/tvstationjp/tvst/platform> <https://w3id.org/tvstationjp/platform/FM>;
+	<https://w3id.org/tvstationjp/tvst/parentDTVCh> "81.5MHz";
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/NHK-FM放送>,
+		<https://www.wikidata.org/entity/Q843833>,
+		<http://ja.dbpedia.org/resource/NHK-FM放送>.

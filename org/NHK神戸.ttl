@@ -1,0 +1,16 @@
+<https://w3id.org/tvstationjp/org/NHK神戸> <http://www.w3.org/2000/01/rdf-schema#label> "NHK神戸放送局"@ja,
+		"エヌエイチケイこうべほうそうきょく"@ja-Kana;
+	<https://schema.org/name> "NHK神戸";
+	<https://schema.org/logo> <https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/100px-NHK_logo_2020.svg.png>;
+	<http://www.wikidata.org/prop/direct/P3225> "8011005000968";
+	<https://schema.org/url> <https://www.nhk.or.jp/kobe/>;
+	<https://w3id.org/tvstationjp/tvst/networkBlock> "近畿";
+	<https://schema.org/address> "650-8515";
+	<http://www.wikidata.org/prop/direct/P159> "兵庫県神戸市中央区中山手通2丁目24-7";
+	<https://schema.org/latitude> "北緯34.69528度";
+	<https://schema.org/longitude> "東経135.18833度";
+	<https://schema.org/brand> <https://w3id.org/tvstationjp/ch/JOPP-DTV>,
+		<https://w3id.org/tvstationjp/ch/JOPP-FM>;
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/NHK神戸放送局>,
+		<https://www.wikidata.org/entity/Q10854688>,
+		<http://ja.dbpedia.org/resource/NHK神戸放送局>.

@@ -1,0 +1,3 @@
+<https://w3id.org/tvstationjp/area/福井県> <http://www.w3.org/2000/01/rdf-schema#label> "福井県"@ja;
+	<https://schema.org/description> "福井県"@ja;
+	<https://schema.org/containsPlace> <http://data.e-stat.go.jp/lod/sac/C18000>.

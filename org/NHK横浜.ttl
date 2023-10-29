@@ -1,0 +1,14 @@
+<https://w3id.org/tvstationjp/org/NHK横浜> <http://www.w3.org/2000/01/rdf-schema#label> "NHK横浜放送局"@ja,
+		"エヌエイチケイよこはまほうそうきょく"@ja-Kana;
+	<https://schema.org/name> "NHK横浜";
+	<https://schema.org/logo> <https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/100px-NHK_logo_2020.svg.png>;
+	<http://www.wikidata.org/prop/direct/P3225> "8011005000968";
+	<https://schema.org/url> <https://www.nhk.or.jp/yokohama/>;
+	<https://w3id.org/tvstationjp/tvst/networkBlock> "関東甲信越";
+	<https://schema.org/address> "231-8324";
+	<http://www.wikidata.org/prop/direct/P159> "神奈川県横浜市中区山下町281";
+	<https://schema.org/latitude> "北緯35.44532度";
+	<https://schema.org/longitude> "東経139.64626度";
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/NHK横浜放送局>,
+		<https://www.wikidata.org/entity/Q10854737>,
+		<http://ja.dbpedia.org/resource/NHK横浜放送局>.

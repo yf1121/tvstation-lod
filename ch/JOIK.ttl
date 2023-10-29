@@ -1,0 +1,13 @@
+<https://w3id.org/tvstationjp/ch/JOIK> <http://www.w3.org/2000/01/rdf-schema#label> "NHKラジオ第1・札幌"@ja,
+		"NHK Radio1"@en;
+	<https://schema.org/areaServed> <https://w3id.org/tvstationjp/area/札幌>;
+	<https://w3id.org/tvstationjp/tvst/networkSystem> <https://w3id.org/tvstationjp/network/NHKR1>;
+	<http://www.wikidata.org/prop/direct/P2317> "JOIK";
+	<https://w3id.org/tvstationjp/tvst/callName> "NHKさっぽろだいいちほうそう";
+	<https://w3id.org/tvstationjp/tvst/platform> <https://w3id.org/tvstationjp/platform/AM>;
+	<https://w3id.org/tvstationjp/tvst/parentStation> "札幌";
+	<https://w3id.org/tvstationjp/tvst/parentDTVCh> "567kHz";
+	<https://w3id.org/tvstationjp/tvst/beginningDate> "1928-06-05";
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/NHKラジオ第1放送>,
+		<https://www.wikidata.org/entity/Q843641>,
+		<http://ja.dbpedia.org/resource/NHKラジオ第1放送>.

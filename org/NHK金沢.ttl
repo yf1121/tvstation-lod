@@ -1,0 +1,19 @@
+<https://w3id.org/tvstationjp/org/NHK金沢> <http://www.w3.org/2000/01/rdf-schema#label> "NHK金沢放送局"@ja,
+		"エヌエイチケイかなざわほうそうきょく"@ja-Kana;
+	<https://schema.org/name> "NHK金沢";
+	<https://schema.org/logo> <https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/100px-NHK_logo_2020.svg.png>;
+	<http://www.wikidata.org/prop/direct/P3225> "8011005000968";
+	<https://schema.org/url> <https://www.nhk.or.jp/kanazawa/>;
+	<https://w3id.org/tvstationjp/tvst/networkBlock> "東海・北陸";
+	<https://schema.org/address> "920-8644";
+	<http://www.wikidata.org/prop/direct/P159> "石川県金沢市広岡3丁目2-10";
+	<https://schema.org/latitude> "北緯36.56944度";
+	<https://schema.org/longitude> "東経136.66139度";
+	<https://schema.org/brand> <https://w3id.org/tvstationjp/ch/JOJK-DTV>,
+		<https://w3id.org/tvstationjp/ch/JOJB-DTV>,
+		<https://w3id.org/tvstationjp/ch/JOJK>,
+		<https://w3id.org/tvstationjp/ch/JOJB>,
+		<https://w3id.org/tvstationjp/ch/JOJK-FM>;
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/NHK金沢放送局>,
+		<https://www.wikidata.org/entity/Q2948740>,
+		<http://ja.dbpedia.org/resource/NHK金沢放送局>.

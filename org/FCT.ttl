@@ -1,0 +1,17 @@
+<https://w3id.org/tvstationjp/org/FCT> <http://www.w3.org/2000/01/rdf-schema#label> "株式会社福島中央テレビ"@ja,
+		"ふくしまちゅうおうてれび"@ja-Kana,
+		"Fukushima Central Television Co., Ltd."@en;
+	<https://schema.org/name> "FCT";
+	<https://schema.org/alternateName> "中テレ"@ja;
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/福島中央テレビ.png?width=300>;
+	<https://schema.org/foundingDate> "1969-05-20";
+	<http://www.wikidata.org/prop/direct/P3225> "2380001006502";
+	<https://schema.org/url> <https://www.fct.co.jp/>;
+	<https://schema.org/address> "963-8533";
+	<http://www.wikidata.org/prop/direct/P159> "福島県郡山市池ノ台13番23号";
+	<https://schema.org/latitude> "北緯37.39305度";
+	<https://schema.org/longitude> "東経140.37326度";
+	<https://schema.org/brand> <https://w3id.org/tvstationjp/ch/JOVI-DTV>;
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/福島中央テレビ>,
+		<https://www.wikidata.org/entity/Q843311>,
+		<http://ja.dbpedia.org/resource/福島中央テレビ>.

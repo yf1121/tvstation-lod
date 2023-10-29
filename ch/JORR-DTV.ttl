@@ -1,0 +1,26 @@
+<https://w3id.org/tvstationjp/ch/JORR-DTV> <http://www.w3.org/2000/01/rdf-schema#label> "琉球放送"@ja,
+		"りゅうきゅうほうそう"@ja-Kana,
+		"Ryukyu Broadcasting Corporation"@en;
+	<https://schema.org/name> "RBC";
+	<https://schema.org/areaServed> <https://w3id.org/tvstationjp/area/沖縄県>;
+	<https://w3id.org/tvstationjp/tvst/newsNetwork> <https://w3id.org/tvstationjp/network/JNN>;
+	<https://w3id.org/tvstationjp/tvst/networkSystem> <https://w3id.org/tvstationjp/network/TBSネットワーク>,
+		<https://w3id.org/tvstationjp/network/民教協>;
+	<https://schema.org/alternateName> "RBCテレビ"@ja;
+	<http://www.wikidata.org/prop/direct/P2317> "JORR-DTV";
+	<https://w3id.org/tvstationjp/tvst/callName> "りゅうきゅうほうそうデジタルテレビジョン";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Okinawa_Rbc_logo.svg?width=300>;
+	<https://w3id.org/tvstationjp/tvst/platform> <https://w3id.org/tvstationjp/platform/ISDBt>;
+	<https://w3id.org/tvstationjp/tvst/chPosition> "3";
+	<https://w3id.org/tvstationjp/tvst/parentStation> "那覇";
+	<https://w3id.org/tvstationjp/tvst/parentDTVCh> "14ch";
+	<https://w3id.org/tvstationjp/tvst/parentATVCh> "10ch";
+	<https://w3id.org/tvstationjp/tvst/logicalCh> "031";
+	<https://schema.org/url> <https://www.rbc.co.jp/>;
+	<https://schema.org/address> "900-8711";
+	<http://www.wikidata.org/prop/direct/P159> "沖縄県那覇市久茂地二丁目3番1号";
+	<https://schema.org/latitude> "北緯26.21593度";
+	<https://schema.org/longitude> "東経127.67926度";
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/琉球放送>,
+		<https://www.wikidata.org/entity/Q4617243>,
+		<http://ja.dbpedia.org/resource/琉球放送>.

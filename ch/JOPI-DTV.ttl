@@ -1,0 +1,25 @@
+<https://w3id.org/tvstationjp/ch/JOPI-DTV> <http://www.w3.org/2000/01/rdf-schema#label> "テレビ新潟放送網"@ja,
+		"てれびにいがたほうそうもう"@ja-Kana,
+		"Television NiigataNetwork Co., Ltd."@en;
+	<https://schema.org/name> "TeNY";
+	<https://schema.org/areaServed> <https://w3id.org/tvstationjp/area/新潟県>;
+	<https://w3id.org/tvstationjp/tvst/newsNetwork> <https://w3id.org/tvstationjp/network/NNN>;
+	<https://w3id.org/tvstationjp/tvst/networkSystem> <https://w3id.org/tvstationjp/network/NNS>;
+	<https://schema.org/alternateName> "TeNYテレビ新潟"@ja;
+	<http://www.wikidata.org/prop/direct/P2317> "JOPI-DTV";
+	<https://w3id.org/tvstationjp/tvst/callName> "テレビにいがたデジタルテレビジョン";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Teny_logo.svg?width=300>;
+	<https://w3id.org/tvstationjp/tvst/platform> <https://w3id.org/tvstationjp/platform/ISDBt>;
+	<https://w3id.org/tvstationjp/tvst/chPosition> "4";
+	<https://w3id.org/tvstationjp/tvst/parentStation> "新潟";
+	<https://w3id.org/tvstationjp/tvst/parentDTVCh> "26ch";
+	<https://w3id.org/tvstationjp/tvst/parentATVCh> "29ch";
+	<https://w3id.org/tvstationjp/tvst/logicalCh> "041";
+	<https://schema.org/url> <https://www.teny.co.jp/>;
+	<https://schema.org/address> "950-8555";
+	<http://www.wikidata.org/prop/direct/P159> "新潟県新潟市中央区新光町1番11号";
+	<https://schema.org/latitude> "北緯37.90367度";
+	<https://schema.org/longitude> "東経139.02626度";
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/テレビ新潟放送網>,
+		<https://www.wikidata.org/entity/Q843339>,
+		<http://ja.dbpedia.org/resource/テレビ新潟放送網>.

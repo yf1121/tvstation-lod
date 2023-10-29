@@ -1,0 +1,16 @@
+<https://w3id.org/tvstationjp/org/KKB> <http://www.w3.org/2000/01/rdf-schema#label> "株式会社鹿児島放送"@ja,
+		"かごしまほうそう"@ja-Kana,
+		"Kagoshima Broadcasting Corporation"@en;
+	<https://schema.org/name> "KKB";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Kkb_logo.svg?width=300>;
+	<https://schema.org/foundingDate> "1982-04-28";
+	<http://www.wikidata.org/prop/direct/P3225> "9340001001013";
+	<https://schema.org/url> <http://www.kkb.co.jp/>;
+	<https://schema.org/address> "890-8571";
+	<http://www.wikidata.org/prop/direct/P159> "鹿児島県鹿児島市与次郎2丁目5-12";
+	<https://schema.org/latitude> "北緯31.56319度";
+	<https://schema.org/longitude> "東経130.56061度";
+	<https://schema.org/brand> <https://w3id.org/tvstationjp/ch/JOTI-DTV>;
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/鹿児島放送>,
+		<https://www.wikidata.org/entity/Q8014761>,
+		<http://ja.dbpedia.org/resource/鹿児島放送>.

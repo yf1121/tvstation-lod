@@ -1,0 +1,26 @@
+<https://w3id.org/tvstationjp/ch/JONX-DTV> <http://www.w3.org/2000/01/rdf-schema#label> "広島テレビ放送"@ja,
+		"ひろしまてれびほうそう"@ja-Kana,
+		"Hiroshima Television Corporation"@en;
+	<https://schema.org/name> "HTV";
+	<https://schema.org/areaServed> <https://w3id.org/tvstationjp/area/広島県>;
+	<https://w3id.org/tvstationjp/tvst/newsNetwork> <https://w3id.org/tvstationjp/network/NNN>;
+	<https://w3id.org/tvstationjp/tvst/networkSystem> <https://w3id.org/tvstationjp/network/NNS>;
+	<https://schema.org/alternateName> "広テレ"@ja,
+		"広島テレビ"@ja;
+	<http://www.wikidata.org/prop/direct/P2317> "JONX-DTV";
+	<https://w3id.org/tvstationjp/tvst/callName> "ひろしまテレビデジタルテレビジョン";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Htv_formal_logo.svg?width=300>;
+	<https://w3id.org/tvstationjp/tvst/platform> <https://w3id.org/tvstationjp/platform/ISDBt>;
+	<https://w3id.org/tvstationjp/tvst/chPosition> "4";
+	<https://w3id.org/tvstationjp/tvst/parentStation> "広島";
+	<https://w3id.org/tvstationjp/tvst/parentDTVCh> "19ch";
+	<https://w3id.org/tvstationjp/tvst/parentATVCh> "12ch";
+	<https://w3id.org/tvstationjp/tvst/logicalCh> "041";
+	<https://schema.org/url> <https://www.htv.jp/>;
+	<https://schema.org/address> "732-8575";
+	<http://www.wikidata.org/prop/direct/P159> "広島県広島市東区二葉の里3丁目5番4号 広テレビル";
+	<https://schema.org/latitude> "北緯34.40179度";
+	<https://schema.org/longitude> "東経132.47302度";
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/広島テレビ放送>,
+		<https://www.wikidata.org/entity/Q593799>,
+		<http://ja.dbpedia.org/resource/広島テレビ放送>.

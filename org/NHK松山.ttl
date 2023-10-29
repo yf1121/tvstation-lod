@@ -1,0 +1,19 @@
+<https://w3id.org/tvstationjp/org/NHK松山> <http://www.w3.org/2000/01/rdf-schema#label> "NHK松山放送局"@ja,
+		"エヌエイチケイまつやまほうそうきょく"@ja-Kana;
+	<https://schema.org/name> "NHK松山";
+	<https://schema.org/logo> <https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/100px-NHK_logo_2020.svg.png>;
+	<http://www.wikidata.org/prop/direct/P3225> "8011005000968";
+	<https://schema.org/url> <https://www.nhk.or.jp/matsuyama/>;
+	<https://w3id.org/tvstationjp/tvst/networkBlock> "四国";
+	<https://schema.org/address> "790-8501";
+	<http://www.wikidata.org/prop/direct/P159> "愛媛県松山市堀之内5";
+	<https://schema.org/latitude> "北緯33.840139度";
+	<https://schema.org/longitude> "東経132.76083度";
+	<https://schema.org/brand> <https://w3id.org/tvstationjp/ch/JOZK-DTV>,
+		<https://w3id.org/tvstationjp/ch/JOZB-DTV>,
+		<https://w3id.org/tvstationjp/ch/JOZK>,
+		<https://w3id.org/tvstationjp/ch/JOZB>,
+		<https://w3id.org/tvstationjp/ch/JOZK-FM>;
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/NHK松山放送局>,
+		<https://www.wikidata.org/entity/Q10854708>,
+		<http://ja.dbpedia.org/resource/NHK松山放送局>.

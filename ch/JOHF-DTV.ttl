@@ -1,0 +1,27 @@
+<https://w3id.org/tvstationjp/ch/JOHF-DTV> <http://www.w3.org/2000/01/rdf-schema#label> "山陰放送"@ja,
+		"さんいんほうそう"@ja-Kana,
+		"Broadcasting Systemof San-in"@en;
+	<https://schema.org/name> "BSS";
+	<https://schema.org/areaServed> <https://w3id.org/tvstationjp/area/鳥取島根>;
+	<https://w3id.org/tvstationjp/tvst/newsNetwork> <https://w3id.org/tvstationjp/network/JNN>;
+	<https://w3id.org/tvstationjp/tvst/networkSystem> <https://w3id.org/tvstationjp/network/TBSネットワーク>;
+	<https://schema.org/alternateName> "BSSテレビ"@ja,
+		"BSS"@ja,
+		"BSS山陰放送"@ja;
+	<http://www.wikidata.org/prop/direct/P2317> "JOHF-DTV";
+	<https://w3id.org/tvstationjp/tvst/callName> "BSSまつえデジタルテレビジョン";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/BSS-Sanin.png?width=300>;
+	<https://w3id.org/tvstationjp/tvst/platform> <https://w3id.org/tvstationjp/platform/ISDBt>;
+	<https://w3id.org/tvstationjp/tvst/chPosition> "6";
+	<https://w3id.org/tvstationjp/tvst/parentStation> "松江";
+	<https://w3id.org/tvstationjp/tvst/parentDTVCh> "45ch";
+	<https://w3id.org/tvstationjp/tvst/parentATVCh> "10ch";
+	<https://w3id.org/tvstationjp/tvst/logicalCh> "061";
+	<https://schema.org/url> <https://www.bss.jp/>;
+	<https://schema.org/address> "683-8670";
+	<http://www.wikidata.org/prop/direct/P159> "鳥取県米子市西福原1丁目1番71号";
+	<https://schema.org/latitude> "北緯35.43832度";
+	<https://schema.org/longitude> "東経133.34029度";
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/山陰放送>,
+		<https://www.wikidata.org/entity/Q843770>,
+		<http://ja.dbpedia.org/resource/山陰放送>.

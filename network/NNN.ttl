@@ -1,0 +1,8 @@
+<https://w3id.org/tvstationjp/network/NNN> <http://www.w3.org/2000/01/rdf-schema#label> "NNN"@ja,
+		"Nippon News Network"@en,
+		"エヌエヌエヌ"@ja-Kana;
+	<https://schema.org/name> "日本ニュースネットワーク"@ja;
+	<https://w3id.org/tvstationjp/tvst/keystation> <https://w3id.org/tvstationjp/station/NTV>;
+	<https://schema.org/url> <https://www.ntv.co.jp/info/outline/domestic.html>;
+	<https://schema.org/logo> <https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NNN_logo_red.svg/330px-NNN_logo_red.svg.png>;
+	<https://schema.org/foundingDate> "1966-04-01".

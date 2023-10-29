@@ -1,0 +1,16 @@
+<https://w3id.org/tvstationjp/org/SDT> <http://www.w3.org/2000/01/rdf-schema#label> "株式会社静岡第一テレビ"@ja,
+		"しずおかだいいちてれび"@ja-Kana,
+		"SHIZUOKA DAIICHI TELEVISION CORPORATION"@en;
+	<https://schema.org/name> "SDT";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Daiichi_tv_logo.svg?width=300>;
+	<https://schema.org/foundingDate> "1979-02-15";
+	<http://www.wikidata.org/prop/direct/P3225> "4080001002827";
+	<https://schema.org/url> <https://www.tv-sdt.co.jp/>;
+	<https://schema.org/address> "422-8560";
+	<http://www.wikidata.org/prop/direct/P159> "静岡県静岡市駿河区中原563";
+	<https://schema.org/latitude> "北緯34.95522度";
+	<https://schema.org/longitude> "東経138.39096度";
+	<https://schema.org/brand> <https://w3id.org/tvstationjp/ch/JOSX-DTV>;
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/静岡第一テレビ>,
+		<https://www.wikidata.org/entity/Q843320>,
+		<http://ja.dbpedia.org/resource/静岡第一テレビ>.

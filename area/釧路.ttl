@@ -1,0 +1,4 @@
+<https://w3id.org/tvstationjp/area/釧路> <http://www.w3.org/2000/01/rdf-schema#label> "釧路"@ja;
+	<https://schema.org/description> "釧路"@ja;
+	<https://schema.org/containsPlace> <http://data.e-stat.go.jp/lod/sac/C01660-20100401>,
+		<http://data.e-stat.go.jp/lod/sac/C01690-20100401>.

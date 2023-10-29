@@ -19,7 +19,7 @@
     tvst:parentDTVCh "21ch";
     tvst:parentATVCh "5ch";
     tvst:logicalCh "051";    tvst:beginningDate "1959-04-01";
-    schema:url "https://www.stv.jp/index.html";
+    schema:url <https://www.stv.jp/index.html>;
     schema:address "060-8705";
     wdt:P159 "北海道札幌市中央区北1条西8丁目1番1号";
     schema:latitude "北緯43.06165度";
@@ -44,7 +44,7 @@
     tvst:parentDTVCh "23ch";
     tvst:parentATVCh "35ch";
     tvst:logicalCh "061";    tvst:beginningDate "1968-11-03";
-    schema:url "https://www.htb.co.jp/";
+    schema:url <https://www.htb.co.jp/>;
     schema:address "060-8406";
     wdt:P159 "北海道札幌市中央区北1条西1丁目6番地";
     schema:latitude "北緯43.06316度";
@@ -70,7 +70,7 @@
     tvst:parentStation "札幌";
     tvst:parentDTVCh "19ch";
     tvst:logicalCh "011";    tvst:beginningDate "1957-04-01";
-    schema:url "https://www.hbc.co.jp/";
+    schema:url <https://www.hbc.co.jp/>;
     schema:address "060-8501";
     wdt:P159 "北海道札幌市中央区北1条西5丁目2番地";
     schema:latitude "北緯43.06158度";
@@ -94,7 +94,7 @@
     tvst:parentDTVCh "14ch";
     tvst:parentATVCh "17ch";
     tvst:logicalCh "071";    tvst:beginningDate "1989-10-01";
-    schema:url "https://www.tv-hokkaido.co.jp/";
+    schema:url <https://www.tv-hokkaido.co.jp/>;
     schema:address "060-8517";
     wdt:P159 "北海道札幌市中央区大通東6丁目12番地4";
     schema:latitude "北緯43.06348度";
@@ -117,7 +117,7 @@
     tvst:parentStation "札幌";
     tvst:parentDTVCh "25ch";
     tvst:logicalCh "081";    tvst:beginningDate "1972-04-01";
-    schema:url "https://www.uhb.jp/";
+    schema:url <https://www.uhb.jp/>;
     schema:address "060-8527";
     wdt:P159 "北海道札幌市中央区北1条西14丁目1-5";
     schema:latitude "北緯43.06039度";
@@ -143,7 +143,7 @@
     tvst:parentDTVCh "28ch";
     tvst:parentATVCh "1ch";
     tvst:logicalCh "011";    tvst:beginningDate "1959-10-01";
-    schema:url "https://www.rab.co.jp/";
+    schema:url <https://www.rab.co.jp/>;
     schema:address "030-0965";
     wdt:P159 "青森県青森市松森1丁目8番1号";
     schema:latitude "北緯40.81894度";
@@ -167,7 +167,7 @@
     tvst:parentDTVCh "32ch";
     tvst:parentATVCh "34ch";
     tvst:logicalCh "051";    tvst:beginningDate "1991-10-01";
-    schema:url "https://www.aba-net.com/";
+    schema:url <https://www.aba-net.com/>;
     schema:address "030-0181";
     wdt:P159 "青森県青森市荒川字柴田125番1号";
     schema:latitude "北緯40.78628度";
@@ -193,7 +193,7 @@
     tvst:parentDTVCh "30ch";
     tvst:parentATVCh "38ch";
     tvst:logicalCh "061";    tvst:beginningDate "1969-12-01";
-    schema:url "https://www.atv.jp/";
+    schema:url <https://www.atv.jp/>;
     schema:address "030-8686";
     wdt:P159 "青森県青森市松森1丁目4番8号";
     schema:latitude "北緯40.81973度";
@@ -217,7 +217,7 @@
     tvst:parentDTVCh "18ch";
     tvst:parentATVCh "35ch";
     tvst:logicalCh "041";    tvst:beginningDate "1969-12-01";
-    schema:url "https://www.tvi.jp/";
+    schema:url <https://www.tvi.jp/>;
     schema:address "020-8650";
     wdt:P159 "岩手県盛岡市内丸2-10";
     schema:latitude "北緯39.70149度";
@@ -242,7 +242,7 @@
     tvst:parentDTVCh "22ch";
     tvst:parentATVCh "31ch";
     tvst:logicalCh "051";    tvst:beginningDate "1996-10-01";
-    schema:url "https://www.iat.co.jp/";
+    schema:url <https://www.iat.co.jp/>;
     schema:address "020-0045";
     wdt:P159 "岩手県盛岡市盛岡駅西通二丁目6-5";
     schema:latitude "北緯39.70044度";
@@ -268,7 +268,7 @@
     tvst:parentDTVCh "16ch";
     tvst:parentATVCh "6ch";
     tvst:logicalCh "061";    tvst:beginningDate "1959-09-01";
-    schema:url "https://www.ibc.co.jp/";
+    schema:url <https://www.ibc.co.jp/>;
     schema:address "020-8566";
     wdt:P159 "岩手県盛岡市志家町6番1号";
     schema:latitude "北緯39.698583度";
@@ -294,7 +294,7 @@
     tvst:parentDTVCh "20ch";
     tvst:parentATVCh "33ch";
     tvst:logicalCh "081";    tvst:beginningDate "1991-04-01";
-    schema:url "https://www.menkoi-tv.co.jp/top.html";
+    schema:url <https://www.menkoi-tv.co.jp/top.html>;
     schema:address "020-0866";
     wdt:P159 "岩手県盛岡市本宮5丁目2-25";
     schema:latitude "北緯39.69225度";
@@ -321,7 +321,7 @@
     tvst:parentDTVCh "35ch";
     tvst:parentATVCh "11ch";
     tvst:logicalCh "041";    tvst:beginningDate "1960-04-01";
-    schema:url "https://www.akita-abs.co.jp/";
+    schema:url <https://www.akita-abs.co.jp/>;
     schema:address "020-0866";
     wdt:P159 "秋田県秋田市中通七丁目1番1-2号";
     schema:latitude "北緯39.71703度";
@@ -346,7 +346,7 @@
     tvst:parentDTVCh "29ch";
     tvst:parentATVCh "31ch";
     tvst:logicalCh "051";    tvst:beginningDate "1992-10-01";
-    schema:url "https://www.aab-tv.co.jp/";
+    schema:url <https://www.aab-tv.co.jp/>;
     schema:address "010-0941";
     wdt:P159 "秋田県秋田市川尻町字大川反233-209";
     schema:latitude "北緯39.716889度";
@@ -372,7 +372,7 @@
     tvst:parentDTVCh "21ch";
     tvst:parentATVCh "37ch";
     tvst:logicalCh "081";    tvst:beginningDate "1969-10-01";
-    schema:url "https://www.akt.co.jp/";
+    schema:url <https://www.akt.co.jp/>;
     schema:address "010-8668";
     wdt:P159 "秋田県秋田市八橋本町三丁目2番14号";
     schema:latitude "北緯39.72383度";
@@ -396,7 +396,7 @@
     tvst:parentStation "山形";
     tvst:parentDTVCh "16ch";
     tvst:logicalCh "041";    tvst:beginningDate "1960-04-01";
-    schema:url "https://www.ybc.co.jp/";
+    schema:url <https://www.ybc.co.jp/>;
     schema:address "990-8555";
     wdt:P159 "山形県山形市旅篭町2丁目5番12号";
     schema:latitude "北緯38.25677度";
@@ -421,7 +421,7 @@
     tvst:parentDTVCh "18ch";
     tvst:parentATVCh "38ch";
     tvst:logicalCh "051";    tvst:beginningDate "1970-04-01";
-    schema:url "https://www.yts.co.jp/";
+    schema:url <https://www.yts.co.jp/>;
     schema:address "990-8511";
     wdt:P159 "山形県山形市城西町5丁目4番1号";
     schema:latitude "北緯38.25908度";
@@ -446,7 +446,7 @@
     tvst:parentDTVCh "20ch";
     tvst:parentATVCh "36ch";
     tvst:logicalCh "061";    tvst:beginningDate "1989-10-01";
-    schema:url "https://www.tuy.co.jp/";
+    schema:url <https://www.tuy.co.jp/>;
     schema:address "990-9536";
     wdt:P159 "山形県山形市白山1丁目11番33号";
     schema:latitude "北緯38.22766度";
@@ -471,7 +471,7 @@
     tvst:parentDTVCh "22ch";
     tvst:parentATVCh "30ch";
     tvst:logicalCh "081";    tvst:beginningDate "1997-04-01";
-    schema:url "https://www.sakuranbo.co.jp/";
+    schema:url <https://www.sakuranbo.co.jp/>;
     schema:address "990-8539";
     wdt:P159 "山形県山形市落合町85番地";
     schema:latitude "北緯38.27901度";
@@ -497,7 +497,7 @@
     tvst:parentDTVCh "24ch";
     tvst:parentATVCh "34ch";
     tvst:logicalCh "041";    tvst:beginningDate "1970-10-01";
-    schema:url "https://www.mmt-tv.co.jp/";
+    schema:url <https://www.mmt-tv.co.jp/>;
     schema:address "983-8611";
     wdt:P159 "宮城県仙台市宮城野区日の出町1-5-33";
     schema:latitude "北緯38.26925度";
@@ -523,7 +523,7 @@
     tvst:parentDTVCh "28ch";
     tvst:parentATVCh "32ch";
     tvst:logicalCh "051";    tvst:beginningDate "1975-10-01";
-    schema:url "https://www.khb-tv.co.jp/";
+    schema:url <https://www.khb-tv.co.jp/>;
     schema:address "982-8505";
     wdt:P159 "宮城県仙台市太白区あすと長町1丁目3-15";
     schema:latitude "北緯38.23005度";
@@ -549,7 +549,7 @@
     tvst:parentDTVCh "19ch";
     tvst:parentATVCh "1ch";
     tvst:logicalCh "011";    tvst:beginningDate "1959-04-01";
-    schema:url "https://www.tbc-sendai.co.jp/";
+    schema:url <https://www.tbc-sendai.co.jp/>;
     schema:address "980-8668";
     wdt:P159 "宮城県仙台市太白区八木山香澄町26-1";
     schema:latitude "北緯38.247111度";
@@ -575,7 +575,7 @@
     tvst:parentDTVCh "21ch";
     tvst:parentATVCh "12ch";
     tvst:logicalCh "081";    tvst:beginningDate "1962-10-01";
-    schema:url "https://www.ox-tv.co.jp/";
+    schema:url <https://www.ox-tv.co.jp/>;
     schema:address "980-8433";
     wdt:P159 "宮城県仙台市青葉区上杉5丁目8-33";
     schema:latitude "北緯38.274500度";
@@ -601,7 +601,7 @@
     tvst:parentDTVCh "29ch";
     tvst:parentATVCh "35ch";
     tvst:logicalCh "051";    tvst:beginningDate "1981-10-01";
-    schema:url "https://www.kfb.co.jp/";
+    schema:url <https://www.kfb.co.jp/>;
     schema:address "963-8535";
     wdt:P159 "福島県郡山市桑野4丁目3番6号";
     schema:latitude "北緯37.40763度";
@@ -625,7 +625,7 @@
     tvst:parentDTVCh "26ch";
     tvst:parentATVCh "31ch";
     tvst:logicalCh "061";    tvst:beginningDate "1983-12-04";
-    schema:url "https://www.tuf.co.jp/";
+    schema:url <https://www.tuf.co.jp/>;
     schema:address "960-8531";
     wdt:P159 "福島県福島市西中央1丁目1番";
     schema:latitude "北緯37.758889度";
@@ -651,7 +651,7 @@
     tvst:parentDTVCh "25ch";
     tvst:parentATVCh "11ch";
     tvst:logicalCh "081";    tvst:beginningDate "1963-04-01";
-    schema:url "https://www.fukushima-tv.co.jp/";
+    schema:url <https://www.fukushima-tv.co.jp/>;
     schema:address "960-8508";
     wdt:P159 "福島県福島市御山町2-5";
     schema:latitude "北緯37.76445度";
@@ -676,7 +676,7 @@
     tvst:parentDTVCh "27ch";
     tvst:parentATVCh "33ch";
     tvst:logicalCh "041";    tvst:beginningDate "1970-04-01";
-    schema:url "https://www.fct.co.jp/";
+    schema:url <https://www.fct.co.jp/>;
     schema:address "963-8533";
     wdt:P159 "福島県郡山市池ノ台13番23号";
     schema:latitude "北緯37.39305度";
@@ -702,7 +702,7 @@
     tvst:parentATVCh "4ch";
     tvst:logicalCh "041";
     tvst:logicalCh "042";    tvst:beginningDate "1953-08-28";
-    schema:url "https://www.ntv.co.jp/";
+    schema:url <https://www.ntv.co.jp/>;
     schema:address "105-7444";
     wdt:P159 "東京都港区東新橋一丁目6番1号 日本テレビタワー";
     schema:latitude "北緯35.66417度";
@@ -730,7 +730,7 @@
     tvst:logicalCh "051";
     tvst:logicalCh "052";
     tvst:logicalCh "053";    tvst:beginningDate "1959-02-01";
-    schema:url "https://www.tv-asahi.co.jp/";
+    schema:url <https://www.tv-asahi.co.jp/>;
     schema:address "106-8001";
     wdt:P159 "東京都港区六本木6丁目9番1号";
     schema:latitude "北緯35.65979度";
@@ -756,7 +756,7 @@
     tvst:parentATVCh "6ch";
     tvst:logicalCh "061";
     tvst:logicalCh "062";    tvst:beginningDate "1955-04-01";
-    schema:url "https://www.tbs.co.jp/";
+    schema:url <https://www.tbs.co.jp/>;
     schema:address "107-8006";
     wdt:P159 "東京都港区赤坂五丁目3番6号";
     schema:latitude "北緯35.67238度";
@@ -784,7 +784,7 @@
     tvst:logicalCh "071";
     tvst:logicalCh "072";
     tvst:logicalCh "073";    tvst:beginningDate "1964-04-12";
-    schema:url "https://www.tv-tokyo.co.jp/";
+    schema:url <https://www.tv-tokyo.co.jp/>;
     schema:address "106-8007";
     wdt:P159 "東京都港区六本木三丁目2番1号";
     schema:latitude "北緯35.66441度";
@@ -812,7 +812,7 @@
     tvst:logicalCh "081";
     tvst:logicalCh "082";
     tvst:logicalCh "083";    tvst:beginningDate "1959-03-01";
-    schema:url "https://www.fujitv.co.jp/index.html";
+    schema:url <https://www.fujitv.co.jp/index.html>;
     schema:address "137-8088";
     wdt:P159 "東京都港区台場二丁目4番8号";
     schema:latitude "北緯35.62693度";
@@ -839,7 +839,7 @@
     tvst:logicalCh "091";
     tvst:logicalCh "092";
     tvst:logicalCh "093";    tvst:beginningDate "1995-11-01";
-    schema:url "https://s.mxtv.jp";
+    schema:url <https://s.mxtv.jp>;
     schema:address "102-0083";
     wdt:P159 "東京都千代田区麹町一丁目12番地";
     schema:latitude "北緯35.68501度";
@@ -865,7 +865,7 @@
     tvst:logicalCh "031";
     tvst:logicalCh "032";
     tvst:logicalCh "033";    tvst:beginningDate "1972-04-01";
-    schema:url "https://www.tvk-yokohama.com/";
+    schema:url <https://www.tvk-yokohama.com/>;
     schema:address "231-8001";
     wdt:P159 "神奈川県横浜市中区太田町2丁目23番地";
     schema:latitude "北緯35.44709度";
@@ -889,7 +889,7 @@
     tvst:parentDTVCh "32ch";
     tvst:parentATVCh "38ch";
     tvst:logicalCh "031";    tvst:beginningDate "1979-04-01";
-    schema:url "http://www.teletama.jp/";
+    schema:url <http://www.teletama.jp/>;
     schema:address "330-8538";
     wdt:P159 "埼玉県さいたま市浦和区常盤六丁目36番4号";
     schema:latitude "北緯35.86224度";
@@ -915,7 +915,7 @@
     tvst:logicalCh "031";
     tvst:logicalCh "032";
     tvst:logicalCh "033";    tvst:beginningDate "1971-05-01";
-    schema:url "https://www.chiba-tv.com/";
+    schema:url <https://www.chiba-tv.com/>;
     schema:address "260-0001";
     wdt:P159 "千葉県千葉市中央区都町一丁目1番25号";
     schema:latitude "北緯35.61406度";
@@ -940,7 +940,7 @@
     tvst:parentDTVCh "19ch";
     tvst:parentATVCh "48ch";
     tvst:logicalCh "031";    tvst:beginningDate "1971-04-16";
-    schema:url "https://www.gtv.co.jp/";
+    schema:url <https://www.gtv.co.jp/>;
     schema:address "371-8548";
     wdt:P159 "群馬県前橋市上小出町3丁目38-2";
     schema:latitude "北緯36.419972度";
@@ -965,7 +965,7 @@
     tvst:parentDTVCh "29ch";
     tvst:parentATVCh "31ch";
     tvst:logicalCh "031";    tvst:beginningDate "1999-04-01";
-    schema:url "https://www.tochigi-tv.jp/";
+    schema:url <https://www.tochigi-tv.jp/>;
     schema:address "320-8531";
     wdt:P159 "栃木県宇都宮市昭和2丁目2番2号";
     schema:latitude "北緯36.56737度";
@@ -990,7 +990,7 @@
     tvst:parentDTVCh "25ch";
     tvst:parentATVCh "5ch";
     tvst:logicalCh "041";    tvst:beginningDate "1959-12-20";
-    schema:url "https://www.ybs.jp/";
+    schema:url <https://www.ybs.jp/>;
     schema:address "400-8525";
     wdt:P159 "山梨県甲府市北口二丁目6番10号";
     schema:latitude "北緯35.66806度";
@@ -1016,7 +1016,7 @@
     tvst:parentDTVCh "27ch";
     tvst:parentATVCh "37ch";
     tvst:logicalCh "061";    tvst:beginningDate "1970-04-01";
-    schema:url "https://www.uty.co.jp/";
+    schema:url <https://www.uty.co.jp/>;
     schema:address "400-8570";
     wdt:P159 "山梨県甲府市湯田二丁目13番1号";
     schema:latitude "北緯35.64571度";
@@ -1040,7 +1040,7 @@
     tvst:parentStation "静岡";
     tvst:parentDTVCh "19ch";
     tvst:logicalCh "041";    tvst:beginningDate "1979-07-01";
-    schema:url "https://www.tv-sdt.co.jp/";
+    schema:url <https://www.tv-sdt.co.jp/>;
     schema:address "422-8560";
     wdt:P159 "静岡県静岡市駿河区中原563";
     schema:latitude "北緯34.95522度";
@@ -1065,7 +1065,7 @@
     tvst:parentStation "静岡";
     tvst:parentDTVCh "18ch";
     tvst:logicalCh "051";    tvst:beginningDate "1978-07-01";
-    schema:url "https://www.satv.co.jp/";
+    schema:url <https://www.satv.co.jp/>;
     schema:address "420-8567";
     wdt:P159 "静岡県静岡市葵区東町15番地";
     schema:latitude "北緯34.97684度";
@@ -1090,7 +1090,7 @@
     tvst:parentStation "静岡";
     tvst:parentDTVCh "15ch";
     tvst:logicalCh "061";    tvst:beginningDate "1958-11-01";
-    schema:url "https://www.at-s.com/sbstv/";
+    schema:url <https://www.at-s.com/sbstv/>;
     schema:address "422-8680";
     wdt:P159 "静岡県静岡市駿河区登呂三丁目1番1号";
     schema:latitude "北緯34.96048度";
@@ -1114,7 +1114,7 @@
     tvst:parentStation "静岡（日本平）";
     tvst:parentDTVCh "17ch";
     tvst:logicalCh "081";    tvst:beginningDate "1968-12-24";
-    schema:url "https://www.sut-tv.com/";
+    schema:url <https://www.sut-tv.com/>;
     schema:address "422-8525";
     wdt:P159 "静岡県静岡市駿河区栗原18-65";
     schema:latitude "北緯34.99037度";
@@ -1140,7 +1140,7 @@
     tvst:parentDTVCh "14ch";
     tvst:parentATVCh "30ch";
     tvst:logicalCh "041";    tvst:beginningDate "1980-10-01";
-    schema:url "https://www.tsb.jp/";
+    schema:url <https://www.tsb.jp/>;
     schema:address "380-8555";
     wdt:P159 "長野県長野市若里一丁目1-1";
     schema:latitude "北緯36.6373度";
@@ -1165,7 +1165,7 @@
     tvst:parentDTVCh "18ch";
     tvst:parentATVCh "20ch";
     tvst:logicalCh "051";    tvst:beginningDate "1991-04-01";
-    schema:url "https://www.abn-tv.co.jp/";
+    schema:url <https://www.abn-tv.co.jp/>;
     schema:address "380-8550";
     wdt:P159 "長野県長野市七瀬4-5";
     schema:latitude "北緯36.642083度";
@@ -1190,7 +1190,7 @@
     tvst:parentDTVCh "16ch";
     tvst:parentATVCh "11ch";
     tvst:logicalCh "061";    tvst:beginningDate "1958-10-25";
-    schema:url "https://sbc21.co.jp/";
+    schema:url <https://sbc21.co.jp/>;
     schema:address "380-8521";
     wdt:P159 "長野県長野市鶴賀問御所町1200-3";
     schema:latitude "北緯36.65044度";
@@ -1216,7 +1216,7 @@
     tvst:parentDTVCh "15ch";
     tvst:parentATVCh "38ch";
     tvst:logicalCh "081";    tvst:beginningDate "1969-04-01";
-    schema:url "https://www.nbs-tv.co.jp/";
+    schema:url <https://www.nbs-tv.co.jp/>;
     schema:address "380-8633";
     wdt:P159 "長野県長野市中御所岡田町131-7";
     schema:latitude "北緯36.64332度";
@@ -1241,7 +1241,7 @@
     tvst:parentDTVCh "26ch";
     tvst:parentATVCh "29ch";
     tvst:logicalCh "041";    tvst:beginningDate "1981-04-01";
-    schema:url "https://www.teny.co.jp/";
+    schema:url <https://www.teny.co.jp/>;
     schema:address "950-8555";
     wdt:P159 "新潟県新潟市中央区新光町1番11号";
     schema:latitude "北緯37.90367度";
@@ -1266,7 +1266,7 @@
     tvst:parentDTVCh "23ch";
     tvst:parentATVCh "21ch";
     tvst:logicalCh "051";    tvst:beginningDate "1983-10-01";
-    schema:url "https://www.uxtv.jp/";
+    schema:url <https://www.uxtv.jp/>;
     schema:address "951-8521";
     wdt:P159 "新潟県新潟市中央区下大川前通六ノ町2230番19号";
     schema:latitude "北緯37.92465度";
@@ -1292,7 +1292,7 @@
     tvst:parentDTVCh "17ch";
     tvst:parentATVCh "5ch";
     tvst:logicalCh "061";    tvst:beginningDate "1958-12-24";
-    schema:url "https://www.ohbsn.com/";
+    schema:url <https://www.ohbsn.com/>;
     schema:address "951-8655";
     wdt:P159 "新潟県新潟市中央区川岸町三丁目18番地";
     schema:latitude "北緯37.90915度";
@@ -1317,7 +1317,7 @@
     tvst:parentDTVCh "19ch";
     tvst:parentATVCh "35ch";
     tvst:logicalCh "081";    tvst:beginningDate "1968-12-16";
-    schema:url "http://www.nsttv.com/";
+    schema:url <http://www.nsttv.com/>;
     schema:address "950-8572";
     wdt:P159 "新潟県新潟市中央区八千代二丁目3番1号";
     schema:latitude "北緯37.91518度";
@@ -1342,7 +1342,7 @@
     tvst:parentDTVCh "28ch";
     tvst:parentATVCh "1ch";
     tvst:logicalCh "011";    tvst:beginningDate "1959-04-01";
-    schema:url "https://www.knb.ne.jp/";
+    schema:url <https://www.knb.ne.jp/>;
     schema:address "930-8585";
     wdt:P159 "富山県富山市牛島町10番18号";
     schema:latitude "北緯36.704806度";
@@ -1368,7 +1368,7 @@
     tvst:parentDTVCh "22ch";
     tvst:parentATVCh "32ch";
     tvst:logicalCh "061";    tvst:beginningDate "1990-10-01";
-    schema:url "https://www.tulip-tv.co.jp/";
+    schema:url <https://www.tulip-tv.co.jp/>;
     schema:address "930-8539";
     wdt:P159 "富山県富山市奥田本町8番24号";
     schema:latitude "北緯36.712667度";
@@ -1393,7 +1393,7 @@
     tvst:parentDTVCh "18ch";
     tvst:parentATVCh "34ch";
     tvst:logicalCh "081";    tvst:beginningDate "1969-04-01";
-    schema:url "https://www.bbt.co.jp/";
+    schema:url <https://www.bbt.co.jp/>;
     schema:address "939-8550";
     wdt:P159 "富山県富山市新根塚町一丁目8番14号";
     schema:latitude "北緯36.680500度";
@@ -1420,7 +1420,7 @@
     tvst:parentDTVCh "17ch";
     tvst:parentATVCh "33ch";
     tvst:logicalCh "041";    tvst:beginningDate "1990-04-01";
-    schema:url "https://www.tvkanazawa.co.jp/";
+    schema:url <https://www.tvkanazawa.co.jp/>;
     schema:address "920-0386";
     wdt:P159 "石川県金沢市古府二丁目136番地";
     schema:latitude "北緯36.5690333度";
@@ -1445,7 +1445,7 @@
     tvst:parentDTVCh "23ch";
     tvst:parentATVCh "25ch";
     tvst:logicalCh "051";    tvst:beginningDate "1991-10-01";
-    schema:url "https://www.hab.co.jp/";
+    schema:url <https://www.hab.co.jp/>;
     schema:address "920-0393";
     wdt:P159 "石川県金沢市松島一丁目32番地2";
     schema:latitude "北緯36.56178度";
@@ -1471,7 +1471,7 @@
     tvst:parentDTVCh "14ch";
     tvst:parentATVCh "6ch";
     tvst:logicalCh "061";    tvst:beginningDate "1958-12-01";
-    schema:url "https://www.mro.co.jp/";
+    schema:url <https://www.mro.co.jp/>;
     schema:address "920-8560";
     wdt:P159 "石川県金沢市本多町3丁目2番1号";
     schema:latitude "北緯36.558194度";
@@ -1496,7 +1496,7 @@
     tvst:parentDTVCh "16ch";
     tvst:parentATVCh "37ch";
     tvst:logicalCh "081";    tvst:beginningDate "1969-04-01";
-    schema:url "https://www.ishikawa-tv.com/";
+    schema:url <https://www.ishikawa-tv.com/>;
     schema:address "920-0388";
     wdt:P159 "石川県金沢市観音堂町チ18番地";
     schema:latitude "北緯36.5887417度";
@@ -1523,7 +1523,7 @@
     tvst:parentDTVCh "20ch";
     tvst:parentATVCh "11ch";
     tvst:logicalCh "071";    tvst:beginningDate "1960-06-01";
-    schema:url "https://www.fbc.jp/";
+    schema:url <https://www.fbc.jp/>;
     schema:address "910-8588";
     wdt:P159 "福井県福井市大和田2丁目510番地";
     schema:latitude "北緯36.09508度";
@@ -1547,7 +1547,7 @@
     tvst:parentStation "福井";
     tvst:parentDTVCh "22ch";
     tvst:logicalCh "081";    tvst:beginningDate "1969-10-01";
-    schema:url "https://www.fukui-tv.co.jp/";
+    schema:url <https://www.fukui-tv.co.jp/>;
     schema:address "918-8688";
     wdt:P159 "福井県福井市問屋町三丁目410番地";
     schema:latitude "北緯36.053度";
@@ -1573,7 +1573,7 @@
     tvst:parentDTVCh "19ch";
     tvst:parentATVCh "35ch";
     tvst:logicalCh "041";    tvst:beginningDate "1969-04-01";
-    schema:url "https://www.ctv.co.jp/indexmenu.html";
+    schema:url <https://www.ctv.co.jp/indexmenu.html>;
     schema:address "453-8704";
     wdt:P159 "愛知県名古屋市中村区平池町";
     schema:latitude "北緯35.16314度";
@@ -1599,7 +1599,7 @@
     tvst:parentDTVCh "22ch";
     tvst:parentATVCh "11ch";
     tvst:logicalCh "061";    tvst:beginningDate "1962-04-01";
-    schema:url "https://www.nagoyatv.com/";
+    schema:url <https://www.nagoyatv.com/>;
     schema:address "460-8311";
     wdt:P159 "愛知県名古屋市中区橘2丁目10番1号";
     schema:latitude "北緯35.15108度";
@@ -1629,7 +1629,7 @@
     tvst:logicalCh "051";
     tvst:logicalCh "052";
     tvst:logicalCh "053";    tvst:beginningDate "1956-12-01";
-    schema:url "https://hicbc.com/tv/";
+    schema:url <https://hicbc.com/tv/>;
     schema:address "460-8405";
     wdt:P159 "愛知県名古屋市中区新栄1丁目2番8号";
     schema:latitude "北緯35.16939度";
@@ -1654,7 +1654,7 @@
     tvst:parentDTVCh "23ch";
     tvst:parentATVCh "25ch";
     tvst:logicalCh "101";    tvst:beginningDate "1983-09-01";
-    schema:url "https://tv-aichi.co.jp/";
+    schema:url <https://tv-aichi.co.jp/>;
     schema:address "460-8325";
     wdt:P159 "愛知県名古屋市中区大須2丁目4番8号";
     schema:latitude "北緯35.1617389度";
@@ -1679,7 +1679,7 @@
     tvst:parentDTVCh "21ch";
     tvst:parentATVCh "1ch";
     tvst:logicalCh "011";    tvst:beginningDate "1958-12-25";
-    schema:url "https://www.tokai-tv.com/index.html";
+    schema:url <https://www.tokai-tv.com/index.html>;
     schema:address "461-8501";
     wdt:P159 "愛知県名古屋市東区東桜1丁目14番27号";
     schema:latitude "北緯35.17051度";
@@ -1702,7 +1702,7 @@
     tvst:parentDTVCh "30ch";
     tvst:parentATVCh "37ch";
     tvst:logicalCh "081";    tvst:beginningDate "1968-08-12";
-    schema:url "https://www.zf-web.com/";
+    schema:url <https://www.zf-web.com/>;
     schema:address "500-8588";
     wdt:P159 "岐阜県岐阜市橋本町2丁目52番地 岐阜シティ・タワー43 4階";
     schema:latitude "北緯35.4108度";
@@ -1726,7 +1726,7 @@
     tvst:parentDTVCh "27ch";
     tvst:parentATVCh "33ch";
     tvst:logicalCh "071";    tvst:beginningDate "1969-12-01";
-    schema:url "https://www.mietv.com/";
+    schema:url <https://www.mietv.com/>;
     schema:address "514-8633";
     wdt:P159 "三重県津市渋見町693番1号";
     schema:latitude "北緯34.73486度";
@@ -1753,7 +1753,7 @@
     tvst:parentDTVCh "14ch";
     tvst:parentATVCh "10ch";
     tvst:logicalCh "101";    tvst:beginningDate "1958-08-28";
-    schema:url "https://www.ytv.co.jp/index.html";
+    schema:url <https://www.ytv.co.jp/index.html>;
     schema:address "540-8510";
     wdt:P159 "大阪府大阪市中央区城見1丁目3番50号";
     schema:latitude "北緯34.69073度";
@@ -1780,7 +1780,7 @@
     tvst:parentDTVCh "15ch";
     tvst:parentATVCh "6ch";
     tvst:logicalCh "061";    tvst:beginningDate "1956-12-01";
-    schema:url "https://www.asahi.co.jp/";
+    schema:url <https://www.asahi.co.jp/>;
     schema:address "553-8503";
     wdt:P159 "大阪府大阪市福島区福島1丁目1番30号";
     schema:latitude "北緯34.6936度";
@@ -1805,7 +1805,7 @@
     tvst:parentStation "大阪";
     tvst:parentDTVCh "16ch";
     tvst:logicalCh "041";    tvst:beginningDate "1959-03-01";
-    schema:url "https://www.mbs.jp/";
+    schema:url <https://www.mbs.jp/>;
     schema:address "530-8304";
     wdt:P159 "大阪府大阪市北区茶屋町17番1号";
     schema:latitude "北緯34.7083度";
@@ -1830,7 +1830,7 @@
     tvst:parentDTVCh "18ch";
     tvst:parentATVCh "19ch";
     tvst:logicalCh "071";    tvst:beginningDate "1982-03-01";
-    schema:url "https://www.tv-osaka.co.jp/";
+    schema:url <https://www.tv-osaka.co.jp/>;
     schema:address "540-8519";
     wdt:P159 "大阪府大阪市中央区大手前1丁目2番18号";
     schema:latitude "北緯34.6908度";
@@ -1856,7 +1856,7 @@
     tvst:parentDTVCh "17ch";
     tvst:parentATVCh "8ch";
     tvst:logicalCh "081";    tvst:beginningDate "1958-11-22";
-    schema:url "https://www.ktv.jp/";
+    schema:url <https://www.ktv.jp/>;
     schema:address "530-8408";
     wdt:P159 "大阪府大阪市北区扇町2丁目1番7号";
     schema:latitude "北緯34.70427度";
@@ -1881,7 +1881,7 @@
     tvst:parentDTVCh "26ch";
     tvst:parentATVCh "36ch";
     tvst:logicalCh "031";    tvst:beginningDate "1969-05-01";
-    schema:url "https://sun-tv.co.jp/";
+    schema:url <https://sun-tv.co.jp/>;
     schema:address "650-8536";
     wdt:P159 "兵庫県神戸市中央区東川崎町1丁目1番1号";
     schema:latitude "北緯34.68079度";
@@ -1907,7 +1907,7 @@
     tvst:parentDTVCh "23ch";
     tvst:parentATVCh "34ch";
     tvst:logicalCh "051";    tvst:beginningDate "1969-04-01";
-    schema:url "https://www.kbs-kyoto.co.jp/";
+    schema:url <https://www.kbs-kyoto.co.jp/>;
     schema:address "602-8588";
     wdt:P159 "京都府京都市上京区烏丸通一条下ル龍前町600番地の1";
     schema:latitude "北緯35.02877度";
@@ -1931,7 +1931,7 @@
     tvst:parentDTVCh "20ch";
     tvst:parentATVCh "30ch";
     tvst:logicalCh "031";    tvst:beginningDate "1972-04-01";
-    schema:url "https://www.bbc-tv.co.jp/";
+    schema:url <https://www.bbc-tv.co.jp/>;
     schema:address "520-8585";
     wdt:P159 "滋賀県大津市鶴の里16番1号";
     schema:latitude "北緯34.99125度";
@@ -1955,7 +1955,7 @@
     tvst:parentDTVCh "29ch";
     tvst:parentATVCh "55ch";
     tvst:logicalCh "091";    tvst:beginningDate "1973-04-01";
-    schema:url "https://www.naratv.co.jp/";
+    schema:url <https://www.naratv.co.jp/>;
     schema:address "630-8575";
     wdt:P159 "奈良県奈良市法蓮佐保山3丁目1番11号";
     schema:latitude "北緯34.69933度";
@@ -1979,7 +1979,7 @@
     tvst:parentDTVCh "20ch";
     tvst:parentATVCh "30ch";
     tvst:logicalCh "051";    tvst:beginningDate "1974-04-01";
-    schema:url "https://www.tv-wakayama.co.jp/";
+    schema:url <https://www.tv-wakayama.co.jp/>;
     schema:address "640-8533";
     wdt:P159 "和歌山県和歌山市栄谷151番地";
     schema:latitude "北緯34.25676度";
@@ -2006,7 +2006,7 @@
     tvst:parentDTVCh "31ch";
     tvst:parentATVCh "1ch";
     tvst:logicalCh "011";    tvst:beginningDate "1959-04-01";
-    schema:url "https://www.jrt.co.jp/";
+    schema:url <https://www.jrt.co.jp/>;
     schema:address "770-8573";
     wdt:P159 "徳島県徳島市中徳島町2丁目5番2号徳島新聞放送会館内";
     schema:latitude "北緯34.07383度";
@@ -2033,7 +2033,7 @@
     tvst:parentDTVCh "17ch";
     tvst:parentATVCh "8ch";
     tvst:logicalCh "041";    tvst:beginningDate "1959-04-01";
-    schema:url "https://www.rkc-kochi.co.jp/";
+    schema:url <https://www.rkc-kochi.co.jp/>;
     schema:address "780-8550";
     wdt:P159 "高知県高知市本町三丁目2番8号";
     schema:latitude "北緯33.55883度";
@@ -2057,7 +2057,7 @@
     tvst:parentDTVCh "19ch";
     tvst:parentATVCh "38ch";
     tvst:logicalCh "061";    tvst:beginningDate "1970-04-01";
-    schema:url "https://www.kutv.co.jp/";
+    schema:url <https://www.kutv.co.jp/>;
     schema:address "780-8577";
     wdt:P159 "高知県高知市北本町三丁目4番27号";
     schema:latitude "北緯33.565528度";
@@ -2083,7 +2083,7 @@
     tvst:parentDTVCh "21ch";
     tvst:parentATVCh "40ch";
     tvst:logicalCh "081";    tvst:beginningDate "1997-04-01";
-    schema:url "https://www.sunsuntv.co.jp/";
+    schema:url <https://www.sunsuntv.co.jp/>;
     schema:address "781-9533";
     wdt:P159 "高知県高知市若松町10番11号";
     schema:latitude "北緯33.553250度";
@@ -2108,7 +2108,7 @@
     tvst:parentDTVCh "20ch";
     tvst:parentATVCh "10ch";
     tvst:logicalCh "041";    tvst:beginningDate "1958-12-01";
-    schema:url "https://www.rnb.co.jp/";
+    schema:url <https://www.rnb.co.jp/>;
     schema:address "790-8510";
     wdt:P159 "愛媛県松山市本町1丁目1番1号";
     schema:latitude "北緯33.84088度";
@@ -2134,7 +2134,7 @@
     tvst:parentDTVCh "17ch";
     tvst:parentATVCh "25ch";
     tvst:logicalCh "051";    tvst:beginningDate "1995-04-01";
-    schema:url "https://eat.jp/";
+    schema:url <https://eat.jp/>;
     schema:address "790-8525";
     wdt:P159 "愛媛県松山市和泉北1丁目14-11";
     schema:latitude "北緯33.824333度";
@@ -2159,7 +2159,7 @@
     tvst:parentDTVCh "21ch";
     tvst:parentATVCh "29ch";
     tvst:logicalCh "061";    tvst:beginningDate "1992-10-01";
-    schema:url "https://www.itv6.jp/";
+    schema:url <https://www.itv6.jp/>;
     schema:address "790-8529";
     wdt:P159 "愛媛県松山市竹原町1丁目5-25";
     schema:latitude "北緯33.833778度";
@@ -2184,7 +2184,7 @@
     tvst:parentDTVCh "27ch";
     tvst:parentATVCh "37ch";
     tvst:logicalCh "081";    tvst:beginningDate "1969-12-10";
-    schema:url "https://www.ebc.co.jp/";
+    schema:url <https://www.ebc.co.jp/>;
     schema:address "790-8537";
     wdt:P159 "愛媛県松山市真砂町119番地";
     schema:latitude "北緯33.832361度";
@@ -2214,7 +2214,7 @@
     tvst:parentDTVCh "20ch";
     tvst:parentATVCh "9ch";
     tvst:logicalCh "041";    tvst:beginningDate "1958-07-01";
-    schema:url "https://www.rnc.co.jp/tv/";
+    schema:url <https://www.rnc.co.jp/tv/>;
     schema:address "760-8575";
     wdt:P159 "香川県高松市丸の内8番15号";
     schema:latitude "北緯34.34759度";
@@ -2241,7 +2241,7 @@
     tvst:parentDTVCh "30ch";
     tvst:parentATVCh "25ch";
     tvst:logicalCh "051";    tvst:beginningDate "1969-04-01";
-    schema:url "https://www.ksb.co.jp/";
+    schema:url <https://www.ksb.co.jp/>;
     schema:address "761-8581";
     wdt:P159 "香川県高松市上之町二丁目1番43号";
     schema:latitude "北緯34.321611度";
@@ -2267,7 +2267,7 @@
     tvst:parentDTVCh "21ch";
     tvst:parentATVCh "11ch";
     tvst:logicalCh "061";    tvst:beginningDate "1958-06-01";
-    schema:url "https://www.rsk.co.jp/tv/";
+    schema:url <https://www.rsk.co.jp/tv/>;
     schema:address "700-8580";
     wdt:P159 "岡山県岡山市北区天神町9番24号";
     schema:latitude "北緯34.66711度";
@@ -2293,7 +2293,7 @@
     tvst:parentDTVCh "18ch";
     tvst:parentATVCh "23ch";
     tvst:logicalCh "071";    tvst:beginningDate "1985-10-01";
-    schema:url "https://www.webtsc.com/";
+    schema:url <https://www.webtsc.com/>;
     schema:address "700-8677";
     wdt:P159 "岡山県岡山市北区柳町二丁目1番1号 山陽新聞社本社ビル";
     schema:latitude "北緯34.658083度";
@@ -2320,7 +2320,7 @@
     tvst:parentDTVCh "27ch";
     tvst:parentATVCh "35ch";
     tvst:logicalCh "081";    tvst:beginningDate "1969-04-01";
-    schema:url "https://www.ohk.co.jp/";
+    schema:url <https://www.ohk.co.jp/>;
     schema:address "700-8635";
     wdt:P159 "岡山県岡山市北区下石井2丁目10-107";
     schema:latitude "北緯34.6582度";
@@ -2347,7 +2347,7 @@
     tvst:parentDTVCh "38ch";
     tvst:parentATVCh "1ch";
     tvst:logicalCh "011";    tvst:beginningDate "1959-03-03";
-    schema:url "https://www.nkt-tv.co.jp/";
+    schema:url <https://www.nkt-tv.co.jp/>;
     schema:address "680-8572";
     wdt:P159 "鳥取県鳥取市田園町4丁目360番地";
     schema:latitude "北緯35.51446度";
@@ -2374,7 +2374,7 @@
     tvst:parentDTVCh "45ch";
     tvst:parentATVCh "10ch";
     tvst:logicalCh "061";    tvst:beginningDate "1959-12-15";
-    schema:url "https://www.bss.jp/";
+    schema:url <https://www.bss.jp/>;
     schema:address "683-8670";
     wdt:P159 "鳥取県米子市西福原1丁目1番71号";
     schema:latitude "北緯35.43832度";
@@ -2401,7 +2401,7 @@
     tvst:parentDTVCh "43ch";
     tvst:parentATVCh "34ch";
     tvst:logicalCh "081";    tvst:beginningDate "1970-04-01";
-    schema:url "https://tsk-tv.com/";
+    schema:url <https://tsk-tv.com/>;
     schema:address "690-8666";
     wdt:P159 "島根県松江市向島町140-1";
     schema:latitude "北緯35.46872度";
@@ -2427,7 +2427,7 @@
     tvst:parentDTVCh "19ch";
     tvst:parentATVCh "12ch";
     tvst:logicalCh "041";    tvst:beginningDate "1962-09-01";
-    schema:url "https://www.htv.jp/";
+    schema:url <https://www.htv.jp/>;
     schema:address "732-8575";
     wdt:P159 "広島県広島市東区二葉の里3丁目5番4号 広テレビル";
     schema:latitude "北緯34.40179度";
@@ -2453,7 +2453,7 @@
     tvst:parentDTVCh "22ch";
     tvst:parentATVCh "35ch";
     tvst:logicalCh "051";    tvst:beginningDate "1970-12-01";
-    schema:url "https://www.home-tv.co.jp/";
+    schema:url <https://www.home-tv.co.jp/>;
     schema:address "730-8552";
     wdt:P159 "広島県広島市中区白島北町19番2号";
     schema:latitude "北緯34.41357度";
@@ -2479,7 +2479,7 @@
     tvst:parentDTVCh "18ch";
     tvst:parentATVCh "4ch";
     tvst:logicalCh "031";    tvst:beginningDate "1959-04-01";
-    schema:url "https://rcc.jp/";
+    schema:url <https://rcc.jp/>;
     schema:address "730-8504";
     wdt:P159 "広島県広島市中区基町21番3号";
     schema:latitude "北緯34.40149度";
@@ -2504,7 +2504,7 @@
     tvst:parentDTVCh "23ch";
     tvst:parentATVCh "31ch";
     tvst:logicalCh "081";    tvst:beginningDate "1975-10-01";
-    schema:url "https://www.tss-tv.co.jp/";
+    schema:url <https://www.tss-tv.co.jp/>;
     schema:address "734-8585";
     wdt:P159 "広島県広島市南区出汐二丁目3番19号";
     schema:latitude "北緯34.37801度";
@@ -2530,7 +2530,7 @@
     tvst:parentDTVCh "20ch";
     tvst:parentATVCh "11ch";
     tvst:logicalCh "041";    tvst:beginningDate "1959-10-01";
-    schema:url "https://kry.co.jp/";
+    schema:url <https://kry.co.jp/>;
     schema:address "745-8686";
     wdt:P159 "山口県周南市徳山5853番地の2";
     schema:latitude "北緯34.0619度";
@@ -2556,7 +2556,7 @@
     tvst:parentDTVCh "26ch";
     tvst:parentATVCh "28ch";
     tvst:logicalCh "051";    tvst:beginningDate "1993-10-01";
-    schema:url "https://www.yab.co.jp/";
+    schema:url <https://www.yab.co.jp/>;
     schema:address "753-8570";
     wdt:P159 "山口県山口市中央三丁目5番25号";
     schema:latitude "北緯34.17476度";
@@ -2582,7 +2582,7 @@
     tvst:parentDTVCh "18ch";
     tvst:parentATVCh "38ch";
     tvst:logicalCh "031";    tvst:beginningDate "1970-04-01";
-    schema:url "https://tys.co.jp/";
+    schema:url <https://tys.co.jp/>;
     schema:address "753-0292";
     wdt:P159 "山口県山口市大内千坊六丁目7番1号";
     schema:latitude "北緯34.14926度";
@@ -2607,7 +2607,7 @@
     tvst:parentStation "福岡";
     tvst:parentDTVCh "32ch";
     tvst:logicalCh "051";    tvst:beginningDate "1969-04-01";
-    schema:url "https://www.fbs.co.jp/";
+    schema:url <https://www.fbs.co.jp/>;
     schema:address "810-8655";
     wdt:P159 "福岡県福岡市中央区清川二丁目22番8号";
     schema:latitude "北緯33.58035度";
@@ -2632,7 +2632,7 @@
     tvst:parentDTVCh "31ch";
     tvst:parentATVCh "1ch";
     tvst:logicalCh "011";    tvst:beginningDate "1959-03-01";
-    schema:url "https://kbc.co.jp/tv";
+    schema:url <https://kbc.co.jp/tv>;
     schema:address "810-8571";
     wdt:P159 "福岡県福岡市中央区長浜1丁目1番1号";
     schema:latitude "北緯33.59571度";
@@ -2658,7 +2658,7 @@
     tvst:parentDTVCh "30ch";
     tvst:parentATVCh "4ch";
     tvst:logicalCh "041";    tvst:beginningDate "1958-03-01";
-    schema:url "https://rkb.jp/";
+    schema:url <https://rkb.jp/>;
     schema:address "814-8585";
     wdt:P159 "福岡県福岡市早良区百道浜2丁目3番8号";
     schema:latitude "北緯33.5930139度";
@@ -2683,7 +2683,7 @@
     tvst:parentDTVCh "26ch";
     tvst:parentATVCh "19ch";
     tvst:logicalCh "071";    tvst:beginningDate "1991-04-01";
-    schema:url "https://www.tvq.co.jp/";
+    schema:url <https://www.tvq.co.jp/>;
     schema:address "812-8570";
     wdt:P159 "福岡県福岡市博多区住吉2丁目3-1日経西部電波会館内";
     schema:latitude "北緯33.58853度";
@@ -2707,7 +2707,7 @@
     tvst:parentDTVCh "34ch";
     tvst:parentATVCh "9ch";
     tvst:logicalCh "081";    tvst:beginningDate "1958-08-28";
-    schema:url "http://www.tnc.co.jp";
+    schema:url <http://www.tnc.co.jp>;
     schema:address "814-8555";
     wdt:P159 "福岡県福岡市早良区百道浜2丁目3番2号";
     schema:latitude "北緯33.59208度";
@@ -2733,7 +2733,7 @@
     tvst:parentDTVCh "44ch";
     tvst:parentATVCh "36ch";
     tvst:logicalCh "031";    tvst:beginningDate "1969-04-01";
-    schema:url "https://www.sagatv.co.jp/";
+    schema:url <https://www.sagatv.co.jp/>;
     schema:address "840-8558";
     wdt:P159 "佐賀県佐賀市城内1丁目6番10号";
     schema:latitude "北緯33.24698度";
@@ -2758,7 +2758,7 @@
     tvst:parentDTVCh "18ch";
     tvst:parentATVCh "25ch";
     tvst:logicalCh "041";    tvst:beginningDate "1991-04-01";
-    schema:url "https://www.nib.jp/";
+    schema:url <https://www.nib.jp/>;
     schema:address "850-8504";
     wdt:P159 "長崎県長崎市出島町11-1";
     schema:latitude "北緯32.74301度";
@@ -2784,7 +2784,7 @@
     tvst:parentDTVCh "19ch";
     tvst:parentATVCh "27ch";
     tvst:logicalCh "051";    tvst:beginningDate "1990-04-01";
-    schema:url "https://www.ncctv.co.jp/";
+    schema:url <https://www.ncctv.co.jp/>;
     schema:address "852-8527";
     wdt:P159 "長崎県長崎市茂里町3番2号";
     schema:latitude "北緯32.76392度";
@@ -2811,7 +2811,7 @@
     tvst:parentDTVCh "14ch";
     tvst:parentATVCh "5ch";
     tvst:logicalCh "031";    tvst:beginningDate "1959-01-01";
-    schema:url "https://www.nbc-nagasaki.co.jp/";
+    schema:url <https://www.nbc-nagasaki.co.jp/>;
     schema:address "850-8650";
     wdt:P159 "長崎県長崎市尾上町5番6号";
     schema:latitude "北緯32.754000度";
@@ -2836,7 +2836,7 @@
     tvst:parentDTVCh "20ch";
     tvst:parentATVCh "※37ch";
     tvst:logicalCh "081";    tvst:beginningDate "1969-04-01";
-    schema:url "https://www.ktn.co.jp/";
+    schema:url <https://www.ktn.co.jp/>;
     schema:address "850-8688";
     wdt:P159 "長崎県長崎市金屋町1番7号";
     schema:latitude "北緯32.74918度";
@@ -2861,7 +2861,7 @@
     tvst:parentDTVCh "47ch";
     tvst:parentATVCh "22ch";
     tvst:logicalCh "041";    tvst:beginningDate "1982-04-01";
-    schema:url "https://www.kkt.jp/";
+    schema:url <https://www.kkt.jp/>;
     schema:address "862-8504";
     wdt:P159 "熊本県熊本市中央区大江2丁目1番10号";
     schema:latitude "北緯32.80637度";
@@ -2887,7 +2887,7 @@
     tvst:parentDTVCh "49ch";
     tvst:parentATVCh "※16ch";
     tvst:logicalCh "051";    tvst:beginningDate "1989-10-01";
-    schema:url "https://www.kab.co.jp/";
+    schema:url <https://www.kab.co.jp/>;
     schema:address "860-8516";
     wdt:P159 "熊本県熊本市西区二本木一丁目5番12号";
     schema:latitude "北緯32.78653度";
@@ -2913,7 +2913,7 @@
     tvst:parentDTVCh "41ch";
     tvst:parentATVCh "11ch";
     tvst:logicalCh "031";    tvst:beginningDate "1959-04-01";
-    schema:url "https://rkk.jp/";
+    schema:url <https://rkk.jp/>;
     schema:address "860-8611";
     wdt:P159 "熊本県熊本市中央区山崎町30番地";
     schema:latitude "北緯32.7969度";
@@ -2939,7 +2939,7 @@
     tvst:parentDTVCh "42ch";
     tvst:parentATVCh "34ch";
     tvst:logicalCh "081";    tvst:beginningDate "1969-04-01";
-    schema:url "https://www.tku.co.jp/";
+    schema:url <https://www.tku.co.jp/>;
     schema:address "861-5592";
     wdt:P159 "熊本県熊本市北区徳王1丁目8番1号";
     schema:latitude "北緯32.8395333度";
@@ -2967,7 +2967,7 @@
     tvst:parentDTVCh "34ch";
     tvst:parentATVCh "36ch";
     tvst:logicalCh "041";    tvst:beginningDate "1970-04-01";
-    schema:url "https://www.tostv.jp";
+    schema:url <https://www.tostv.jp>;
     schema:address "870-8636";
     wdt:P159 "大分県大分市大字勢家字春日浦843番地25";
     schema:latitude "北緯33.2484度";
@@ -2993,7 +2993,7 @@
     tvst:parentDTVCh "32ch";
     tvst:parentATVCh "24ch";
     tvst:logicalCh "051";    tvst:beginningDate "1993-10-01";
-    schema:url "https://www.oab.co.jp/";
+    schema:url <https://www.oab.co.jp/>;
     schema:address "870-8524";
     wdt:P159 "大分県大分市新川西2丁目7番1号";
     schema:latitude "北緯33.249250度";
@@ -3020,7 +3020,7 @@
     tvst:parentDTVCh "22ch";
     tvst:parentATVCh "5ch";
     tvst:logicalCh "031";    tvst:beginningDate "1959-10-01";
-    schema:url "https://obs-oita.co.jp/";
+    schema:url <https://obs-oita.co.jp/>;
     schema:address "870-8620";
     wdt:P159 "大分県大分市今津留三丁目1番1号";
     schema:latitude "北緯33.24157度";
@@ -3047,7 +3047,7 @@
     tvst:parentDTVCh "15ch";
     tvst:parentATVCh "10ch";
     tvst:logicalCh "061";    tvst:beginningDate "1960-10-01";
-    schema:url "https://mrt.jp/";
+    schema:url <https://mrt.jp/>;
     schema:address "880-8639";
     wdt:P159 "宮崎県宮崎市橘通西4丁目6番7号";
     schema:latitude "北緯31.91719度";
@@ -3075,7 +3075,7 @@
     tvst:parentDTVCh "16ch";
     tvst:parentATVCh "35ch";
     tvst:logicalCh "031";    tvst:beginningDate "1970-04-01";
-    schema:url "http://www.umk.co.jp/";
+    schema:url <http://www.umk.co.jp/>;
     schema:address "880-8535";
     wdt:P159 "宮崎県宮崎市祇園2丁目78番地";
     schema:latitude "北緯31.93071度";
@@ -3100,7 +3100,7 @@
     tvst:parentDTVCh "29ch";
     tvst:parentATVCh "30ch";
     tvst:logicalCh "041";    tvst:beginningDate "1994-04-01";
-    schema:url "https://www.kyt-tv.com/";
+    schema:url <https://www.kyt-tv.com/>;
     schema:address "890-8574";
     wdt:P159 "鹿児島市与次郎1-9-34";
     schema:latitude "北緯31.56696度";
@@ -3124,7 +3124,7 @@
     tvst:parentStation "鹿児島";
     tvst:parentDTVCh "36ch";
     tvst:logicalCh "051";    tvst:beginningDate "1982-10-01";
-    schema:url "http://www.kkb.co.jp/";
+    schema:url <http://www.kkb.co.jp/>;
     schema:address "890-8571";
     wdt:P159 "鹿児島県鹿児島市与次郎2丁目5-12";
     schema:latitude "北緯31.56319度";
@@ -3151,7 +3151,7 @@
     tvst:parentDTVCh "40ch";
     tvst:parentATVCh "1ch";
     tvst:logicalCh "011";    tvst:beginningDate "1959-04-01";
-    schema:url "https://www.mbc.co.jp";
+    schema:url <https://www.mbc.co.jp>;
     schema:address "890-8570";
     wdt:P159 "鹿児島県鹿児島市高麗町5−25";
     schema:latitude "北緯31.58251度";
@@ -3175,7 +3175,7 @@
     tvst:parentDTVCh "42ch";
     tvst:parentATVCh "38ch";
     tvst:logicalCh "081";    tvst:beginningDate "1969-04-01";
-    schema:url "https://www.kts-tv.co.jp/";
+    schema:url <https://www.kts-tv.co.jp/>;
     schema:address "890-8666";
     wdt:P159 "鹿児島県鹿児島市紫原六丁目15-8";
     schema:latitude "北緯31.56115度";
@@ -3200,7 +3200,7 @@
     tvst:parentDTVCh "16ch";
     tvst:parentATVCh "28ch";
     tvst:logicalCh "051";    tvst:beginningDate "1995-10-01";
-    schema:url "https://www.qab.co.jp/";
+    schema:url <https://www.qab.co.jp/>;
     schema:address "900-8510";
     wdt:P159 "沖縄県那覇市久茂地二丁目3番1号";
     schema:latitude "北緯26.21593度";
@@ -3226,7 +3226,7 @@
     tvst:parentDTVCh "14ch";
     tvst:parentATVCh "10ch";
     tvst:logicalCh "031";    tvst:beginningDate "1960-06-01";
-    schema:url "https://www.rbc.co.jp/";
+    schema:url <https://www.rbc.co.jp/>;
     schema:address "900-8711";
     wdt:P159 "沖縄県那覇市久茂地二丁目3番1号";
     schema:latitude "北緯26.21593度";
@@ -3255,7 +3255,7 @@
     tvst:parentDTVCh "15ch";
     tvst:parentATVCh "8ch";
     tvst:logicalCh "081";    tvst:beginningDate "1959-11-01";
-    schema:url "https://www.otv.co.jp/";
+    schema:url <https://www.otv.co.jp/>;
     schema:address "900-8588";
     wdt:P159 "沖縄県那覇市久茂地1丁目2番地20号";
     schema:latitude "北緯26.21388度";

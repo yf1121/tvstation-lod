@@ -1,0 +1,8 @@
+<https://w3id.org/tvstationjp/network/民教協> <http://www.w3.org/2000/01/rdf-schema#label> "公益財団法人民間放送教育協会"@ja,
+		"THE MINKYOKYO"@en,
+		"みんかんほうそうきょういくきょうかい"@ja-Kana;
+	<https://schema.org/name> "民教協"@ja;
+	<https://w3id.org/tvstationjp/tvst/keystation> <https://w3id.org/tvstationjp/station/EX>;
+	<https://schema.org/url> <https://www.minkyo.or.jp/>;
+	<http://www.wikidata.org/prop/direct/P3225> "8010405010379";
+	<https://schema.org/foundingDate> "1967-06-10".

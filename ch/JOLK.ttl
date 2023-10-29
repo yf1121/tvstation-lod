@@ -1,0 +1,13 @@
+<https://w3id.org/tvstationjp/ch/JOLK> <http://www.w3.org/2000/01/rdf-schema#label> "NHKラジオ第1・福岡"@ja,
+		"NHK Radio1"@en;
+	<https://schema.org/areaServed> <https://w3id.org/tvstationjp/area/福岡>;
+	<https://w3id.org/tvstationjp/tvst/networkSystem> <https://w3id.org/tvstationjp/network/NHKR1>;
+	<http://www.wikidata.org/prop/direct/P2317> "JOLK";
+	<https://w3id.org/tvstationjp/tvst/callName> "NHKふくおかだいいちほうそう";
+	<https://w3id.org/tvstationjp/tvst/platform> <https://w3id.org/tvstationjp/platform/AM>;
+	<https://w3id.org/tvstationjp/tvst/parentStation> "福岡";
+	<https://w3id.org/tvstationjp/tvst/parentDTVCh> "612kHz";
+	<https://w3id.org/tvstationjp/tvst/beginningDate> "1930-12-06";
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/NHKラジオ第1放送>,
+		<https://www.wikidata.org/entity/Q843641>,
+		<http://ja.dbpedia.org/resource/NHKラジオ第1放送>.

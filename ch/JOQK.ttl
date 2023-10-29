@@ -1,0 +1,13 @@
+<https://w3id.org/tvstationjp/ch/JOQK> <http://www.w3.org/2000/01/rdf-schema#label> "NHKラジオ第1・新潟"@ja,
+		"NHK Radio1"@en;
+	<https://schema.org/areaServed> <https://w3id.org/tvstationjp/area/新潟県>;
+	<https://w3id.org/tvstationjp/tvst/networkSystem> <https://w3id.org/tvstationjp/network/NHKR1>;
+	<http://www.wikidata.org/prop/direct/P2317> "JOQK";
+	<https://w3id.org/tvstationjp/tvst/callName> "NHKにいがただいいちほうそう";
+	<https://w3id.org/tvstationjp/tvst/platform> <https://w3id.org/tvstationjp/platform/AM>;
+	<https://w3id.org/tvstationjp/tvst/parentStation> "新潟";
+	<https://w3id.org/tvstationjp/tvst/parentDTVCh> "837kHz";
+	<https://w3id.org/tvstationjp/tvst/beginningDate> "1931-11-11";
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/NHKラジオ第1放送>,
+		<https://www.wikidata.org/entity/Q843641>,
+		<http://ja.dbpedia.org/resource/NHKラジオ第1放送>.

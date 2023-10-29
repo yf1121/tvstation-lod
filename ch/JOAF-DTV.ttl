@@ -1,0 +1,25 @@
+<https://w3id.org/tvstationjp/ch/JOAF-DTV> <http://www.w3.org/2000/01/rdf-schema#label> "南海放送"@ja,
+		"なんかいほうそう"@ja-Kana,
+		"Nankai Broadcasting Company, Ltd."@en;
+	<https://schema.org/name> "RNB";
+	<https://schema.org/areaServed> <https://w3id.org/tvstationjp/area/愛媛県>;
+	<https://w3id.org/tvstationjp/tvst/newsNetwork> <https://w3id.org/tvstationjp/network/NNN>;
+	<https://w3id.org/tvstationjp/tvst/networkSystem> <https://w3id.org/tvstationjp/network/NNS>,
+		<https://w3id.org/tvstationjp/network/民教協>;
+	<https://schema.org/alternateName> "南海放送"@ja;
+	<http://www.wikidata.org/prop/direct/P2317> "JOAF-DTV";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Rnb_logo.svg?width=300>;
+	<https://w3id.org/tvstationjp/tvst/platform> <https://w3id.org/tvstationjp/platform/ISDBt>;
+	<https://w3id.org/tvstationjp/tvst/chPosition> "4";
+	<https://w3id.org/tvstationjp/tvst/parentStation> "松山";
+	<https://w3id.org/tvstationjp/tvst/parentDTVCh> "20ch";
+	<https://w3id.org/tvstationjp/tvst/parentATVCh> "10ch";
+	<https://w3id.org/tvstationjp/tvst/logicalCh> "041";
+	<https://schema.org/url> <https://www.rnb.co.jp/>;
+	<https://schema.org/address> "790-8510";
+	<http://www.wikidata.org/prop/direct/P159> "愛媛県松山市本町1丁目1番1号";
+	<https://schema.org/latitude> "北緯33.84088度";
+	<https://schema.org/longitude> "東経132.75842度";
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/南海放送>,
+		<https://www.wikidata.org/entity/Q843695>,
+		<http://ja.dbpedia.org/resource/南海放送>.

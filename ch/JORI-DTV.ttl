@@ -1,0 +1,24 @@
+<https://w3id.org/tvstationjp/ch/JORI-DTV> <http://www.w3.org/2000/01/rdf-schema#label> "テレビ高知"@ja,
+		"てれびこうち"@ja-Kana,
+		"Television Kochi Co., Ltd."@en;
+	<https://schema.org/name> "KUTV";
+	<https://schema.org/areaServed> <https://w3id.org/tvstationjp/area/高知県>;
+	<https://w3id.org/tvstationjp/tvst/newsNetwork> <https://w3id.org/tvstationjp/network/JNN>;
+	<https://w3id.org/tvstationjp/tvst/networkSystem> <https://w3id.org/tvstationjp/network/TBSネットワーク>;
+	<http://www.wikidata.org/prop/direct/P2317> "JORI-DTV";
+	<https://w3id.org/tvstationjp/tvst/callName> "テレビこうちデジタルテレビジョン";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Kutv_logo.svg?width=300>;
+	<https://w3id.org/tvstationjp/tvst/platform> <https://w3id.org/tvstationjp/platform/ISDBt>;
+	<https://w3id.org/tvstationjp/tvst/chPosition> "6";
+	<https://w3id.org/tvstationjp/tvst/parentStation> "高知";
+	<https://w3id.org/tvstationjp/tvst/parentDTVCh> "19ch";
+	<https://w3id.org/tvstationjp/tvst/parentATVCh> "38ch";
+	<https://w3id.org/tvstationjp/tvst/logicalCh> "061";
+	<https://schema.org/url> <https://www.kutv.co.jp/>;
+	<https://schema.org/address> "780-8577";
+	<http://www.wikidata.org/prop/direct/P159> "高知県高知市北本町三丁目4番27号";
+	<https://schema.org/latitude> "北緯33.565528度";
+	<https://schema.org/longitude> "東経133.550250度";
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/テレビ高知>,
+		<https://www.wikidata.org/entity/Q8015048>,
+		<http://ja.dbpedia.org/resource/テレビ高知>.

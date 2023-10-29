@@ -1,0 +1,17 @@
+<https://w3id.org/tvstationjp/org/SATV> <http://www.w3.org/2000/01/rdf-schema#label> "株式会社静岡朝日テレビ"@ja,
+		"しずおかあさひてれび"@ja-Kana,
+		"Shizuoka Asahi Television.Co.,Ltd."@en;
+	<https://schema.org/name> "SATV";
+	<https://schema.org/formerName> "静岡県民放送株式会社"@ja;
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Satv_logo_2021.jpg?width=300>;
+	<https://schema.org/foundingDate> "1976-11-19";
+	<http://www.wikidata.org/prop/direct/P3225> "4080001002629";
+	<https://schema.org/url> <https://www.satv.co.jp/>;
+	<https://schema.org/address> "420-8567";
+	<http://www.wikidata.org/prop/direct/P159> "静岡県静岡市葵区東町15番地";
+	<https://schema.org/latitude> "北緯34.97684度";
+	<https://schema.org/longitude> "東経138.39705度";
+	<https://schema.org/brand> <https://w3id.org/tvstationjp/ch/JOSI-DTV>;
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/静岡朝日テレビ>,
+		<https://www.wikidata.org/entity/Q8015078>,
+		<http://ja.dbpedia.org/resource/静岡朝日テレビ>.

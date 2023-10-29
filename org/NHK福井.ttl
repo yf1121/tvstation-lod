@@ -1,0 +1,19 @@
+<https://w3id.org/tvstationjp/org/NHK福井> <http://www.w3.org/2000/01/rdf-schema#label> "NHK福井放送局"@ja,
+		"エヌエイチケイふくいほうそうきょく"@ja-Kana;
+	<https://schema.org/name> "NHK福井";
+	<https://schema.org/logo> <https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/100px-NHK_logo_2020.svg.png>;
+	<http://www.wikidata.org/prop/direct/P3225> "8011005000968";
+	<https://schema.org/url> <https://www.nhk.or.jp/fukui/>;
+	<https://w3id.org/tvstationjp/tvst/networkBlock> "東海・北陸";
+	<https://schema.org/address> "910-8680";
+	<http://www.wikidata.org/prop/direct/P159> "福井県福井市宝永3丁目3-5";
+	<https://schema.org/latitude> "北緯36.06722度";
+	<https://schema.org/longitude> "東経136.22361度";
+	<https://schema.org/brand> <https://w3id.org/tvstationjp/ch/JOFG-DTV>,
+		<https://w3id.org/tvstationjp/ch/JOFC-DTV>,
+		<https://w3id.org/tvstationjp/ch/JOFG>,
+		<https://w3id.org/tvstationjp/ch/JOFC>,
+		<https://w3id.org/tvstationjp/ch/JOFG-FM>;
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/NHK福井放送局>,
+		<https://www.wikidata.org/entity/Q10854749>,
+		<http://ja.dbpedia.org/resource/NHK福井放送局>.

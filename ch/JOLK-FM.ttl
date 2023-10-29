@@ -1,0 +1,11 @@
+<https://w3id.org/tvstationjp/ch/JOLK-FM> <http://www.w3.org/2000/01/rdf-schema#label> "NHKFM・福岡"@ja,
+		"NHK FM"@en;
+	<https://schema.org/areaServed> <https://w3id.org/tvstationjp/area/福岡>;
+	<https://w3id.org/tvstationjp/tvst/networkSystem> <https://w3id.org/tvstationjp/network/NHKFM>;
+	<http://www.wikidata.org/prop/direct/P2317> "JOLK-FM";
+	<https://w3id.org/tvstationjp/tvst/callName> "NHKふくおかエフエムほうそう";
+	<https://w3id.org/tvstationjp/tvst/platform> <https://w3id.org/tvstationjp/platform/FM>;
+	<https://w3id.org/tvstationjp/tvst/parentDTVCh> "84.8MHz";
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/NHK-FM放送>,
+		<https://www.wikidata.org/entity/Q843833>,
+		<http://ja.dbpedia.org/resource/NHK-FM放送>.

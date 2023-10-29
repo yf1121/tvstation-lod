@@ -1,0 +1,27 @@
+<https://w3id.org/tvstationjp/ch/JOVH-DTV> <http://www.w3.org/2000/01/rdf-schema#label> "瀬戸内海放送"@ja,
+		"せとないかいほうそう"@ja-Kana,
+		"SetonaikaiBroadcasting Corporation"@en;
+	<https://schema.org/name> "KSB";
+	<https://schema.org/areaServed> <https://w3id.org/tvstationjp/area/岡山香川>;
+	<https://w3id.org/tvstationjp/tvst/newsNetwork> <https://w3id.org/tvstationjp/network/ANN>;
+	<https://w3id.org/tvstationjp/tvst/networkSystem> <https://w3id.org/tvstationjp/network/テレビ朝日ネットワーク>;
+	<https://schema.org/alternateName> "KSB瀬戸内海放送"@ja,
+		"KSBテレビ"@ja,
+		"瀬戸内海テレビ"@ja;
+	<http://www.wikidata.org/prop/direct/P2317> "JOVH-DTV";
+	<https://w3id.org/tvstationjp/tvst/callName> "KSBたかまつデジタルテレビジョン";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/KSB_logo_2020.svg?width=300>;
+	<https://w3id.org/tvstationjp/tvst/platform> <https://w3id.org/tvstationjp/platform/ISDBt>;
+	<https://w3id.org/tvstationjp/tvst/chPosition> "5";
+	<https://w3id.org/tvstationjp/tvst/parentStation> "岡山";
+	<https://w3id.org/tvstationjp/tvst/parentDTVCh> "30ch";
+	<https://w3id.org/tvstationjp/tvst/parentATVCh> "25ch";
+	<https://w3id.org/tvstationjp/tvst/logicalCh> "051";
+	<https://schema.org/url> <https://www.ksb.co.jp/>;
+	<https://schema.org/address> "761-8581";
+	<http://www.wikidata.org/prop/direct/P159> "香川県高松市上之町二丁目1番43号";
+	<https://schema.org/latitude> "北緯34.321611度";
+	<https://schema.org/longitude> "東経134.046889度";
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/瀬戸内海放送>,
+		<https://www.wikidata.org/entity/Q843734>,
+		<http://ja.dbpedia.org/resource/瀬戸内海放送>.

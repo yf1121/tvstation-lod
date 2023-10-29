@@ -4,6 +4,8 @@
 
 このデータはほかのデータと組み合わせられる可能性を高めるために、構築しているデータの全容はTurtleファイルとして公開し、機械から読み取りやすい形式となっています。別にFusekiのツールに取り込むことで、どなたでもSPARQLでクエリを実行できます。現在は地上波のみですが、衛星放送や民間放送のラジオについても拡張していくことを想定し、スキーマ設計を行っています。また、利用しやすいようにSchema.orgの共通語彙をなるべく使うように心がけています。
 
+- [https://w3id.org/tvstationjp/](https://w3id.org/tvstationjp/)
+
 ### 利用しているオープンデータ
 
 - Wikipedia : 名称、開局年月日、呼出名称等
@@ -14,6 +16,6 @@
 
 - SchemaInfo.xlsxを参照してください。
 
-### クレジット
+### ライセンス
 
 This work © 2023 by yufiny is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ja)

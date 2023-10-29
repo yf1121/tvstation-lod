@@ -1,0 +1,16 @@
+<https://w3id.org/tvstationjp/org/NBS> <http://www.w3.org/2000/01/rdf-schema#label> "株式会社長野放送"@ja,
+		"ながのほうそう"@ja-Kana,
+		"Nagano Broadcasting Systems Inc."@en;
+	<https://schema.org/name> "NBS";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Nbs_logo.svg?width=300>;
+	<https://schema.org/foundingDate> "1968-03-22";
+	<http://www.wikidata.org/prop/direct/P3225> "1100001002488";
+	<https://schema.org/url> <https://www.nbs-tv.co.jp/>;
+	<https://schema.org/address> "380-8633";
+	<http://www.wikidata.org/prop/direct/P159> "長野県長野市中御所岡田町131-7";
+	<https://schema.org/latitude> "北緯36.64332度";
+	<https://schema.org/longitude> "東経138.18149度";
+	<https://schema.org/brand> <https://w3id.org/tvstationjp/ch/JOLH-DTV>;
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/長野放送>,
+		<https://www.wikidata.org/entity/Q843307>,
+		<http://ja.dbpedia.org/resource/長野放送>.

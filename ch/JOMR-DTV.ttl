@@ -1,0 +1,26 @@
+<https://w3id.org/tvstationjp/ch/JOMR-DTV> <http://www.w3.org/2000/01/rdf-schema#label> "北陸放送"@ja,
+		"ほくりくほうそう"@ja-Kana,
+		"Hokuriku Broadcasting Co.,Ltd."@en;
+	<https://schema.org/name> "MRO";
+	<https://schema.org/areaServed> <https://w3id.org/tvstationjp/area/石川県>;
+	<https://w3id.org/tvstationjp/tvst/newsNetwork> <https://w3id.org/tvstationjp/network/JNN>;
+	<https://w3id.org/tvstationjp/tvst/networkSystem> <https://w3id.org/tvstationjp/network/TBSネットワーク>,
+		<https://w3id.org/tvstationjp/network/民教協>;
+	<https://schema.org/alternateName> "MROテレビ"@ja;
+	<http://www.wikidata.org/prop/direct/P2317> "JOMR-DTV";
+	<https://w3id.org/tvstationjp/tvst/callName> "ほくりくほうそうデジタルテレビジョン";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Hokuriku_Broadcasting_Company_Kanazawa_HQ_20201115-001.jpg?width=300>;
+	<https://w3id.org/tvstationjp/tvst/platform> <https://w3id.org/tvstationjp/platform/ISDBt>;
+	<https://w3id.org/tvstationjp/tvst/chPosition> "6";
+	<https://w3id.org/tvstationjp/tvst/parentStation> "金沢";
+	<https://w3id.org/tvstationjp/tvst/parentDTVCh> "14ch";
+	<https://w3id.org/tvstationjp/tvst/parentATVCh> "6ch";
+	<https://w3id.org/tvstationjp/tvst/logicalCh> "061";
+	<https://schema.org/url> <https://www.mro.co.jp/>;
+	<https://schema.org/address> "920-8560";
+	<http://www.wikidata.org/prop/direct/P159> "石川県金沢市本多町3丁目2番1号";
+	<https://schema.org/latitude> "北緯36.558194度";
+	<https://schema.org/longitude> "東経136.659694度";
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/北陸放送>,
+		<https://www.wikidata.org/entity/Q843469>,
+		<http://ja.dbpedia.org/resource/北陸放送>.

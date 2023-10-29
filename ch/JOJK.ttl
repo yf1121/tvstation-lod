@@ -1,0 +1,13 @@
+<https://w3id.org/tvstationjp/ch/JOJK> <http://www.w3.org/2000/01/rdf-schema#label> "NHKラジオ第1・金沢"@ja,
+		"NHK Radio1"@en;
+	<https://schema.org/areaServed> <https://w3id.org/tvstationjp/area/石川県>;
+	<https://w3id.org/tvstationjp/tvst/networkSystem> <https://w3id.org/tvstationjp/network/NHKR1>;
+	<http://www.wikidata.org/prop/direct/P2317> "JOJK";
+	<https://w3id.org/tvstationjp/tvst/callName> "NHKかなざわだいいちほうそう";
+	<https://w3id.org/tvstationjp/tvst/platform> <https://w3id.org/tvstationjp/platform/AM>;
+	<https://w3id.org/tvstationjp/tvst/parentStation> "金沢";
+	<https://w3id.org/tvstationjp/tvst/parentDTVCh> "1224kHz";
+	<https://w3id.org/tvstationjp/tvst/beginningDate> "1930-04-15";
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/NHKラジオ第1放送>,
+		<https://www.wikidata.org/entity/Q843641>,
+		<http://ja.dbpedia.org/resource/NHKラジオ第1放送>.

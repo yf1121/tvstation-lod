@@ -1,0 +1,25 @@
+<https://w3id.org/tvstationjp/ch/JOSR-DTV> <http://www.w3.org/2000/01/rdf-schema#label> "信越放送"@ja,
+		"しんえつほうそう"@ja-Kana,
+		"Shin-etsuBroadcasting Co.,Ltd."@en;
+	<https://schema.org/name> "SBC";
+	<https://schema.org/areaServed> <https://w3id.org/tvstationjp/area/長野県>;
+	<https://w3id.org/tvstationjp/tvst/newsNetwork> <https://w3id.org/tvstationjp/network/JNN>;
+	<https://w3id.org/tvstationjp/tvst/networkSystem> <https://w3id.org/tvstationjp/network/TBSネットワーク>,
+		<https://w3id.org/tvstationjp/network/民教協>;
+	<https://schema.org/alternateName> "SBCラジオ"@ja;
+	<http://www.wikidata.org/prop/direct/P2317> "JOSR-DTV";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Sbc_logo.svg?width=300>;
+	<https://w3id.org/tvstationjp/tvst/platform> <https://w3id.org/tvstationjp/platform/ISDBt>;
+	<https://w3id.org/tvstationjp/tvst/chPosition> "6";
+	<https://w3id.org/tvstationjp/tvst/parentStation> "長野（美ヶ原）";
+	<https://w3id.org/tvstationjp/tvst/parentDTVCh> "16ch";
+	<https://w3id.org/tvstationjp/tvst/parentATVCh> "11ch";
+	<https://w3id.org/tvstationjp/tvst/logicalCh> "061";
+	<https://schema.org/url> <https://sbc21.co.jp/>;
+	<https://schema.org/address> "380-8521";
+	<http://www.wikidata.org/prop/direct/P159> "長野県長野市鶴賀問御所町1200-3";
+	<https://schema.org/latitude> "北緯36.65044度";
+	<https://schema.org/longitude> "東経138.18816度";
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/信越放送>,
+		<https://www.wikidata.org/entity/Q843663>,
+		<http://ja.dbpedia.org/resource/信越放送>.

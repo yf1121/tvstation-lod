@@ -1,0 +1,27 @@
+<https://w3id.org/tvstationjp/ch/JOMI-DTV> <http://www.w3.org/2000/01/rdf-schema#label> "山陰中央テレビジョン放送"@ja,
+		"さんいんちゅうおうてれびじょんほうそう"@ja-Kana,
+		"San-in Chuo Television Broadcasting Co., Ltd."@en;
+	<https://schema.org/name> "TSK";
+	<https://schema.org/areaServed> <https://w3id.org/tvstationjp/area/鳥取島根>;
+	<https://w3id.org/tvstationjp/tvst/newsNetwork> <https://w3id.org/tvstationjp/network/FNN>;
+	<https://w3id.org/tvstationjp/tvst/networkSystem> <https://w3id.org/tvstationjp/network/FNS>;
+	<https://schema.org/alternateName> "TSK"@ja,
+		"さんいん中央テレビ"@ja,
+		"山陰中央"@ja;
+	<http://www.wikidata.org/prop/direct/P2317> "JOMI-DTV";
+	<https://w3id.org/tvstationjp/tvst/callName> "TSKまつえデジタルテレビジョン";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/TSK_4th.svg?width=300>;
+	<https://w3id.org/tvstationjp/tvst/platform> <https://w3id.org/tvstationjp/platform/ISDBt>;
+	<https://w3id.org/tvstationjp/tvst/chPosition> "8";
+	<https://w3id.org/tvstationjp/tvst/parentStation> "松江";
+	<https://w3id.org/tvstationjp/tvst/parentDTVCh> "43ch";
+	<https://w3id.org/tvstationjp/tvst/parentATVCh> "34ch";
+	<https://w3id.org/tvstationjp/tvst/logicalCh> "081";
+	<https://schema.org/url> <https://tsk-tv.com/>;
+	<https://schema.org/address> "690-8666";
+	<http://www.wikidata.org/prop/direct/P159> "島根県松江市向島町140-1";
+	<https://schema.org/latitude> "北緯35.46872度";
+	<https://schema.org/longitude> "東経133.0641度";
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/山陰中央テレビジョン放送>,
+		<https://www.wikidata.org/entity/Q843760>,
+		<http://ja.dbpedia.org/resource/山陰中央テレビジョン放送>.

@@ -1,0 +1,16 @@
+<https://w3id.org/tvstationjp/org/TVA> <http://www.w3.org/2000/01/rdf-schema#label> "テレビ愛知株式会社"@ja,
+		"てれびあいち"@ja-Kana,
+		"Aichi Television Broadcasting Co., Ltd."@en;
+	<https://schema.org/name> "TVA";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/TV_Aichi_text_logo_20150824.svg?width=300>;
+	<https://schema.org/foundingDate> "1982-12-01";
+	<http://www.wikidata.org/prop/direct/P3225> "9180001038468";
+	<https://schema.org/url> <https://tv-aichi.co.jp/>;
+	<https://schema.org/address> "460-8325";
+	<http://www.wikidata.org/prop/direct/P159> "愛知県名古屋市中区大須2丁目4番8号";
+	<https://schema.org/latitude> "北緯35.1617389度";
+	<https://schema.org/longitude> "東経136.9012278度";
+	<https://schema.org/brand> <https://w3id.org/tvstationjp/ch/JOCI-DTV>;
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/テレビ愛知>,
+		<https://www.wikidata.org/entity/Q1324062>,
+		<http://ja.dbpedia.org/resource/テレビ愛知>.

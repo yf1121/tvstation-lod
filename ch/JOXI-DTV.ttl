@@ -1,0 +1,26 @@
+<https://w3id.org/tvstationjp/ch/JOXI-DTV> <http://www.w3.org/2000/01/rdf-schema#label> "長崎文化放送"@ja,
+		"ながさきぶんかほうそう"@ja-Kana,
+		"Nagasaki Culture Telecasting Corporation"@en;
+	<https://schema.org/name> "NCC";
+	<https://schema.org/areaServed> <https://w3id.org/tvstationjp/area/長崎県>;
+	<https://w3id.org/tvstationjp/tvst/newsNetwork> <https://w3id.org/tvstationjp/network/ANN>;
+	<https://w3id.org/tvstationjp/tvst/networkSystem> <https://w3id.org/tvstationjp/network/テレビ朝日ネットワーク>;
+	<https://schema.org/alternateName> "NCC"@ja,
+		"NCC長崎文化放送"@ja;
+	<http://www.wikidata.org/prop/direct/P2317> "JOXI-DTV";
+	<https://w3id.org/tvstationjp/tvst/callName> "NCCデジタルテレビジョン";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Nagasaki_Culture_Telecasting_Corporation_Logo.svg?width=300>;
+	<https://w3id.org/tvstationjp/tvst/platform> <https://w3id.org/tvstationjp/platform/ISDBt>;
+	<https://w3id.org/tvstationjp/tvst/chPosition> "5";
+	<https://w3id.org/tvstationjp/tvst/parentStation> "長崎";
+	<https://w3id.org/tvstationjp/tvst/parentDTVCh> "19ch";
+	<https://w3id.org/tvstationjp/tvst/parentATVCh> "27ch";
+	<https://w3id.org/tvstationjp/tvst/logicalCh> "051";
+	<https://schema.org/url> <https://www.ncctv.co.jp/>;
+	<https://schema.org/address> "852-8527";
+	<http://www.wikidata.org/prop/direct/P159> "長崎県長崎市茂里町3番2号";
+	<https://schema.org/latitude> "北緯32.76392度";
+	<https://schema.org/longitude> "東経129.8632度";
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/長崎文化放送>,
+		<https://www.wikidata.org/entity/Q3082332>,
+		<http://ja.dbpedia.org/resource/長崎文化放送>.

@@ -1,0 +1,19 @@
+<https://w3id.org/tvstationjp/org/NHK名古屋> <http://www.w3.org/2000/01/rdf-schema#label> "NHK名古屋放送局"@ja,
+		"エヌエイチケイなごやほうそうきょく"@ja-Kana;
+	<https://schema.org/name> "NHK名古屋";
+	<https://schema.org/logo> <https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/100px-NHK_logo_2020.svg.png>;
+	<http://www.wikidata.org/prop/direct/P3225> "8011005000968";
+	<https://schema.org/url> <https://www.nhk.or.jp/nagoya/>;
+	<https://w3id.org/tvstationjp/tvst/networkBlock> "東海・北陸";
+	<https://schema.org/address> "461-8725";
+	<http://www.wikidata.org/prop/direct/P159> "愛知県名古屋市東区東桜1丁目13-3 NHK名古屋放送センタービル";
+	<https://schema.org/latitude> "北緯35.17167度";
+	<https://schema.org/longitude> "東経136.91139度";
+	<https://schema.org/brand> <https://w3id.org/tvstationjp/ch/JOCK-DTV>,
+		<https://w3id.org/tvstationjp/ch/JOCB-DTV>,
+		<https://w3id.org/tvstationjp/ch/JOCK>,
+		<https://w3id.org/tvstationjp/ch/JOCB>,
+		<https://w3id.org/tvstationjp/ch/JOCK-FM>;
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/NHK名古屋放送局>,
+		<https://www.wikidata.org/entity/Q8014955>,
+		<http://ja.dbpedia.org/resource/NHK名古屋放送局>.

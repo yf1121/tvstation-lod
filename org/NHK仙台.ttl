@@ -1,0 +1,19 @@
+<https://w3id.org/tvstationjp/org/NHK仙台> <http://www.w3.org/2000/01/rdf-schema#label> "NHK仙台放送局"@ja,
+		"エヌエイチケイせんだいほうそうきょく"@ja-Kana;
+	<https://schema.org/name> "NHK仙台";
+	<https://schema.org/logo> <https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/100px-NHK_logo_2020.svg.png>;
+	<http://www.wikidata.org/prop/direct/P3225> "8011005000968";
+	<https://schema.org/url> <https://www.nhk.or.jp/sendai/>;
+	<https://w3id.org/tvstationjp/tvst/networkBlock> "東北";
+	<https://schema.org/address> "980-8435";
+	<http://www.wikidata.org/prop/direct/P159> "宮城県仙台市青葉区本町2丁目20-1";
+	<https://schema.org/latitude> "北緯38.266083度";
+	<https://schema.org/longitude> "東経140.874250度";
+	<https://schema.org/brand> <https://w3id.org/tvstationjp/ch/JOHK-DTV>,
+		<https://w3id.org/tvstationjp/ch/JOHB-DTV>,
+		<https://w3id.org/tvstationjp/ch/JOHK>,
+		<https://w3id.org/tvstationjp/ch/JOHB>,
+		<https://w3id.org/tvstationjp/ch/JOHK-FM>;
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/NHK仙台放送局>,
+		<https://www.wikidata.org/entity/Q2272909>,
+		<http://ja.dbpedia.org/resource/NHK仙台放送局>.

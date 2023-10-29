@@ -1,0 +1,16 @@
+<https://w3id.org/tvstationjp/org/FTB> <http://www.w3.org/2000/01/rdf-schema#label> "福井テレビジョン放送株式会社"@ja,
+		"ふくいてれびじょんほうそう"@ja-Kana,
+		"Fukui Television Broadcasting Co., Ltd."@en;
+	<https://schema.org/name> "FTB";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Ftb_logo.svg?width=300>;
+	<https://schema.org/foundingDate> "1969-01-29";
+	<http://www.wikidata.org/prop/direct/P3225> "2210001003689";
+	<https://schema.org/url> <https://www.fukui-tv.co.jp/>;
+	<https://schema.org/address> "918-8688";
+	<http://www.wikidata.org/prop/direct/P159> "福井県福井市問屋町三丁目410番地";
+	<https://schema.org/latitude> "北緯36.053度";
+	<https://schema.org/longitude> "東経136.25352度";
+	<https://schema.org/brand> <https://w3id.org/tvstationjp/ch/JOFI-DTV>;
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/福井テレビジョン放送>,
+		<https://www.wikidata.org/entity/Q843351>,
+		<http://ja.dbpedia.org/resource/福井テレビジョン放送>.

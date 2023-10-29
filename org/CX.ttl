@@ -1,0 +1,18 @@
+<https://w3id.org/tvstationjp/org/CX> <http://www.w3.org/2000/01/rdf-schema#label> "株式会社フジテレビジョン"@ja,
+		"フジテレビジョン"@ja-Kana,
+		"Fuji Television Network, Inc."@en;
+	<https://schema.org/name> "CX";
+	<https://schema.org/alternateName> "フジ"@ja;
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Fuji_Television_Logo.svg?width=300>;
+	<https://schema.org/foundingDate> "2008-10-01";
+	<http://www.wikidata.org/prop/direct/P3225> "5010401078381";
+	<https://schema.org/url> <https://www.fujitv.co.jp/index.html>;
+	<https://schema.org/address> "137-8088";
+	<http://www.wikidata.org/prop/direct/P159> "東京都港区台場二丁目4番8号";
+	<https://schema.org/latitude> "北緯35.62693度";
+	<https://schema.org/longitude> "東経139.77417度";
+	<https://schema.org/brand> <https://w3id.org/tvstationjp/ch/JOCX-DTV>;
+	<https://schema.org/ownershipFundingInfo> <https://w3id.org/tvstationjp/org/FMH>;
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/フジテレビジョン>,
+		<https://www.wikidata.org/entity/Q744800>,
+		<http://ja.dbpedia.org/resource/フジテレビジョン>.

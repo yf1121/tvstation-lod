@@ -1,0 +1,16 @@
+<https://w3id.org/tvstationjp/org/GTV> <http://www.w3.org/2000/01/rdf-schema#label> "群馬テレビ株式会社"@ja,
+		"ぐんまてれび"@ja-Kana,
+		"Gunma Television Co., Ltd."@en;
+	<https://schema.org/name> "GTV";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Gtv_logo_ja_01.svg?width=300>;
+	<https://schema.org/foundingDate> "1970-02-16";
+	<http://www.wikidata.org/prop/direct/P3225> "6070001000978";
+	<https://schema.org/url> <https://www.gtv.co.jp/>;
+	<https://schema.org/address> "371-8548";
+	<http://www.wikidata.org/prop/direct/P159> "群馬県前橋市上小出町3丁目38-2";
+	<https://schema.org/latitude> "北緯36.419972度";
+	<https://schema.org/longitude> "東経139.059278度";
+	<https://schema.org/brand> <https://w3id.org/tvstationjp/ch/JOML-DTV>;
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/群馬テレビ>,
+		<https://www.wikidata.org/entity/Q8013874>,
+		<http://ja.dbpedia.org/resource/群馬テレビ>.

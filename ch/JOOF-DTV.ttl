@@ -1,0 +1,29 @@
+<https://w3id.org/tvstationjp/ch/JOOF-DTV> <http://www.w3.org/2000/01/rdf-schema#label> "沖縄テレビ放送"@ja,
+		"おきなわてれびほうそう"@ja-Kana,
+		"Okinawa TelevisionBroadcasting Co., Ltd."@en;
+	<https://schema.org/name> "OTV";
+	<https://schema.org/areaServed> <https://w3id.org/tvstationjp/area/沖縄県>;
+	<https://w3id.org/tvstationjp/tvst/newsNetwork> <https://w3id.org/tvstationjp/network/FNN>;
+	<https://w3id.org/tvstationjp/tvst/networkSystem> <https://w3id.org/tvstationjp/network/FNS>,
+		<https://w3id.org/tvstationjp/network/民教協>;
+	<https://schema.org/alternateName> "OTV"@ja,
+		"沖テレ"@ja,
+		"沖縄テレビ"@ja,
+		"OTV沖縄テレビ"@ja;
+	<http://www.wikidata.org/prop/direct/P2317> "JOOF-DTV";
+	<https://w3id.org/tvstationjp/tvst/callName> "おきなわテレビデジタルテレビジョン";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Otv_logo.svg?width=300>;
+	<https://w3id.org/tvstationjp/tvst/platform> <https://w3id.org/tvstationjp/platform/ISDBt>;
+	<https://w3id.org/tvstationjp/tvst/chPosition> "8";
+	<https://w3id.org/tvstationjp/tvst/parentStation> "那覇";
+	<https://w3id.org/tvstationjp/tvst/parentDTVCh> "15ch";
+	<https://w3id.org/tvstationjp/tvst/parentATVCh> "8ch";
+	<https://w3id.org/tvstationjp/tvst/logicalCh> "081";
+	<https://schema.org/url> <https://www.otv.co.jp/>;
+	<https://schema.org/address> "900-8588";
+	<http://www.wikidata.org/prop/direct/P159> "沖縄県那覇市久茂地1丁目2番地20号";
+	<https://schema.org/latitude> "北緯26.21388度";
+	<https://schema.org/longitude> "東経127.67803度";
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/沖縄テレビ放送>,
+		<https://www.wikidata.org/entity/Q843578>,
+		<http://ja.dbpedia.org/resource/沖縄テレビ放送>.

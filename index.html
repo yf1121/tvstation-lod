@@ -1,0 +1,48 @@
+<html>
+  <head>
+    <!-- <link rel='stylesheet' href='./detailInfo.css' /> -->
+    <!-- <script src="./detail.js"></script> -->
+    <link rel='stylesheet' href='./templates/detail_header.css' />
+    <script>
+      //共通パーツ読み込み
+      fetch('./templates/detail_header.html').then(response => response.text()).then(data => {
+        document.getElementById('header').innerHTML = data;
+      }).catch(e=> {console.log(e)})
+    </script>
+    <title>テレビ局LOD</title>
+  </head>
+  <body>
+    <header id="header"></header>
+    <div style="margin: 64px;">
+      <h2 id="about">テレビ局LOD ver. 1.1</h2>
+      <p>テレビ局LODは、地上波テレビ局及びNHK地上波放送を対象として基礎データを一つのオープンデータとして構築する試みです。WikipediaやWikidataのデータを活用し、欠損データは適宜手作業で各放送局のサイト等を調べて構築しています。放送番組の識別子を研究として扱っており、その過程の中でテレビ局LODを考案しました。このデータによって、テレビ局を用いたアプリケーション開発に役立つことが期待されます。
+        <br/>
+        このデータはほかのデータと組み合わせられる可能性を高めるために、構築しているデータの全容はTurtleファイルとして公開し、機械から読み取りやすい形式となっています。別にFusekiのツールに取り込むことで、どなたでもSPARQLでクエリを実行できます。現在は地上波のみですが、衛星放送や民間放送のラジオについても拡張していくことを想定し、スキーマ設計を行っています。また、利用しやすいようにSchema.orgの共通語彙をなるべく使うように心がけています。
+      </p>
+      <h3>オープンデータ提供元</h3>
+      <ul>
+        <li><a href="https://ja.wikipedia.org/">Wikipedia 日本語版</a></li>
+        <li><a href="https://www.wikidata.org/">Wikidata</a></li>
+        <li><a href="https://ja.dbpedia.org/">DBpedia 日本語版</a></li>
+      </ul>
+      <h3>ライセンス</h3>
+      <p xmlns:cc="http://creativecommons.org/ns#" >本サイトで提供するデータは、データ提供元のライセンスに従い、<a href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a> の下で利用することができます。</p>
+      <h3>バージョン履歴</h3>
+      <ul>
+        <li>2023.10.29<span style="margin: 0 16px;"></span>ver. 1.1 （HTMLページでのデータ提供に対応）</li>
+        <li>2023.10.15<span style="margin: 0 16px;"></span>ver. 1.0</li>
+      </ul>
+      <h2 id="schema">スキーマ設計</h2>
+      <p>スキーマ構造についてはこちらのファイルをご覧ください。</p>
+      <ul><li><a href="SchemaInfo.xlsx">SchemaInfo.xlsx</a></li></ul>
+      <h2 id="entities">エンティティ一覧</h2>
+      <ul>
+        <li>area: 放送対象地域</li>
+        <li>ch: 放送チャンネル</li>
+        <li>org: 事業者</li>
+        <li>network: 放送系列（ネットワーク）</li>
+        <li>platform: 放送プラットフォーム</li>
+      </ul>
+    </div>
+  </body>
+</html>

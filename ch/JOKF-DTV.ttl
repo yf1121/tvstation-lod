@@ -1,0 +1,30 @@
+<https://w3id.org/tvstationjp/ch/JOKF-DTV> <http://www.w3.org/2000/01/rdf-schema#label> "西日本放送テレビ"@ja,
+		"にしにっぽんほうそうてれび"@ja-Kana,
+		"Nishinippon Broadcasting Company, Limited"@en;
+	<https://schema.org/name> "RNC";
+	<https://schema.org/areaServed> <https://w3id.org/tvstationjp/area/岡山香川>;
+	<https://w3id.org/tvstationjp/tvst/newsNetwork> <https://w3id.org/tvstationjp/network/NNN>;
+	<https://w3id.org/tvstationjp/tvst/networkSystem> <https://w3id.org/tvstationjp/network/NNS>,
+		<https://w3id.org/tvstationjp/network/民教協>;
+	<https://schema.org/alternateName> "西日本放送"@ja,
+		"西日本テレビ"@ja,
+		"RNC西日本放送"@ja,
+		"RNCテレビ"@ja,
+		"RNC西日本テレビ"@ja;
+	<http://www.wikidata.org/prop/direct/P2317> "JOKF-DTV";
+	<https://w3id.org/tvstationjp/tvst/callName> "RNCたかまつデジタルテレビジョン";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Nishinippon_Broadcasting_Company_Headquarters.jpg?width=300>;
+	<https://w3id.org/tvstationjp/tvst/platform> <https://w3id.org/tvstationjp/platform/ISDBt>;
+	<https://w3id.org/tvstationjp/tvst/chPosition> "4";
+	<https://w3id.org/tvstationjp/tvst/parentStation> "高松";
+	<https://w3id.org/tvstationjp/tvst/parentDTVCh> "20ch";
+	<https://w3id.org/tvstationjp/tvst/parentATVCh> "9ch";
+	<https://w3id.org/tvstationjp/tvst/logicalCh> "041";
+	<https://schema.org/url> <https://www.rnc.co.jp/tv/>;
+	<https://schema.org/address> "760-8575";
+	<http://www.wikidata.org/prop/direct/P159> "香川県高松市丸の内8番15号";
+	<https://schema.org/latitude> "北緯34.34759度";
+	<https://schema.org/longitude> "東経134.05084度";
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/西日本放送テレビ>,
+		<https://www.wikidata.org/entity/Q11628380>,
+		<http://ja.dbpedia.org/resource/西日本放送テレビ>.

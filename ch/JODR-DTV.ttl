@@ -1,0 +1,26 @@
+<https://w3id.org/tvstationjp/ch/JODR-DTV> <http://www.w3.org/2000/01/rdf-schema#label> "新潟放送"@ja,
+		"にいがたほうそう"@ja-Kana,
+		"BROADCASTING SYSTEM OF NIIGATA INCORPORATED"@en;
+	<https://schema.org/name> "BSN";
+	<https://schema.org/areaServed> <https://w3id.org/tvstationjp/area/新潟県>;
+	<https://w3id.org/tvstationjp/tvst/newsNetwork> <https://w3id.org/tvstationjp/network/JNN>;
+	<https://w3id.org/tvstationjp/tvst/networkSystem> <https://w3id.org/tvstationjp/network/TBSネットワーク>,
+		<https://w3id.org/tvstationjp/network/民教協>;
+	<https://schema.org/alternateName> "BSNテレビ"@ja;
+	<http://www.wikidata.org/prop/direct/P2317> "JODR-DTV";
+	<https://w3id.org/tvstationjp/tvst/callName> "にいがたほうそうデジタルテレビジョン";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Bsn_logo.svg?width=300>;
+	<https://w3id.org/tvstationjp/tvst/platform> <https://w3id.org/tvstationjp/platform/ISDBt>;
+	<https://w3id.org/tvstationjp/tvst/chPosition> "6";
+	<https://w3id.org/tvstationjp/tvst/parentStation> "新潟";
+	<https://w3id.org/tvstationjp/tvst/parentDTVCh> "17ch";
+	<https://w3id.org/tvstationjp/tvst/parentATVCh> "5ch";
+	<https://w3id.org/tvstationjp/tvst/logicalCh> "061";
+	<https://schema.org/url> <https://www.ohbsn.com/>;
+	<https://schema.org/address> "951-8655";
+	<http://www.wikidata.org/prop/direct/P159> "新潟県新潟市中央区川岸町三丁目18番地";
+	<https://schema.org/latitude> "北緯37.90915度";
+	<https://schema.org/longitude> "東経139.02795度";
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/新潟放送>,
+		<https://www.wikidata.org/entity/Q843635>,
+		<http://ja.dbpedia.org/resource/新潟放送>.

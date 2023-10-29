@@ -1,0 +1,3 @@
+<https://w3id.org/tvstationjp/area/新潟県> <http://www.w3.org/2000/01/rdf-schema#label> "新潟県"@ja;
+	<https://schema.org/description> "新潟県"@ja;
+	<https://schema.org/containsPlace> <http://data.e-stat.go.jp/lod/sac/C15000>.

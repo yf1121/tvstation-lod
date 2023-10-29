@@ -1,0 +1,9 @@
+<https://w3id.org/tvstationjp/area/関東広域圏> <http://www.w3.org/2000/01/rdf-schema#label> "関東広域圏"@ja;
+	<https://schema.org/description> "関東広域圏"@ja;
+	<https://schema.org/containsPlace> <http://data.e-stat.go.jp/lod/sac/C13000>,
+		<http://data.e-stat.go.jp/lod/sac/C14000>,
+		<http://data.e-stat.go.jp/lod/sac/C11000>,
+		<http://data.e-stat.go.jp/lod/sac/C12000>,
+		<http://data.e-stat.go.jp/lod/sac/C10000>,
+		<http://data.e-stat.go.jp/lod/sac/C09000>,
+		<http://data.e-stat.go.jp/lod/sac/C08000>.

@@ -1,0 +1,24 @@
+<https://w3id.org/tvstationjp/ch/JOEF-DTV> <http://www.w3.org/2000/01/rdf-schema#label> "山形放送"@ja,
+		"やまがたほうそう"@ja-Kana,
+		"Yamagata Broadcasting Co., Ltd."@en;
+	<https://schema.org/name> "YBC";
+	<https://schema.org/areaServed> <https://w3id.org/tvstationjp/area/山形県>;
+	<https://w3id.org/tvstationjp/tvst/newsNetwork> <https://w3id.org/tvstationjp/network/NNN>;
+	<https://w3id.org/tvstationjp/tvst/networkSystem> <https://w3id.org/tvstationjp/network/NNS>,
+		<https://w3id.org/tvstationjp/network/民教協>;
+	<https://schema.org/alternateName> "YBCラジオ"@ja;
+	<http://www.wikidata.org/prop/direct/P2317> "JOEF-DTV";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Ybc_logo.svg?width=300>;
+	<https://w3id.org/tvstationjp/tvst/platform> <https://w3id.org/tvstationjp/platform/ISDBt>;
+	<https://w3id.org/tvstationjp/tvst/chPosition> "4";
+	<https://w3id.org/tvstationjp/tvst/parentStation> "山形";
+	<https://w3id.org/tvstationjp/tvst/parentDTVCh> "16ch";
+	<https://w3id.org/tvstationjp/tvst/logicalCh> "041";
+	<https://schema.org/url> <https://www.ybc.co.jp/>;
+	<https://schema.org/address> "990-8555";
+	<http://www.wikidata.org/prop/direct/P159> "山形県山形市旅篭町2丁目5番12号";
+	<https://schema.org/latitude> "北緯38.25677度";
+	<https://schema.org/longitude> "東経140.33897度";
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/山形放送>,
+		<https://www.wikidata.org/entity/Q843521>,
+		<http://ja.dbpedia.org/resource/山形放送>.

@@ -1,0 +1,12 @@
+<https://w3id.org/tvstationjp/ch/JOQG-FM> <http://www.w3.org/2000/01/rdf-schema#label> "NHKFM・盛岡"@ja,
+		"NHK FM"@en;
+	<https://schema.org/areaServed> <https://w3id.org/tvstationjp/area/岩手県>;
+	<https://w3id.org/tvstationjp/tvst/networkSystem> <https://w3id.org/tvstationjp/network/NHKFM>;
+	<http://www.wikidata.org/prop/direct/P2317> "JOQG-FM";
+	<https://w3id.org/tvstationjp/tvst/callName> "NHKもりおかエフエムほうそう";
+	<https://w3id.org/tvstationjp/tvst/platform> <https://w3id.org/tvstationjp/platform/FM>;
+	<https://w3id.org/tvstationjp/tvst/parentStation> "盛岡";
+	<https://w3id.org/tvstationjp/tvst/parentDTVCh> "83.1MHz";
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/NHK-FM放送>,
+		<https://www.wikidata.org/entity/Q843833>,
+		<http://ja.dbpedia.org/resource/NHK-FM放送>.

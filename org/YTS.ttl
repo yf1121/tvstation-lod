@@ -1,0 +1,16 @@
+<https://w3id.org/tvstationjp/org/YTS> <http://www.w3.org/2000/01/rdf-schema#label> "株式会社山形テレビ"@ja,
+		"やまがたてれび"@ja-Kana,
+		"Yamagata Television System Inc."@en;
+	<https://schema.org/name> "YTS";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Yts_logo.svg?width=300>;
+	<https://schema.org/foundingDate> "1968-12-27";
+	<http://www.wikidata.org/prop/direct/P3225> "6390001002067";
+	<https://schema.org/url> <https://www.yts.co.jp/>;
+	<https://schema.org/address> "990-8511";
+	<http://www.wikidata.org/prop/direct/P159> "山形県山形市城西町5丁目4番1号";
+	<https://schema.org/latitude> "北緯38.25908度";
+	<https://schema.org/longitude> "東経140.31149度";
+	<https://schema.org/brand> <https://w3id.org/tvstationjp/ch/JOYI-DTV>;
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/山形テレビ>,
+		<https://www.wikidata.org/entity/Q285092>,
+		<http://ja.dbpedia.org/resource/山形テレビ>.

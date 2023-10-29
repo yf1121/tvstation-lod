@@ -1,0 +1,7 @@
+<https://w3id.org/tvstationjp/network/JAITS> <http://www.w3.org/2000/01/rdf-schema#label> "全国独立放送協議会"@ja,
+		"Japanese Association of Independent Television Stations"@en,
+		"ぜんこくどくりつほうそうきょくきょうぎかい"@ja-Kana;
+	<https://schema.org/name> "JAITS"@ja,
+		"独立協"@ja;
+	<https://schema.org/url> <https://s.mxtv.jp/policy/link.html>;
+	<https://schema.org/foundingDate> "1977-11-04".

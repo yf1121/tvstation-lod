@@ -1,0 +1,12 @@
+<https://w3id.org/tvstationjp/ch/JOLC> <http://www.w3.org/2000/01/rdf-schema#label> "NHKラジオ第2・鳥取"@ja,
+		"NHK Radio2"@en;
+	<https://schema.org/areaServed> <https://w3id.org/tvstationjp/area/鳥取県>;
+	<https://w3id.org/tvstationjp/tvst/networkSystem> <https://w3id.org/tvstationjp/network/NHKR2>;
+	<http://www.wikidata.org/prop/direct/P2317> "JOLC";
+	<https://w3id.org/tvstationjp/tvst/callName> "NHKとっとりだいにほうそう";
+	<https://w3id.org/tvstationjp/tvst/platform> <https://w3id.org/tvstationjp/platform/AM>;
+	<https://w3id.org/tvstationjp/tvst/parentStation> "鳥取";
+	<https://w3id.org/tvstationjp/tvst/parentDTVCh> "1125kHz";
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/NHKラジオ第2放送>,
+		<https://www.wikidata.org/entity/Q8139754>,
+		<http://ja.dbpedia.org/resource/NHKラジオ第2放送>.

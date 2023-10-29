@@ -1,0 +1,26 @@
+<https://w3id.org/tvstationjp/ch/JORX-DTV> <http://www.w3.org/2000/01/rdf-schema#label> "TBSテレビ"@ja,
+		"てぃーびーえすてれび"@ja-Kana,
+		"Tokyo Broadcasting System Television, Inc."@en;
+	<https://schema.org/name> "TBS";
+	<https://schema.org/areaServed> <https://w3id.org/tvstationjp/area/関東広域圏>;
+	<https://w3id.org/tvstationjp/tvst/newsNetwork> <https://w3id.org/tvstationjp/network/JNN>;
+	<https://w3id.org/tvstationjp/tvst/networkSystem> <https://w3id.org/tvstationjp/network/TBSネットワーク>;
+	<https://schema.org/alternateName> "TBS"@ja;
+	<http://www.wikidata.org/prop/direct/P2317> "JORX-DTV";
+	<https://w3id.org/tvstationjp/tvst/callName> "TBSデジタルテレビジョン";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Tokyo_Broadcasting_System_logo_2020.svg?width=300>;
+	<https://w3id.org/tvstationjp/tvst/platform> <https://w3id.org/tvstationjp/platform/ISDBt>;
+	<https://w3id.org/tvstationjp/tvst/chPosition> "6";
+	<https://w3id.org/tvstationjp/tvst/parentStation> "東京";
+	<https://w3id.org/tvstationjp/tvst/parentDTVCh> "22ch";
+	<https://w3id.org/tvstationjp/tvst/parentATVCh> "6ch";
+	<https://w3id.org/tvstationjp/tvst/logicalCh> "061",
+		"062";
+	<https://schema.org/url> <https://www.tbs.co.jp/>;
+	<https://schema.org/address> "107-8006";
+	<http://www.wikidata.org/prop/direct/P159> "東京都港区赤坂五丁目3番6号";
+	<https://schema.org/latitude> "北緯35.67238度";
+	<https://schema.org/longitude> "東経139.73523度";
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/TBSテレビ>,
+		<https://www.wikidata.org/entity/Q6766400>,
+		<http://ja.dbpedia.org/resource/TBSテレビ>.

@@ -1,0 +1,8 @@
+<https://w3id.org/tvstationjp/network/ANN> <http://www.w3.org/2000/01/rdf-schema#label> "ANN"@ja,
+		"All-Nippon News Network"@en,
+		"エーエヌエヌ"@ja-Kana;
+	<https://schema.org/name> "オールニッポン・ニュースネットワーク"@ja;
+	<https://w3id.org/tvstationjp/tvst/keystation> <https://w3id.org/tvstationjp/station/EX>;
+	<https://schema.org/url> <https://corp.asahi.co.jp/ja/tv/company/network.html>;
+	<https://schema.org/logo> <https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ANN_logo.svg/330px-ANN_logo.svg.png>;
+	<https://schema.org/foundingDate> "1970-01-01".

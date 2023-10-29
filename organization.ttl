@@ -2299,7 +2299,7 @@
     schema:name "NHK札幌";
     schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/100px-NHK_logo_2020.svg.png>;
     wdt:P3225 "8011005000968";
-    schema:url "https://www.nhk.or.jp/hokkaido/";
+    schema:url <https://www.nhk.or.jp/hokkaido/>;
     tvst:networkBlock "北海道";
     schema:address "060-8703";
     wdt:P159 "北海道札幌市中央区北1条西9丁目1-5";
@@ -2318,7 +2318,7 @@
     schema:name "NHK函館";
     schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/100px-NHK_logo_2020.svg.png>;
     wdt:P3225 "8011005000968";
-    schema:url "https://www.nhk.or.jp/hakodate/";
+    schema:url <https://www.nhk.or.jp/hakodate/>;
     tvst:networkBlock "北海道";
     schema:address "040-8680";
     wdt:P159 "北海道函館市千歳町13-1";
@@ -2337,7 +2337,7 @@
     schema:name "NHK旭川";
     schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/100px-NHK_logo_2020.svg.png>;
     wdt:P3225 "8011005000968";
-    schema:url "https://www.nhk.or.jp/asahikawa/";
+    schema:url <https://www.nhk.or.jp/asahikawa/>;
     tvst:networkBlock "北海道";
     schema:address "070-8680";
     wdt:P159 "北海道旭川市6条通6丁目27-5";
@@ -2356,7 +2356,7 @@
     schema:name "NHK帯広";
     schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/100px-NHK_logo_2020.svg.png>;
     wdt:P3225 "8011005000968";
-    schema:url "https://www.nhk.or.jp/obihiro/";
+    schema:url <https://www.nhk.or.jp/obihiro/>;
     tvst:networkBlock "北海道";
     schema:address "080-0015";
     wdt:P159 "北海道帯広市西5条南7丁目2-2";
@@ -2375,7 +2375,7 @@
     schema:name "NHK釧路";
     schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/100px-NHK_logo_2020.svg.png>;
     wdt:P3225 "8011005000968";
-    schema:url "https://www.nhk.or.jp/kushiro/";
+    schema:url <https://www.nhk.or.jp/kushiro/>;
     tvst:networkBlock "北海道";
     schema:parentOrganization <https://w3id.org/tvstationjp/station/NHK帯広>;
     schema:address "085-8660";
@@ -2395,7 +2395,7 @@
     schema:name "NHK北見";
     schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/100px-NHK_logo_2020.svg.png>;
     wdt:P3225 "8011005000968";
-    schema:url "https://www.nhk.or.jp/kitami/";
+    schema:url <https://www.nhk.or.jp/kitami/>;
     tvst:networkBlock "北海道";
     schema:parentOrganization <https://w3id.org/tvstationjp/station/NHK旭川>;
     schema:address "090-0035";
@@ -2415,7 +2415,7 @@
     schema:name "NHK室蘭";
     schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/100px-NHK_logo_2020.svg.png>;
     wdt:P3225 "8011005000968";
-    schema:url "https://www.nhk.or.jp/muroran/";
+    schema:url <https://www.nhk.or.jp/muroran/>;
     tvst:networkBlock "北海道";
     schema:parentOrganization <https://w3id.org/tvstationjp/station/NHK札幌>;
     schema:address "051-0012";
@@ -2435,7 +2435,7 @@
     schema:name "NHK仙台";
     schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/100px-NHK_logo_2020.svg.png>;
     wdt:P3225 "8011005000968";
-    schema:url "https://www.nhk.or.jp/sendai/";
+    schema:url <https://www.nhk.or.jp/sendai/>;
     tvst:networkBlock "東北";
     schema:address "980-8435";
     wdt:P159 "宮城県仙台市青葉区本町2丁目20-1";
@@ -2454,7 +2454,7 @@
     schema:name "NHK秋田";
     schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/100px-NHK_logo_2020.svg.png>;
     wdt:P3225 "8011005000968";
-    schema:url "https://www.nhk.or.jp/akita/";
+    schema:url <https://www.nhk.or.jp/akita/>;
     tvst:networkBlock "東北";
     schema:address "010-8501";
     wdt:P159 "秋田県秋田市東通仲町4-2";
@@ -2473,7 +2473,7 @@
     schema:name "NHK山形";
     schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/100px-NHK_logo_2020.svg.png>;
     wdt:P3225 "8011005000968";
-    schema:url "https://www.nhk.or.jp/yamagata/";
+    schema:url <https://www.nhk.or.jp/yamagata/>;
     tvst:networkBlock "東北";
     schema:address "990-8575";
     wdt:P159 "山形県山形市桜町2-50";
@@ -2492,7 +2492,7 @@
     schema:name "NHK盛岡";
     schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/100px-NHK_logo_2020.svg.png>;
     wdt:P3225 "8011005000968";
-    schema:url "https://www.nhk.or.jp/morioka/";
+    schema:url <https://www.nhk.or.jp/morioka/>;
     tvst:networkBlock "東北";
     schema:address "020-8555";
     wdt:P159 "岩手県盛岡市上田4丁目1-3";
@@ -2511,7 +2511,7 @@
     schema:name "NHK福島";
     schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/100px-NHK_logo_2020.svg.png>;
     wdt:P3225 "8011005000968";
-    schema:url "https://www.nhk.or.jp/fukushima/";
+    schema:url <https://www.nhk.or.jp/fukushima/>;
     tvst:networkBlock "東北";
     schema:address "960-8588";
     wdt:P159 "福島県福島市早稲町1-2";
@@ -2530,7 +2530,7 @@
     schema:name "NHK青森";
     schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/100px-NHK_logo_2020.svg.png>;
     wdt:P3225 "8011005000968";
-    schema:url "https://www.nhk.or.jp/aomori/";
+    schema:url <https://www.nhk.or.jp/aomori/>;
     tvst:networkBlock "東北";
     schema:address "030-8633";
     wdt:P159 "青森県青森市松原2丁目1-1";
@@ -2549,7 +2549,7 @@
     schema:name "NHK長野";
     schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/100px-NHK_logo_2020.svg.png>;
     wdt:P3225 "8011005000968";
-    schema:url "https://www.nhk.or.jp/nagano/";
+    schema:url <https://www.nhk.or.jp/nagano/>;
     tvst:networkBlock "関東甲信越";
     schema:address "380-8502";
     wdt:P159 "長野県長野市稲葉210-2";
@@ -2568,7 +2568,7 @@
     schema:name "NHK新潟";
     schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/100px-NHK_logo_2020.svg.png>;
     wdt:P3225 "8011005000968";
-    schema:url "https://www.nhk.or.jp/niigata/";
+    schema:url <https://www.nhk.or.jp/niigata/>;
     tvst:networkBlock "関東甲信越";
     schema:address "951-8508";
     wdt:P159 "新潟県新潟市中央区川岸町1丁目49";
@@ -2587,7 +2587,7 @@
     schema:name "NHK甲府";
     schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/100px-NHK_logo_2020.svg.png>;
     wdt:P3225 "8011005000968";
-    schema:url "https://www.nhk.or.jp/kofu/";
+    schema:url <https://www.nhk.or.jp/kofu/>;
     tvst:networkBlock "関東甲信越";
     schema:address "400-8552";
     wdt:P159 "山梨県甲府市丸の内1-1-20";
@@ -2606,7 +2606,7 @@
     schema:name "NHK横浜";
     schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/100px-NHK_logo_2020.svg.png>;
     wdt:P3225 "8011005000968";
-    schema:url "https://www.nhk.or.jp/yokohama/";
+    schema:url <https://www.nhk.or.jp/yokohama/>;
     tvst:networkBlock "関東甲信越";
     schema:address "231-8324";
     wdt:P159 "神奈川県横浜市中区山下町281";
@@ -2620,7 +2620,7 @@
     schema:name "NHK前橋";
     schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/100px-NHK_logo_2020.svg.png>;
     wdt:P3225 "8011005000968";
-    schema:url "https://www.nhk.or.jp/maebashi/";
+    schema:url <https://www.nhk.or.jp/maebashi/>;
     tvst:networkBlock "関東甲信越";
     schema:address "371-8555";
     wdt:P159 "群馬県前橋市元総社町189";
@@ -2636,7 +2636,7 @@
     schema:name "NHK水戸";
     schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/100px-NHK_logo_2020.svg.png>;
     wdt:P3225 "8011005000968";
-    schema:url "https://www.nhk.or.jp/mito/";
+    schema:url <https://www.nhk.or.jp/mito/>;
     tvst:networkBlock "関東甲信越";
     schema:address "310-8567";
     wdt:P159 "茨城県水戸市大町3丁目4-4";
@@ -2652,7 +2652,7 @@
     schema:name "NHK千葉";
     schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/100px-NHK_logo_2020.svg.png>;
     wdt:P3225 "8011005000968";
-    schema:url "https://www.nhk.or.jp/chiba/";
+    schema:url <https://www.nhk.or.jp/chiba/>;
     tvst:networkBlock "関東甲信越";
     schema:address "260-8610";
     wdt:P159 "千葉県千葉市中央区千葉港5-1";
@@ -2666,7 +2666,7 @@
     schema:name "NHK宇都宮";
     schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/100px-NHK_logo_2020.svg.png>;
     wdt:P3225 "8011005000968";
-    schema:url "https://www.nhk.or.jp/utsunomiya/";
+    schema:url <https://www.nhk.or.jp/utsunomiya/>;
     tvst:networkBlock "関東甲信越";
     schema:address "320-8502";
     wdt:P159 "栃木県宇都宮市中央3-1-2";
@@ -2680,7 +2680,7 @@
     schema:name "NHKさいたま";
     schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/100px-NHK_logo_2020.svg.png>;
     wdt:P3225 "8011005000968";
-    schema:url "https://www.nhk.or.jp/saitama/";
+    schema:url <https://www.nhk.or.jp/saitama/>;
     tvst:networkBlock "関東甲信越";
     schema:address "330-9310";
     wdt:P159 "埼玉県さいたま市浦和区常盤6-1-21";
@@ -2696,7 +2696,7 @@
     schema:alternateName "エヌエイチケイしゅとけんきょく"@ja-Kana;
     schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/100px-NHK_logo_2020.svg.png>;
     wdt:P3225 "8011005000968";
-    schema:url "https://www.nhk.or.jp/shutoken/";
+    schema:url <https://www.nhk.or.jp/shutoken/>;
     tvst:networkBlock "関東甲信越";
     schema:address "150-8001";
     wdt:P159 "東京都渋谷区神南2丁目2-1";
@@ -2710,7 +2710,7 @@
     schema:name "NHK名古屋";
     schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/100px-NHK_logo_2020.svg.png>;
     wdt:P3225 "8011005000968";
-    schema:url "https://www.nhk.or.jp/nagoya/";
+    schema:url <https://www.nhk.or.jp/nagoya/>;
     tvst:networkBlock "東海・北陸";
     schema:address "461-8725";
     wdt:P159 "愛知県名古屋市東区東桜1丁目13-3 NHK名古屋放送センタービル";
@@ -2729,7 +2729,7 @@
     schema:name "NHK金沢";
     schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/100px-NHK_logo_2020.svg.png>;
     wdt:P3225 "8011005000968";
-    schema:url "https://www.nhk.or.jp/kanazawa/";
+    schema:url <https://www.nhk.or.jp/kanazawa/>;
     tvst:networkBlock "東海・北陸";
     schema:address "920-8644";
     wdt:P159 "石川県金沢市広岡3丁目2-10";
@@ -2748,7 +2748,7 @@
     schema:name "NHK静岡";
     schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/100px-NHK_logo_2020.svg.png>;
     wdt:P3225 "8011005000968";
-    schema:url "https://www.nhk.or.jp/shizuoka/";
+    schema:url <https://www.nhk.or.jp/shizuoka/>;
     tvst:networkBlock "東海・北陸";
     schema:address "422-8076";
     wdt:P159 "静岡県静岡市駿河区八幡1丁目6-1";
@@ -2767,7 +2767,7 @@
     schema:name "NHK福井";
     schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/100px-NHK_logo_2020.svg.png>;
     wdt:P3225 "8011005000968";
-    schema:url "https://www.nhk.or.jp/fukui/";
+    schema:url <https://www.nhk.or.jp/fukui/>;
     tvst:networkBlock "東海・北陸";
     schema:address "910-8680";
     wdt:P159 "福井県福井市宝永3丁目3-5";
@@ -2786,7 +2786,7 @@
     schema:name "NHK富山";
     schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/100px-NHK_logo_2020.svg.png>;
     wdt:P3225 "8011005000968";
-    schema:url "https://www.nhk.or.jp/toyama/";
+    schema:url <https://www.nhk.or.jp/toyama/>;
     tvst:networkBlock "東海・北陸";
     schema:address "930-8502";
     wdt:P159 "富山県富山市新桜町4-8";
@@ -2805,7 +2805,7 @@
     schema:name "NHK津";
     schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/100px-NHK_logo_2020.svg.png>;
     wdt:P3225 "8011005000968";
-    schema:url "https://www.nhk.or.jp/tsu/";
+    schema:url <https://www.nhk.or.jp/tsu/>;
     tvst:networkBlock "東海・北陸";
     schema:address "514-8531";
     wdt:P159 "三重県津市丸之内養正町4-8";
@@ -2821,7 +2821,7 @@
     schema:name "NHK岐阜";
     schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/100px-NHK_logo_2020.svg.png>;
     wdt:P3225 "8011005000968";
-    schema:url "https://www.nhk.or.jp/gifu/";
+    schema:url <https://www.nhk.or.jp/gifu/>;
     tvst:networkBlock "東海・北陸";
     schema:address "500-8554";
     wdt:P159 "岐阜県岐阜市京町2丁目3";
@@ -2837,7 +2837,7 @@
     schema:name "NHK大阪";
     schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/100px-NHK_logo_2020.svg.png>;
     wdt:P3225 "8011005000968";
-    schema:url "https://www.nhk.or.jp/osaka/";
+    schema:url <https://www.nhk.or.jp/osaka/>;
     tvst:networkBlock "近畿";
     schema:address "540-8501";
     wdt:P159 "大阪府大阪市中央区大手前4丁目1-20";
@@ -2856,7 +2856,7 @@
     schema:name "NHK京都";
     schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/100px-NHK_logo_2020.svg.png>;
     wdt:P3225 "8011005000968";
-    schema:url "https://www.nhk.or.jp/kyoto/";
+    schema:url <https://www.nhk.or.jp/kyoto/>;
     tvst:networkBlock "近畿";
     schema:address "604-8515";
     wdt:P159 "京都府京都市中京区虎屋町576";
@@ -2872,7 +2872,7 @@
     schema:name "NHK神戸";
     schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/100px-NHK_logo_2020.svg.png>;
     wdt:P3225 "8011005000968";
-    schema:url "https://www.nhk.or.jp/kobe/";
+    schema:url <https://www.nhk.or.jp/kobe/>;
     tvst:networkBlock "近畿";
     schema:address "650-8515";
     wdt:P159 "兵庫県神戸市中央区中山手通2丁目24-7";
@@ -2888,7 +2888,7 @@
     schema:name "NHK和歌山";
     schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/100px-NHK_logo_2020.svg.png>;
     wdt:P3225 "8011005000968";
-    schema:url "https://www.nhk.or.jp/wakayama/";
+    schema:url <https://www.nhk.or.jp/wakayama/>;
     tvst:networkBlock "近畿";
     schema:address "640-8556";
     wdt:P159 "和歌山県和歌山市吹上2丁目3-47";
@@ -2904,7 +2904,7 @@
     schema:name "NHK奈良";
     schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/100px-NHK_logo_2020.svg.png>;
     wdt:P3225 "8011005000968";
-    schema:url "https://www.nhk.or.jp/nara/";
+    schema:url <https://www.nhk.or.jp/nara/>;
     tvst:networkBlock "近畿";
     schema:address "630-8540";
     wdt:P159 "奈良県奈良市三条大路1丁目1-20";
@@ -2920,7 +2920,7 @@
     schema:name "NHK大津";
     schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/100px-NHK_logo_2020.svg.png>;
     wdt:P3225 "8011005000968";
-    schema:url "https://www.nhk.or.jp/otsu/";
+    schema:url <https://www.nhk.or.jp/otsu/>;
     tvst:networkBlock "近畿";
     schema:address "520-0044";
     wdt:P159 "滋賀県大津市京町3丁目4-22";
@@ -2937,7 +2937,7 @@
     schema:name "NHK広島";
     schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/100px-NHK_logo_2020.svg.png>;
     wdt:P3225 "8011005000968";
-    schema:url "https://www.nhk.or.jp/hiroshima/";
+    schema:url <https://www.nhk.or.jp/hiroshima/>;
     tvst:networkBlock "中国";
     schema:address "730-8672";
     wdt:P159 "広島県広島市中区大手町2丁目11-10";
@@ -2956,7 +2956,7 @@
     schema:name "NHK岡山";
     schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/100px-NHK_logo_2020.svg.png>;
     wdt:P3225 "8011005000968";
-    schema:url "https://www.nhk.or.jp/okayama/";
+    schema:url <https://www.nhk.or.jp/okayama/>;
     tvst:networkBlock "中国";
     schema:address "700-0024";
     wdt:P159 "岡山県岡山市北区駅元町15-1リットシティビル南棟1〜3階";
@@ -2975,7 +2975,7 @@
     schema:name "NHK松江";
     schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/100px-NHK_logo_2020.svg.png>;
     wdt:P3225 "8011005000968";
-    schema:url "https://www.nhk.or.jp/matsue/";
+    schema:url <https://www.nhk.or.jp/matsue/>;
     tvst:networkBlock "中国";
     schema:address "690-0065";
     wdt:P159 "島根県松江市灘町101-6";
@@ -2994,7 +2994,7 @@
     schema:name "NHK鳥取";
     schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/100px-NHK_logo_2020.svg.png>;
     wdt:P3225 "8011005000968";
-    schema:url "https://www.nhk.or.jp/tottori/";
+    schema:url <https://www.nhk.or.jp/tottori/>;
     tvst:networkBlock "中国";
     schema:address "680-8701";
     wdt:P159 "鳥取県鳥取市寺町100";
@@ -3013,7 +3013,7 @@
     schema:name "NHK山口";
     schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/100px-NHK_logo_2020.svg.png>;
     wdt:P3225 "8011005000968";
-    schema:url "https://www.nhk.or.jp/yamaguchi/";
+    schema:url <https://www.nhk.or.jp/yamaguchi/>;
     tvst:networkBlock "中国";
     schema:address "753-8660";
     wdt:P159 "山口県山口市中園町2-1";
@@ -3032,7 +3032,7 @@
     schema:name "NHK松山";
     schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/100px-NHK_logo_2020.svg.png>;
     wdt:P3225 "8011005000968";
-    schema:url "https://www.nhk.or.jp/matsuyama/";
+    schema:url <https://www.nhk.or.jp/matsuyama/>;
     tvst:networkBlock "四国";
     schema:address "790-8501";
     wdt:P159 "愛媛県松山市堀之内5";
@@ -3051,7 +3051,7 @@
     schema:name "NHK高知";
     schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/100px-NHK_logo_2020.svg.png>;
     wdt:P3225 "8011005000968";
-    schema:url "https://www.nhk.or.jp/kochi/";
+    schema:url <https://www.nhk.or.jp/kochi/>;
     tvst:networkBlock "四国";
     schema:address "780-8512";
     wdt:P159 "高知県高知市本町3丁目3-12";
@@ -3070,7 +3070,7 @@
     schema:name "NHK徳島";
     schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/100px-NHK_logo_2020.svg.png>;
     wdt:P3225 "8011005000968";
-    schema:url "https://www.nhk.or.jp/tokushima/";
+    schema:url <https://www.nhk.or.jp/tokushima/>;
     tvst:networkBlock "四国";
     schema:address "770-8544";
     wdt:P159 "徳島県徳島市寺島本町東1丁目28";
@@ -3088,7 +3088,7 @@
     schema:name "NHK高松";
     schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/100px-NHK_logo_2020.svg.png>;
     wdt:P3225 "8011005000968";
-    schema:url "https://www.nhk.or.jp/takamatsu/";
+    schema:url <https://www.nhk.or.jp/takamatsu/>;
     tvst:networkBlock "四国";
     schema:address "760-8686";
     wdt:P159 "香川県高松市錦町1丁目12-7";
@@ -3107,7 +3107,7 @@
     schema:name "NHK福岡";
     schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/100px-NHK_logo_2020.svg.png>;
     wdt:P3225 "8011005000968";
-    schema:url "https://www.nhk.or.jp/fukuoka/";
+    schema:url <https://www.nhk.or.jp/fukuoka/>;
     tvst:networkBlock "九州・沖縄";
     schema:address "810-8577";
     wdt:P159 "福岡県福岡市中央区六本松1丁目1-10";
@@ -3126,7 +3126,7 @@
     schema:name "NHK北九州";
     schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/100px-NHK_logo_2020.svg.png>;
     wdt:P3225 "8011005000968";
-    schema:url "https://www.nhk.or.jp/kitakyushu/";
+    schema:url <https://www.nhk.or.jp/kitakyushu/>;
     tvst:networkBlock "九州・沖縄";
     schema:address "803-8555";
     wdt:P159 "福岡県北九州市小倉北区室町1丁目1-1";
@@ -3145,7 +3145,7 @@
     schema:name "NHK熊本";
     schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/100px-NHK_logo_2020.svg.png>;
     wdt:P3225 "8011005000968";
-    schema:url "https://www.nhk.or.jp/kumamoto/";
+    schema:url <https://www.nhk.or.jp/kumamoto/>;
     tvst:networkBlock "九州・沖縄";
     schema:address "860-8602";
     wdt:P159 "熊本県熊本市中央区花畑町5-1";
@@ -3164,7 +3164,7 @@
     schema:name "NHK長崎";
     schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/100px-NHK_logo_2020.svg.png>;
     wdt:P3225 "8011005000968";
-    schema:url "https://www.nhk.or.jp/nagasaki/";
+    schema:url <https://www.nhk.or.jp/nagasaki/>;
     tvst:networkBlock "九州・沖縄";
     schema:address "850-8603";
     wdt:P159 "長崎県長崎市西坂町1-1";
@@ -3183,7 +3183,7 @@
     schema:name "NHK鹿児島";
     schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/100px-NHK_logo_2020.svg.png>;
     wdt:P3225 "8011005000968";
-    schema:url "https://www.nhk.or.jp/kagoshima/";
+    schema:url <https://www.nhk.or.jp/kagoshima/>;
     tvst:networkBlock "九州・沖縄";
     schema:address "892-8603";
     wdt:P159 "鹿児島県鹿児島市本港新町4-6";
@@ -3202,7 +3202,7 @@
     schema:name "NHK宮崎";
     schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/100px-NHK_logo_2020.svg.png>;
     wdt:P3225 "8011005000968";
-    schema:url "https://www.nhk.or.jp/miyazaki/";
+    schema:url <https://www.nhk.or.jp/miyazaki/>;
     tvst:networkBlock "九州・沖縄";
     schema:address "880-8633";
     wdt:P159 "宮崎県宮崎市江平西2丁目2-15";
@@ -3221,7 +3221,7 @@
     schema:name "NHK大分";
     schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/100px-NHK_logo_2020.svg.png>;
     wdt:P3225 "8011005000968";
-    schema:url "https://www.nhk.or.jp/oita/";
+    schema:url <https://www.nhk.or.jp/oita/>;
     tvst:networkBlock "九州・沖縄";
     schema:address "870-8660";
     wdt:P159 "大分県大分市高砂町2-36";
@@ -3240,7 +3240,7 @@
     schema:name "NHK佐賀";
     schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/100px-NHK_logo_2020.svg.png>;
     wdt:P3225 "8011005000968";
-    schema:url "https://www.nhk.or.jp/saga/";
+    schema:url <https://www.nhk.or.jp/saga/>;
     tvst:networkBlock "九州・沖縄";
     schema:address "840-8601";
     wdt:P159 "佐賀県佐賀市松原1丁目2-35";
@@ -3258,7 +3258,7 @@
     schema:name "NHK沖縄";
     schema:logo <https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/100px-NHK_logo_2020.svg.png>;
     wdt:P3225 "8011005000968";
-    schema:url "https://www.nhk.or.jp/okinawa/";
+    schema:url <https://www.nhk.or.jp/okinawa/>;
     tvst:networkBlock "九州・沖縄";
     schema:address "900-8535";
     wdt:P159 "沖縄県那覇市おもろまち2丁目6-21";

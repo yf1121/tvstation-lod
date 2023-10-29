@@ -1,0 +1,19 @@
+<https://w3id.org/tvstationjp/org/NHK鳥取> <http://www.w3.org/2000/01/rdf-schema#label> "NHK鳥取放送局"@ja,
+		"エヌエイチケイとっとりほうそうきょく"@ja-Kana;
+	<https://schema.org/name> "NHK鳥取";
+	<https://schema.org/logo> <https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/100px-NHK_logo_2020.svg.png>;
+	<http://www.wikidata.org/prop/direct/P3225> "8011005000968";
+	<https://schema.org/url> <https://www.nhk.or.jp/tottori/>;
+	<https://w3id.org/tvstationjp/tvst/networkBlock> "中国";
+	<https://schema.org/address> "680-8701";
+	<http://www.wikidata.org/prop/direct/P159> "鳥取県鳥取市寺町100";
+	<https://schema.org/latitude> "北緯35.497139度";
+	<https://schema.org/longitude> "東経134.232972度";
+	<https://schema.org/brand> <https://w3id.org/tvstationjp/ch/JOLG-DTV>,
+		<https://w3id.org/tvstationjp/ch/JOLC-DTV>,
+		<https://w3id.org/tvstationjp/ch/JOLG>,
+		<https://w3id.org/tvstationjp/ch/JOLC>,
+		<https://w3id.org/tvstationjp/ch/JOLG-FM>;
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/NHK鳥取放送局>,
+		<https://www.wikidata.org/entity/Q10854705>,
+		<http://ja.dbpedia.org/resource/NHK鳥取放送局>.

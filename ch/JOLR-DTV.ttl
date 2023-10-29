@@ -1,0 +1,25 @@
+<https://w3id.org/tvstationjp/ch/JOLR-DTV> <http://www.w3.org/2000/01/rdf-schema#label> "北日本放送"@ja,
+		"きたにほんほうそう"@ja-Kana,
+		"Kitanihon Broadcasting Co., Ltd."@en;
+	<https://schema.org/name> "KNB";
+	<https://schema.org/areaServed> <https://w3id.org/tvstationjp/area/富山県>;
+	<https://w3id.org/tvstationjp/tvst/newsNetwork> <https://w3id.org/tvstationjp/network/NNN>;
+	<https://w3id.org/tvstationjp/tvst/networkSystem> <https://w3id.org/tvstationjp/network/NNS>,
+		<https://w3id.org/tvstationjp/network/民教協>;
+	<https://schema.org/alternateName> "KNBラジオ"@ja;
+	<http://www.wikidata.org/prop/direct/P2317> "JOLR-DTV";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Kitanihon_Broadcasting_logo_20150821.svg?width=300>;
+	<https://w3id.org/tvstationjp/tvst/platform> <https://w3id.org/tvstationjp/platform/ISDBt>;
+	<https://w3id.org/tvstationjp/tvst/chPosition> "1";
+	<https://w3id.org/tvstationjp/tvst/parentStation> "富山";
+	<https://w3id.org/tvstationjp/tvst/parentDTVCh> "28ch";
+	<https://w3id.org/tvstationjp/tvst/parentATVCh> "1ch";
+	<https://w3id.org/tvstationjp/tvst/logicalCh> "011";
+	<https://schema.org/url> <https://www.knb.ne.jp/>;
+	<https://schema.org/address> "930-8585";
+	<http://www.wikidata.org/prop/direct/P159> "富山県富山市牛島町10番18号";
+	<https://schema.org/latitude> "北緯36.704806度";
+	<https://schema.org/longitude> "東経137.214250度";
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/北日本放送>,
+		<https://www.wikidata.org/entity/Q843692>,
+		<http://ja.dbpedia.org/resource/北日本放送>.

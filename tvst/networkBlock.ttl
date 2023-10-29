@@ -1,5 +1,3 @@
-@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
-@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-<https://w3id.org/tvstationjp/tvst/networkBlock> rdf:type rdf:Property;
-    rdfs:comment "NHKにおいて地域放送局の所属している地域ブロックを意味します。"@ja;
-    rdfs:label "加盟系列における地域ブロックの分類"@ja.
+<https://w3id.org/tvstationjp/tvst/networkBlock> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property>;
+	<http://www.w3.org/2000/01/rdf-schema#comment> "NHKにおいて地域放送局の所属している地域ブロックを意味します。"@ja;
+	<http://www.w3.org/2000/01/rdf-schema#label> "加盟系列における地域ブロックの分類"@ja.

@@ -1,0 +1,25 @@
+<https://w3id.org/tvstationjp/ch/JOGH-DTV> <http://www.w3.org/2000/01/rdf-schema#label> "長野朝日放送"@ja,
+		"ながのあさひほうそう"@ja-Kana,
+		"Asahi BroadcastingNagano Co.,Ltd."@en;
+	<https://schema.org/name> "abn";
+	<https://schema.org/areaServed> <https://w3id.org/tvstationjp/area/長野県>;
+	<https://w3id.org/tvstationjp/tvst/newsNetwork> <https://w3id.org/tvstationjp/network/ANN>;
+	<https://w3id.org/tvstationjp/tvst/networkSystem> <https://w3id.org/tvstationjp/network/テレビ朝日ネットワーク>;
+	<https://schema.org/alternateName> "abn"@ja;
+	<http://www.wikidata.org/prop/direct/P2317> "JOGH-DTV";
+	<https://w3id.org/tvstationjp/tvst/callName> "ながのあさひデジタルテレビジョン";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Abn_logo.svg?width=300>;
+	<https://w3id.org/tvstationjp/tvst/platform> <https://w3id.org/tvstationjp/platform/ISDBt>;
+	<https://w3id.org/tvstationjp/tvst/chPosition> "5";
+	<https://w3id.org/tvstationjp/tvst/parentStation> "長野";
+	<https://w3id.org/tvstationjp/tvst/parentDTVCh> "18ch";
+	<https://w3id.org/tvstationjp/tvst/parentATVCh> "20ch";
+	<https://w3id.org/tvstationjp/tvst/logicalCh> "051";
+	<https://schema.org/url> <https://www.abn-tv.co.jp/>;
+	<https://schema.org/address> "380-8550";
+	<http://www.wikidata.org/prop/direct/P159> "長野県長野市七瀬4-5";
+	<https://schema.org/latitude> "北緯36.642083度";
+	<https://schema.org/longitude> "東経138.191778度";
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/長野朝日放送>,
+		<https://www.wikidata.org/entity/Q843362>,
+		<http://ja.dbpedia.org/resource/長野朝日放送>.

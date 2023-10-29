@@ -1,0 +1,16 @@
+<https://w3id.org/tvstationjp/org/HTV> <http://www.w3.org/2000/01/rdf-schema#label> "広島テレビ放送株式会社"@ja,
+		"ひろしまてれびほうそう"@ja-Kana,
+		"Hiroshima Television Corporation"@en;
+	<https://schema.org/name> "HTV";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Htv_formal_logo.svg?width=300>;
+	<https://schema.org/foundingDate> "1962-09-01";
+	<http://www.wikidata.org/prop/direct/P3225> "5240001009508";
+	<https://schema.org/url> <https://www.htv.jp/>;
+	<https://schema.org/address> "732-8575";
+	<http://www.wikidata.org/prop/direct/P159> "広島県広島市東区二葉の里3丁目5番4号 広テレビル";
+	<https://schema.org/latitude> "北緯34.40179度";
+	<https://schema.org/longitude> "東経132.47302度";
+	<https://schema.org/brand> <https://w3id.org/tvstationjp/ch/JONX-DTV>;
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/広島テレビ放送>,
+		<https://www.wikidata.org/entity/Q593799>,
+		<http://ja.dbpedia.org/resource/広島テレビ放送>.

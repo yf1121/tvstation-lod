@@ -1,0 +1,28 @@
+<https://w3id.org/tvstationjp/ch/JOEX-DTV> <http://www.w3.org/2000/01/rdf-schema#label> "テレビ朝日"@ja,
+		"てれびあさひ"@ja-Kana,
+		"TV Asahi Corporation"@en;
+	<https://schema.org/name> "EX";
+	<https://schema.org/areaServed> <https://w3id.org/tvstationjp/area/関東広域圏>;
+	<https://w3id.org/tvstationjp/tvst/newsNetwork> <https://w3id.org/tvstationjp/network/ANN>;
+	<https://w3id.org/tvstationjp/tvst/networkSystem> <https://w3id.org/tvstationjp/network/テレビ朝日ネットワーク>,
+		<https://w3id.org/tvstationjp/network/民教協>;
+	<https://schema.org/alternateName> "テレ朝"@ja;
+	<http://www.wikidata.org/prop/direct/P2317> "JOEX-DTV";
+	<https://w3id.org/tvstationjp/tvst/callName> "テレビあさひデジタルテレビジョン";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/TV_Asahi_Logo.svg?width=300>;
+	<https://w3id.org/tvstationjp/tvst/platform> <https://w3id.org/tvstationjp/platform/ISDBt>;
+	<https://w3id.org/tvstationjp/tvst/chPosition> "5";
+	<https://w3id.org/tvstationjp/tvst/parentStation> "東京";
+	<https://w3id.org/tvstationjp/tvst/parentDTVCh> "24ch";
+	<https://w3id.org/tvstationjp/tvst/parentATVCh> "10ch";
+	<https://w3id.org/tvstationjp/tvst/logicalCh> "051",
+		"052",
+		"053";
+	<https://schema.org/url> <https://www.tv-asahi.co.jp/>;
+	<https://schema.org/address> "106-8001";
+	<http://www.wikidata.org/prop/direct/P159> "東京都港区六本木6丁目9番1号";
+	<https://schema.org/latitude> "北緯35.65979度";
+	<https://schema.org/longitude> "東経139.73073度";
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/テレビ朝日>,
+		<https://www.wikidata.org/entity/Q908436>,
+		<http://ja.dbpedia.org/resource/テレビ朝日>.

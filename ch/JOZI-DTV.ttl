@@ -1,0 +1,26 @@
+<https://w3id.org/tvstationjp/ch/JOZI-DTV> <http://www.w3.org/2000/01/rdf-schema#label> "熊本朝日放送"@ja,
+		"くまもとあさひほうそう"@ja-Kana,
+		"Kumamoto AsahiBroadcasting Co., Ltd."@en;
+	<https://schema.org/name> "KAB";
+	<https://schema.org/areaServed> <https://w3id.org/tvstationjp/area/熊本県>;
+	<https://w3id.org/tvstationjp/tvst/newsNetwork> <https://w3id.org/tvstationjp/network/ANN>;
+	<https://w3id.org/tvstationjp/tvst/networkSystem> <https://w3id.org/tvstationjp/network/テレビ朝日ネットワーク>;
+	<https://schema.org/alternateName> "KAB"@ja,
+		"KAB熊本朝日放送"@ja;
+	<http://www.wikidata.org/prop/direct/P2317> "JOZI-DTV";
+	<https://w3id.org/tvstationjp/tvst/callName> "くまもとあさひデジタルテレビ";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Kumamoto_Asahi_Broadcasting_2020.jpg?width=300>;
+	<https://w3id.org/tvstationjp/tvst/platform> <https://w3id.org/tvstationjp/platform/ISDBt>;
+	<https://w3id.org/tvstationjp/tvst/chPosition> "5";
+	<https://w3id.org/tvstationjp/tvst/parentStation> "熊本（金峰山）";
+	<https://w3id.org/tvstationjp/tvst/parentDTVCh> "49ch";
+	<https://w3id.org/tvstationjp/tvst/parentATVCh> "※16ch";
+	<https://w3id.org/tvstationjp/tvst/logicalCh> "051";
+	<https://schema.org/url> <https://www.kab.co.jp/>;
+	<https://schema.org/address> "860-8516";
+	<http://www.wikidata.org/prop/direct/P159> "熊本県熊本市西区二本木一丁目5番12号";
+	<https://schema.org/latitude> "北緯32.78653度";
+	<https://schema.org/longitude> "東経130.69064度";
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/熊本朝日放送>,
+		<https://www.wikidata.org/entity/Q843330>,
+		<http://ja.dbpedia.org/resource/熊本朝日放送>.

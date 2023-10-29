@@ -1,0 +1,26 @@
+<https://w3id.org/tvstationjp/ch/JOQX-DTV> <http://www.w3.org/2000/01/rdf-schema#label> "高知さんさんテレビ"@ja,
+		"こうちさんさんてれび"@ja-Kana,
+		"Kochi Sun Sun Broadcasting, Inc."@en;
+	<https://schema.org/name> "KSS";
+	<https://schema.org/areaServed> <https://w3id.org/tvstationjp/area/高知県>;
+	<https://w3id.org/tvstationjp/tvst/newsNetwork> <https://w3id.org/tvstationjp/network/FNN>;
+	<https://w3id.org/tvstationjp/tvst/networkSystem> <https://w3id.org/tvstationjp/network/FNS>;
+	<https://schema.org/alternateName> "さんさんテレビ"@ja,
+		"SUNSUN"@ja;
+	<http://www.wikidata.org/prop/direct/P2317> "JOQX-DTV";
+	<https://w3id.org/tvstationjp/tvst/callName> "こうちさんさんデジタルテレビ";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Kochi_Sun_Sun_Broadcasting.png?width=300>;
+	<https://w3id.org/tvstationjp/tvst/platform> <https://w3id.org/tvstationjp/platform/ISDBt>;
+	<https://w3id.org/tvstationjp/tvst/chPosition> "8";
+	<https://w3id.org/tvstationjp/tvst/parentStation> "高知";
+	<https://w3id.org/tvstationjp/tvst/parentDTVCh> "21ch";
+	<https://w3id.org/tvstationjp/tvst/parentATVCh> "40ch";
+	<https://w3id.org/tvstationjp/tvst/logicalCh> "081";
+	<https://schema.org/url> <https://www.sunsuntv.co.jp/>;
+	<https://schema.org/address> "781-9533";
+	<http://www.wikidata.org/prop/direct/P159> "高知県高知市若松町10番11号";
+	<https://schema.org/latitude> "北緯33.553250度";
+	<https://schema.org/longitude> "東経133.562333度";
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/高知さんさんテレビ>,
+		<https://www.wikidata.org/entity/Q8014668>,
+		<http://ja.dbpedia.org/resource/高知さんさんテレビ>.

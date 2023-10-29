@@ -1,0 +1,16 @@
+<https://w3id.org/tvstationjp/org/NHK岐阜> <http://www.w3.org/2000/01/rdf-schema#label> "NHK岐阜放送局"@ja,
+		"エヌエイチケイぎふほうそうきょく"@ja-Kana;
+	<https://schema.org/name> "NHK岐阜";
+	<https://schema.org/logo> <https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/100px-NHK_logo_2020.svg.png>;
+	<http://www.wikidata.org/prop/direct/P3225> "8011005000968";
+	<https://schema.org/url> <https://www.nhk.or.jp/gifu/>;
+	<https://w3id.org/tvstationjp/tvst/networkBlock> "東海・北陸";
+	<https://schema.org/address> "500-8554";
+	<http://www.wikidata.org/prop/direct/P159> "岐阜県岐阜市京町2丁目3";
+	<https://schema.org/latitude> "北緯35.425972度";
+	<https://schema.org/longitude> "東経136.757083度";
+	<https://schema.org/brand> <https://w3id.org/tvstationjp/ch/JOOP-DTV>,
+		<https://w3id.org/tvstationjp/ch/JOOP-FM>;
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/NHK岐阜放送局>,
+		<https://www.wikidata.org/entity/Q10854695>,
+		<http://ja.dbpedia.org/resource/NHK岐阜放送局>.

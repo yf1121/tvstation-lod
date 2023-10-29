@@ -1,0 +1,7 @@
+<https://w3id.org/tvstationjp/network/テレビ朝日ネットワーク> <http://www.w3.org/2000/01/rdf-schema#label> "テレビ朝日ネットワーク"@ja,
+		"TV Asahi Network"@en,
+		"テレビあさひネットワーク"@ja-Kana;
+	<https://schema.org/name> "テレビ朝日系列"@ja;
+	<https://w3id.org/tvstationjp/tvst/keystation> <https://w3id.org/tvstationjp/station/EX>;
+	<https://schema.org/url> <https://corp.asahi.co.jp/ja/tv/company/network.html>;
+	<https://schema.org/foundingDate> "1970-01-01".

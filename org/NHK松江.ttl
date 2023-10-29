@@ -1,0 +1,19 @@
+<https://w3id.org/tvstationjp/org/NHK松江> <http://www.w3.org/2000/01/rdf-schema#label> "NHK松江放送局"@ja,
+		"エヌエイチケイまつえほうそうきょく"@ja-Kana;
+	<https://schema.org/name> "NHK松江";
+	<https://schema.org/logo> <https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/100px-NHK_logo_2020.svg.png>;
+	<http://www.wikidata.org/prop/direct/P3225> "8011005000968";
+	<https://schema.org/url> <https://www.nhk.or.jp/matsue/>;
+	<https://w3id.org/tvstationjp/tvst/networkBlock> "中国";
+	<https://schema.org/address> "690-0065";
+	<http://www.wikidata.org/prop/direct/P159> "島根県松江市灘町101-6";
+	<https://schema.org/latitude> "北緯35.4620947度";
+	<https://schema.org/longitude> "東経133.0541445度";
+	<https://schema.org/brand> <https://w3id.org/tvstationjp/ch/JOTK-DTV>,
+		<https://w3id.org/tvstationjp/ch/JOTB-DTV>,
+		<https://w3id.org/tvstationjp/ch/JOTK>,
+		<https://w3id.org/tvstationjp/ch/JOTB>,
+		<https://w3id.org/tvstationjp/ch/JOTK-FM>;
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/NHK松江放送局>,
+		<https://www.wikidata.org/entity/Q10854709>,
+		<http://ja.dbpedia.org/resource/NHK松江放送局>.

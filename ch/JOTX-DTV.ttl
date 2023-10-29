@@ -1,0 +1,28 @@
+<https://w3id.org/tvstationjp/ch/JOTX-DTV> <http://www.w3.org/2000/01/rdf-schema#label> "テレビ東京"@ja,
+		"てれびとうきょう"@ja-Kana,
+		"TV TOKYO Corporation"@en;
+	<https://schema.org/name> "TX";
+	<https://schema.org/areaServed> <https://w3id.org/tvstationjp/area/関東広域圏>;
+	<https://w3id.org/tvstationjp/tvst/newsNetwork> <https://w3id.org/tvstationjp/network/TXN>;
+	<https://w3id.org/tvstationjp/tvst/networkSystem> <https://w3id.org/tvstationjp/network/TXN>;
+	<https://schema.org/alternateName> "TX"@ja,
+		"テレ東"@ja;
+	<http://www.wikidata.org/prop/direct/P2317> "JOTX-DTV";
+	<https://w3id.org/tvstationjp/tvst/callName> "テレビとうきょうデジタルテレビジョン";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/TV_Tokyo_logo_20110629.svg?width=300>;
+	<https://w3id.org/tvstationjp/tvst/platform> <https://w3id.org/tvstationjp/platform/ISDBt>;
+	<https://w3id.org/tvstationjp/tvst/chPosition> "7";
+	<https://w3id.org/tvstationjp/tvst/parentStation> "東京";
+	<https://w3id.org/tvstationjp/tvst/parentDTVCh> "23ch";
+	<https://w3id.org/tvstationjp/tvst/parentATVCh> "12ch";
+	<https://w3id.org/tvstationjp/tvst/logicalCh> "071",
+		"072",
+		"073";
+	<https://schema.org/url> <https://www.tv-tokyo.co.jp/>;
+	<https://schema.org/address> "106-8007";
+	<http://www.wikidata.org/prop/direct/P159> "東京都港区六本木三丁目2番1号";
+	<https://schema.org/latitude> "北緯35.66441度";
+	<https://schema.org/longitude> "東経139.73761度";
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/テレビ東京>,
+		<https://www.wikidata.org/entity/Q734663>,
+		<http://ja.dbpedia.org/resource/テレビ東京>.

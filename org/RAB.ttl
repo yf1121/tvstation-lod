@@ -1,0 +1,16 @@
+<https://w3id.org/tvstationjp/org/RAB> <http://www.w3.org/2000/01/rdf-schema#label> "青森放送株式会社"@ja,
+		"あおもりほうそう"@ja-Kana,
+		"Aomori Broadcasting Corporation"@en;
+	<https://schema.org/name> "RAB";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Rab_logo.svg?width=300>;
+	<https://schema.org/foundingDate> "1953-09-30";
+	<http://www.wikidata.org/prop/direct/P3225> "1420001000261";
+	<https://schema.org/url> <https://www.rab.co.jp/>;
+	<https://schema.org/address> "030-0965";
+	<http://www.wikidata.org/prop/direct/P159> "青森県青森市松森1丁目8番1号";
+	<https://schema.org/latitude> "北緯40.81894度";
+	<https://schema.org/longitude> "東経140.77043度";
+	<https://schema.org/brand> <https://w3id.org/tvstationjp/ch/JOGR-DTV>;
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/青森放送>,
+		<https://www.wikidata.org/entity/Q843656>,
+		<http://ja.dbpedia.org/resource/青森放送>.

@@ -1,0 +1,16 @@
+<https://w3id.org/tvstationjp/org/TVS> <http://www.w3.org/2000/01/rdf-schema#label> "株式会社テレビ埼玉"@ja,
+		"てれびさいたま"@ja-Kana,
+		"Television Saitama Co., Ltd."@en;
+	<https://schema.org/name> "TVS";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Tvs_logo.svg?width=300>;
+	<https://schema.org/foundingDate> "1978-04-28";
+	<http://www.wikidata.org/prop/direct/P3225> "5030001005569";
+	<https://schema.org/url> <http://www.teletama.jp/>;
+	<https://schema.org/address> "330-8538";
+	<http://www.wikidata.org/prop/direct/P159> "埼玉県さいたま市浦和区常盤六丁目36番4号";
+	<https://schema.org/latitude> "北緯35.86224度";
+	<https://schema.org/longitude> "東経139.64403度";
+	<https://schema.org/brand> <https://w3id.org/tvstationjp/ch/JOUS-DTV>;
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/テレビ埼玉>,
+		<https://www.wikidata.org/entity/Q1325164>,
+		<http://ja.dbpedia.org/resource/テレビ埼玉>.

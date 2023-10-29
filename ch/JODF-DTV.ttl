@@ -1,0 +1,26 @@
+<https://w3id.org/tvstationjp/ch/JODF-DTV> <http://www.w3.org/2000/01/rdf-schema#label> "アイビーシー岩手放送"@ja,
+		"あいびーしーいわてほうそう"@ja-Kana,
+		"Iwate Broadcasting Co.,Ltd."@en;
+	<https://schema.org/name> "IBC";
+	<https://schema.org/areaServed> <https://w3id.org/tvstationjp/area/岩手県>;
+	<https://w3id.org/tvstationjp/tvst/newsNetwork> <https://w3id.org/tvstationjp/network/JNN>;
+	<https://w3id.org/tvstationjp/tvst/networkSystem> <https://w3id.org/tvstationjp/network/TBSネットワーク>,
+		<https://w3id.org/tvstationjp/network/民教協>;
+	<https://schema.org/alternateName> "IBCテレビ"@ja;
+	<http://www.wikidata.org/prop/direct/P2317> "JODF-DTV";
+	<https://w3id.org/tvstationjp/tvst/callName> "IBCデジタルテレビジョン";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Iwate_Ibc_logo.svg?width=300>;
+	<https://w3id.org/tvstationjp/tvst/platform> <https://w3id.org/tvstationjp/platform/ISDBt>;
+	<https://w3id.org/tvstationjp/tvst/chPosition> "6";
+	<https://w3id.org/tvstationjp/tvst/parentStation> "盛岡";
+	<https://w3id.org/tvstationjp/tvst/parentDTVCh> "16ch";
+	<https://w3id.org/tvstationjp/tvst/parentATVCh> "6ch";
+	<https://w3id.org/tvstationjp/tvst/logicalCh> "061";
+	<https://schema.org/url> <https://www.ibc.co.jp/>;
+	<https://schema.org/address> "020-8566";
+	<http://www.wikidata.org/prop/direct/P159> "岩手県盛岡市志家町6番1号";
+	<https://schema.org/latitude> "北緯39.698583度";
+	<https://schema.org/longitude> "東経141.161611度";
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/IBC岩手放送>,
+		<https://www.wikidata.org/entity/Q843452>,
+		<http://ja.dbpedia.org/resource/IBC岩手放送>.

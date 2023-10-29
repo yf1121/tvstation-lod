@@ -1,0 +1,25 @@
+<https://w3id.org/tvstationjp/ch/JOUH-DTV> <http://www.w3.org/2000/01/rdf-schema#label> "サンテレビジョン"@ja,
+		"サンテレビジョン"@ja-Kana,
+		"Sun Television Co.,Ltd"@en;
+	<https://schema.org/name> "SUN";
+	<https://schema.org/areaServed> <https://w3id.org/tvstationjp/area/兵庫県>;
+	<https://w3id.org/tvstationjp/tvst/networkSystem> <https://w3id.org/tvstationjp/network/JAITS>;
+	<https://schema.org/alternateName> "サンテレビ"@ja,
+		"サン"@ja;
+	<http://www.wikidata.org/prop/direct/P2317> "JOUH-DTV";
+	<https://w3id.org/tvstationjp/tvst/callName> "サンデジタルテレビジョン";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/SUN-TV_wordmark_2019.png?width=300>;
+	<https://w3id.org/tvstationjp/tvst/platform> <https://w3id.org/tvstationjp/platform/ISDBt>;
+	<https://w3id.org/tvstationjp/tvst/chPosition> "3";
+	<https://w3id.org/tvstationjp/tvst/parentStation> "神戸";
+	<https://w3id.org/tvstationjp/tvst/parentDTVCh> "26ch";
+	<https://w3id.org/tvstationjp/tvst/parentATVCh> "36ch";
+	<https://w3id.org/tvstationjp/tvst/logicalCh> "031";
+	<https://schema.org/url> <https://sun-tv.co.jp/>;
+	<https://schema.org/address> "650-8536";
+	<http://www.wikidata.org/prop/direct/P159> "兵庫県神戸市中央区東川崎町1丁目1番1号";
+	<https://schema.org/latitude> "北緯34.68079度";
+	<https://schema.org/longitude> "東経135.1803度";
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/サンテレビジョン>,
+		<https://www.wikidata.org/entity/Q328268>,
+		<http://ja.dbpedia.org/resource/サンテレビジョン>.

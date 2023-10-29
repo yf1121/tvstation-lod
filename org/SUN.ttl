@@ -1,0 +1,17 @@
+<https://w3id.org/tvstationjp/org/SUN> <http://www.w3.org/2000/01/rdf-schema#label> "株式会社サンテレビジョン"@ja,
+		"サンテレビジョン"@ja-Kana,
+		"Sun Television Co., Ltd."@en;
+	<https://schema.org/name> "SUN";
+	<https://schema.org/formerName> "兵庫テレビ放送株式会社"@ja;
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/SUN-TV_wordmark_2019.png?width=300>;
+	<https://schema.org/foundingDate> "1968-03-08";
+	<http://www.wikidata.org/prop/direct/P3225> "4140001007976";
+	<https://schema.org/url> <https://sun-tv.co.jp/>;
+	<https://schema.org/address> "650-8536";
+	<http://www.wikidata.org/prop/direct/P159> "兵庫県神戸市中央区東川崎町1丁目1番1号";
+	<https://schema.org/latitude> "北緯34.68079度";
+	<https://schema.org/longitude> "東経135.1803度";
+	<https://schema.org/brand> <https://w3id.org/tvstationjp/ch/JOUH-DTV>;
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/サンテレビジョン>,
+		<https://www.wikidata.org/entity/Q328268>,
+		<http://ja.dbpedia.org/resource/サンテレビジョン>.

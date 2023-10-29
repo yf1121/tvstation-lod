@@ -1,0 +1,26 @@
+<https://w3id.org/tvstationjp/ch/JOCL-DTV> <http://www.w3.org/2000/01/rdf-schema#label> "千葉テレビ放送"@ja,
+		"ちばてれびほうそう"@ja-Kana,
+		"Chiba Television broadcasting Corporation"@en;
+	<https://schema.org/name> "CTC";
+	<https://schema.org/areaServed> <https://w3id.org/tvstationjp/area/千葉県>;
+	<https://w3id.org/tvstationjp/tvst/networkSystem> <https://w3id.org/tvstationjp/network/JAITS>;
+	<https://schema.org/alternateName> "チバテレ"@ja;
+	<http://www.wikidata.org/prop/direct/P2317> "JOCL-DTV";
+	<https://w3id.org/tvstationjp/tvst/callName> "ちばテレビデジタルテレビジョン";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Chiba_TV_logo.jpg?width=300>;
+	<https://w3id.org/tvstationjp/tvst/platform> <https://w3id.org/tvstationjp/platform/ISDBt>;
+	<https://w3id.org/tvstationjp/tvst/chPosition> "3";
+	<https://w3id.org/tvstationjp/tvst/parentStation> "千葉（船橋）";
+	<https://w3id.org/tvstationjp/tvst/parentDTVCh> "30ch";
+	<https://w3id.org/tvstationjp/tvst/parentATVCh> "46ch";
+	<https://w3id.org/tvstationjp/tvst/logicalCh> "031",
+		"032",
+		"033";
+	<https://schema.org/url> <https://www.chiba-tv.com/>;
+	<https://schema.org/address> "260-0001";
+	<http://www.wikidata.org/prop/direct/P159> "千葉県千葉市中央区都町一丁目1番25号";
+	<https://schema.org/latitude> "北緯35.61406度";
+	<https://schema.org/longitude> "東経140.13541度";
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/千葉テレビ放送>,
+		<https://www.wikidata.org/entity/Q1071746>,
+		<http://ja.dbpedia.org/resource/千葉テレビ放送>.

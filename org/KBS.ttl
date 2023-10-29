@@ -1,0 +1,17 @@
+<https://w3id.org/tvstationjp/org/KBS> <http://www.w3.org/2000/01/rdf-schema#label> "株式会社京都放送"@ja,
+		"きょうとほうそう"@ja-Kana,
+		"Kyoto Broadcasting System Company Limited"@en;
+	<https://schema.org/name> "KBS";
+	<https://schema.org/formerName> "京都放送株式会社"@ja;
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Kbs_logo.svg?width=300>;
+	<https://schema.org/foundingDate> "1951-06-26";
+	<http://www.wikidata.org/prop/direct/P3225> "4130001004198";
+	<https://schema.org/url> <https://www.kbs-kyoto.co.jp/>;
+	<https://schema.org/address> "602-8588";
+	<http://www.wikidata.org/prop/direct/P159> "京都府京都市上京区烏丸通一条下ル龍前町600番地の1";
+	<https://schema.org/latitude> "北緯35.02877度";
+	<https://schema.org/longitude> "東経135.74498度";
+	<https://schema.org/brand> <https://w3id.org/tvstationjp/ch/JOBR-DTV>;
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/京都放送>,
+		<https://www.wikidata.org/entity/Q1065614>,
+		<http://ja.dbpedia.org/resource/京都放送>.

@@ -1,0 +1,17 @@
+<https://w3id.org/tvstationjp/org/TXHD> <http://www.w3.org/2000/01/rdf-schema#label> "株式会社テレビ東京ホールディングス"@ja,
+		"てれびとうきょうホールディングス"@ja-Kana,
+		"TV TOKYO Holdings Corporation"@en;
+	<https://schema.org/name> "TXHD";
+	<https://schema.org/alternateName> "テレ東HD"@ja,
+		"TV TOKYO HD"@ja;
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/TV_Tokyo_logo_20110629.svg?width=300>;
+	<https://schema.org/foundingDate> "2010-10-01";
+	<http://www.wikidata.org/prop/direct/P3225> "1010401090159";
+	<https://schema.org/url> <https://www.txhd.co.jp/>;
+	<https://schema.org/address> "106-8007";
+	<http://www.wikidata.org/prop/direct/P159> "東京都港区六本木三丁目2番1号";
+	<https://schema.org/latitude> "北緯35.66441度";
+	<https://schema.org/longitude> "東経139.73761度";
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/テレビ東京ホールディングス>,
+		<https://www.wikidata.org/entity/Q11319692>,
+		<http://ja.dbpedia.org/resource/テレビ東京ホールディングス>.

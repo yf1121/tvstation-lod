@@ -1,0 +1,25 @@
+<https://w3id.org/tvstationjp/ch/JOWY-DTV> <http://www.w3.org/2000/01/rdf-schema#label> "北陸朝日放送"@ja,
+		"ほくりくあさひほうそう"@ja-Kana,
+		"Hokuriku Asahi Broadcasting Co., Ltd."@en;
+	<https://schema.org/name> "HAB";
+	<https://schema.org/areaServed> <https://w3id.org/tvstationjp/area/石川県>;
+	<https://w3id.org/tvstationjp/tvst/newsNetwork> <https://w3id.org/tvstationjp/network/ANN>;
+	<https://w3id.org/tvstationjp/tvst/networkSystem> <https://w3id.org/tvstationjp/network/テレビ朝日ネットワーク>;
+	<https://schema.org/alternateName> "HAB"@ja;
+	<http://www.wikidata.org/prop/direct/P2317> "JOWY-DTV";
+	<https://w3id.org/tvstationjp/tvst/callName> "ほくりくあさひデジタルテレビジョン";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Hab_logo_2021.svg?width=300>;
+	<https://w3id.org/tvstationjp/tvst/platform> <https://w3id.org/tvstationjp/platform/ISDBt>;
+	<https://w3id.org/tvstationjp/tvst/chPosition> "5";
+	<https://w3id.org/tvstationjp/tvst/parentStation> "金沢";
+	<https://w3id.org/tvstationjp/tvst/parentDTVCh> "23ch";
+	<https://w3id.org/tvstationjp/tvst/parentATVCh> "25ch";
+	<https://w3id.org/tvstationjp/tvst/logicalCh> "051";
+	<https://schema.org/url> <https://www.hab.co.jp/>;
+	<https://schema.org/address> "920-0393";
+	<http://www.wikidata.org/prop/direct/P159> "石川県金沢市松島一丁目32番地2";
+	<https://schema.org/latitude> "北緯36.56178度";
+	<https://schema.org/longitude> "東経136.60364度";
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/北陸朝日放送>,
+		<https://www.wikidata.org/entity/Q843466>,
+		<http://ja.dbpedia.org/resource/北陸朝日放送>.

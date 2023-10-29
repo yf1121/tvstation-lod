@@ -1,0 +1,16 @@
+<https://w3id.org/tvstationjp/org/TVN> <http://www.w3.org/2000/01/rdf-schema#label> "奈良テレビ放送株式会社"@ja,
+		"ならてれびほうそう"@ja-Kana,
+		"NARA TELEVISION CO.,LTD"@en;
+	<https://schema.org/name> "TVN";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Tvn_logo.svg?width=300>;
+	<https://schema.org/foundingDate> "1972-02-07";
+	<http://www.wikidata.org/prop/direct/P3225> "3150001001748";
+	<https://schema.org/url> <https://www.naratv.co.jp/>;
+	<https://schema.org/address> "630-8575";
+	<http://www.wikidata.org/prop/direct/P159> "奈良県奈良市法蓮佐保山3丁目1番11号";
+	<https://schema.org/latitude> "北緯34.69933度";
+	<https://schema.org/longitude> "東経135.82814度";
+	<https://schema.org/brand> <https://w3id.org/tvstationjp/ch/JONM-DTV>;
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/奈良テレビ放送>,
+		<https://www.wikidata.org/entity/Q6134207>,
+		<http://ja.dbpedia.org/resource/奈良テレビ放送>.

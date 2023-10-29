@@ -1,0 +1,16 @@
+<https://w3id.org/tvstationjp/org/MBC> <http://www.w3.org/2000/01/rdf-schema#label> "株式会社南日本放送"@ja,
+		"みなみにほんほうそう"@ja-Kana,
+		"Minaminihon Broadcasting Co., Ltd."@en;
+	<https://schema.org/name> "MBC";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Minaminihon_Broadcasting_Co_Ltd.jpg?width=300>;
+	<https://schema.org/foundingDate> "1953-05-23";
+	<http://www.wikidata.org/prop/direct/P3225> "3340001004277";
+	<https://schema.org/url> <https://www.mbc.co.jp>;
+	<https://schema.org/address> "890-8570";
+	<http://www.wikidata.org/prop/direct/P159> "鹿児島県鹿児島市高麗町5－25";
+	<https://schema.org/latitude> "北緯31.58251度";
+	<https://schema.org/longitude> "東経130.55185度";
+	<https://schema.org/brand> <https://w3id.org/tvstationjp/ch/JOCF-DTV>;
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/南日本放送>,
+		<https://www.wikidata.org/entity/Q8013907>,
+		<http://ja.dbpedia.org/resource/南日本放送>.

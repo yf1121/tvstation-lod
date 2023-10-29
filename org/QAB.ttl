@@ -1,0 +1,16 @@
+<https://w3id.org/tvstationjp/org/QAB> <http://www.w3.org/2000/01/rdf-schema#label> "琉球朝日放送株式会社"@ja,
+		"りゅうきゅうあさひほうそう"@ja-Kana,
+		"Ryukyu Asahi Broadcasting Corporation."@en;
+	<https://schema.org/name> "QAB";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Qab_logo.svg?width=300>;
+	<https://schema.org/foundingDate> "1994-06-10";
+	<http://www.wikidata.org/prop/direct/P3225> "5360001002236";
+	<https://schema.org/url> <https://www.qab.co.jp/>;
+	<https://schema.org/address> "900-8510";
+	<http://www.wikidata.org/prop/direct/P159> "沖縄県那覇市久茂地二丁目3番1号";
+	<https://schema.org/latitude> "北緯26.21593度";
+	<https://schema.org/longitude> "東経127.67926度";
+	<https://schema.org/brand> <https://w3id.org/tvstationjp/ch/JORY-DTV>;
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/琉球朝日放送>,
+		<https://www.wikidata.org/entity/Q843353>,
+		<http://ja.dbpedia.org/resource/琉球朝日放送>.

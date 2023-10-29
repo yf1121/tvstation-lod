@@ -1,0 +1,25 @@
+<https://w3id.org/tvstationjp/ch/JOUX-DTV> <http://www.w3.org/2000/01/rdf-schema#label> "新潟テレビ21"@ja,
+		"にいがたてれびにじゅういち"@ja-Kana,
+		"The Niigata Television Network 21, Inc."@en;
+	<https://schema.org/name> "UX";
+	<https://schema.org/areaServed> <https://w3id.org/tvstationjp/area/新潟県>;
+	<https://w3id.org/tvstationjp/tvst/newsNetwork> <https://w3id.org/tvstationjp/network/ANN>;
+	<https://w3id.org/tvstationjp/tvst/networkSystem> <https://w3id.org/tvstationjp/network/テレビ朝日ネットワーク>;
+	<https://schema.org/alternateName> "テレビ21"@ja;
+	<http://www.wikidata.org/prop/direct/P2317> "JOUX-DTV";
+	<https://w3id.org/tvstationjp/tvst/callName> "にいがたテレビ21デジタルテレビジョン";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Niigata_UX_logo.svg?width=300>;
+	<https://w3id.org/tvstationjp/tvst/platform> <https://w3id.org/tvstationjp/platform/ISDBt>;
+	<https://w3id.org/tvstationjp/tvst/chPosition> "5";
+	<https://w3id.org/tvstationjp/tvst/parentStation> "新潟";
+	<https://w3id.org/tvstationjp/tvst/parentDTVCh> "23ch";
+	<https://w3id.org/tvstationjp/tvst/parentATVCh> "21ch";
+	<https://w3id.org/tvstationjp/tvst/logicalCh> "051";
+	<https://schema.org/url> <https://www.uxtv.jp/>;
+	<https://schema.org/address> "951-8521";
+	<http://www.wikidata.org/prop/direct/P159> "新潟県新潟市中央区下大川前通六ノ町2230番19号";
+	<https://schema.org/latitude> "北緯37.92465度";
+	<https://schema.org/longitude> "東経139.05489度";
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/新潟テレビ21>,
+		<https://www.wikidata.org/entity/Q843457>,
+		<http://ja.dbpedia.org/resource/新潟テレビ21>.

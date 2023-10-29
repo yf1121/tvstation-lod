@@ -1,0 +1,4 @@
+<https://w3id.org/tvstationjp/area/函館> <http://www.w3.org/2000/01/rdf-schema#label> "函館"@ja;
+	<https://schema.org/description> "函館"@ja;
+	<https://schema.org/containsPlace> <http://data.e-stat.go.jp/lod/sac/C01330-20100401>,
+		<http://data.e-stat.go.jp/lod/sac/C01360-20100401>.

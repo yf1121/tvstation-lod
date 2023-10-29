@@ -1,5 +1,3 @@
-@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
-@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-<https://w3id.org/tvstationjp/tvst/formerName> rdf:type rdf:Property;
-    rdfs:comment "かつて法人名として使用していた名称を意味します。"@ja;
-    rdfs:label "過去の名称"@ja.
+<https://w3id.org/tvstationjp/tvst/formerName> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property>;
+	<http://www.w3.org/2000/01/rdf-schema#comment> "かつて法人名として使用していた名称を意味します。"@ja;
+	<http://www.w3.org/2000/01/rdf-schema#label> "過去の名称"@ja.

@@ -1,0 +1,17 @@
+<https://w3id.org/tvstationjp/org/ABCGHD> <http://www.w3.org/2000/01/rdf-schema#label> "朝日放送グループホールディングス株式会社"@ja,
+		"あさひほうそうぐるーぷホールディングス"@ja-Kana,
+		"ASAHI BROADCASTING GROUP HOLDINGS CORPORATION"@en;
+	<https://schema.org/name> "ABCGHD";
+	<https://schema.org/alternateName> "朝日放送GHD"@ja;
+	<https://schema.org/formerName> "朝日放送株式会社"@ja;
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Asahi_Broadcasting_Corporation_Logo.svg?width=300>;
+	<https://schema.org/foundingDate> "1951-03-15";
+	<http://www.wikidata.org/prop/direct/P3225> "7120001060033";
+	<https://schema.org/url> <https://corp.asahi.co.jp/>;
+	<https://schema.org/address> "553-8503";
+	<http://www.wikidata.org/prop/direct/P159> "大阪府大阪市福島区福島1丁目1-30";
+	<https://schema.org/latitude> "北緯34.693861度";
+	<https://schema.org/longitude> "東経135.488389度";
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/朝日放送グループホールディングス>,
+		<https://www.wikidata.org/entity/Q1064900>,
+		<http://ja.dbpedia.org/resource/朝日放送グループホールディングス>.

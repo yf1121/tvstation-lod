@@ -1,0 +1,26 @@
+<https://w3id.org/tvstationjp/ch/JOYR-DTV> <http://www.w3.org/2000/01/rdf-schema#label> "RSK山陽放送"@ja,
+		"アールエスケーさんようほうそう"@ja-Kana,
+		"RSK Sanyo Broadcasting Co, Ltd."@en;
+	<https://schema.org/name> "RSK";
+	<https://schema.org/areaServed> <https://w3id.org/tvstationjp/area/岡山香川>;
+	<https://w3id.org/tvstationjp/tvst/newsNetwork> <https://w3id.org/tvstationjp/network/JNN>;
+	<https://w3id.org/tvstationjp/tvst/networkSystem> <https://w3id.org/tvstationjp/network/TBSネットワーク>;
+	<https://schema.org/alternateName> "RSK"@ja,
+		"RSKテレビ"@ja;
+	<http://www.wikidata.org/prop/direct/P2317> "JOYR-DTV";
+	<https://w3id.org/tvstationjp/tvst/callName> "RSKおかやまデジタルテレビジョン";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Rsk_logo.svg?width=300>;
+	<https://w3id.org/tvstationjp/tvst/platform> <https://w3id.org/tvstationjp/platform/ISDBt>;
+	<https://w3id.org/tvstationjp/tvst/chPosition> "6";
+	<https://w3id.org/tvstationjp/tvst/parentStation> "岡山";
+	<https://w3id.org/tvstationjp/tvst/parentDTVCh> "21ch";
+	<https://w3id.org/tvstationjp/tvst/parentATVCh> "11ch";
+	<https://w3id.org/tvstationjp/tvst/logicalCh> "061";
+	<https://schema.org/url> <https://www.rsk.co.jp/tv/>;
+	<https://schema.org/address> "700-8580";
+	<http://www.wikidata.org/prop/direct/P159> "岡山県岡山市北区天神町9番24号";
+	<https://schema.org/latitude> "北緯34.66711度";
+	<https://schema.org/longitude> "東経133.9304度";
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/RSKテレビ>,
+		<https://www.wikidata.org/entity/Q11471167>,
+		<http://ja.dbpedia.org/resource/RSKテレビ>.

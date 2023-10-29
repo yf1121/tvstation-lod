@@ -1,0 +1,24 @@
+<https://w3id.org/tvstationjp/ch/JOMH-DTV> <http://www.w3.org/2000/01/rdf-schema#label> "三重テレビ放送"@ja,
+		"みえてれびほうそう"@ja-Kana,
+		"Mie Television Broadcasting Co., Ltd."@en;
+	<https://schema.org/name> "MTV";
+	<https://schema.org/areaServed> <https://w3id.org/tvstationjp/area/三重県>;
+	<https://w3id.org/tvstationjp/tvst/networkSystem> <https://w3id.org/tvstationjp/network/JAITS>;
+	<https://schema.org/alternateName> "三重テレビ"@ja;
+	<http://www.wikidata.org/prop/direct/P2317> "JOMH-DTV";
+	<https://w3id.org/tvstationjp/tvst/callName> "みえてれびほうそうデジタルテレビジョン";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Mie_Television.jpg?width=300>;
+	<https://w3id.org/tvstationjp/tvst/platform> <https://w3id.org/tvstationjp/platform/ISDBt>;
+	<https://w3id.org/tvstationjp/tvst/chPosition> "7";
+	<https://w3id.org/tvstationjp/tvst/parentStation> "津";
+	<https://w3id.org/tvstationjp/tvst/parentDTVCh> "27ch";
+	<https://w3id.org/tvstationjp/tvst/parentATVCh> "33ch";
+	<https://w3id.org/tvstationjp/tvst/logicalCh> "071";
+	<https://schema.org/url> <https://www.mietv.com/>;
+	<https://schema.org/address> "514-8633";
+	<http://www.wikidata.org/prop/direct/P159> "三重県津市渋見町693番1号";
+	<https://schema.org/latitude> "北緯34.73486度";
+	<https://schema.org/longitude> "東経136.49818度";
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/三重テレビ放送>,
+		<https://www.wikidata.org/entity/Q6133711>,
+		<http://ja.dbpedia.org/resource/三重テレビ放送>.

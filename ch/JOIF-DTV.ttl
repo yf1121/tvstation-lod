@@ -1,0 +1,25 @@
+<https://w3id.org/tvstationjp/ch/JOIF-DTV> <http://www.w3.org/2000/01/rdf-schema#label> "九州朝日放送"@ja,
+		"きゅうしゅうあさひほうそう"@ja-Kana,
+		"KYUSHU ASAHI BROADCASTING CO., LTD."@en;
+	<https://schema.org/name> "KBC";
+	<https://schema.org/areaServed> <https://w3id.org/tvstationjp/area/福岡県>;
+	<https://w3id.org/tvstationjp/tvst/newsNetwork> <https://w3id.org/tvstationjp/network/ANN>;
+	<https://w3id.org/tvstationjp/tvst/networkSystem> <https://w3id.org/tvstationjp/network/テレビ朝日ネットワーク>;
+	<https://schema.org/alternateName> "KBCテレビ"@ja;
+	<http://www.wikidata.org/prop/direct/P2317> "JOIF-DTV";
+	<https://w3id.org/tvstationjp/tvst/callName> "きゅうしゅうあさひほうそうデジタルテレビジョン";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/KBC_1988.svg?width=300>;
+	<https://w3id.org/tvstationjp/tvst/platform> <https://w3id.org/tvstationjp/platform/ISDBt>;
+	<https://w3id.org/tvstationjp/tvst/chPosition> "1";
+	<https://w3id.org/tvstationjp/tvst/parentStation> "福岡";
+	<https://w3id.org/tvstationjp/tvst/parentDTVCh> "31ch";
+	<https://w3id.org/tvstationjp/tvst/parentATVCh> "1ch";
+	<https://w3id.org/tvstationjp/tvst/logicalCh> "011";
+	<https://schema.org/url> <https://kbc.co.jp/tv>;
+	<https://schema.org/address> "810-8571";
+	<http://www.wikidata.org/prop/direct/P159> "福岡県福岡市中央区長浜1丁目1番1号";
+	<https://schema.org/latitude> "北緯33.59571度";
+	<https://schema.org/longitude> "東経130.39636度";
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/九州朝日放送>,
+		<https://www.wikidata.org/entity/Q843686>,
+		<http://ja.dbpedia.org/resource/九州朝日放送>.

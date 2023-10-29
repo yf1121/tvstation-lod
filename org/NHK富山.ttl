@@ -1,0 +1,19 @@
+<https://w3id.org/tvstationjp/org/NHK富山> <http://www.w3.org/2000/01/rdf-schema#label> "NHK富山放送局"@ja,
+		"エヌエイチケイとやまほうそうきょく"@ja-Kana;
+	<https://schema.org/name> "NHK富山";
+	<https://schema.org/logo> <https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/100px-NHK_logo_2020.svg.png>;
+	<http://www.wikidata.org/prop/direct/P3225> "8011005000968";
+	<https://schema.org/url> <https://www.nhk.or.jp/toyama/>;
+	<https://w3id.org/tvstationjp/tvst/networkBlock> "東海・北陸";
+	<https://schema.org/address> "930-8502";
+	<http://www.wikidata.org/prop/direct/P159> "富山県富山市新桜町4-8";
+	<https://schema.org/latitude> "北緯36.69750度";
+	<https://schema.org/longitude> "東経137.21111度";
+	<https://schema.org/brand> <https://w3id.org/tvstationjp/ch/JOIG-DTV>,
+		<https://w3id.org/tvstationjp/ch/JOIC-DTV>,
+		<https://w3id.org/tvstationjp/ch/JOIG>,
+		<https://w3id.org/tvstationjp/ch/JOIC>,
+		<https://w3id.org/tvstationjp/ch/JOIG-FM>;
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/NHK富山放送局>,
+		<https://www.wikidata.org/entity/Q10854702>,
+		<http://ja.dbpedia.org/resource/NHK富山放送局>.

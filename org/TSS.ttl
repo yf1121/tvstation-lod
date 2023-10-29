@@ -1,0 +1,16 @@
+<https://w3id.org/tvstationjp/org/TSS> <http://www.w3.org/2000/01/rdf-schema#label> "株式会社テレビ新広島"@ja,
+		"てれびしんひろしま"@ja-Kana,
+		"TSS-TV Co., Ltd."@en;
+	<https://schema.org/name> "TSS";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Tss_logo.svg?width=300>;
+	<https://schema.org/foundingDate> "1974-08-08";
+	<http://www.wikidata.org/prop/direct/P3225> "6240001007304";
+	<https://schema.org/url> <https://www.tss-tv.co.jp/>;
+	<https://schema.org/address> "734-8585";
+	<http://www.wikidata.org/prop/direct/P159> "広島県広島市南区出汐二丁目3番19号";
+	<https://schema.org/latitude> "北緯34.37801度";
+	<https://schema.org/longitude> "東経132.47537度";
+	<https://schema.org/brand> <https://w3id.org/tvstationjp/ch/JORM-DTV>;
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/テレビ新広島>,
+		<https://www.wikidata.org/entity/Q843314>,
+		<http://ja.dbpedia.org/resource/テレビ新広島>.

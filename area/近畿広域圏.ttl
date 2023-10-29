@@ -1,0 +1,8 @@
+<https://w3id.org/tvstationjp/area/近畿広域圏> <http://www.w3.org/2000/01/rdf-schema#label> "近畿広域圏"@ja;
+	<https://schema.org/description> "近畿広域圏"@ja;
+	<https://schema.org/containsPlace> <http://data.e-stat.go.jp/lod/sac/C27000>,
+		<http://data.e-stat.go.jp/lod/sac/C28000>,
+		<http://data.e-stat.go.jp/lod/sac/C26000>,
+		<http://data.e-stat.go.jp/lod/sac/C25000>,
+		<http://data.e-stat.go.jp/lod/sac/C29000>,
+		<http://data.e-stat.go.jp/lod/sac/C30000>.

@@ -1,0 +1,16 @@
+<https://w3id.org/tvstationjp/org/WTV> <http://www.w3.org/2000/01/rdf-schema#label> "株式会社テレビ和歌山"@ja,
+		"てれびわかやま"@ja-Kana,
+		"Wakayama Telecasting Corp."@en;
+	<https://schema.org/name> "WTV";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Wtv_logo_ja.svg?width=300>;
+	<https://schema.org/foundingDate> "1973-06-07";
+	<http://www.wikidata.org/prop/direct/P3225> "2170001002191";
+	<https://schema.org/url> <https://www.tv-wakayama.co.jp/>;
+	<https://schema.org/address> "640-8533";
+	<http://www.wikidata.org/prop/direct/P159> "和歌山県和歌山市栄谷151番地";
+	<https://schema.org/latitude> "北緯34.25676度";
+	<https://schema.org/longitude> "東経135.15517度";
+	<https://schema.org/brand> <https://w3id.org/tvstationjp/ch/JOOM-DTV>;
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/テレビ和歌山>,
+		<https://www.wikidata.org/entity/Q8013759>,
+		<http://ja.dbpedia.org/resource/テレビ和歌山>.

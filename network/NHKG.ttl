@@ -1,0 +1,7 @@
+<https://w3id.org/tvstationjp/network/NHKG> <http://www.w3.org/2000/01/rdf-schema#label> "NHK総合"@ja,
+		"NHK General TV"@en,
+		"エヌエイチケイそうごう"@ja-Kana;
+	<https://schema.org/name> "NHK総合テレビ"@ja,
+		"総合テレビ"@ja;
+	<https://schema.org/url> <https://www6.nhk.or.jp/nhkpr/tag/index.html?i=06642>;
+	<https://schema.org/foundingDate> "1953-02-01".

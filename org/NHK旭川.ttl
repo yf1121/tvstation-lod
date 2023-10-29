@@ -1,0 +1,19 @@
+<https://w3id.org/tvstationjp/org/NHK旭川> <http://www.w3.org/2000/01/rdf-schema#label> "NHK旭川放送局"@ja,
+		"エヌエイチケイあさひかわほうそうきょく"@ja-Kana;
+	<https://schema.org/name> "NHK旭川";
+	<https://schema.org/logo> <https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/100px-NHK_logo_2020.svg.png>;
+	<http://www.wikidata.org/prop/direct/P3225> "8011005000968";
+	<https://schema.org/url> <https://www.nhk.or.jp/asahikawa/>;
+	<https://w3id.org/tvstationjp/tvst/networkBlock> "北海道";
+	<https://schema.org/address> "070-8680";
+	<http://www.wikidata.org/prop/direct/P159> "北海道旭川市6条通6丁目27-5";
+	<https://schema.org/latitude> "北緯43.77139度";
+	<https://schema.org/longitude> "東経142.36000度";
+	<https://schema.org/brand> <https://w3id.org/tvstationjp/ch/JOCG-DTV>,
+		<https://w3id.org/tvstationjp/ch/JOCC-DTV>,
+		<https://w3id.org/tvstationjp/ch/JOCG>,
+		<https://w3id.org/tvstationjp/ch/JOCC>,
+		<https://w3id.org/tvstationjp/ch/JOCG-FM>;
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/NHK旭川放送局>,
+		<https://www.wikidata.org/entity/Q10854725>,
+		<http://ja.dbpedia.org/resource/NHK旭川放送局>.

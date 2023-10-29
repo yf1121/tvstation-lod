@@ -1,0 +1,19 @@
+<https://w3id.org/tvstationjp/org/NHK鹿児島> <http://www.w3.org/2000/01/rdf-schema#label> "NHK鹿児島放送局"@ja,
+		"エヌエイチケイかごしまほうそうきょく"@ja-Kana;
+	<https://schema.org/name> "NHK鹿児島";
+	<https://schema.org/logo> <https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/100px-NHK_logo_2020.svg.png>;
+	<http://www.wikidata.org/prop/direct/P3225> "8011005000968";
+	<https://schema.org/url> <https://www.nhk.or.jp/kagoshima/>;
+	<https://w3id.org/tvstationjp/tvst/networkBlock> "九州・沖縄";
+	<https://schema.org/address> "892-8603";
+	<http://www.wikidata.org/prop/direct/P159> "鹿児島県鹿児島市本港新町4-6";
+	<https://schema.org/latitude> "北緯31.594500度";
+	<https://schema.org/longitude> "東経130.561750度";
+	<https://schema.org/brand> <https://w3id.org/tvstationjp/ch/JOHG-DTV>,
+		<https://w3id.org/tvstationjp/ch/JOHC-DTV>,
+		<https://w3id.org/tvstationjp/ch/JOHG>,
+		<https://w3id.org/tvstationjp/ch/JOHC>,
+		<https://w3id.org/tvstationjp/ch/JOHG-FM>;
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/NHK鹿児島放送局>,
+		<https://www.wikidata.org/entity/Q10854686>,
+		<http://ja.dbpedia.org/resource/NHK鹿児島放送局>.

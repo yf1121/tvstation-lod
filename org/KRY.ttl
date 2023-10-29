@@ -1,0 +1,17 @@
+<https://w3id.org/tvstationjp/org/KRY> <http://www.w3.org/2000/01/rdf-schema#label> "山口放送株式会社"@ja,
+		"やまぐちほうそう"@ja-Kana,
+		"Yamaguchi Broadcasting Co., Ltd."@en;
+	<https://schema.org/name> "KRY";
+	<https://schema.org/formerName> "株式会社ラジオ山口"@ja;
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Kry_logo.svg?width=300>;
+	<https://schema.org/foundingDate> "1956-03-06";
+	<http://www.wikidata.org/prop/direct/P3225> "6250001009332";
+	<https://schema.org/url> <https://kry.co.jp/>;
+	<https://schema.org/address> "745-8686";
+	<http://www.wikidata.org/prop/direct/P159> "山口県周南市徳山5853番地の2";
+	<https://schema.org/latitude> "北緯34.0619度";
+	<https://schema.org/longitude> "東経131.8136度";
+	<https://schema.org/brand> <https://w3id.org/tvstationjp/ch/JOPF-DTV>;
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/山口放送>,
+		<https://www.wikidata.org/entity/Q843652>,
+		<http://ja.dbpedia.org/resource/山口放送>.

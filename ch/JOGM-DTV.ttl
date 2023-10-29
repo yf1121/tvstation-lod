@@ -1,0 +1,26 @@
+<https://w3id.org/tvstationjp/ch/JOGM-DTV> <http://www.w3.org/2000/01/rdf-schema#label> "広島ホームテレビ"@ja,
+		"ひろしまほーむてれび"@ja-Kana,
+		"Hiroshima HomeTelevision Co., Ltd."@en;
+	<https://schema.org/name> "HOME";
+	<https://schema.org/areaServed> <https://w3id.org/tvstationjp/area/広島県>;
+	<https://w3id.org/tvstationjp/tvst/newsNetwork> <https://w3id.org/tvstationjp/network/ANN>;
+	<https://w3id.org/tvstationjp/tvst/networkSystem> <https://w3id.org/tvstationjp/network/テレビ朝日ネットワーク>;
+	<https://schema.org/alternateName> "ホームテレビ"@ja,
+		"HOME"@ja;
+	<http://www.wikidata.org/prop/direct/P2317> "JOGM-DTV";
+	<https://w3id.org/tvstationjp/tvst/callName> "HOMEひろしまデジタルテレビジョン";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Hometv_logo.svg?width=300>;
+	<https://w3id.org/tvstationjp/tvst/platform> <https://w3id.org/tvstationjp/platform/ISDBt>;
+	<https://w3id.org/tvstationjp/tvst/chPosition> "5";
+	<https://w3id.org/tvstationjp/tvst/parentStation> "広島";
+	<https://w3id.org/tvstationjp/tvst/parentDTVCh> "22ch";
+	<https://w3id.org/tvstationjp/tvst/parentATVCh> "35ch";
+	<https://w3id.org/tvstationjp/tvst/logicalCh> "051";
+	<https://schema.org/url> <https://www.home-tv.co.jp/>;
+	<https://schema.org/address> "730-8552";
+	<http://www.wikidata.org/prop/direct/P159> "広島県広島市中区白島北町19番2号";
+	<https://schema.org/latitude> "北緯34.41357度";
+	<https://schema.org/longitude> "東経132.46237度";
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/広島ホームテレビ>,
+		<https://www.wikidata.org/entity/Q843332>,
+		<http://ja.dbpedia.org/resource/広島ホームテレビ>.

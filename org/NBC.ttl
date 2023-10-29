@@ -1,0 +1,16 @@
+<https://w3id.org/tvstationjp/org/NBC> <http://www.w3.org/2000/01/rdf-schema#label> "長崎放送株式会社"@ja,
+		"ながさきほうそう"@ja-Kana,
+		"Nagasaki Broadcasting Co.,Ltd."@en;
+	<https://schema.org/name> "NBC";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Logo-nbc_nagasaki_new.png?width=300>;
+	<https://schema.org/foundingDate> "1952-09-12";
+	<http://www.wikidata.org/prop/direct/P3225> "9310001001453";
+	<https://schema.org/url> <https://www.nbc-nagasaki.co.jp/>;
+	<https://schema.org/address> "850-8650";
+	<http://www.wikidata.org/prop/direct/P159> "長崎県長崎市尾上町5番6号";
+	<https://schema.org/latitude> "北緯32.754000度";
+	<https://schema.org/longitude> "東経129.867361度";
+	<https://schema.org/brand> <https://w3id.org/tvstationjp/ch/JOUR-DTV>;
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/長崎放送>,
+		<https://www.wikidata.org/entity/Q8014791>,
+		<http://ja.dbpedia.org/resource/長崎放送>.

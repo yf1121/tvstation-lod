@@ -1,0 +1,16 @@
+<https://w3id.org/tvstationjp/org/SAY> <http://www.w3.org/2000/01/rdf-schema#label> "株式会社さくらんぼテレビジョン"@ja,
+		"さくらんぼてれびじょん"@ja-Kana,
+		"Sakuranbo Television Broadcasting Corporation"@en;
+	<https://schema.org/name> "SAY";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Say_logo_201804.png?width=300>;
+	<https://schema.org/foundingDate> "1996-03-29";
+	<http://www.wikidata.org/prop/direct/P3225> "8390001000795";
+	<https://schema.org/url> <https://www.sakuranbo.co.jp/>;
+	<https://schema.org/address> "990-8539";
+	<http://www.wikidata.org/prop/direct/P159> "山形県山形市落合町85番地";
+	<https://schema.org/latitude> "北緯38.27901度";
+	<https://schema.org/longitude> "東経140.3502度";
+	<https://schema.org/brand> <https://w3id.org/tvstationjp/ch/JOCY-DTV>;
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/さくらんぼテレビジョン>,
+		<https://www.wikidata.org/entity/Q8015166>,
+		<http://ja.dbpedia.org/resource/さくらんぼテレビジョン>.

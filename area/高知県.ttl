@@ -1,0 +1,3 @@
+<https://w3id.org/tvstationjp/area/高知県> <http://www.w3.org/2000/01/rdf-schema#label> "高知県"@ja;
+	<https://schema.org/description> "高知県"@ja;
+	<https://schema.org/containsPlace> <http://data.e-stat.go.jp/lod/sac/C39000>.

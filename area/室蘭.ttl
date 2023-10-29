@@ -1,0 +1,4 @@
+<https://w3id.org/tvstationjp/area/室蘭> <http://www.w3.org/2000/01/rdf-schema#label> "室蘭"@ja;
+	<https://schema.org/description> "室蘭"@ja;
+	<https://schema.org/containsPlace> <http://data.e-stat.go.jp/lod/sac/C01570-20100401>,
+		<http://data.e-stat.go.jp/lod/sac/C01600-20100401>.

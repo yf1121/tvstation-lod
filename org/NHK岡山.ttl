@@ -1,0 +1,19 @@
+<https://w3id.org/tvstationjp/org/NHK岡山> <http://www.w3.org/2000/01/rdf-schema#label> "NHK岡山放送局"@ja,
+		"エヌエイチケイおかやまほうそうきょく"@ja-Kana;
+	<https://schema.org/name> "NHK岡山";
+	<https://schema.org/logo> <https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/100px-NHK_logo_2020.svg.png>;
+	<http://www.wikidata.org/prop/direct/P3225> "8011005000968";
+	<https://schema.org/url> <https://www.nhk.or.jp/okayama/>;
+	<https://w3id.org/tvstationjp/tvst/networkBlock> "中国";
+	<https://schema.org/address> "700-0024";
+	<http://www.wikidata.org/prop/direct/P159> "岡山県岡山市北区駅元町15-1リットシティビル南棟1〜3階";
+	<https://schema.org/latitude> "北緯34.66639度";
+	<https://schema.org/longitude> "東経133.91583度";
+	<https://schema.org/brand> <https://w3id.org/tvstationjp/ch/JOKK-DTV>,
+		<https://w3id.org/tvstationjp/ch/JOKB-DTV>,
+		<https://w3id.org/tvstationjp/ch/JOKK>,
+		<https://w3id.org/tvstationjp/ch/JOKB>,
+		<https://w3id.org/tvstationjp/ch/JOKK-FM>;
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/NHK岡山放送局>,
+		<https://www.wikidata.org/entity/Q10854732>,
+		<http://ja.dbpedia.org/resource/NHK岡山放送局>.

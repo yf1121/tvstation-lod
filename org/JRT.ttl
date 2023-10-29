@@ -1,0 +1,16 @@
+<https://w3id.org/tvstationjp/org/JRT> <http://www.w3.org/2000/01/rdf-schema#label> "四国放送株式会社"@ja,
+		"しこくほうそう"@ja-Kana,
+		"Shikoku Broadcasting Co., Ltd."@en;
+	<https://schema.org/name> "JRT";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Jrt_logo.svg?width=300>;
+	<https://schema.org/foundingDate> "1952-04-07";
+	<http://www.wikidata.org/prop/direct/P3225> "9480001000851";
+	<https://schema.org/url> <https://www.jrt.co.jp/>;
+	<https://schema.org/address> "770-8573";
+	<http://www.wikidata.org/prop/direct/P159> "徳島県徳島市中徳島町2丁目5番2号徳島新聞放送会館内";
+	<https://schema.org/latitude> "北緯34.07383度";
+	<https://schema.org/longitude> "東経134.55873度";
+	<https://schema.org/brand> <https://w3id.org/tvstationjp/ch/JOJR-DTV>;
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/四国放送>,
+		<https://www.wikidata.org/entity/Q3082660>,
+		<http://ja.dbpedia.org/resource/四国放送>.

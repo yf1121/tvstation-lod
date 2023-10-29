@@ -1,0 +1,16 @@
+<https://w3id.org/tvstationjp/org/NKT> <http://www.w3.org/2000/01/rdf-schema#label> "日本海テレビジョン放送株式会社"@ja,
+		"にほんかいテレビジョンほうそう"@ja-Kana,
+		"NIHONKAI TELECASTING CO., LTD."@en;
+	<https://schema.org/name> "NKT";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/NKT_logo_2018.png?width=300>;
+	<https://schema.org/foundingDate> "1958-03-03";
+	<http://www.wikidata.org/prop/direct/P3225> "9270001000567";
+	<https://schema.org/url> <https://www.nkt-tv.co.jp/>;
+	<https://schema.org/address> "680-8572";
+	<http://www.wikidata.org/prop/direct/P159> "鳥取県鳥取市田園町4丁目360番地";
+	<https://schema.org/latitude> "北緯35.51446度";
+	<https://schema.org/longitude> "東経134.22336度";
+	<https://schema.org/brand> <https://w3id.org/tvstationjp/ch/JOJX-DTV>;
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/日本海テレビジョン放送>,
+		<https://www.wikidata.org/entity/Q843738>,
+		<http://ja.dbpedia.org/resource/日本海テレビジョン放送>.

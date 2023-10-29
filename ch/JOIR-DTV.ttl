@@ -1,0 +1,26 @@
+<https://w3id.org/tvstationjp/ch/JOIR-DTV> <http://www.w3.org/2000/01/rdf-schema#label> "TBC東北放送"@ja,
+		"てぃーびーしーとうほくほうそう"@ja-Kana,
+		"TOHOKU BROADCASTING CO., LTD."@en;
+	<https://schema.org/name> "tbc";
+	<https://schema.org/areaServed> <https://w3id.org/tvstationjp/area/宮城県>;
+	<https://w3id.org/tvstationjp/tvst/newsNetwork> <https://w3id.org/tvstationjp/network/JNN>;
+	<https://w3id.org/tvstationjp/tvst/networkSystem> <https://w3id.org/tvstationjp/network/TBSネットワーク>,
+		<https://w3id.org/tvstationjp/network/民教協>;
+	<https://schema.org/alternateName> "tbcテレビ"@ja;
+	<http://www.wikidata.org/prop/direct/P2317> "JOIR-DTV";
+	<https://w3id.org/tvstationjp/tvst/callName> "とうほくほうそうデジタルテレビジョン";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/TBC_logo_(2020).svg?width=300>;
+	<https://w3id.org/tvstationjp/tvst/platform> <https://w3id.org/tvstationjp/platform/ISDBt>;
+	<https://w3id.org/tvstationjp/tvst/chPosition> "1";
+	<https://w3id.org/tvstationjp/tvst/parentStation> "仙台";
+	<https://w3id.org/tvstationjp/tvst/parentDTVCh> "19ch";
+	<https://w3id.org/tvstationjp/tvst/parentATVCh> "1ch";
+	<https://w3id.org/tvstationjp/tvst/logicalCh> "011";
+	<https://schema.org/url> <https://www.tbc-sendai.co.jp/>;
+	<https://schema.org/address> "980-8668";
+	<http://www.wikidata.org/prop/direct/P159> "宮城県仙台市太白区八木山香澄町26-1";
+	<https://schema.org/latitude> "北緯38.247111度";
+	<https://schema.org/longitude> "東経140.856056度";
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/東北放送>,
+		<https://www.wikidata.org/entity/Q843723>,
+		<http://ja.dbpedia.org/resource/東北放送>.

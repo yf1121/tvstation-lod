@@ -1,0 +1,17 @@
+<https://w3id.org/tvstationjp/org/SBC> <http://www.w3.org/2000/01/rdf-schema#label> "信越放送株式会社"@ja,
+		"しんえつほうそう"@ja-Kana,
+		"Shin-etsu Broadcasting Co.,Ltd."@en;
+	<https://schema.org/name> "SBC";
+	<https://schema.org/formerName> "信濃放送株式会社"@ja;
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Sbc_logo.svg?width=300>;
+	<https://schema.org/foundingDate> "1951-10-18";
+	<http://www.wikidata.org/prop/direct/P3225> "2100001001266";
+	<https://schema.org/url> <https://sbc21.co.jp/>;
+	<https://schema.org/address> "380-8521";
+	<http://www.wikidata.org/prop/direct/P159> "長野県長野市鶴賀問御所町1200-3";
+	<https://schema.org/latitude> "北緯36.65044度";
+	<https://schema.org/longitude> "東経138.18816度";
+	<https://schema.org/brand> <https://w3id.org/tvstationjp/ch/JOSR-DTV>;
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/信越放送>,
+		<https://www.wikidata.org/entity/Q843663>,
+		<http://ja.dbpedia.org/resource/信越放送>.

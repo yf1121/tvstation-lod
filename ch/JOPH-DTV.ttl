@@ -1,0 +1,26 @@
+<https://w3id.org/tvstationjp/ch/JOPH-DTV> <http://www.w3.org/2000/01/rdf-schema#label> "テレビせとうち"@ja,
+		"てれびせとうち"@ja-Kana,
+		"TV Setouchi Broadcasting Co., Ltd."@en;
+	<https://schema.org/name> "TSC";
+	<https://schema.org/areaServed> <https://w3id.org/tvstationjp/area/岡山香川>;
+	<https://w3id.org/tvstationjp/tvst/newsNetwork> <https://w3id.org/tvstationjp/network/TXN>;
+	<https://w3id.org/tvstationjp/tvst/networkSystem> <https://w3id.org/tvstationjp/network/TXN>;
+	<https://schema.org/alternateName> "テレビせとうち"@ja,
+		"TSCテレビせとうち"@ja;
+	<http://www.wikidata.org/prop/direct/P2317> "JOPH-DTV";
+	<https://w3id.org/tvstationjp/tvst/callName> "TSCおかやまデジタルテレビジョン";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Tsc_logo.svg?width=300>;
+	<https://w3id.org/tvstationjp/tvst/platform> <https://w3id.org/tvstationjp/platform/ISDBt>;
+	<https://w3id.org/tvstationjp/tvst/chPosition> "7";
+	<https://w3id.org/tvstationjp/tvst/parentStation> "岡山";
+	<https://w3id.org/tvstationjp/tvst/parentDTVCh> "18ch";
+	<https://w3id.org/tvstationjp/tvst/parentATVCh> "23ch";
+	<https://w3id.org/tvstationjp/tvst/logicalCh> "071";
+	<https://schema.org/url> <https://www.webtsc.com/>;
+	<https://schema.org/address> "700-8677";
+	<http://www.wikidata.org/prop/direct/P159> "岡山県岡山市北区柳町二丁目1番1号 山陽新聞社本社ビル";
+	<https://schema.org/latitude> "北緯34.658083度";
+	<https://schema.org/longitude> "東経133.920194度";
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/テレビせとうち>,
+		<https://www.wikidata.org/entity/Q328264>,
+		<http://ja.dbpedia.org/resource/テレビせとうち>.

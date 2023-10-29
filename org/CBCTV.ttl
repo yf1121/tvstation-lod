@@ -1,0 +1,19 @@
+<https://w3id.org/tvstationjp/org/CBCTV> <http://www.w3.org/2000/01/rdf-schema#label> "株式会社CBCテレビ"@ja,
+		"シービーシーテレビ"@ja-Kana,
+		"CBC TELEVISION CO.,LTD."@en;
+	<https://schema.org/name> "CBCTV";
+	<https://schema.org/alternateName> "CBC"@ja;
+	<https://schema.org/formerName> "CBCテレビ分割準備株式会社"@ja;
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Chubu-Nippon_Broadcasting_logo_20150825.svg?width=300>;
+	<https://schema.org/foundingDate> "2013-05-10";
+	<http://www.wikidata.org/prop/direct/P3225> "3180001109729";
+	<https://schema.org/url> <https://hicbc.com/tv/>;
+	<https://schema.org/address> "460-8405";
+	<http://www.wikidata.org/prop/direct/P159> "愛知県名古屋市中区新栄1丁目2番8号";
+	<https://schema.org/latitude> "北緯35.16939度";
+	<https://schema.org/longitude> "東経136.91644度";
+	<https://schema.org/brand> <https://w3id.org/tvstationjp/ch/JOGX-DTV>;
+	<https://schema.org/ownershipFundingInfo> <https://w3id.org/tvstationjp/org/CBC>;
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/CBCテレビ>,
+		<https://www.wikidata.org/entity/Q27621346>,
+		<http://ja.dbpedia.org/resource/CBCテレビ>.

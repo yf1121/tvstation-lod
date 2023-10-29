@@ -1,0 +1,19 @@
+<https://w3id.org/tvstationjp/org/NHK高知> <http://www.w3.org/2000/01/rdf-schema#label> "NHK高知放送局"@ja,
+		"エヌエイチケイこうちほうそうきょく"@ja-Kana;
+	<https://schema.org/name> "NHK高知";
+	<https://schema.org/logo> <https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/100px-NHK_logo_2020.svg.png>;
+	<http://www.wikidata.org/prop/direct/P3225> "8011005000968";
+	<https://schema.org/url> <https://www.nhk.or.jp/kochi/>;
+	<https://w3id.org/tvstationjp/tvst/networkBlock> "四国";
+	<https://schema.org/address> "780-8512";
+	<http://www.wikidata.org/prop/direct/P159> "高知県高知市本町3丁目3-12";
+	<https://schema.org/latitude> "北緯33.55806度";
+	<https://schema.org/longitude> "東経133.53583度";
+	<https://schema.org/brand> <https://w3id.org/tvstationjp/ch/JORK-DTV>,
+		<https://w3id.org/tvstationjp/ch/JORB-DTV>,
+		<https://w3id.org/tvstationjp/ch/JORK>,
+		<https://w3id.org/tvstationjp/ch/JORB>,
+		<https://w3id.org/tvstationjp/ch/JORK-FM>;
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/NHK高知放送局>,
+		<https://www.wikidata.org/entity/Q10854689>,
+		<http://ja.dbpedia.org/resource/NHK高知放送局>.

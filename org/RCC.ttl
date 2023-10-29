@@ -1,0 +1,17 @@
+<https://w3id.org/tvstationjp/org/RCC> <http://www.w3.org/2000/01/rdf-schema#label> "株式会社中国放送"@ja,
+		"ちゅうごくほうそう"@ja-Kana,
+		"RCC Broadcasting Co.,Ltd."@en;
+	<https://schema.org/name> "RCC";
+	<https://schema.org/formerName> "広島放送"@ja;
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Rcc_logo_2022.svg?width=300>;
+	<https://schema.org/foundingDate> "1952-05-07";
+	<http://www.wikidata.org/prop/direct/P3225> "3240001006770";
+	<https://schema.org/url> <https://rcc.jp/>;
+	<https://schema.org/address> "730-8504";
+	<http://www.wikidata.org/prop/direct/P159> "広島県広島市中区基町21番3号";
+	<https://schema.org/latitude> "北緯34.40149度";
+	<https://schema.org/longitude> "東経132.45949度";
+	<https://schema.org/brand> <https://w3id.org/tvstationjp/ch/JOER-DTV>;
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/中国放送>,
+		<https://www.wikidata.org/entity/Q843624>,
+		<http://ja.dbpedia.org/resource/中国放送>.

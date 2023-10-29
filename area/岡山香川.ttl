@@ -1,0 +1,4 @@
+<https://w3id.org/tvstationjp/area/岡山香川> <http://www.w3.org/2000/01/rdf-schema#label> "岡山香川"@ja;
+	<https://schema.org/description> "岡山・香川"@ja;
+	<https://schema.org/containsPlace> <http://data.e-stat.go.jp/lod/sac/C33000>,
+		<http://data.e-stat.go.jp/lod/sac/C37000>.

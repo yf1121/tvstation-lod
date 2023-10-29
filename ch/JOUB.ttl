@@ -1,0 +1,12 @@
+<https://w3id.org/tvstationjp/ch/JOUB> <http://www.w3.org/2000/01/rdf-schema#label> "NHKラジオ第2・秋田"@ja,
+		"NHK Radio2"@en;
+	<https://schema.org/areaServed> <https://w3id.org/tvstationjp/area/秋田県>;
+	<https://w3id.org/tvstationjp/tvst/networkSystem> <https://w3id.org/tvstationjp/network/NHKR2>;
+	<http://www.wikidata.org/prop/direct/P2317> "JOUB";
+	<https://w3id.org/tvstationjp/tvst/callName> "NHKあきただいにほうそう";
+	<https://w3id.org/tvstationjp/tvst/platform> <https://w3id.org/tvstationjp/platform/AM>;
+	<https://w3id.org/tvstationjp/tvst/parentStation> "秋田（大潟）";
+	<https://w3id.org/tvstationjp/tvst/parentDTVCh> "774kHz";
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/NHKラジオ第2放送>,
+		<https://www.wikidata.org/entity/Q8139754>,
+		<http://ja.dbpedia.org/resource/NHKラジオ第2放送>.

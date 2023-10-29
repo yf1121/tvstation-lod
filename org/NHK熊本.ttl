@@ -1,0 +1,19 @@
+<https://w3id.org/tvstationjp/org/NHK熊本> <http://www.w3.org/2000/01/rdf-schema#label> "NHK熊本放送局"@ja,
+		"エヌエイチケイくまもとほうそうきょく"@ja-Kana;
+	<https://schema.org/name> "NHK熊本";
+	<https://schema.org/logo> <https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/100px-NHK_logo_2020.svg.png>;
+	<http://www.wikidata.org/prop/direct/P3225> "8011005000968";
+	<https://schema.org/url> <https://www.nhk.or.jp/kumamoto/>;
+	<https://w3id.org/tvstationjp/tvst/networkBlock> "九州・沖縄";
+	<https://schema.org/address> "860-8602";
+	<http://www.wikidata.org/prop/direct/P159> "熊本県熊本市中央区花畑町5-1";
+	<https://schema.org/latitude> "北緯32.80667度";
+	<https://schema.org/longitude> "東経130.70889度";
+	<https://schema.org/brand> <https://w3id.org/tvstationjp/ch/JOGK-DTV>,
+		<https://w3id.org/tvstationjp/ch/JOGB-DTV>,
+		<https://w3id.org/tvstationjp/ch/JOGK>,
+		<https://w3id.org/tvstationjp/ch/JOGB>,
+		<https://w3id.org/tvstationjp/ch/JOGK-FM>;
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/NHK熊本放送局>,
+		<https://www.wikidata.org/entity/Q10854691>,
+		<http://ja.dbpedia.org/resource/NHK熊本放送局>.

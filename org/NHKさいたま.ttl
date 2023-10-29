@@ -1,0 +1,14 @@
+<https://w3id.org/tvstationjp/org/NHKさいたま> <http://www.w3.org/2000/01/rdf-schema#label> "NHKさいたま放送局"@ja,
+		"エヌエイチケイさいたまほうそうきょく"@ja-Kana;
+	<https://schema.org/name> "NHKさいたま";
+	<https://schema.org/logo> <https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/100px-NHK_logo_2020.svg.png>;
+	<http://www.wikidata.org/prop/direct/P3225> "8011005000968";
+	<https://schema.org/url> <https://www.nhk.or.jp/saitama/>;
+	<https://w3id.org/tvstationjp/tvst/networkBlock> "関東甲信越";
+	<https://schema.org/address> "330-9310";
+	<http://www.wikidata.org/prop/direct/P159> "埼玉県さいたま市浦和区常盤6-1-21";
+	<https://schema.org/latitude> "北緯35.86235度";
+	<https://schema.org/longitude> "東経139.64621度";
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/NHKさいたま放送局>,
+		<https://www.wikidata.org/entity/Q10854717>,
+		<http://ja.dbpedia.org/resource/NHKさいたま放送局>.

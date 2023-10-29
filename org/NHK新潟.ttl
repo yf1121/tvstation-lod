@@ -1,0 +1,19 @@
+<https://w3id.org/tvstationjp/org/NHK新潟> <http://www.w3.org/2000/01/rdf-schema#label> "NHK新潟放送局"@ja,
+		"エヌエイチケイにいがたほうそうきょく"@ja-Kana;
+	<https://schema.org/name> "NHK新潟";
+	<https://schema.org/logo> <https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/100px-NHK_logo_2020.svg.png>;
+	<http://www.wikidata.org/prop/direct/P3225> "8011005000968";
+	<https://schema.org/url> <https://www.nhk.or.jp/niigata/>;
+	<https://w3id.org/tvstationjp/tvst/networkBlock> "関東甲信越";
+	<https://schema.org/address> "951-8508";
+	<http://www.wikidata.org/prop/direct/P159> "新潟県新潟市中央区川岸町1丁目49";
+	<https://schema.org/latitude> "北緯37.913068度";
+	<https://schema.org/longitude> "東経139.034147度";
+	<https://schema.org/brand> <https://w3id.org/tvstationjp/ch/JOQK-DTV>,
+		<https://w3id.org/tvstationjp/ch/JOQB-DTV>,
+		<https://w3id.org/tvstationjp/ch/JOQK>,
+		<https://w3id.org/tvstationjp/ch/JOQB>,
+		<https://w3id.org/tvstationjp/ch/JOQK-FM>;
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/NHK新潟放送局>,
+		<https://www.wikidata.org/entity/Q10854699>,
+		<http://ja.dbpedia.org/resource/NHK新潟放送局>.

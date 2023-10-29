@@ -1,0 +1,25 @@
+<https://w3id.org/tvstationjp/ch/JOOY-DTV> <http://www.w3.org/2000/01/rdf-schema#label> "毎日放送"@ja,
+		"まいにちほうそう"@ja-Kana,
+		"Mainichi Broadcasting System, lnc."@en;
+	<https://schema.org/name> "MBS";
+	<https://schema.org/areaServed> <https://w3id.org/tvstationjp/area/近畿広域圏>;
+	<https://w3id.org/tvstationjp/tvst/newsNetwork> <https://w3id.org/tvstationjp/network/JNN>;
+	<https://w3id.org/tvstationjp/tvst/networkSystem> <https://w3id.org/tvstationjp/network/TBSネットワーク>;
+	<https://schema.org/alternateName> "MBSテレビ"@ja,
+		"MBS毎日放送"@ja;
+	<http://www.wikidata.org/prop/direct/P2317> "JOOY-DTV";
+	<https://w3id.org/tvstationjp/tvst/callName> "まいにちほうそうデジタルテレビジョン";
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Mainichi_Broadcasting_System_logo.svg?width=300>;
+	<https://w3id.org/tvstationjp/tvst/platform> <https://w3id.org/tvstationjp/platform/ISDBt>;
+	<https://w3id.org/tvstationjp/tvst/chPosition> "4";
+	<https://w3id.org/tvstationjp/tvst/parentStation> "大阪";
+	<https://w3id.org/tvstationjp/tvst/parentDTVCh> "16ch";
+	<https://w3id.org/tvstationjp/tvst/logicalCh> "041";
+	<https://schema.org/url> <https://www.mbs.jp/>;
+	<https://schema.org/address> "530-8304";
+	<http://www.wikidata.org/prop/direct/P159> "大阪府大阪市北区茶屋町17番1号";
+	<https://schema.org/latitude> "北緯34.7083度";
+	<https://schema.org/longitude> "東経135.50031度";
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/毎日放送>,
+		<https://www.wikidata.org/entity/Q1331921>,
+		<http://ja.dbpedia.org/resource/毎日放送>.

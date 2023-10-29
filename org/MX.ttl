@@ -1,0 +1,18 @@
+<https://w3id.org/tvstationjp/org/MX> <http://www.w3.org/2000/01/rdf-schema#label> "東京メトロポリタンテレビジョン株式会社"@ja,
+		"とうきょうメトロポリタンテレビジョン"@ja-Kana,
+		"TOKYO METROPOLITAN TELEVISION BROADCASTING CORPORATION"@en;
+	<https://schema.org/name> "MX";
+	<https://schema.org/alternateName> "MXTV"@ja,
+		"TOKYO MX"@ja;
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/Tokyo_metropolitan_television_logo_(rainbow).svg?width=300>;
+	<https://schema.org/foundingDate> "1993-04-30";
+	<http://www.wikidata.org/prop/direct/P3225> "4010001101676";
+	<https://schema.org/url> <https://s.mxtv.jp>;
+	<https://schema.org/address> "102-0083";
+	<http://www.wikidata.org/prop/direct/P159> "東京都千代田区麹町一丁目12番地";
+	<https://schema.org/latitude> "北緯35.68501度";
+	<https://schema.org/longitude> "東経139.74359度";
+	<https://schema.org/brand> <https://w3id.org/tvstationjp/ch/JOMX-DTV>;
+	<https://schema.org/sameAs> <https://ja.wikipedia.org/wiki/東京メトロポリタンテレビジョン>,
+		<https://www.wikidata.org/entity/Q115146>,
+		<http://ja.dbpedia.org/resource/東京メトロポリタンテレビジョン>.
