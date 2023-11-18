@@ -3,7 +3,7 @@
 		"ティーエックスエヌネットワーク"@ja-Kana;
 	<https://schema.org/name> "テレビ東京ネットワーク"@ja,
 		"テレビ東京系列"@ja;
-	<https://w3id.org/tvstationjp/tvst/keystation> <https://w3id.org/tvstationjp/station/TX>;
+	<https://w3id.org/tvstationjp/tvst/keystation> <https://w3id.org/tvstationjp/ch/JOTX-DTV>;
 	<https://schema.org/url> <https://www.tv-tokyo.co.jp/kaisha/company/network.html>;
 	<https://schema.org/logo> <https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Txn_logo.svg/330px-Txn_logo.svg.png>;
 	<https://schema.org/foundingDate> "1982-03-01".

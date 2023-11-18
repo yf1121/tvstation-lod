@@ -2,7 +2,7 @@
 		"THE MINKYOKYO"@en,
 		"みんかんほうそうきょういくきょうかい"@ja-Kana;
 	<https://schema.org/name> "民教協"@ja;
-	<https://w3id.org/tvstationjp/tvst/keystation> <https://w3id.org/tvstationjp/station/EX>;
+	<https://w3id.org/tvstationjp/tvst/keystation> <https://w3id.org/tvstationjp/ch/JOEX-DTV>;
 	<https://schema.org/url> <https://www.minkyo.or.jp/>;
 	<http://www.wikidata.org/prop/direct/P3225> "8010405010379";
 	<https://schema.org/foundingDate> "1967-06-10".

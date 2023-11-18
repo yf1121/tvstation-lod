@@ -2,7 +2,7 @@
 		"Fuji News Network"@en,
 		"エフエヌエヌ"@ja-Kana;
 	<https://schema.org/name> "フジニュースネットワーク"@ja;
-	<https://w3id.org/tvstationjp/tvst/keystation> <https://w3id.org/tvstationjp/station/CX>;
+	<https://w3id.org/tvstationjp/tvst/keystation> <https://w3id.org/tvstationjp/ch/JOCX-DTV>;
 	<https://schema.org/url> <https://www.fnn.jp/>;
 	<https://schema.org/logo> <https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/FNN_logo_2018-.svg/345px-FNN_logo_2018-.svg.png>;
 	<https://schema.org/foundingDate> "1966-10-03".

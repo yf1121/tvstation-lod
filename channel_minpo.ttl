@@ -775,7 +775,7 @@
     schema:alternateName "テレ東"@ja;
     wdt:P2317 "JOTX-DTV";
     tvst:callName "テレビとうきょうデジタルテレビジョン";
-    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/TV_Tokyo_logo_20110629.svg?width=300>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/TV_Tokyo_logo_2023.svg?width=300>;
     tvst:platform <https://w3id.org/tvstationjp/platform/ISDBt>;
     tvst:chPosition "7";
     tvst:parentStation "東京";

@@ -501,7 +501,7 @@
     schema:name "TX";
     schema:alternateName "テレ東"@ja;
     schema:formerName "株式会社東京十二チャンネルプロダクション"@ja;
-    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/TV_Tokyo_logo_20110629.svg?width=300>;
+    schema:logo <http://commons.wikimedia.org/wiki/Special:FilePath/TV_Tokyo_logo_2023.svg?width=300>;
     schema:foundingDate "1968-07-01";
     wdt:P3225 "5010401018940";
     schema:url <https://www.tv-tokyo.co.jp/>;

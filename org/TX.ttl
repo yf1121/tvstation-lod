@@ -4,7 +4,7 @@
 	<https://schema.org/name> "TX";
 	<https://schema.org/alternateName> "テレ東"@ja;
 	<https://schema.org/formerName> "株式会社東京十二チャンネルプロダクション"@ja;
-	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/TV_Tokyo_logo_20110629.svg?width=300>;
+	<https://schema.org/logo> <http://commons.wikimedia.org/wiki/Special:FilePath/TV_Tokyo_logo_2023.svg?width=300>;
 	<https://schema.org/foundingDate> "1968-07-01";
 	<http://www.wikidata.org/prop/direct/P3225> "5010401018940";
 	<https://schema.org/url> <https://www.tv-tokyo.co.jp/>;
